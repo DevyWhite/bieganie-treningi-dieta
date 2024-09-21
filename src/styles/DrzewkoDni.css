@@ -1,0 +1,48 @@
+/* DrzewkoDni.css */
+
+/* Styl dla drzewka dni */
+.drzewko-dni {
+   list-style-type: none;
+   padding: 0;
+   margin: 0; /* Ustawienie marginesu na 0 */
+}
+
+.drzewko-dni button {
+   background-color: #e2e6ea; /* Tło przycisków dni */
+   color: #333; /* Kolor tekstu dni */
+   border: 1px solid #ccc; /* Delikatne obramowanie */
+   cursor: pointer;
+   font-size: 16px;
+   padding: 10px 15px; /* Większy padding poziomy */
+   border-radius: 5px;
+   transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Płynna zmiana koloru i cienia */
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Delikatny cień */
+   width: 100%; /* Przycisk wypełnia szerokość kontenera */
+   text-align: left; /* Wyrównanie tekstu do lewej */
+}
+
+.drzewko-dni button:hover {
+   background-color: #c4c5c5; /* Kolor tła przycisków dni po najechaniu */
+   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Intensywniejszy cień */
+}
+
+.drzewko-dni ul {
+   margin-left: 20px; /* Odstęp od lewej strony */
+   padding-left: 0; /* Ustawienie paddingu na 0 */
+}
+
+.drzewko-dni li {
+   margin-bottom: 10px; /* Odstęp między dniami */
+}
+
+.drzewko-dni li ul {
+   margin-left: 20px; /* Odstęp dla rozwiniętej listy */
+   padding-left: 0; /* Ustawienie paddingu na 0 */
+   background-color: #f8f9fa; /* Tło dla rozwiniętej listy */
+   border-left: 2px solid #e2e6ea; /* Delikatne obramowanie po lewej stronie */
+   padding: 10px; /* Padding dla rozwiniętej listy */
+}
+
+.drzewko-dni li ul li {
+   margin-bottom: 5px; /* Mniejszy odstęp między elementami listy */
+}

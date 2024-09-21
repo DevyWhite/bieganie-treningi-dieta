@@ -1,0 +1,75 @@
+/* Kontener siatki dla przepisów */
+.grid-container {
+   display: grid;
+   grid-template-columns: repeat(
+      auto-fill,
+      minmax(250px, 1fr)
+   ); /* Automatyczne dopasowanie kolumn */
+   gap: 16px; /* Odstępy między elementami siatki */
+}
+
+/* Element siatki dla przepisów */
+.grid-item {
+   border: 1px solid #ddd;
+   border-radius: 8px;
+   overflow: hidden;
+   background-color: #fff; /* Ustal spójne tło */
+   display: flex; /* Użyj flexboxa */
+   flex-direction: column; /* Ustaw kierunek na kolumnę */
+   justify-content: space-between; /* Rozłóż elementy w pionie */
+}
+
+/* Styl dla obrazków przepisów */
+.przepis-image {
+   width: 100%; /* Sprawia, że obrazek zajmuje całą szerokość kontenera */
+   height: auto; /* Ustawia wysokość w proporcji do szerokości, zachowując proporcje */
+   max-height: 200px; /* Ustala maksymalną wysokość obrazka */
+   object-fit: cover; /* Wypełnia kontener obrazkiem, zachowując jego proporcje */
+   border-radius: 5px;
+}
+
+/* Stylizacja dla pola tekstowego */
+input[type="text"] {
+   width: 100%; /* Pełna szerokość kontenera */
+   max-width: 400px; /* Maksymalna szerokość, aby nie był za szeroki */
+   padding: 10px; /* Wewnętrzne odstępy dla lepszej czytelności */
+   margin: 16px 0; /* Odstęp od innych elementów */
+   border: 1px solid #ddd; /* Delikatna ramka */
+   border-radius: 4px; /* Zaokrąglenie krawędzi */
+   font-size: 1em; /* Rozmiar czcionki */
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Cień dla lepszego efektu wizualnego */
+   transition: border-color 0.3s, box-shadow 0.3s; /* Płynna zmiana koloru ramki i cienia */
+}
+
+input[type="text"]:focus {
+   border-color: #2c2c2c; /* Kolor ramki przy fokusie */
+   box-shadow: 0 0 8px rgba(0, 0, 0, 0.2); /* Zwiększony cień przy fokusie */
+   outline: none; /* Usuń domyślną obwódkę przeglądarki */
+}
+
+/* Styl dla tytułów przepisów */
+.przepis-title {
+   margin: 8px 0; /* Dodatkowy margines, aby było przestronniej */
+   font-size: 3vw; /* Użycie jednostki vw do dynamicznego dopasowania rozmiaru czcionki */
+   font-weight: bold;
+   text-align: center; /* Wyśrodkowanie tekstu */
+}
+
+/* Dodaj media query dla większych ekranów */
+@media (min-width: 1200px) {
+   .przepis-title {
+      font-size: 1.2rem; /* Ustal stały rozmiar czcionki dla dużych ekranów */
+   }
+}
+
+@media (max-width: 768px) {
+   .przepis-title {
+      font-size: 5vw; /* Większy rozmiar czcionki na mniejszych ekranach */
+   }
+}
+
+@media (max-width: 480px) {
+   .przepis-title {
+      font-size: 6vw; /* Jeszcze większy rozmiar czcionki na małych ekranach */
+   }
+}

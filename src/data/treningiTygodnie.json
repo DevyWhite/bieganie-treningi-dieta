@@ -1,0 +1,92 @@
+[
+   [
+      {
+         "dzien": "Poniedziałek",
+         "opis": "Regeneracja",
+         "aktywnosc": "Spacer 30-40 minut w spokojnym tempie.",
+         "mobilizacja": "Ćwiczenia rozciągające plecy, łydki i pośladki."
+      },
+      {
+         "dzien": "Wtorek",
+         "opis": "Trening w 2. strefie tętna",
+         "bieg": "8 km w 2. strefie (tempo komfortowe, w którym możesz swobodnie rozmawiać).",
+         "cwiczenia": "Rozciąganie nóg, szczególnie mięśni płaszczkowatego i strzałkowego."
+      },
+      {
+         "dzien": "Środa",
+         "opis": "Podbiegi",
+         "rozgrzewka": "10-15 minut spokojnego biegu.",
+         "podbiegi": "6-8 podbiegów na dystansie ok. 100-150 m, 80% intensywności.",
+         "chlodzenie": "10-15 minut truchtu.",
+         "mobilizacja": "Stretching dolnej partii ciała (łydki, uda, biodra)."
+      },
+      {
+         "dzien": "Czwartek",
+         "opis": "Lżejszy bieg",
+         "bieg": "6 km w 2. strefie tętna.",
+         "cwiczenia": "Rolowanie nóg (opcjonalnie masaż ręczny/tenisową piłką)."
+      },
+      {
+         "dzien": "Piątek",
+         "opis": "Tempo + siła",
+         "bieg": "4 km w tempie progowym (trochę szybsze niż 2. strefa, ale nie na pełnym wysiłku).",
+         "cwiczenia": "Przysiady, wykroki, ćwiczenia wzmacniające nogi i rdzeń."
+      },
+      {
+         "dzien": "Sobota",
+         "opis": "Długi bieg",
+         "bieg": "10-12 km w 2. strefie.",
+         "mobilizacja": "Dłuższe rozciąganie całego ciała po biegu."
+      },
+      {
+         "dzien": "Niedziela",
+         "opis": "Odpoczynek lub aktywna regeneracja",
+         "aktywnosc": "30-40 minut spokojnego spaceru lub lekkiej jazdy na rowerze."
+      }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek",
+         "opis": "Regeneracja",
+         "aktywnosc": "20-30 minut spaceru + mobilizacja."
+      },
+      {
+         "dzien": "Wtorek",
+         "opis": "Bieg interwałowy",
+         "rozgrzewka": "10 minut spokojnego biegu.",
+         "interwaly": "6-8 x 400 m w szybkim tempie, przerwa 1-2 min w truchcie.",
+         "chlodzenie": "10 minut truchtu.",
+         "mobilizacja": "Skup się na rozciąganiu nóg i bioder."
+      },
+      {
+         "dzien": "Środa",
+         "opis": "Bieg w 3. strefie tętna",
+         "bieg": "6-8 km w 3. strefie (szybsze tempo, ale nie na maksa).",
+         "cwiczenia": "Rolowanie lub masaż."
+      },
+      {
+         "dzien": "Czwartek",
+         "opis": "Lżejszy bieg + ćwiczenia siłowe",
+         "bieg": "5 km w spokojnym tempie.",
+         "cwiczenia": "Wykroki, przysiady, ćwiczenia na plecy (np. pompki, deska)."
+      },
+      {
+         "dzien": "Piątek",
+         "opis": "Podbiegi",
+         "rozgrzewka": "10 minut biegu.",
+         "podbiegi": "6-10 powtórzeń pod górę.",
+         "chlodzenie": "10 minut truchtu."
+      },
+      {
+         "dzien": "Sobota",
+         "opis": "Długi bieg",
+         "bieg": "12-14 km w 2. strefie.",
+         "mobilizacja": "Dłuższe rozciąganie po biegu."
+      },
+      {
+         "dzien": "Niedziela",
+         "opis": "Odpoczynek lub aktywna regeneracja",
+         "aktywnosc": "Spacer lub lekka jazda na rowerze."
+      }
+   ]
+]

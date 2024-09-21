@@ -1,0 +1,97 @@
+/* ContactPage.css */
+
+.contact {
+   max-width: 60vw; /* Maksymalna szerokość kontenera */
+   margin: 0 auto; /* Wyśrodkowanie kontenera */
+   padding: 20px; /* Wewnętrzne marginesy */
+   background-color: #f9f9f9; /* Tło kontenera */
+   border-radius: 8px; /* Zaokrąglenie rogów kontenera */
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Cień dla kontenera */
+   width: 100%; /* Szerokość kontenera */
+   box-sizing: border-box; /* Uwzględnia padding i border w szerokości kontenera */
+}
+
+form {
+   display: flex;
+   flex-direction: column; /* Ustawienie elementów formularza w kolumnie */
+}
+
+h3 {
+   font-size: 1.5rem; /* Rozmiar czcionki */
+   margin-bottom: 20px; /* Margines dolny dla nagłówka */
+   color: #333; /* Kolor tekstu */
+}
+
+textarea {
+   width: 100%; /* Pełna szerokość kontenera */
+   height: 300px; /* Wysokość pola tekstowego */
+   padding: 10px; /* Wewnętrzne marginesy */
+   border: 1px solid #ddd; /* Obramowanie pola tekstowego */
+   border-radius: 4px; /* Zaokrąglenie rogów pola tekstowego */
+   resize: vertical; /* Zezwolenie na zmianę rozmiaru tylko w pionie */
+   font-size: 1rem; /* Rozmiar czcionki */
+   margin-bottom: 20px; /* Margines dolny */
+   box-sizing: border-box; /* Uwzględnia padding i border w szerokości pola tekstowego */
+}
+
+.btnContact {
+   align-self: flex-start; /* Wyrównanie przycisku do lewej */
+   padding: 10px 20px; /* Wewnętrzne marginesy przycisku */
+   font-size: 1rem; /* Rozmiar czcionki przycisku */
+   color: #fff; /* Kolor tekstu przycisku */
+   background-color: #2c8b00; /* Kolor tła przycisku */
+   border: none; /* Brak obramowania */
+   border-radius: 4px; /* Zaokrąglenie rogów przycisku */
+   cursor: pointer; /* Kursor wskazujący na klikalność */
+   transition: background-color 0.3s; /* Płynne przejście koloru tła */
+}
+
+.btnContact:disabled {
+   background-color: #ccc; /* Kolor tła dla wyłączonego przycisku */
+   cursor: not-allowed; /* Kursor wskazujący, że przycisk jest wyłączony */
+}
+
+.btnContact:hover:not(:disabled) {
+   background-color: #24b300; /* Kolor tła przycisku po najechaniu */
+}
+
+/* Media Queries dla urządzeń mobilnych */
+@media (max-width: 768px) {
+   .contact {
+      max-width: 90vw; /* Maksymalna szerokość kontenera na mniejszych ekranach */
+      padding: 15px; /* Mniejsze wewnętrzne marginesy */
+   }
+
+   textarea {
+      height: 200px; /* Mniejsza wysokość pola tekstowego na mniejszych ekranach */
+   }
+
+   h3 {
+      font-size: 1.2rem; /* Mniejszy rozmiar czcionki dla nagłówka */
+   }
+
+   button {
+      width: 100%; /* Przycisk zajmuje całą szerokość kontenera */
+      margin-top: 10px; /* Margines górny dla przycisku */
+   }
+}
+
+@media (max-width: 480px) {
+   .contact {
+      max-width: 95vw; /* Maksymalna szerokość kontenera na bardzo małych ekranach */
+      padding: 10px; /* Jeszcze mniejsze wewnętrzne marginesy */
+   }
+
+   textarea {
+      height: 180px; /* Jeszcze mniejsza wysokość pola tekstowego */
+   }
+
+   h3 {
+      font-size: 1rem; /* Mniejszy rozmiar czcionki dla nagłówka */
+   }
+
+   button {
+      padding: 12px; /* Większe wewnętrzne marginesy dla przycisku */
+      font-size: 0.9rem; /* Mniejszy rozmiar czcionki przycisku */
+   }
+}

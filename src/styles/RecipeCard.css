@@ -1,0 +1,73 @@
+.recipe-card {
+   border: 1px solid #ddd;
+   border-radius: 8px;
+   overflow: hidden;
+   background-color: #fff;
+   padding: 16px;
+   margin: 16px;
+   max-width: 1000px; /* Ustaw max-width, aby karta była szeroka */
+   display: flex;
+   flex-direction: column;
+}
+
+.recipe-image {
+   width: 100%;
+   height: auto;
+   max-height: 300px;
+   object-fit: cover;
+   border-radius: 5px;
+}
+
+.recipe-title {
+   font-size: 1.8em;
+   margin: 16px 0;
+}
+
+.recipe-content {
+   display: flex;
+   gap: 16px;
+}
+
+.recipe-ingredients,
+.recipe-preparation {
+   flex: 1; /* Pozwala na elastyczne szerokości kolumn */
+}
+
+.recipe-ingredients {
+   max-width: 30%;
+   border-right: 1px solid #ddd; /* Delikatna linia oddzielająca */
+   padding-right: 16px;
+}
+
+.recipe-preparation {
+   max-width: 70%;
+   padding-left: 16px;
+}
+
+.recipe-ingredients h3,
+.recipe-preparation h3 {
+   font-size: 1.2em; /* Rozmiar czcionki nagłówków sekcji */
+}
+
+.recipe-ingredients p,
+.recipe-preparation p {
+   font-size: 0.9em; /* Delikatne zmniejszenie czcionki dla opisu */
+   line-height: 1.5; /* Poprawia czytelność tekstu */
+}
+
+.recipe-ingredients ul {
+   list-style-type: disc; /* Ustawienie punktów */
+   padding-left: 20px; /* Wcięcie */
+   font-size: 0.9em; /* Rozmiar czcionki */
+   margin: 8px 0; /* Marginesy dla listy */
+}
+
+ul {
+   /* list-style-type: none; */
+   padding-left: 20px;
+   font-size: 0.9em; /* Delikatne zmniejszenie czcionki dla listy składników */
+}
+
+p {
+   margin: 8px 0;
+}

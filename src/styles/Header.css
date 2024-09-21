@@ -1,0 +1,53 @@
+header {
+   position: relative;
+   height: 300px; /* Wysokość nagłówka */
+   overflow: hidden; /* Ukrycie nadmiaru */
+}
+
+header img {
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 100%; /* Ustawienie na 100% szerokości kontenera */
+   height: auto; /* Wysokość automatyczna dla zachowania proporcji */
+   max-height: 100%; /* Maksymalna wysokość, aby nie wychodził poza nagłówek */
+   object-fit: cover; /* Obraz zachowuje proporcje i wypełnia kontener */
+   transform: translate(-50%, -50%); /* Wyśrodkowanie obrazu */
+   z-index: 0; /* Ustawienie obrazu w tle */
+}
+
+header h1 {
+   position: absolute;
+   bottom: 20px; /* Przesunięcie tekstu na dół */
+   left: 20px; /* Odstęp od lewej krawędzi */
+   color: #fff; /* Kolor tekstu */
+   font-size: 2rem; /* Rozmiar czcionki */
+   background: rgba(0, 0, 0, 0.5); /* Przyciemnione tło dla tekstu */
+   padding: 10px;
+   border-radius: 5px;
+   margin: 0; /* Usunięcie marginesu */
+   z-index: 1; /* Ustawienie tekstu nad obrazem */
+}
+
+/* Responsywność */
+@media (max-width: 768px) {
+   header {
+      height: 200px; /* Mniejsza wysokość na mniejszych ekranach */
+   }
+
+   header h1 {
+      font-size: 1.5rem; /* Mniejszy rozmiar czcionki */
+      padding: 10px;
+   }
+}
+
+@media (max-width: 480px) {
+   header {
+      height: 150px; /* Jeszcze mniejsza wysokość na małych ekranach */
+   }
+
+   header h1 {
+      font-size: 1.2rem; /* Jeszcze mniejszy rozmiar czcionki */
+      padding: 5px;
+   }
+}
