@@ -88,5 +88,46 @@
          "opis": "Odpoczynek lub aktywna regeneracja",
          "aktywnosc": "Spacer lub lekka jazda na rowerze."
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek",
+         "opis": "Bieg w 2. strefie tętna",
+         "bieg": "8-10 km w 2. strefie tętna.",
+         "stretching": "Stretching po biegu."
+      },
+      {
+         "dzien": "Wtorek",
+         "opis": "Siła biegowa (podbiegi)",
+         "podbiegi": "6-8 powtórzeń podbiegów 100-150 m, mocny akcent na technikę.",
+         "chlodzenie": "3 km truchtem."
+      },
+      {
+         "dzien": "Środa",
+         "opis": "Trening regeneracyjny",
+         "bieg": "5-6 km w tempie wolniejszym niż bieg w 2. strefie tętna.",
+         "cwiczenia": "Ćwiczenia wzmacniające core + stretching."
+      },
+      {
+         "dzien": "Czwartek",
+         "opis": "Interwały",
+         "interwaly": "6-8x 400 m w tempie progowym, z przerwami 90 sekund truchtu.",
+         "chlodzenie": "2-3 km truchtu."
+      },
+      {
+         "dzien": "Piątek",
+         "opis": "Dzień regeneracyjny lub rower",
+         "aktywnosc": "Rower lub aktywna regeneracja."
+      },
+      {
+         "dzien": "Sobota",
+         "opis": "Długi bieg",
+         "bieg": "12-14 km w spokojnym tempie."
+      },
+      {
+         "dzien": "Niedziela",
+         "opis": "Cross-training",
+         "aktywnosc": "Rower lub ćwiczenia wzmacniające + mobilizacja."
+      }
    ]
 ]
