@@ -28,5 +28,11 @@
       "title": "Sernik bananowy bez cukru",
       "link": "sernik-bez-cukru",
       "imageId": "sernik_bez_cukru"
+   },
+   {
+      "id": 6,
+      "title": "Kulki Mocy z Daktylami i Orzechami",
+      "link": "kule-mocy",
+      "imageId": "kule_mocy"
    }
 ]

@@ -1,5 +1,6 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
+
 import HomePage from "../pages/HomePage";
 import ProductListPage from "../pages/ProductListPage";
 import ProductsPage from "../pages/ProductsPage";
@@ -16,6 +17,7 @@ import PlackiBananowe from "../pages/PlackiBananowe";
 import ChlebekBananowy from "../pages/ChlebekBananowy";
 import PlackiBananoweCzekoladowe from "../pages/PlackiBananoweCzekoladowe";
 import SernikBezCukru from "../pages/SernikBezCukru";
+import KuleMocy from "../pages/KuleMocy";
 
 const Page = () => {
    return (
@@ -45,6 +47,7 @@ const Page = () => {
             path='/przepisy/sernik-bez-cukru'
             element={<SernikBezCukru />}
          />
+         <Route path='/przepisy/kule-mocy' element={<KuleMocy />} />
          <Route path='/przepisy/*' element={<Przepisy />} />
 
          <Route path='*' element={<ErrorPage />}></Route>
