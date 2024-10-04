@@ -65,6 +65,11 @@ const DrzewkoDni = ({ dni }) => {
                            <strong>Mobilizacja:</strong> {dzien.mobilizacja}
                         </li>
                      )}
+                     {dzien.stretching && (
+                        <li>
+                           <strong>Stretching:</strong> {dzien.stretching}
+                        </li>
+                     )}
                   </ul>
                )}
             </li>
