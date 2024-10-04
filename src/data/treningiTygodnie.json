@@ -99,6 +99,7 @@
       {
          "dzien": "Wtorek",
          "opis": "Siła biegowa (podbiegi)",
+         "rozgrzewka": "10 minut spokojnego biegu.",
          "podbiegi": "6-8 powtórzeń podbiegów 100-150 m, mocny akcent na technikę.",
          "chlodzenie": "3 km truchtem."
       },
@@ -111,8 +112,10 @@
       {
          "dzien": "Czwartek",
          "opis": "Interwały",
+         "rozgrzewka": "10 minut spokojnego biegu.",
          "interwaly": "6-8x 400 m w tempie progowym, z przerwami 90 sekund truchtu.",
-         "chlodzenie": "2-3 km truchtu."
+         "chlodzenie": "2-3 km truchtu.",
+         "mobilizacja": "Skup się na rozciąganiu nóg i bioder."
       },
       {
          "dzien": "Piątek",
@@ -128,6 +131,24 @@
          "dzien": "Niedziela",
          "opis": "Cross-training",
          "aktywnosc": "Rower lub ćwiczenia wzmacniające + mobilizacja."
+      }
+   ],
+   [
+      {
+         "dzien": "Piątek",
+         "opis": "Lekki spacer lub bardzo łagodny trucht",
+         "aktywnosc": "Lekki spacer lub bardzo łagodny trucht (2-3 km) w tempie regeneracyjnym",
+         "stretching": "Stretching po biegu."
+      },
+      {
+         "dzien": "Sobota",
+         "opis": "Bieg regeneracyjny",
+         "bieg": "4-5 km w bardzo spokojnym tempie (ok. 6:00-6:30 min/km). Obserwuj swoje samopoczucie i nie forsuj się"
+      },
+      {
+         "dzien": "Niedziela",
+         "opis": "Start na 10km - ŁAGODNY!!!",
+         "aktywnosc": "Bieg 10km w bardzo spokojnym tempie (ok. 6:00min/km)"
       }
    ]
 ]
