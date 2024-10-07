@@ -150,5 +150,50 @@
          "opis": "Start na 10km - ŁAGODNY!!!",
          "aktywnosc": "Bieg 10km w bardzo spokojnym tempie (ok. 6:00min/km)"
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Dzień Regeneracyjny)",
+         "opis": "Trening regeneracyjny",
+         "bieg": "4-6 km w tempie 6:30-7:00",
+         "stretching": "Stretching po biegu."
+      },
+      {
+         "dzien": "Wtorek (Interwały)",
+         "opis": "Trening interwałowy",
+         "rozgrzewka": "10 minut spokojnego biegu.",
+         "interwaly": "6-8x 400 m w tempie 3:30-3:50 (5. strefa)",
+         "chlodzenie": "3 km truchtem.",
+         "mobilizacja": "Skup się na rozciąganiu nóg i bioder."
+      },
+      {
+         "dzien": "Środa (Regeneracja/Regeneracja Aktywna)",
+         "opis": "Trening regeneracyjny",
+         "bieg": "5-6 km w tempie wolniejszym niż bieg w 2. strefie tętna.",
+         "cwiczenia": "Ćwiczenia wzmacniające core + stretching."
+      },
+      {
+         "dzien": "Czwartek (Fartlek)",
+         "opis": "Fartlek (trening na zmienne tempo)",
+         "rozgrzewka": "10 minut spokojnego biegu.",
+         "fartlek": "30 minut => 5 minut – Bieg w tempie (około 5:30-6:00/km). -> Interwały(5x) 1 minuta – Szybki bieg (3:30-4:00/km). 2 minuty – Wolniejszy bieg (5:30-6:00/km). -> 2 minuty – Bieg w komfortowym tempie (około 5:30-6:00/km). -> Interwały(4x) 30 sekund – Szybki bieg (3:30-4:00/km). 1 minuta – Wolniejszy bieg (5:30-6:00/km). -> 5 minut – Bieg w komfortowym tempie (około 5:30-6:00/km).",
+         "chlodzenie": "10 minut spokojnego biegu.",
+         "mobilizacja": "Stretching"
+      },
+      {
+         "dzien": "Piątek (Regeneracja/Regeneracja Aktywna)",
+         "opis": "Dzień regeneracyjny lub rower",
+         "aktywnosc": "Lekkie bieganie 3-5 km lub jazda na rowerze, basen itp."
+      },
+      {
+         "dzien": "Sobota (Długi Bieg)",
+         "opis": "Długi bieg",
+         "bieg": "12-14 km w spokojnym tempie."
+      },
+      {
+         "dzien": "Niedziela (Regeneracja/Aktywna Regeneracja)",
+         "opis": "Dzień aktywnej regeneracji",
+         "aktywnosc": "Lekkie spacery, jazda na rowerze, ćwiczenia wzmacniające lub jogi"
+      }
    ]
 ]
