@@ -1,0 +1,23 @@
+.custom-card {
+   border: none;
+   border-radius: 10px;
+   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+   transition: transform 0.2s;
+}
+
+.custom-card:hover {
+   transform: scale(1.05);
+}
+
+.custom-card .card-img-top {
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+   height: 200px; /* Dostosuj wysokość, aby pasowała do obrazka */
+   object-fit: cover; /* Obrazek zachowa proporcje */
+}
+
+.accordion-button {
+   flex-grow: 1; /* Rozciąga przycisk, aby zajmował całą szerokość */
+   padding: 0.25rem 0.5rem; /* Ustawia mniejsze odstępy */
+   margin-bottom: 0.5rem; /* Odstęp między przyciskami a innymi elementami */
+}

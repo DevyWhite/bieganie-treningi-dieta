@@ -4,12 +4,14 @@ import "../styles/Navigation.css";
 
 const list = [
    { name: "start", path: "/" },
-   { name: "produkty", path: "/products" },
-   { name: "kontakt", path: "/contact" },
-   { name: "panel admina", path: "/admin" },
+   // { name: "produkty", path: "/products" },
+   // { name: "kontakt", path: "/contact" },
+   // { name: "panel admina", path: "/admin" },
    { name: "plan treningowy", path: "/treningi" },
    { name: "dieta", path: "/dieta" },
    { name: "przepisy", path: "/przepisy" },
+   { name: "zawody", path: "/zwody-biegowe" },
+   { name: "apteczka", path: "/apteczka" },
 ];
 
 const Navigation = () => {
