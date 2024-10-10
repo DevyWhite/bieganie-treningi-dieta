@@ -44,7 +44,7 @@ const ZawodyBiegowe = () => {
                            variant='primary'
                            href={race.link}
                            target='_blank'
-                           className='w-100 mt-2'
+                           className='btn btn-outline-secondary'
                         >
                            Więcej informacji
                         </Button>
