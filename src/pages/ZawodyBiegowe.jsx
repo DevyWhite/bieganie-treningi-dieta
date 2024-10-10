@@ -41,10 +41,10 @@ const ZawodyBiegowe = () => {
                         </Accordion>
 
                         <Button
-                           variant='primary'
+                           variant='secondary'
                            href={race.link}
                            target='_blank'
-                           className='btn btn-outline-secondary'
+                           className='w-100 mt-2'
                         >
                            Więcej informacji
                         </Button>
