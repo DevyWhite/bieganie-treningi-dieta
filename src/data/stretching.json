@@ -1,0 +1,44 @@
+[
+   {
+      "id": 1,
+      "title": "Rozciąganie mięśni łydek",
+      "description": "Stań naprzeciw ściany, oprzyj dłonie na ścianie. Zrób krok do tyłu jedną nogą, trzymając piętę na ziemi. Pochyl się do przodu, czując rozciąganie w łydce.",
+      "time": "20-30 sekund na każdą nogę."
+   },
+   {
+      "id": 2,
+      "title": "Rozciąganie mięśni czworogłowych (przód uda)",
+      "description": "Stań na jednej nodze (możesz się oprzeć o drzewo lub słupek). Zegnij drugą nogę w kolanie i chwyć stopę ręką. Przyciągnij stopę do pośladków, czując rozciąganie w przodzie uda.",
+      "time": "20-30 sekund na każdą nogę."
+   },
+   {
+      "id": 3,
+      "title": "Rozciąganie mięśni dwugłowych ud (hamstring)",
+      "description": "Stań prosto, jedną nogę wyprostuj przed sobą, piętę na ziemi, palce skierowane do góry. Pochyl się w kierunku prostowanej nogi, utrzymując plecy proste.",
+      "time": "20-30 sekund na każdą nogę."
+   },
+   {
+      "id": 4,
+      "title": "Rozciąganie dolnej części pleców",
+      "description": "Stań prosto, unieś ręce nad głowę. Pochyl się do przodu w kierunku podłogi, starając się dotknąć palców.",
+      "time": "20-30 sekund."
+   },
+   {
+      "id": 5,
+      "title": "Rozciąganie bioder i ud",
+      "description": "Stań w szerokim rozkroku. Zegnij jedno kolano, przesuwając ciężar ciała w jego kierunku, a drugą nogę trzymaj prostą.",
+      "time": "20-30 sekund na każdą stronę."
+   },
+   {
+      "id": 6,
+      "title": "Rozciąganie górnej części ciała",
+      "description": "Stań prosto, unieś ręce nad głowę. Połącz dłonie i rozciągnij się w górę, a następnie przechyl się w lewo i prawo.",
+      "time": "20-30 sekund w każdą stronę."
+   },
+   {
+      "id": 7,
+      "title": "Rotacja tułowia",
+      "description": "Stań prosto, ręce uniesione na wysokości klatki piersiowej. Skręcaj tułów w lewo, a następnie w prawo, starając się utrzymać nogi w jednej pozycji.",
+      "time": "10 powtórzeń na każdą stronę."
+   }
+]

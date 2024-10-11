@@ -1,0 +1,91 @@
+/* Stretching.css */
+
+/* Główny kontener dla komponentu Stretching */
+.stretching-container {
+   max-width: 800px; /* Maksymalna szerokość kontenera */
+   margin: 0 auto; /* Wyśrodkowanie kontenera */
+   padding: 20px; /* Padding wewnętrzny */
+   background-color: #f9f9f9; /* Kolor tła kontenera */
+   border-radius: 8px; /* Zaokrąglenie krawędzi */
+   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Cień dla kontenera */
+}
+
+/* Tytuł sekcji ćwiczeń */
+.stretching-title {
+   font-size: 2rem; /* Rozmiar czcionki tytułu */
+   color: #333; /* Kolor tekstu */
+   margin-bottom: 20px; /* Odstęp poniżej tytułu */
+}
+
+/* Lista ćwiczeń */
+.stretching-exercises-list {
+   list-style-type: decimal; /* Typ listy - numeryczny */
+   padding-left: 20px; /* Padding z lewej */
+}
+
+/* Element listy ćwiczeń */
+.stretching-exercise-item {
+   margin-bottom: 15px; /* Odstęp pomiędzy elementami listy */
+   border-bottom: 1px solid #ccc; /* Dolna linia oddzielająca */
+   padding-bottom: 10px; /* Padding poniżej */
+}
+
+/* Tytuł ćwiczenia */
+.stretching-exercise-title {
+   font-size: 1.3rem; /* Rozmiar czcionki tytułu */
+   font-weight: bold; /* Pogrubienie czcionki */
+   margin: 5px 0; /* Odstępy wokół tytułu */
+}
+
+/* Opis ćwiczenia i inne informacje */
+.stretching-exercise-description,
+.stretching-exercise-time,
+.stretching-exercise-repetitions,
+.stretching-exercise-time-or-repetitions {
+   font-size: 1rem; /* Rozmiar czcionki opisu */
+   color: #555; /* Kolor tekstu */
+   margin: 4px 0; /* Odstęp wokół opisu */
+}
+
+/* Tytuł sekcji dodatkowych wskazówek */
+.stretching-tips-title {
+   font-size: 1.5rem; /* Rozmiar czcionki tytułu wskazówek */
+   color: #333; /* Kolor tekstu */
+   margin-top: 30px; /* Odstęp powyżej */
+}
+
+/* Lista wskazówek */
+.stretching-tips-list {
+   list-style-type: disc; /* Typ listy - punktowy */
+   padding-left: 20px; /* Padding z lewej */
+}
+
+/* Element listy wskazówek */
+.stretching-tip-item {
+   font-size: 1rem; /* Rozmiar czcionki elementu listy */
+   color: #555; /* Kolor tekstu */
+   margin: 4px 0; /* Odstęp wokół elementu */
+}
+
+/* Responsywność dla mniejszych ekranów */
+@media (max-width: 600px) {
+   .stretching-title {
+      font-size: 1.4rem; /* Mniejszy rozmiar czcionki tytułu */
+   }
+
+   .stretching-exercise-title {
+      font-size: 1rem; /* Mniejszy rozmiar czcionki tytułów ćwiczeń */
+   }
+
+   .stretching-exercise-description,
+   .stretching-exercise-time,
+   .stretching-exercise-repetitions,
+   .stretching-exercise-time-or-repetitions,
+   .stretching-exercise-benefits {
+      font-size: 0.9rem; /* Mniejszy rozmiar czcionki opisu */
+   }
+
+   .stretching-training-suggestion-title {
+      font-size: 1rem; /* Mniejszy rozmiar czcionki tytułu sugerowanego układu */
+   }
+}

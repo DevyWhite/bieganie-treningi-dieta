@@ -38,6 +38,10 @@ const Header = () => {
          return "Przepisy";
       }
 
+      if (location.pathname.startsWith("/cwiczenia")) {
+         return "Ćwiczenia";
+      }
+
       const currentItem = list.find((item) => item.path === location.pathname);
       return currentItem ? currentItem.name : "Witaj na stronie!";
    };

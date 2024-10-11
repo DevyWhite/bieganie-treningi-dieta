@@ -1,0 +1,44 @@
+[
+   {
+      "title": "Plank (Deska)",
+      "description": "Połóż się na brzuchu, unieś ciało na przedramionach i palcach stóp. Trzymaj ciało w linii prostej od głowy do stóp, napinając mięśnie brzucha.",
+      "time": "30-60 sekund",
+      "benefits": "Wzmacnia mięśnie brzucha, pleców i ramion."
+   },
+   {
+      "title": "Side Plank (Deska boczna)",
+      "description": "Oprzyj się na jednym przedramieniu i zewnętrznej stronie stopy. Unieś biodra, trzymając ciało w linii prostej.",
+      "time": "30-45 sekund na każdą stronę",
+      "benefits": "Wzmacnia mięśnie boczne brzucha oraz stabilizuje biodra."
+   },
+   {
+      "title": "Russian Twists (Skręty tułowia)",
+      "description": "Usiądź na podłodze, lekko unieś nogi i pochyl się do tyłu. Trzymając ręce złączone przed sobą (możesz trzymać ciężarek lub butelkę), skręcaj tułów na boki.",
+      "repetitions": "20-30 skrętów (po 10-15 na stronę)",
+      "benefits": "Wzmacnia mięśnie skośne brzucha."
+   },
+   {
+      "title": "Dead Bug (Martwy robak)",
+      "description": "Połóż się na plecach, unieś nogi zgięte pod kątem 90 stopni, a ręce wyprostuj do góry. Naprzemiennie opuszczaj jedną nogę i przeciwległą rękę w dół, nie dotykając podłogi.",
+      "repetitions": "10-12 na każdą stronę",
+      "benefits": "Wzmacnia dolne mięśnie brzucha i stabilizuje odcinek lędźwiowy."
+   },
+   {
+      "title": "Bird Dog",
+      "description": "Przyjmij pozycję na czworakach, dłonie pod barkami, kolana pod biodrami. Naprzemiennie wyciągaj jedną rękę i przeciwległą nogę do przodu, trzymając ciało stabilne.",
+      "repetitions": "10-12 na każdą stronę",
+      "benefits": "Wzmacnia mięśnie pleców, pośladków oraz stabilizuje biodra."
+   },
+   {
+      "title": "Leg Raises (Unoszenie nóg)",
+      "description": "Połóż się na plecach, ręce wzdłuż ciała. Unieś wyprostowane nogi do kąta 90 stopni, a następnie opuszczaj je powoli bez dotykania podłogi.",
+      "repetitions": "10-15 razy",
+      "benefits": "Wzmacnia mięśnie dolnej części brzucha."
+   },
+   {
+      "title": "Mountain Climbers (Wspinaczka górska)",
+      "description": "Przyjmij pozycję deski na wyprostowanych rękach. Na zmianę przyciągaj kolana do klatki piersiowej, trzymając ciało w stabilnej pozycji.",
+      "time_or_repetitions": "30 sekund lub 20-30 powtórzeń",
+      "benefits": "Wzmacnia brzuch, ramiona i poprawia stabilność całego ciała."
+   }
+]

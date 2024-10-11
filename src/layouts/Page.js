@@ -2,8 +2,7 @@ import React from "react";
 import { Routes, Route } from "react-router-dom";
 
 import HomePage from "../pages/HomePage";
-import ProductListPage from "../pages/ProductListPage";
-import ProductsPage from "../pages/ProductsPage";
+
 import ContactPage from "../pages/ContactPage";
 import AdminPage from "../pages/AdminPage";
 import ErrorPage from "../pages/ErrorPage";
@@ -23,12 +22,15 @@ import PlackiBananoweCzekoladowe from "../pages/PlackiBananoweCzekoladowe";
 import SernikBezCukru from "../pages/SernikBezCukru";
 import KuleMocy from "../pages/KuleMocy";
 
+import Cwiczenia from "../pages/Cwiczenia";
+import Core from "../pages/Core";
+import Stretching from "../pages/Stretching";
+
 const Page = () => {
    return (
       <Routes>
          <Route path='/' element={<HomePage />}></Route>
-         <Route path='/products' element={<ProductListPage />}></Route>
-         <Route path='/product/:id' element={<ProductsPage />}></Route>
+
          <Route path='/contact' element={<ContactPage />}></Route>
          <Route path='/admin/*' element={<AdminPage />}></Route>
          <Route path='/login' element={<LoginPage />}></Route>
@@ -56,6 +58,12 @@ const Page = () => {
          />
          <Route path='/przepisy/kule-mocy' element={<KuleMocy />} />
          <Route path='/przepisy/*' element={<Przepisy />} />
+
+         {/* CWICZENIA */}
+         <Route path='/cwiczenia' element={<Cwiczenia />}>
+            <Route path='core' element={<Core />} />
+            <Route path='stretching' element={<Stretching />} />
+         </Route>
 
          <Route path='*' element={<ErrorPage />}></Route>
       </Routes>

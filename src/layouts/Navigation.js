@@ -5,6 +5,7 @@ import "../styles/Navigation.css";
 const list = [
    { name: "start", path: "/" },
    { name: "plan treningowy", path: "/treningi" },
+   { name: "ćwiczenia", path: "/cwiczenia" },
    { name: "dieta", path: "/dieta" },
    { name: "przepisy", path: "/przepisy" },
    { name: "zawody", path: "/zawody-biegowe" },
