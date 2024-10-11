@@ -1,51 +1,55 @@
 /* Navigation.css */
 
-.main {
-   background-color: #fff; /* Tło nawigacji dopasowane do białego tła strony */
-   padding: 5px; /* Wewnętrzne marginesy */
-   border-radius: 8px; /* Zaokrąglenie rogów */
-   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Cień dla kontenera */
+.custom-nav {
+   background-color: #fff; /* Tło nawigacji */
+   padding: 0.4rem; /* Wewnętrzne marginesy */
+   border-radius: 10px; /* Zaokrąglenie rogów */
+   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Cień dla kontenera */
    border: 1px solid #ddd; /* Subtelne obramowanie kontenera */
+   width: 100%; /* Szerokość nawigacji */
+   max-width: 400px; /* Maksymalna szerokość nawigacji */
+   margin: auto; /* Wyśrodkowanie nawigacji */
 }
 
-ul {
+.nav-list {
    list-style: none; /* Usunięcie punktów listy */
    padding: 0;
    margin: 0;
-   display: flex; /* Ustawienie elementów listy w pionie */
+   display: flex; /* Ustawienie elementów listy w poziomie */
    flex-direction: column; /* Ustawienie elementów w kolumnie */
 }
 
-li {
-   margin-bottom: 5px; /* Margines góra-dół dla elementów listy */
+.nav-list li {
+   margin-bottom: 0.1rem; /* Margines góra-dół dla elementów listy */
 }
 
-a {
+.nav-list a {
    display: block; /* Aby padding działał poprawnie */
-   padding: 10px 15px; /* Wewnętrzne marginesy */
+   padding: 12px 20px; /* Wewnętrzne marginesy */
    color: #333; /* Kolor tekstu */
    background-color: #f1f1f1; /* Jasne tło linku */
    text-decoration: none; /* Usunięcie podkreślenia */
-   border-radius: 4px; /* Zaokrąglenie rogów linku */
+   border-radius: 5px; /* Zaokrąglenie rogów linku */
    transition: background-color 0.3s, color 0.3s; /* Płynne przejście koloru tła i tekstu */
 }
 
-a.active,
-a:hover {
-   background-color: #e0e0e0; /* Kolor tła dla aktywnego linku i hover */
-   color: #000; /* Kolor tekstu dla aktywnego linku i hover */
+.nav-list a.nav-active,
+.nav-list a:hover {
+   background-color: #939494; /* Kolor tła dla aktywnego linku i hover */
+   color: #fff; /* Kolor tekstu dla aktywnego linku i hover */
 }
 
 @media (max-width: 768px) {
-   .main {
+   .custom-nav {
       width: 100%; /* Szerokość 100% na mniejszych ekranach */
    }
 
-   ul {
-      align-items: center; /* Wyrównanie elementów listy na środku */
-   }
-
-   li {
-      margin: 10px 0; /* Większy margines góra-dół dla mniejszych ekranów */
+   .custom-nav {
+      background-color: #fff; /* Tło nawigacji */
+      border-radius: 10px; /* Zaokrąglenie rogów */
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Cień dla kontenera */
+      border: 1px solid #ddd; /* Subtelne obramowanie kontenera */
+      width: 100%; /* Szerokość nawigacji */
+      max-width: 300px; /* Maksymalna szerokość nawigacji */
    }
 }

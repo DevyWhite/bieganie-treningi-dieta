@@ -55,14 +55,14 @@ const DrzewkoDni = ({ dni }) => {
                            <strong>Podbiegi:</strong> {dzien.podbiegi}
                         </li>
                      )}
-                     {dzien.chlodzenie && (
-                        <li>
-                           <strong>Chłodzenie:</strong> {dzien.chlodzenie}
-                        </li>
-                     )}
                      {dzien.fartlek && (
                         <li>
                            <strong>Fartlek:</strong> {dzien.fartlek}
+                        </li>
+                     )}
+                     {dzien.chlodzenie && (
+                        <li>
+                           <strong>Chłodzenie:</strong> {dzien.chlodzenie}
                         </li>
                      )}
                      {dzien.mobilizacja && (

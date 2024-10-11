@@ -71,3 +71,29 @@ ul {
 p {
    margin: 8px 0;
 }
+
+/* Media Queries dla responsywności */
+@media (max-width: 768px) {
+   .recipe-card {
+      margin: 8px; /* Zmniejszamy marginesy */
+      padding: 12px; /* Zmniejszamy padding wewnętrzny */
+   }
+
+   .recipe-title {
+      font-size: 1.4em; /* Zmniejszamy tytuł na mniejszych ekranach */
+   }
+
+   .recipe-content {
+      flex-direction: column; /* Zamiast poziomego układu, pionowy na małych ekranach */
+   }
+
+   .recipe-ingredients,
+   .recipe-preparation {
+      max-width: 100%; /* Pełna szerokość na małych ekranach */
+      padding: 0; /* Usunięcie dodatkowych paddingów */
+   }
+
+   .recipe-image {
+      max-height: 200px; /* Zmniejszenie maksymalnej wysokości obrazu */
+   }
+}

@@ -36,7 +36,7 @@ const Page = () => {
          <Route path='/treningi' element={<Treningi />}></Route>
          <Route path='/dieta' element={<Dieta />}></Route>
          <Route path='/apteczka' element={<Apteczka />}></Route>
-         <Route path='/zwody-biegowe' element={<ZawodyBiegowe />}></Route>
+         <Route path='/zawody-biegowe' element={<ZawodyBiegowe />}></Route>
          <Route path='/trasy-biegowe' element={<TrasyBiegowe />}></Route>
 
          {/* PRZEPISY */}

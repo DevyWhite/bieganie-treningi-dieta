@@ -68,16 +68,6 @@
    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Intensywniejszy cień */
 }
 
-/* Responsive design dla mniejszych ekranów */
-@media (max-width: 768px) {
-   .posilek-btn {
-      width: calc(
-         100% - 20px
-      ); /* Zmniejsz szerokość przycisku dla mniejszych ekranów */
-      margin-left: 10px; /* Zmniejsz margines po lewej stronie */
-   }
-}
-
 /* Styl dla szczegółów posiłku */
 .posilek-details {
    width: calc(100% - 40px); /* Szerokość przycisku pomniejszona o 40px */
@@ -129,4 +119,33 @@
    font-size: 16px; /* Rozmiar czcionki dla tekstu przygotowania */
    line-height: 1.5; /* Wysokość linii dla lepszej czytelności */
    margin: 0; /* Usunięcie marginesu */
+}
+
+/* Styl responsywny dla urządzeń mobilnych */
+@media (max-width: 768px) {
+   .posilek-btn {
+      width: 100%; /* Przyciski na mniejszych ekranach zajmują całą szerokość */
+      margin-left: 0; /* Brak marginesu */
+   }
+
+   .posilek-grid {
+      grid-template-columns: 1fr; /* Jedna kolumna na małych ekranach */
+      gap: 10px; /* Zmniejsz odstępy między kolumnami */
+   }
+
+   .posilek-skladniki,
+   .posilek-przygotowanie {
+      padding: 10px 0; /* Ustawienie paddingu wewnątrz kolumn */
+      border: none; /* Usuń obramowanie między kolumnami */
+   }
+
+   .tydzien-btn {
+      border-radius: 5px;
+      width: 100%;
+      margin-bottom: 5px;
+   }
+
+   .tydzien-list {
+      width: 100%;
+   }
 }

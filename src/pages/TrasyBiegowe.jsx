@@ -32,19 +32,11 @@ const TrasyBiegowe = () => {
                            <p>{stage.stageDescription}</p>
                            {/* Dodanie mapy trasy */}
                            {stage.map && (
-                              <div
-                                 style={{
-                                    maxWidth: "100%",
-                                    overflow: "hidden",
-                                    margin: "0 auto",
-                                    minWidth: "300px",
-                                 }}
-                              >
+                              <div className='map-container'>
                                  <iframe
                                     title={`Mapa trasy: ${trail.name}`}
                                     src={stage.map.iframe}
-                                    height='680'
-                                    style={{ width: "100%", border: "0" }}
+                                    className='map-iframe'
                                     loading='lazy'
                                  ></iframe>
                               </div>

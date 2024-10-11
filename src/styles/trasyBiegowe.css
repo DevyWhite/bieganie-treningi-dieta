@@ -5,4 +5,58 @@
 
 .stage-bonus {
    font-size: 0.9em;
+   font-style: italic;
+}
+
+/* Podstawowe style dla kontenera mapy */
+.map-container {
+   display: flex; /* Ustawienie flexbox */
+   flex-direction: column; /* Ustawienie kierunku kolumny */
+   width: 100%;
+   max-width: 100%; /* Zapewnia, że kontener nie przekracza szerokości ekranu */
+   margin: 0 auto;
+   min-width: 300px; /* Minimalna szerokość */
+   overflow: hidden; /* Ukrywanie nadmiaru elementów */
+}
+
+/* Style dla iframe mapy */
+.map-iframe {
+   width: 100%; /* Ustawiamy szerokość iframe na 100% */
+   height: 680px; /* Domyślna wysokość dla desktopów */
+   border: 0; /* Usunięcie ramki */
+}
+
+/* Responsywne dostosowanie wysokości iframe na mniejszych ekranach */
+@media (max-width: 768px) {
+   .map-container {
+      max-width: 100%;
+      overflow: hidden; /* Ukrywanie nadmiaru elementów */
+      margin: 0 auto; /* Wyśrodkowanie kontenera */
+      min-width: 200px; /* Minimalna szerokość kontenera */
+   }
+
+   /* Style dla iframe mapy */
+   .map-iframe {
+      max-width: 100%;
+      width: 100%; /* Szerokość iframe na 100% kontenera */
+      height: 480px; /* Ustawiona wysokość iframe */
+      border: 0; /* Usunięcie ramki */
+   }
+}
+
+@media (max-width: 480px) {
+   .map-container {
+      max-width: 100%;
+      overflow: hidden; /* Ukrywanie nadmiaru elementów */
+      margin: 0 auto; /* Wyśrodkowanie kontenera */
+      min-width: 200px; /* Minimalna szerokość kontenera */
+   }
+
+   /* Style dla iframe mapy */
+   .map-iframe {
+      max-width: 100%;
+      width: 100%; /* Szerokość iframe na 100% kontenera */
+      height: 480px; /* Ustawiona wysokość iframe */
+      border: 0; /* Usunięcie ramki */
+   }
 }

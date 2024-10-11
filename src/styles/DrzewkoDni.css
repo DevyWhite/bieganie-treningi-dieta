@@ -29,6 +29,7 @@
 .drzewko-dni ul {
    margin-left: 20px; /* Odstęp od lewej strony */
    padding-left: 0; /* Ustawienie paddingu na 0 */
+   list-style-type: none;
 }
 
 .drzewko-dni li {

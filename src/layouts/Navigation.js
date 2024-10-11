@@ -7,7 +7,7 @@ const list = [
    { name: "plan treningowy", path: "/treningi" },
    { name: "dieta", path: "/dieta" },
    { name: "przepisy", path: "/przepisy" },
-   { name: "zawody", path: "/zwody-biegowe" },
+   { name: "zawody", path: "/zawody-biegowe" },
    { name: "trasy", path: "/trasy-biegowe" },
    { name: "apteczka", path: "/apteczka" },
 ];
@@ -15,15 +15,15 @@ const list = [
 const Navigation = () => {
    const menu = list.map((item) => (
       <li key={item.name}>
-         <NavLink to={item.path} activeclassname='active'>
+         <NavLink to={item.path} activeClassName='nav-active'>
             {item.name}
          </NavLink>
       </li>
    ));
 
    return (
-      <nav className='main'>
-         <ul>{menu}</ul>
+      <nav className='custom-nav'>
+         <ul className='nav-list'>{menu}</ul>
       </nav>
    );
 };

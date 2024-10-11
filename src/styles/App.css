@@ -56,11 +56,4 @@ section.page {
    main {
       flex-direction: column; /* Zmiana na kolumnę na mniejszych ekranach */
    }
-
-   aside {
-      min-width: 100%; /* Zmiana szerokości na 100% */
-      max-width: 100%; /* Umożliwienie pełnej szerokości */
-      margin-right: 0; /* Usunięcie marginesu */
-      margin-bottom: 20px; /* Dodanie marginesu dolnego dla przestrzeni */
-   }
 }
