@@ -19,6 +19,10 @@
    justify-content: space-between; /* Rozłóż elementy w pionie */
 }
 
+.grid-item:hover {
+   background-color: #939494;
+}
+
 /* Styl dla obrazków przepisów */
 .przepis-image {
    width: 100%; /* Sprawia, że obrazek zajmuje całą szerokość kontenera */
@@ -55,10 +59,14 @@ input[type="text"]:focus {
    text-align: center; /* Wyśrodkowanie tekstu */
 }
 
-/* Dodaj media query dla większych ekranów */
+.przepis-link {
+   text-decoration: none; /* Usunięcie podkreślenia */
+}
+
+/* media query dla większych ekranów */
 @media (min-width: 1200px) {
    .przepis-title {
-      font-size: 1.2rem; /* Ustal stały rozmiar czcionki dla dużych ekranów */
+      font-size: 1.2rem; /* stały rozmiar czcionki dla dużych ekranów */
    }
 }
 

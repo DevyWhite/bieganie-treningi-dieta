@@ -36,7 +36,7 @@ const Przepisy = () => {
          <div className='grid-container'>
             {filteredPrzepisy.map((przepis) => (
                <div className='grid-item' key={przepis.id}>
-                  <Link to={przepis.link}>
+                  <Link to={przepis.link} className='przepis-link'>
                      <img
                         src={przepis.image}
                         alt={przepis.title}
