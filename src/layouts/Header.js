@@ -8,13 +8,12 @@ import img3 from "../images/runer2.jpeg";
 // Lista komponentów
 const list = [
    { name: "Witaj na stronie!", path: "/" },
-   { name: "Nasze Produkty", path: "/products" },
-   { name: "Skontaktuj się z nami", path: "/contact" },
-   { name: "Panel Administracyjny", path: "/admin" },
-   { name: "Logowanie", path: "/login" },
    { name: "Plan Treningowy", path: "/treningi" },
    { name: "Dieta", path: "/dieta" },
    { name: "Przepisy", path: "/przepisy" },
+   { name: "Zawody", path: "/zwody-biegowe" },
+   { name: "Trasy", path: "/trasy-biegowe" },
+   { name: "Apteczka", path: "/apteczka" },
 ];
 
 const Header = () => {

@@ -1,0 +1,77 @@
+import React, { useState, useEffect } from "react";
+import trailsData from "../data/trasyBiegowe.json";
+import { Accordion, Button, Container } from "react-bootstrap";
+import "../styles/trasyBiegowe.css";
+
+const TrasyBiegowe = () => {
+   const [trails, setTrails] = useState([]);
+
+   useEffect(() => {
+      setTrails(trailsData.trasyBiegowe);
+   }, []);
+
+   return (
+      <Container>
+         <h2 className='my-4'>Trasy Biegowe</h2>
+         <Accordion defaultActiveKey='0'>
+            {trails.map((trail) => (
+               <Accordion.Item eventKey={trail.id.toString()} key={trail.id}>
+                  <Accordion.Header>{trail.name}</Accordion.Header>
+                  <Accordion.Body>
+                     <p>{trail.description}</p>
+                     {trail.stages.map((stage) => (
+                        <div key={stage.stageId}>
+                           <h5>{stage.stageName}</h5>
+                           <img
+                              src={stage.image}
+                              alt={stage.stageName}
+                              className='img-fluid'
+                           />
+                           <p className='stage-info'>{stage.stageInfo}</p>
+                           <p className='stage-bonus'>{stage.stageBonus}</p>
+                           <p>{stage.stageDescription}</p>
+                           {/* Dodanie mapy trasy */}
+                           {stage.map && (
+                              <div
+                                 style={{
+                                    maxWidth: "100%",
+                                    overflow: "hidden",
+                                    margin: "0 auto",
+                                    minWidth: "300px",
+                                 }}
+                              >
+                                 <iframe
+                                    title={`Mapa trasy: ${trail.name}`}
+                                    src={stage.map.iframe}
+                                    height='680'
+                                    style={{ width: "100%", border: "0" }}
+                                    loading='lazy'
+                                 ></iframe>
+                              </div>
+                           )}
+                           <Button
+                              variant='outline-primary'
+                              href={stage.gpx}
+                              target='_blank'
+                              style={{ marginRight: "10px" }}
+                           >
+                              GPX
+                           </Button>
+                           <Button
+                              variant='outline-secondary'
+                              href={stage.moreInfo}
+                              target='_blank'
+                           >
+                              Więcej informacji
+                           </Button>
+                        </div>
+                     ))}
+                  </Accordion.Body>
+               </Accordion.Item>
+            ))}
+         </Accordion>
+      </Container>
+   );
+};
+
+export default TrasyBiegowe;

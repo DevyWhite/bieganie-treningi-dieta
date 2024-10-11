@@ -17,7 +17,7 @@ const ZawodyBiegowe = () => {
             {races.map((race) => (
                <Col key={race.id} md={4} className='mb-4'>
                   <Card className='custom-card'>
-                     <Card.Img variant='top' src={race.image} />
+                     <Card.Img src={race.image} className='img-fluid' />
                      <Card.Body>
                         <Card.Title>{race.name}</Card.Title>
                         <Card.Text>{race.description}</Card.Text>
@@ -29,9 +29,12 @@ const ZawodyBiegowe = () => {
                                  Dostępne biegi
                               </Accordion.Header>
                               <Accordion.Body>
-                                 <ul>
+                                 <ul className='list-group'>
                                     {race.events.map((event, index) => (
-                                       <li key={index}>
+                                       <li
+                                          key={index}
+                                          className='list-group-item'
+                                       >
                                           {event.distance} - {event.description}
                                        </li>
                                     ))}

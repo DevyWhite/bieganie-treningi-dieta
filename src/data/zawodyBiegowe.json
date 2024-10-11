@@ -2,17 +2,29 @@
    {
       "id": 1,
       "name": "Jaga – Kora",
-      "link": "https://www.jaga-kora.pl",
+      "link": "https://www.jaga-kora.com",
       "image": "https://tiny.pl/4vszv3ds",
       "description": "Jaga-Kora to malowniczy ultramaraton w Beskidzie Niskim, gdzie trasy prowadzą przez dzikie i piękne tereny tego regionu.",
       "events": [
          {
-            "distance": "105 km",
-            "description": "Główna trasa ultra, prowadząca przez najpiękniejsze zakątki Beskidu Niskiego."
+            "distance": "100 km",
+            "description": "Ultramaraton Jaga-Kora „Orzeł”"
          },
          {
             "distance": "70 km",
-            "description": "Trasa na średnim dystansie, pełna wyzwań terenowych i widoków."
+            "description": "Ultramaraton Jaga-Kora „Horbki”"
+         },
+         {
+            "distance": "42 km",
+            "description": "Maraton Jaga-Kora „Kurier”"
+         },
+         {
+            "distance": "33 km",
+            "description": "Nocny Piotruś"
+         },
+         {
+            "distance": "19 km",
+            "description": "Surowica Trail"
          }
       ]
    },
@@ -24,12 +36,36 @@
       "description": "Legendarny bieg ultra po Bieszczadach, znany z niezwykłych wyzwań terenowych i atmosfery współpracy w parach.",
       "events": [
          {
-            "distance": "80 km",
-            "description": "Główna trasa ultra w parach, prowadząca przez bieszczadzkie szczyty."
+            "distance": "175 km",
+            "description": "Rzeźnicki Szlem"
          },
          {
-            "distance": "55 km",
-            "description": "Bieg Rzeźniczka, krótsza trasa dla tych, którzy chcą poczuć smak ultra, ale na mniejszym dystansie."
+            "distance": "95 km",
+            "description": "Rzeźnik Ultra"
+         },
+         {
+            "distance": "80 km",
+            "description": "Bieg Rzeźnika"
+         },
+         {
+            "distance": "52 km",
+            "description": "Maraton Rzeźnika"
+         },
+         {
+            "distance": "28 km",
+            "description": "Rzeźniczek (Mały Bieg Rzeźnika)"
+         },
+         {
+            "distance": "16 km",
+            "description": "Rzeźnicki Marsz z Walking Lovers"
+         },
+         {
+            "distance": "12 km",
+            "description": "Dycha na Jeleni Skok"
+         },
+         {
+            "distance": "5 km",
+            "description": "Rzeźnicka Piątka"
          }
       ]
    },
@@ -42,15 +78,27 @@
       "events": [
          {
             "distance": "150 km",
-            "description": "Najdłuższa trasa Łemkowyny, prowadząca przez cały region."
+            "description": "Łemkowyna Trail 150"
          },
          {
             "distance": "100 km",
-            "description": "Trasa dla zaawansowanych biegaczy, pełna trudnych technicznie odcinków."
+            "description": "Łemkowyna Trail 100"
          },
          {
             "distance": "70 km",
-            "description": "Średnia trasa Łemkowyny, wymagająca solidnego przygotowania."
+            "description": "Łemkowyna Trail 70"
+         },
+         {
+            "distance": "48 km",
+            "description": "Łemko Maraton 48"
+         },
+         {
+            "distance": "30 km",
+            "description": "Łemko Trail 30"
+         },
+         {
+            "distance": "10 km",
+            "description": "Łemko Trail 10"
          }
       ]
    },
@@ -62,12 +110,16 @@
       "description": "Bieg Beskidnika to trasa przez malownicze szlaki Beskidu Niskiego, dostępna zarówno dla początkujących, jak i doświadczonych biegaczy.",
       "events": [
          {
-            "distance": "21 km",
-            "description": "Półmaraton, prowadzący przez najpiękniejsze tereny Beskidu."
+            "distance": "51 km",
+            "description": "Maraton+"
          },
          {
-            "distance": "10 km",
-            "description": "Krótsza trasa dla tych, którzy wolą mniejszy dystans, ale chcą zasmakować Beskidu Niskiego."
+            "distance": "21 km",
+            "description": "Półmaraton"
+         },
+         {
+            "distance": "6 km",
+            "description": "Szybka szóstka"
          }
       ]
    },
@@ -80,7 +132,11 @@
       "events": [
          {
             "distance": "10 km",
-            "description": "Trasa prowadząca przez malownicze i historyczne tereny garncarskie."
+            "description": "Dyszka"
+         },
+         {
+            "distance": "5 km",
+            "description": "Piątka"
          }
       ]
    },
@@ -92,51 +148,107 @@
       "description": "Bieg przez dzikie tereny Parku Krajobrazowego Gór Słonnych, w pełni poświęcony miłośnikom przyrody i wyzwań terenowych.",
       "events": [
          {
-            "distance": "60 km",
-            "description": "Główna trasa ultra, prowadząca przez dzikie i nieodkryte szlaki."
+            "distance": "65 km",
+            "description": "Reliktowe Źródła (Lato)"
+         },
+         {
+            "distance": "42 km",
+            "description": "Przełom Wiaru (Lato)"
+         },
+         {
+            "distance": "23 km",
+            "description": "Dziki Obycz (Lato)"
+         },
+         {
+            "distance": "36 km",
+            "description": "Przeprawa przez Obycz (Zima)"
+         },
+         {
+            "distance": "14 km",
+            "description": "Skok na Żytne (Zima)"
          }
       ]
    },
    {
       "id": 7,
       "name": "Biegi Hrabiego Łańcut",
-      "link": "https://www.biegihrabiego.pl",
-      "image": "https://example.com/hrabia-lancut-logo.jpg",
+      "link": "http://www.biegihrabiego.pl/",
+      "image": "https://tiny.pl/xsx8r-9d",
       "description": "Zawody biegowe organizowane na terenie Łańcuta, znane z przepięknych tras i historycznych miejsc.",
       "events": [
          {
+            "distance": "70 km",
+            "description": "ARCYHRABIA"
+         },
+         {
+            "distance": "50 km",
+            "description": "BIEG HRABIEGO"
+         },
+         {
+            "distance": "30 km",
+            "description": "GALOP HRABINY"
+         },
+         {
+            "distance": "20 km",
+            "description": "HARCE HRABIANKI"
+         },
+         {
             "distance": "10 km",
-            "description": "Główna trasa biegowa na dystansie 10 km."
+            "description": "MAŁY PANICZ"
          }
       ]
    },
    {
       "id": 8,
       "name": "Biegi Lovelas",
-      "link": "https://www.biegilovelas.pl",
-      "image": "https://example.com/lovelas-logo.jpg",
+      "link": "https://www.bieglovelas.pl",
+      "image": "https://bieglovelas.pl/wp-content/uploads/2019/11/cropped-cropped-lovelas_logo-scaled-1.png",
       "description": "Bieg trailowy przez urokliwe lasy, stworzony dla miłośników natury.",
       "events": [
          {
-            "distance": "15 km",
-            "description": "Trasa Lovelasa na średnim dystansie."
+            "distance": "100 km",
+            "description": "Seta z LoveLasem"
+         },
+         {
+            "distance": "50 km",
+            "description": "Bardzo LoveLas"
+         },
+         {
+            "distance": "25 km",
+            "description": "LoveLas"
+         },
+         {
+            "distance": "10 km",
+            "description": "Dycha Van Berde"
          }
       ]
    },
    {
       "id": 9,
       "name": "PUT - Pogórze Ultra Trail",
-      "link": "https://www.put.com.pl",
-      "image": "https://example.com/put-logo.jpg",
+      "link": "https://pogorzeultratrail.pl/",
+      "image": "https://pogorzeultratrail.pl/wp-content/uploads/2023/04/pogorze-ultra-trail-logo.png",
       "description": "Bieg ultra przez Pogórze Przemyskie, organizowany dla miłośników długich dystansów i dzikich terenów.",
       "events": [
          {
-            "distance": "130 km",
-            "description": "Główna trasa PUT, jedna z najtrudniejszych w Polsce."
+            "distance": "69 km",
+            "description": "Pogórze Ultra Trail"
          },
          {
-            "distance": "50 km",
-            "description": "Średni dystans dla biegaczy ultra."
+            "distance": "45 km",
+            "description": "Maraton na Herby"
+         },
+         {
+            "distance": "23 km",
+            "description": "Połówka w Paryjach"
+         },
+         {
+            "distance": "13 km",
+            "description": "Nowicjusz"
+         },
+         {
+            "distance": "10 km",
+            "description": "Nocny Bieg Św. Michała"
          }
       ]
    },
@@ -145,58 +257,102 @@
       "name": "Duch Lasu",
       "link": "https://www.facebook.com/DuchPogorza/?locale=pl_PL",
       "image": "https://tiny.pl/k9_1wyd5",
-      "description": "Bieg terenowy przez dzikie lasy, pełen niespodzianek i pięknych widoków.",
+      "description": "Duch Lasu to zawody biegowe rozgrywające się na Pogórzu Przemysko Dynowskim",
       "events": [
          {
-            "distance": "30 km",
-            "description": "Główna trasa przez dzikie lasy."
+            "distance": "64 km",
+            "description": "Ultra"
+         },
+         {
+            "distance": "42 km",
+            "description": "Maraton"
+         },
+         {
+            "distance": "23 km",
+            "description": "Półmaraton z górką"
+         },
+         {
+            "distance": "5 km",
+            "description": "Szybka 5"
          }
       ]
    },
    {
       "id": 11,
-      "name": "Active Roztocze",
-      "link": "https://www.activeroztocze.pl",
-      "image": "https://example.com/active-roztocze-logo.jpg",
+      "name": "Roztoczański Festiwal Biegowy",
+      "link": "https://roztoczanskifestiwalbiegowy.pl/",
+      "image": "https://tiny.pl/16-d99hd",
       "description": "Bieg przez malownicze i dzikie tereny Roztocza, organizowany dla miłośników przyrody i wyzwań górskich.",
       "events": [
          {
-            "distance": "60 km",
-            "description": "Główna trasa ultra."
+            "distance": "62 km",
+            "description": "Ultra trail"
          },
          {
-            "distance": "30 km",
-            "description": "Średnia trasa biegowa."
+            "distance": "51 km",
+            "description": "Ultra"
+         },
+         {
+            "distance": "35 km",
+            "description": "Bieg trailowy"
+         },
+         {
+            "distance": "21 km",
+            "description": "Półmaraton o „Kryształowy Kielich”"
+         },
+         {
+            "distance": "10 km",
+            "description": "Cieszanowska Dycha"
+         },
+         {
+            "distance": "5 km",
+            "description": "Bieg nocny"
          }
       ]
    },
    {
       "id": 12,
       "name": "Ultra Roztocze",
-      "link": "https://www.ultraroztocze.pl",
-      "image": "https://example.com/ultra-roztocze-logo.jpg",
+      "link": "https://tourdezboj.com/ultraroztocze/",
+      "image": "https://tourdezboj.com/wp-content/uploads/2019/06/ultra-roztocze.png",
       "description": "Ultramaraton przez Roztocze, jeden z najtrudniejszych biegów w regionie.",
       "events": [
          {
-            "distance": "120 km",
-            "description": "Najdłuższa trasa Ultra Roztocze."
+            "distance": "67 km",
+            "description": "Ultraroztocze"
          },
          {
-            "distance": "50 km",
-            "description": "Trasa średnia przez dzikie tereny Roztocza."
+            "distance": "44 km",
+            "description": "Maraton Roztocze"
+         },
+         {
+            "distance": "30 km",
+            "description": "Roztoczańska 30"
+         },
+         {
+            "distance": "20 km",
+            "description": "Półmaraton Roztocze"
+         },
+         {
+            "distance": "10 km",
+            "description": "Roztocze 10 oraz NW"
          }
       ]
    },
    {
       "id": 13,
       "name": "Zamczyska Trail",
-      "link": "https://www.zamczyskatrail.pl",
-      "image": "https://example.com/zamczyska-logo.jpg",
+      "link": "https://zamczyskatrail.com/",
+      "image": "https://zamczyskatrail.com/wp-content/uploads/2022/09/cropped-logo_new2023.png",
       "description": "Bieg górski przez malownicze Zamczyska.",
       "events": [
          {
-            "distance": "25 km",
-            "description": "Główna trasa biegu."
+            "distance": "21 km",
+            "description": "Półmaraton Zamczyska"
+         },
+         {
+            "distance": "10 km",
+            "description": "Dycha Na Zamczyska"
          }
       ]
    },
@@ -208,72 +364,132 @@
       "description": "Bieg po malowniczych ścieżkach Pogórza, znany z pięknych widoków.",
       "events": [
          {
-            "distance": "35 km",
-            "description": "Dystans główny."
+            "distance": "200 km",
+            "description": "Demon"
+         },
+         {
+            "distance": "100 km",
+            "description": "Upiór"
+         },
+         {
+            "distance": "60 km",
+            "description": "Duch"
+         },
+         {
+            "distance": "30 km",
+            "description": "Duszek"
+         },
+         {
+            "distance": "13 km",
+            "description": "Diabelska Trzynastka"
          }
       ]
    },
    {
       "id": 15,
       "name": "Wbiegnij na Podium",
-      "link": "https://www.wbiegnijnapodium.pl",
-      "image": "https://example.com/wbiegnij-na-podium-logo.jpg",
+      "link": "https://podium-ultrastylzycia.pl/wbiegnij-na-podium/",
+      "image": "https://tiny.pl/xkc9zn7s",
       "description": "Bieg organizowany z myślą o biegaczach chcących stanąć na podium.",
       "events": [
          {
+            "distance": "45 km",
+            "description": "MARATON PODIUM"
+         },
+         {
+            "distance": "25 km",
+            "description": "PÓŁMARATON CHMIELNIK"
+         },
+         {
             "distance": "10 km",
-            "description": "Główna trasa biegowa."
+            "description": "BIEG NA 10 KM"
+         },
+         {
+            "distance": "7 km",
+            "description": "MARSZ NORDIC WALKING"
          }
       ]
    },
    {
       "id": 16,
       "name": "Biegi Górskie Sanok",
-      "link": "https://www.biegi-gorskie-sanok.pl",
-      "image": "https://example.com/biegi-gorskie-sanok-logo.jpg",
+      "link": "https://www.biegigorskiesanok.pl/",
+      "image": "https://www.biegigorskiesanok.pl/wp-content/uploads/2022/07/logo.png",
       "description": "Bieg górski organizowany w Sanoku, z pięknymi widokami na Bieszczady.",
       "events": [
          {
-            "distance": "30 km",
-            "description": "Główna trasa biegowa."
+            "distance": "50 km",
+            "description": "Słonny"
+         },
+         {
+            "distance": "25 km",
+            "description": "Bieg Orli"
+         },
+         {
+            "distance": "10 km",
+            "description": "Pierwsza dycha"
+         },
+         {
+            "distance": "5 km",
+            "description": "5-tka Gajowego"
          }
       ]
    },
    {
       "id": 17,
       "name": "Zimowa Poniewierka",
-      "link": "https://www.zimowaponiewierka.pl",
-      "image": "https://example.com/zimowa-poniewierka-logo.jpg",
+      "link": "https://www.facebook.com/zimowaponiewierka/",
+      "image": "https://tiny.pl/xn41789r",
       "description": "Zimowy bieg terenowy, idealny dla miłośników zimowych wyzwań.",
       "events": [
          {
-            "distance": "20 km",
-            "description": "Główna trasa biegu w zimowej aurze."
+            "distance": "42 km",
+            "description": "Maraton Kudłacz"
+         },
+         {
+            "distance": "21 km",
+            "description": "Półmaraton Kamionka"
+         },
+         {
+            "distance": "10 km",
+            "description": "Dycha Kozi Borek"
+         },
+         {
+            "distance": "10 km",
+            "description": "Dycha Kozi Borek Nordic Walking"
          }
       ]
    },
    {
       "id": 18,
       "name": "Zamiec 24h",
-      "link": "https://www.zamiec24h.pl",
-      "image": "https://example.com/zamiec-24h-logo.jpg",
+      "link": "https://zamiec.pl/",
+      "image": "https://zamiec.pl/ts1/resize=w:400%7Ch:250&img=zamiec-2019/lib-zamiec19_zawierucha_transp.png",
       "description": "Bieg 24-godzinny w trudnych warunkach terenowych.",
       "events": [
          {
-            "distance": "24 h",
-            "description": "Bieg na dystansie 24 godzin w formule non-stop."
+            "distance": "ZAMIEĆ 24h",
+            "description": "Bieg na stoku Skrzycznego 24 godzin w formule non-stop"
+         },
+         {
+            "distance": "28 km",
+            "description": "ZAWIERUCHA"
+         },
+         {
+            "distance": "13,5 km",
+            "description": "ZADYMA"
          }
       ]
    },
    {
       "id": 19,
       "name": "Zimowy Ultramaraton Karkonoski",
-      "link": "https://www.zimowyultramaraton.pl",
-      "image": "https://example.com/zimowy-ultramaraton-karkonoski-logo.jpg",
+      "link": "https://ultramaratonkarkonoski.pl/",
+      "image": "https://ultramaratonkarkonoski.pl/wp-content/uploads/2018/11/zuk_logo_new.png",
       "description": "Zimowy ultramaraton w Karkonoszach, znany z trudnych warunków.",
       "events": [
          {
-            "distance": "50 km",
+            "distance": "48 km",
             "description": "Główna trasa ultramaratonu."
          }
       ]
@@ -282,33 +498,57 @@
       "id": 20,
       "name": "Pieniny Ultra-Trail",
       "link": "https://www.pieninyultratrail.pl",
-      "image": "https://example.com/pieniny-ultra-trail-logo.jpg",
+      "image": "https://tiny.pl/m692jjb4",
       "description": "Bieg przez malownicze Pieniny, pełen wspaniałych widoków i naturalnych krajobrazów.",
       "events": [
          {
-            "distance": "70 km",
-            "description": "Główna trasa biegu."
+            "distance": "96 km",
+            "description": "Niepokorny Mnich"
          },
          {
-            "distance": "30 km",
-            "description": "Krótsza trasa dla początkujących."
+            "distance": "65 km",
+            "description": "Dziki Groń"
+         },
+         {
+            "distance": "44 km",
+            "description": "Wielka Prehyba"
+         },
+         {
+            "distance": "34 km",
+            "description": "Żwawe Wierchy"
+         },
+         {
+            "distance": "20 km",
+            "description": "Chyża Durbaszka"
+         },
+         {
+            "distance": "11 km",
+            "description": "Hardy Rolling"
+         },
+         {
+            "distance": "6,5 km",
+            "description": "Lubań Vertical"
          }
       ]
    },
    {
       "id": 21,
       "name": "Supermaraton Gór Stołowych",
-      "link": "https://www.supermaratongorstolowych.pl",
-      "image": "https://example.com/supermaraton-gor-stolowych-logo.jpg",
+      "link": "http://www.maratongorstolowych.pl/supermaraton",
+      "image": "http://www.maratongorstolowych.pl/images/2024-1-1695231863.png",
       "description": "Bieg w rejonie Gór Stołowych, znany z pięknych widoków i unikalnych formacji skalnych.",
       "events": [
          {
-            "distance": "42 km",
-            "description": "Główna trasa maratonu."
+            "distance": "55 km",
+            "description": "Trasa ULTRA"
          },
          {
             "distance": "21 km",
-            "description": "Trasa półmaratonu."
+            "description": "Trasa LIGHT - PÓŁMARATON"
+         },
+         {
+            "distance": "4 km",
+            "description": "Trasa LABIRYNT RUN"
          }
       ]
    },
@@ -316,33 +556,70 @@
       "id": 22,
       "name": "Chudy Wawrzyniec",
       "link": "https://www.chudywawrzyniec.pl",
-      "image": "https://example.com/chudy-wawrzyniec-logo.jpg",
+      "image": "https://tiny.pl/c1dz69th",
       "description": "Bieg w rejonie Karkonoszy, organizowany na różnych dystansach.",
       "events": [
          {
-            "distance": "32 km",
-            "description": "Główna trasa biegu."
+            "distance": "100 km",
+            "description": "TRASA 100km+"
          },
          {
-            "distance": "10 km",
-            "description": "Trasa dla początkujących."
+            "distance": "80 km",
+            "description": "TRASA 80km+"
+         },
+         {
+            "distance": "50 km",
+            "description": "TRASA 50km+"
+         },
+         {
+            "distance": "63 km",
+            "description": "Parszywa Bendoszka"
+         },
+         {
+            "distance": "21 km",
+            "description": "Mała Rycerzowa"
+         },
+         {
+            "distance": "3 km",
+            "description": "inov-8 Muńcuł Vertical"
          }
       ]
    },
    {
       "id": 23,
       "name": "Bieg Ultra Granią Tatr",
-      "link": "https://www.bieguatragrania.pl",
-      "image": "https://example.com/bieg-ultra-grania-tatr-logo.jpg",
+      "link": "https://www.graniatatr.pl/",
+      "image": "https://www.graniatatr.pl/images/logobiegpoziom.svg",
       "description": "Trasa biegu prowadzi wzdłuż granicy Tatr, oferując niezwykłe widoki.",
       "events": [
          {
-            "distance": "100 km",
-            "description": "Główna trasa ultra w Tatrach."
-         },
+            "distance": "71 km",
+            "description": "Bieg Ultra Granią Tatr"
+         }
+      ]
+   },
+   {
+      "id": 24,
+      "name": "Bieg Chrząszcza",
+      "link": "https://www.facebook.com/biegchrzaszcza.szczebrzeszyn/",
+      "image": "https://roztocze.net.pl/wp-content/uploads/2019/06/bieg-chrzaszcza.jpg",
+      "description": "Bieg Chrząszcza to bieg przełajowy w malowniczym Szczebrzeszynie, przyciągający biegaczy ceniących naturę i wyzwania terenowe.",
+      "events": [
          {
             "distance": "50 km",
-            "description": "Trasa dla biegaczy ultra."
+            "description": "Ultramaraton"
+         },
+         {
+            "distance": "21 km",
+            "description": "Półmaraton"
+         },
+         {
+            "distance": "10 km",
+            "description": "Dyszka"
+         },
+         {
+            "distance": "4 km",
+            "description": "Marsz Nordic Walking"
          }
       ]
    }

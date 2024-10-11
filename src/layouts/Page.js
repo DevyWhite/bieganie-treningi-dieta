@@ -14,6 +14,7 @@ import Dieta from "../pages/Dieta";
 import Przepisy from "../pages/Przepisy";
 import Apteczka from "../pages/Apteczka";
 import ZawodyBiegowe from "../pages/ZawodyBiegowe";
+import TrasyBiegowe from "../pages/TrasyBiegowe";
 
 import Batony from "../pages/Batony";
 import PlackiBananowe from "../pages/PlackiBananowe";
@@ -36,6 +37,7 @@ const Page = () => {
          <Route path='/dieta' element={<Dieta />}></Route>
          <Route path='/apteczka' element={<Apteczka />}></Route>
          <Route path='/zwody-biegowe' element={<ZawodyBiegowe />}></Route>
+         <Route path='/trasy-biegowe' element={<TrasyBiegowe />}></Route>
 
          {/* PRZEPISY */}
          <Route path='/przepisy/batony' element={<Batony />} />

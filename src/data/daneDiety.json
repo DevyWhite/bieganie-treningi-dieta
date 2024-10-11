@@ -634,5 +634,873 @@
             ]
          }
       ]
+   },
+   {
+      "tydzien": "Tydzień 3 (30-06 10 2024)",
+      "dni": [
+         {
+            "dzien": "Poniedziałek",
+            "posilki": [
+               {
+                  "nazwa": "Śniadanie (7:00 - 8:00)",
+                  "skladniki": [
+                     "Płatki owsiane: 50g",
+                     "Mleko migdałowe: 200ml",
+                     "Borówki: 100g",
+                     "Nasiona chia: 1 łyżka (ok. 15g)",
+                     "Orzechy laskowe: 10g"
+                  ],
+                  "przygotowanie": "Płatki owsiane ugotuj na mleku migdałowym. Dodaj borówki, nasiona chia i posiekane orzechy."
+               },
+               {
+                  "nazwa": "Lunch (12:00 - 13:00)",
+                  "skladniki": [
+                     "Ryż brązowy: 80g",
+                     "Tofu: 150g",
+                     "Brokuły: 100g",
+                     "Marchew: 1 średnia (ok. 100g)",
+                     "Sos sojowy: 1 łyżka (ok. 15ml)",
+                     "Sezam: 1 łyżeczka (ok. 5g)"
+                  ],
+                  "przygotowanie": "Ugotuj ryż według instrukcji. Tofu pokrój w kostkę i usmaż na patelni. Brokuły i marchew ugotuj na parze. Wymieszaj wszystko i polej sosem sojowym, posyp sezamem."
+               },
+               {
+                  "nazwa": "Przekąska (15:00 - 16:00)",
+                  "skladniki": [
+                     "Jogurt sojowy: 150g",
+                     "Miód: 1 łyżeczka (ok. 5g)",
+                     "Granola: 30g"
+                  ],
+                  "przygotowanie": "Wymieszaj jogurt sojowy z miodem i posyp granolą."
+               },
+               {
+                  "nazwa": "Kolacja (19:00 - 20:00)",
+                  "skladniki": [
+                     "Pierś z indyka: 150g",
+                     "Quinoa: 80g",
+                     "Papryka: 1/2 sztuki (ok. 80g)",
+                     "Cebula: 1 mała (ok. 50g)",
+                     "Zioła prowansalskie, sól, pieprz: do smaku"
+                  ],
+                  "przygotowanie": "Ugotuj quinoa według instrukcji. Pierś z indyka przypraw i upiecz w piekarniku. Paprykę i cebulę pokrój i podsmaż na patelni, a następnie wymieszaj z quinoą."
+               }
+            ]
+         },
+         {
+            "dzien": "Wtorek",
+            "posilki": [
+               {
+                  "nazwa": "Śniadanie (7:00 - 8:00)",
+                  "skladniki": [
+                     "Owsianka: 50g",
+                     "Mleko ryżowe: 200ml",
+                     "Kruszone orzechy pecan: 10g",
+                     "Syrop klonowy: 1 łyżeczka (ok. 5g)"
+                  ],
+                  "przygotowanie": "Ugotuj owsiankę na mleku ryżowym, a następnie dodaj orzechy pecan i syrop klonowy."
+               },
+               {
+                  "nazwa": "Lunch (12:00 - 13:00)",
+                  "skladniki": [
+                     "Ciecierzyca: 150g",
+                     "Ziemniaki: 150g",
+                     "Słodka papryka: 1/2 sztuki (ok. 80g)",
+                     "Sos tahini: 1 łyżka (ok. 15ml)",
+                     "Zioła prowansalskie, sól, pieprz: do smaku"
+                  ],
+                  "przygotowanie": "Ugotuj ziemniaki i ciecierzycę. Pokrój paprykę i dodaj do reszty składników. Polej sosem tahini i przypraw."
+               },
+               {
+                  "nazwa": "Przekąska (15:00 - 16:00)",
+                  "skladniki": [
+                     "Smoothie: 1 porcja (200ml)",
+                     "Owoce: 150g (np. mango, truskawki)"
+                  ],
+                  "przygotowanie": "Zblenduj owoce z wodą lub mlekiem roślinnym na gładką konsystencję."
+               },
+               {
+                  "nazwa": "Kolacja (19:00 - 20:00)",
+                  "skladniki": [
+                     "Ryba: 150g (np. dorsz)",
+                     "Kasza jaglana: 80g",
+                     "Słodki ziemniak: 1 średni (ok. 200g)",
+                     "Seler naciowy: 100g",
+                     "Sos cytrynowy: do smaku"
+                  ],
+                  "przygotowanie": "Ugotuj kaszę jaglaną i słodkiego ziemniaka. Ryba powinna być upieczona z przyprawami. Seler pokrój i dodaj do talerza."
+               }
+            ]
+         },
+         {
+            "dzien": "Środa",
+            "posilki": [
+               {
+                  "nazwa": "Śniadanie (7:00 - 8:00)",
+                  "skladniki": [
+                     "Płatki ryżowe: 50g",
+                     "Mleko sojowe: 200ml",
+                     "Maliny: 100g",
+                     "Wiórki kokosowe: 10g"
+                  ],
+                  "przygotowanie": "Płatki ryżowe zalej mlekiem sojowym i dodaj maliny oraz wiórki kokosowe."
+               },
+               {
+                  "nazwa": "Lunch (12:00 - 13:00)",
+                  "skladniki": [
+                     "Makaron pełnoziarnisty: 80g",
+                     "Brokuły: 100g",
+                     "Sos pomidorowy: 100ml",
+                     "Czosnek: 1 ząbek"
+                  ],
+                  "przygotowanie": "Ugotuj makaron i brokuły. Na patelni podsmaż czosnek, dodaj sos pomidorowy, a następnie wymieszaj z makaronem i brokułami."
+               },
+               {
+                  "nazwa": "Przekąska (15:00 - 16:00)",
+                  "skladniki": [
+                     "Hummus: 100g",
+                     "Marchewka: 1 średnia (ok. 100g)",
+                     "Ogórek: 1/2 sztuki"
+                  ],
+                  "przygotowanie": "Pokrój marchewkę i ogórka w słupki i podawaj z hummusem."
+               },
+               {
+                  "nazwa": "Kolacja (19:00 - 20:00)",
+                  "skladniki": [
+                     "Pierś z kurczaka: 150g",
+                     "Kasza gryczana: 80g",
+                     "Sałata: 100g",
+                     "Pomidor: 1 średni (ok. 150g)",
+                     "Oliwa z oliwek: 1 łyżka (ok. 10ml)"
+                  ],
+                  "przygotowanie": "Ugotuj kaszę gryczaną. Pierś z kurczaka grilluj lub piecz, a następnie pokrój. Wymieszaj sałatę z pokrojonym pomidorem i polej oliwą."
+               }
+            ]
+         },
+         {
+            "dzien": "Czwartek",
+            "posilki": [
+               {
+                  "nazwa": "Śniadanie (7:00 - 8:00)",
+                  "skladniki": [
+                     "Muesli: 50g",
+                     "Mleko kokosowe: 200ml",
+                     "Owoce suszone: 20g"
+                  ],
+                  "przygotowanie": "Muesli zalej mlekiem kokosowym i dodaj suszone owoce."
+               },
+               {
+                  "nazwa": "Lunch (12:00 - 13:00)",
+                  "skladniki": [
+                     "Buraki: 150g",
+                     "Fasola: 150g",
+                     "Cebula: 1 mała (ok. 50g)",
+                     "Ocet balsamiczny: 1 łyżka (ok. 15ml)"
+                  ],
+                  "przygotowanie": "Ugotuj buraki i fasolę. Cebulę pokrój i podsmaż, a następnie wymieszaj wszystko i polej octem balsamicznym."
+               },
+               {
+                  "nazwa": "Przekąska (15:00 - 16:00)",
+                  "skladniki": ["Orzechy mieszane: 30g", "Rodzynki: 20g"],
+                  "przygotowanie": "Wymieszaj orzechy z rodzynkami."
+               },
+               {
+                  "nazwa": "Kolacja (19:00 - 20:00)",
+                  "skladniki": [
+                     "Dorsz: 150g",
+                     "Kasza jęczmienna: 80g",
+                     "Zielona fasolka: 100g",
+                     "Sok z cytryny: do smaku"
+                  ],
+                  "przygotowanie": "Ugotuj kaszę jęczmienną. Dorsza upiecz w piekarniku, a zieloną fasolkę ugotuj na parze. Podawaj z sokiem z cytryny."
+               }
+            ]
+         },
+         {
+            "dzien": "Piątek",
+            "posilki": [
+               {
+                  "nazwa": "Śniadanie (7:00 - 8:00)",
+                  "skladniki": [
+                     "Owsianka: 50g",
+                     "Mleko migdałowe: 200ml",
+                     "Gruszka: 1 średnia (ok. 150g)",
+                     "Cynamon: do smaku"
+                  ],
+                  "przygotowanie": "Ugotuj owsiankę na mleku migdałowym, dodaj pokrojoną gruszkę i posyp cynamonem."
+               },
+               {
+                  "nazwa": "Lunch (12:00 - 13:00)",
+                  "skladniki": [
+                     "Komosa ryżowa: 80g",
+                     "Warzywa na parze: 200g (np. brokuły, marchew, kalafior)",
+                     "Tofu: 100g"
+                  ],
+                  "przygotowanie": "Ugotuj komosę ryżową. Tofu pokrój w kostkę i usmaż, a warzywa gotuj na parze. Wymieszaj wszystkie składniki."
+               },
+               {
+                  "nazwa": "Przekąska (15:00 - 16:00)",
+                  "skladniki": ["Orzechy nerkowca: 30g"],
+                  "przygotowanie": "Podawaj orzechy nerkowca jako przekąskę."
+               },
+               {
+                  "nazwa": "Kolacja (19:00 - 20:00)",
+                  "skladniki": [
+                     "Pierś z indyka: 150g",
+                     "Kasza bulgur: 80g",
+                     "Sałata: 100g",
+                     "Pomidor: 1 średni (ok. 150g)"
+                  ],
+                  "przygotowanie": "Ugotuj kaszę bulgur. Pierś z indyka upiecz, a sałatę i pomidora pokrój i podawaj z indykiem."
+               }
+            ]
+         },
+         {
+            "dzien": "Sobota",
+            "posilki": [
+               {
+                  "nazwa": "Śniadanie (7:00 - 8:00)",
+                  "skladniki": [
+                     "Smoothie: 1 porcja (200ml)",
+                     "Banan: 1 sztuka",
+                     "Nasiona chia: 1 łyżka (ok. 15g)"
+                  ],
+                  "przygotowanie": "Zblenduj banana z mlekiem roślinnym i nasionami chia na gładką konsystencję."
+               },
+               {
+                  "nazwa": "Lunch (12:00 - 13:00)",
+                  "skladniki": ["Zupa warzywna: 300ml", "Grzanki: 30g"],
+                  "przygotowanie": "Podgrzej zupę i podawaj z grzankami."
+               },
+               {
+                  "nazwa": "Przekąska (15:00 - 16:00)",
+                  "skladniki": [
+                     "Marchewka: 1 średnia (ok. 100g)",
+                     "Hummus: 100g"
+                  ],
+                  "przygotowanie": "Pokrój marchewkę w słupki i podawaj z hummusem."
+               },
+               {
+                  "nazwa": "Kolacja (19:00 - 20:00)",
+                  "skladniki": [
+                     "Tofu: 150g",
+                     "Kasza gryczana: 80g",
+                     "Brokuły: 100g",
+                     "Sos sojowy: 1 łyżka (ok. 15ml)"
+                  ],
+                  "przygotowanie": "Ugotuj kaszę gryczaną i brokuły. Tofu usmaż na patelni i podawaj z kaszą i brokułami."
+               }
+            ]
+         },
+         {
+            "dzien": "Niedziela",
+            "posilki": [
+               {
+                  "nazwa": "Śniadanie (7:00 - 8:00)",
+                  "skladniki": [
+                     "Płatki owsiane: 50g",
+                     "Mleko kokosowe: 200ml",
+                     "Owoce: 150g (np. kiwi, truskawki)"
+                  ],
+                  "przygotowanie": "Płatki owsiane zalej mlekiem kokosowym i dodaj pokrojone owoce."
+               },
+               {
+                  "nazwa": "Lunch (12:00 - 13:00)",
+                  "skladniki": [
+                     "Fasola: 150g",
+                     "Quinoa: 80g",
+                     "Papryka: 1/2 sztuki (ok. 80g)",
+                     "Seler naciowy: 100g",
+                     "Sos winegret: do smaku"
+                  ],
+                  "przygotowanie": "Ugotuj quinoa. Fasolę i paprykę pokrój, wymieszaj z selerem i polej sosem winegret."
+               },
+               {
+                  "nazwa": "Przekąska (15:00 - 16:00)",
+                  "skladniki": ["Jogurt sojowy: 150g", "Owoce: 150g"],
+                  "przygotowanie": "Wymieszaj jogurt sojowy z pokrojonymi owocami."
+               },
+               {
+                  "nazwa": "Kolacja (19:00 - 20:00)",
+                  "skladniki": [
+                     "Kurczak: 150g",
+                     "Ziemniaki: 150g",
+                     "Sałata: 100g",
+                     "Pomidor: 1 średni (ok. 150g)"
+                  ],
+                  "przygotowanie": "Ugotuj ziemniaki. Kurczaka upiecz, a sałatę i pomidora pokrój i podawaj z kurczakiem."
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "tydzien": "Tydzień 4 (07-13 10 2024)",
+      "dni": [
+         {
+            "dzien": "Poniedziałek",
+            "posilki": [
+               {
+                  "nazwa": "Śniadanie (7:00 - 8:00)",
+                  "skladniki": [
+                     "Owsianka: 50g",
+                     "Mleko migdałowe: 200ml",
+                     "Truskawki: 100g",
+                     "Nasiona lnu: 1 łyżka (ok. 15g)"
+                  ],
+                  "przygotowanie": "Ugotuj owsiankę na mleku migdałowym. Dodaj truskawki i nasiona lnu."
+               },
+               {
+                  "nazwa": "Lunch (12:00 - 13:00)",
+                  "skladniki": [
+                     "Ciecierzyca: 150g",
+                     "Kasza bulgur: 80g",
+                     "Ogórek: 1/2 sztuki",
+                     "Pomidory: 1 średni (ok. 150g)",
+                     "Sos jogurtowy: do smaku"
+                  ],
+                  "przygotowanie": "Ugotuj kaszę bulgur. Wymieszaj z ciecierzycą i pokrojonymi warzywami, polej sosem jogurtowym."
+               },
+               {
+                  "nazwa": "Przekąska (15:00 - 16:00)",
+                  "skladniki": ["Orzechy nerkowca: 30g"],
+                  "przygotowanie": "Podawaj orzechy nerkowca jako przekąskę."
+               },
+               {
+                  "nazwa": "Kolacja (19:00 - 20:00)",
+                  "skladniki": [
+                     "Tofu: 150g",
+                     "Ryż basmati: 80g",
+                     "Warzywa stir-fry: 200g",
+                     "Sos sojowy: 1 łyżka (ok. 15ml)"
+                  ],
+                  "przygotowanie": "Ugotuj ryż. Tofu usmaż na patelni, a następnie dodaj warzywa stir-fry i polej sosem sojowym."
+               }
+            ]
+         },
+         {
+            "dzien": "Wtorek",
+            "posilki": [
+               {
+                  "nazwa": "Śniadanie (7:00 - 8:00)",
+                  "skladniki": [
+                     "Smoothie: 1 porcja (200ml)",
+                     "Banan: 1 sztuka",
+                     "Mleko ryżowe: 200ml",
+                     "Nasiona chia: 1 łyżka (ok. 15g)"
+                  ],
+                  "przygotowanie": "Zblenduj banana z mlekiem ryżowym i nasionami chia na gładką konsystencję."
+               },
+               {
+                  "nazwa": "Lunch (12:00 - 13:00)",
+                  "skladniki": [
+                     "Makaron pełnoziarnisty: 80g",
+                     "Brokuły: 100g",
+                     "Sos pomidorowy: 100ml",
+                     "Czosnek: 1 ząbek"
+                  ],
+                  "przygotowanie": "Ugotuj makaron i brokuły. Na patelni podsmaż czosnek, dodaj sos pomidorowy, a następnie wymieszaj z makaronem i brokułami."
+               },
+               {
+                  "nazwa": "Przekąska (15:00 - 16:00)",
+                  "skladniki": [
+                     "Hummus: 100g",
+                     "Marchewka: 1 średnia (ok. 100g)"
+                  ],
+                  "przygotowanie": "Pokrój marchewkę w słupki i podawaj z hummusem."
+               },
+               {
+                  "nazwa": "Kolacja (19:00 - 20:00)",
+                  "skladniki": [
+                     "Kurczak: 150g",
+                     "Quinoa: 80g",
+                     "Papryka: 1/2 sztuki",
+                     "Cebula: 1 mała (ok. 50g)"
+                  ],
+                  "przygotowanie": "Ugotuj quinoa. Kurczaka przypraw i upiecz, a następnie pokrój i wymieszaj z papryką i cebulą."
+               }
+            ]
+         },
+         {
+            "dzien": "Środa",
+            "posilki": [
+               {
+                  "nazwa": "Śniadanie (7:00 - 8:00)",
+                  "skladniki": [
+                     "Płatki owsiane: 50g",
+                     "Mleko sojowe: 200ml",
+                     "Maliny: 100g",
+                     "Wiórki kokosowe: 10g"
+                  ],
+                  "przygotowanie": "Płatki owsiane zalej mlekiem sojowym, dodaj maliny oraz wiórki kokosowe."
+               },
+               {
+                  "nazwa": "Lunch (12:00 - 13:00)",
+                  "skladniki": [
+                     "Sałatka: 200g (mix sałat, pomidor, ogórek)",
+                     "Fasola: 150g",
+                     "Sos winegret: do smaku"
+                  ],
+                  "przygotowanie": "Wymieszaj wszystkie składniki sałatki i polej sosem winegret."
+               },
+               {
+                  "nazwa": "Przekąska (15:00 - 16:00)",
+                  "skladniki": ["Jogurt sojowy: 150g", "Granola: 30g"],
+                  "przygotowanie": "Wymieszaj jogurt sojowy z granolą."
+               },
+               {
+                  "nazwa": "Kolacja (19:00 - 20:00)",
+                  "skladniki": [
+                     "Dorsz: 150g",
+                     "Ziemniaki: 150g",
+                     "Marchew: 1 średnia (ok. 100g)",
+                     "Sok z cytryny: do smaku"
+                  ],
+                  "przygotowanie": "Ugotuj ziemniaki i marchew. Dorsza upiecz, a wszystko polej sokiem z cytryny."
+               }
+            ]
+         },
+         {
+            "dzien": "Czwartek",
+            "posilki": [
+               {
+                  "nazwa": "Śniadanie (7:00 - 8:00)",
+                  "skladniki": [
+                     "Muesli: 50g",
+                     "Mleko kokosowe: 200ml",
+                     "Owoce świeże: 150g"
+                  ],
+                  "przygotowanie": "Muesli zalej mlekiem kokosowym i dodaj świeże owoce."
+               },
+               {
+                  "nazwa": "Lunch (12:00 - 13:00)",
+                  "skladniki": [
+                     "Kurczak: 150g",
+                     "Kasza gryczana: 80g",
+                     "Zielona fasolka: 100g"
+                  ],
+                  "przygotowanie": "Ugotuj kaszę gryczaną i fasolkę. Kurczaka przypraw i upiecz, a następnie podawaj z resztą składników."
+               },
+               {
+                  "nazwa": "Przekąska (15:00 - 16:00)",
+                  "skladniki": ["Orzechy: 30g (np. mieszanka orzechów)"],
+                  "przygotowanie": "Podawaj orzechy jako przekąskę."
+               },
+               {
+                  "nazwa": "Kolacja (19:00 - 20:00)",
+                  "skladniki": [
+                     "Tofu: 150g",
+                     "Makaron pełnoziarnisty: 80g",
+                     "Warzywa stir-fry: 200g",
+                     "Sos sojowy: do smaku"
+                  ],
+                  "przygotowanie": "Ugotuj makaron. Tofu usmaż, dodaj warzywa stir-fry i polej sosem sojowym."
+               }
+            ]
+         },
+         {
+            "dzien": "Piątek",
+            "posilki": [
+               {
+                  "nazwa": "Śniadanie (7:00 - 8:00)",
+                  "skladniki": [
+                     "Owsianka: 50g",
+                     "Mleko migdałowe: 200ml",
+                     "Gruszka: 1 średnia (ok. 150g)"
+                  ],
+                  "przygotowanie": "Ugotuj owsiankę na mleku migdałowym i dodaj pokrojoną gruszkę."
+               },
+               {
+                  "nazwa": "Lunch (12:00 - 13:00)",
+                  "skladniki": [
+                     "Quinoa: 80g",
+                     "Fasola: 150g",
+                     "Pomidory: 1 średni (ok. 150g)",
+                     "Cebula: 1 mała (ok. 50g)"
+                  ],
+                  "przygotowanie": "Ugotuj quinoa. Wymieszaj z fasolą, pokrojonymi pomidorami i cebulą."
+               },
+               {
+                  "nazwa": "Przekąska (15:00 - 16:00)",
+                  "skladniki": ["Mieszanka orzechów: 30g"],
+                  "przygotowanie": "Podawaj jako przekąskę."
+               },
+               {
+                  "nazwa": "Kolacja (19:00 - 20:00)",
+                  "skladniki": [
+                     "Kurczak: 150g",
+                     "Kasza jęczmienna: 80g",
+                     "Warzywa: 200g"
+                  ],
+                  "przygotowanie": "Ugotuj kaszę jęczmienną i warzywa. Kurczaka upiecz i podawaj z kaszą i warzywami."
+               }
+            ]
+         },
+         {
+            "dzien": "Sobota",
+            "posilki": [
+               {
+                  "nazwa": "Śniadanie (7:00 - 8:00)",
+                  "skladniki": [
+                     "Smoothie: 1 porcja (200ml)",
+                     "Banan: 1 sztuka",
+                     "Mleko ryżowe: 200ml"
+                  ],
+                  "przygotowanie": "Zblenduj banana z mlekiem ryżowym na gładką konsystencję."
+               },
+               {
+                  "nazwa": "Lunch (12:00 - 13:00)",
+                  "skladniki": ["Zupa warzywna: 300ml", "Grzanki: 30g"],
+                  "przygotowanie": "Podgrzej zupę i podawaj z grzankami."
+               },
+               {
+                  "nazwa": "Przekąska (15:00 - 16:00)",
+                  "skladniki": [
+                     "Marchewka: 1 średnia (ok. 100g)",
+                     "Hummus: 100g"
+                  ],
+                  "przygotowanie": "Pokrój marchewkę w słupki i podawaj z hummusem."
+               },
+               {
+                  "nazwa": "Kolacja (19:00 - 20:00)",
+                  "skladniki": [
+                     "Tofu: 150g",
+                     "Kasza gryczana: 80g",
+                     "Brokuły: 100g"
+                  ],
+                  "przygotowanie": "Ugotuj kaszę gryczaną i brokuły. Tofu usmaż i podawaj z kaszą oraz brokułami."
+               }
+            ]
+         },
+         {
+            "dzien": "Niedziela",
+            "posilki": [
+               {
+                  "nazwa": "Śniadanie (7:00 - 8:00)",
+                  "skladniki": [
+                     "Płatki owsiane: 50g",
+                     "Mleko sojowe: 200ml",
+                     "Owoce: 150g (np. kiwi, maliny)"
+                  ],
+                  "przygotowanie": "Płatki owsiane zalej mlekiem sojowym i dodaj pokrojone owoce."
+               },
+               {
+                  "nazwa": "Lunch (12:00 - 13:00)",
+                  "skladniki": [
+                     "Fasola: 150g",
+                     "Komosa ryżowa: 80g",
+                     "Warzywa na parze: 200g"
+                  ],
+                  "przygotowanie": "Ugotuj komosę ryżową. Fasolę wymieszaj z warzywami na parze."
+               },
+               {
+                  "nazwa": "Przekąska (15:00 - 16:00)",
+                  "skladniki": ["Jogurt sojowy: 150g", "Owoce: 150g"],
+                  "przygotowanie": "Wymieszaj jogurt sojowy z pokrojonymi owocami."
+               },
+               {
+                  "nazwa": "Kolacja (19:00 - 20:00)",
+                  "skladniki": [
+                     "Kurczak: 150g",
+                     "Ziemniaki: 150g",
+                     "Sałata: 100g"
+                  ],
+                  "przygotowanie": "Ugotuj ziemniaki. Kurczaka upiecz i podawaj z sałatą."
+               }
+            ]
+         }
+      ]
+   },
+   {
+      "tydzien": "Tydzień 3 (14-20 10 2024)",
+      "dni": [
+         {
+            "dzien": "Poniedziałek",
+            "posilki": [
+               {
+                  "nazwa": "Śniadanie (7:00 - 8:00)",
+                  "skladniki": [
+                     "Płatki owsiane: 50g",
+                     "Mleko sojowe: 200ml",
+                     "Borówki: 100g",
+                     "Nasiona chia: 1 łyżka (ok. 15g)"
+                  ],
+                  "przygotowanie": "Płatki owsiane zalej mlekiem sojowym, dodaj borówki i nasiona chia. Odstaw na chwilę do napęcznienia."
+               },
+               {
+                  "nazwa": "Lunch (12:00 - 13:00)",
+                  "skladniki": [
+                     "Kasza jaglana: 80g",
+                     "Filet z indyka: 150g",
+                     "Brokuły: 100g",
+                     "Oliwa z oliwek: 1 łyżka (ok. 10ml)",
+                     "Sok z cytryny: do smaku"
+                  ],
+                  "przygotowanie": "Kaszę ugotuj. Filet z indyka grilluj lub piecz, a brokuły ugotuj na parze. Podawaj z oliwą i sokiem z cytryny."
+               },
+               {
+                  "nazwa": "Przekąska (15:00 - 16:00)",
+                  "skladniki": [
+                     "Jogurt sojowy: 150g",
+                     "Miód: 1 łyżeczka (ok. 5g)",
+                     "Orzechy nerkowca: 10g"
+                  ],
+                  "przygotowanie": "Wymieszaj jogurt z miodem i posyp orzechami."
+               },
+               {
+                  "nazwa": "Kolacja (19:00 - 20:00)",
+                  "skladniki": [
+                     "Dorsz: 150g",
+                     "Ryż brązowy: 80g",
+                     "Cukinia: 1/2 średniej (ok. 100g)",
+                     "Papryka: 1/2 sztuki",
+                     "Zioła prowansalskie, sól, pieprz: do smaku"
+                  ],
+                  "przygotowanie": "Dorsza piecz w piekarniku z przyprawami. Ryż ugotuj według instrukcji, a warzywa pokrój i upiecz."
+               }
+            ]
+         },
+         {
+            "dzien": "Wtorek",
+            "posilki": [
+               {
+                  "nazwa": "Śniadanie (7:00 - 8:00)",
+                  "skladniki": [
+                     "Smoothie: 200ml",
+                     "Banana: 1 sztuka",
+                     "Mleko ryżowe: 200ml",
+                     "Nasiona lnu: 1 łyżka (ok. 15g)"
+                  ],
+                  "przygotowanie": "Zblenduj banana z mlekiem ryżowym i nasionami lnu."
+               },
+               {
+                  "nazwa": "Lunch (12:00 - 13:00)",
+                  "skladniki": [
+                     "Quinoa: 80g",
+                     "Ciecierzyca: 150g (ugotowanej)",
+                     "Sałatka (mix sałat, pomidor, ogórek): 200g",
+                     "Sos winegret: do smaku"
+                  ],
+                  "przygotowanie": "Ugotuj quinoa. Wymieszaj z ciecierzycą i sałatą, polej sosem winegret."
+               },
+               {
+                  "nazwa": "Przekąska (15:00 - 16:00)",
+                  "skladniki": [
+                     "Hummus: 100g",
+                     "Marchewka: 1 średnia (ok. 100g)"
+                  ],
+                  "przygotowanie": "Pokrój marchewkę w słupki i podawaj z hummusem."
+               },
+               {
+                  "nazwa": "Kolacja (19:00 - 20:00)",
+                  "skladniki": [
+                     "Tofu: 150g",
+                     "Kasza gryczana: 80g",
+                     "Zielona fasolka: 100g",
+                     "Oliwa z oliwek: 1 łyżka (ok. 10ml)"
+                  ],
+                  "przygotowanie": "Ugotuj kaszę gryczaną i fasolkę. Tofu pokrój i usmaż na oliwie, podawaj z kaszą i fasolką."
+               }
+            ]
+         },
+         {
+            "dzien": "Środa",
+            "posilki": [
+               {
+                  "nazwa": "Śniadanie (7:00 - 8:00)",
+                  "skladniki": [
+                     "Muesli: 50g",
+                     "Mleko sojowe: 200ml",
+                     "Truskawki: 100g"
+                  ],
+                  "przygotowanie": "Muesli zalej mlekiem sojowym i dodaj truskawki."
+               },
+               {
+                  "nazwa": "Lunch (12:00 - 13:00)",
+                  "skladniki": [
+                     "Pierś z kurczaka: 150g",
+                     "Kasza jęczmienna: 80g",
+                     "Buraki: 100g (ugotowane lub pieczone)"
+                  ],
+                  "przygotowanie": "Ugotuj kaszę jęczmienną. Kurczaka grilluj lub piecz, a buraki pokrój na kawałki."
+               },
+               {
+                  "nazwa": "Przekąska (15:00 - 16:00)",
+                  "skladniki": ["Jogurt sojowy: 150g", "Granola: 30g"],
+                  "przygotowanie": "Wymieszaj jogurt sojowy z granolą."
+               },
+               {
+                  "nazwa": "Kolacja (19:00 - 20:00)",
+                  "skladniki": [
+                     "Łosoś: 150g",
+                     "Ryż basmati: 80g",
+                     "Zielony groszek: 100g"
+                  ],
+                  "przygotowanie": "Łososia piecz w piekarniku. Ryż ugotuj, a groszek podawaj gotowany."
+               }
+            ]
+         },
+         {
+            "dzien": "Czwartek",
+            "posilki": [
+               {
+                  "nazwa": "Śniadanie (7:00 - 8:00)",
+                  "skladniki": [
+                     "Owsianka: 50g",
+                     "Mleko kokosowe: 200ml",
+                     "Owoce (np. kiwi, maliny): 150g"
+                  ],
+                  "przygotowanie": "Ugotuj owsiankę na mleku kokosowym i dodaj świeże owoce."
+               },
+               {
+                  "nazwa": "Lunch (12:00 - 13:00)",
+                  "skladniki": [
+                     "Tofu: 150g",
+                     "Makaron pełnoziarnisty: 80g",
+                     "Brokuły: 100g"
+                  ],
+                  "przygotowanie": "Ugotuj makaron i brokuły. Tofu usmaż i podawaj z makaronem oraz brokułami."
+               },
+               {
+                  "nazwa": "Przekąska (15:00 - 16:00)",
+                  "skladniki": ["Mieszanka orzechów: 30g"],
+                  "przygotowanie": "Podawaj orzechy jako przekąskę."
+               },
+               {
+                  "nazwa": "Kolacja (19:00 - 20:00)",
+                  "skladniki": [
+                     "Indyk: 150g",
+                     "Kasza bulgur: 80g",
+                     "Sałatka (mix sałat, pomidor, ogórek): 200g"
+                  ],
+                  "przygotowanie": "Ugotuj bulgur, indyk upiecz i podawaj z sałatą."
+               }
+            ]
+         },
+         {
+            "dzien": "Piątek",
+            "posilki": [
+               {
+                  "nazwa": "Śniadanie (7:00 - 8:00)",
+                  "skladniki": [
+                     "Smoothie: 1 porcja (200ml)",
+                     "Banan: 1 sztuka",
+                     "Mleko ryżowe: 200ml"
+                  ],
+                  "przygotowanie": "Zblenduj banana z mlekiem ryżowym na gładką masę."
+               },
+               {
+                  "nazwa": "Lunch (12:00 - 13:00)",
+                  "skladniki": [
+                     "Fasola: 150g",
+                     "Kasza quinoa: 80g",
+                     "Cukinia: 100g (smażona lub grillowana)"
+                  ],
+                  "przygotowanie": "Ugotuj kaszę quinoa. Fasolę wymieszaj z cukinią."
+               },
+               {
+                  "nazwa": "Przekąska (15:00 - 16:00)",
+                  "skladniki": [
+                     "Chipsy warzywne: 30g",
+                     "Salsa pomidorowa: 50g"
+                  ],
+                  "przygotowanie": "Podawaj chipsy warzywne z salsą pomidorową."
+               },
+               {
+                  "nazwa": "Kolacja (19:00 - 20:00)",
+                  "skladniki": [
+                     "Kurczak: 150g",
+                     "Ziemniaki: 150g",
+                     "Sałatka z pomidorów i ogórków: 200g"
+                  ],
+                  "przygotowanie": "Kurczaka upiecz, ziemniaki ugotuj i podawaj z sałatką."
+               }
+            ]
+         },
+         {
+            "dzien": "Sobota",
+            "posilki": [
+               {
+                  "nazwa": "Śniadanie (7:00 - 8:00)",
+                  "skladniki": [
+                     "Płatki owsiane: 50g",
+                     "Mleko sojowe: 200ml",
+                     "Miód: 1 łyżeczka (ok. 5g)",
+                     "Orzechy włoskie: 10g"
+                  ],
+                  "przygotowanie": "Płatki owsiane zalej mlekiem sojowym, dodaj miód i posyp orzechami."
+               },
+               {
+                  "nazwa": "Lunch (12:00 - 13:00)",
+                  "skladniki": [
+                     "Tortilla pełnoziarnista: 1 sztuka",
+                     "Indyk: 150g",
+                     "Awokado: 1/2 sztuki",
+                     "Sałata: 100g",
+                     "Salsa: do smaku"
+                  ],
+                  "przygotowanie": "Tortillę nadziej indykiem, awokado, sałatą i polej salsą. Zwiń i podawaj."
+               },
+               {
+                  "nazwa": "Przekąska (15:00 - 16:00)",
+                  "skladniki": [
+                     "Mleko sojowe: 200ml",
+                     "Banan: 1 sztuka",
+                     "Nasiona chia: 1 łyżka (ok. 15g)"
+                  ],
+                  "przygotowanie": "Zblenduj banana z mlekiem sojowym i nasionami chia."
+               },
+               {
+                  "nazwa": "Kolacja (19:00 - 20:00)",
+                  "skladniki": [
+                     "Łosoś: 150g",
+                     "Kasza jęczmienna: 80g",
+                     "Szparagi: 100g"
+                  ],
+                  "przygotowanie": "Łososia piecz w piekarniku, kaszę ugotuj, a szparagi podawaj gotowane."
+               }
+            ]
+         },
+         {
+            "dzien": "Niedziela",
+            "posilki": [
+               {
+                  "nazwa": "Śniadanie (7:00 - 8:00)",
+                  "skladniki": [
+                     "Płatki owsiane: 50g",
+                     "Mleko sojowe: 200ml",
+                     "Owoce: 150g (np. mango, truskawki)"
+                  ],
+                  "przygotowanie": "Płatki owsiane zalej mlekiem sojowym i dodaj pokrojone owoce."
+               },
+               {
+                  "nazwa": "Lunch (12:00 - 13:00)",
+                  "skladniki": [
+                     "Soczewica: 150g (ugotowana)",
+                     "Kasza bulgur: 80g",
+                     "Warzywa na parze: 200g"
+                  ],
+                  "przygotowanie": "Ugotuj bulgur i soczewicę. Podawaj z warzywami na parze."
+               },
+               {
+                  "nazwa": "Przekąska (15:00 - 16:00)",
+                  "skladniki": [
+                     "Jogurt sojowy: 150g",
+                     "Miód: 1 łyżeczka (ok. 5g)",
+                     "Orzechy: 10g"
+                  ],
+                  "przygotowanie": "Wymieszaj jogurt z miodem i posyp orzechami."
+               },
+               {
+                  "nazwa": "Kolacja (19:00 - 20:00)",
+                  "skladniki": [
+                     "Tofu: 150g",
+                     "Ziemniaki: 150g",
+                     "Sałatka (mix sałat, pomidor, ogórek): 200g"
+                  ],
+                  "przygotowanie": "Ziemniaki ugotuj, tofu usmaż i podawaj z sałatą."
+               }
+            ]
+         }
+      ]
    }
 ]
