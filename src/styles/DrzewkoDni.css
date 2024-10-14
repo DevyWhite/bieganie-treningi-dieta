@@ -47,3 +47,7 @@
 .drzewko-dni li ul li {
    margin-bottom: 5px; /* Mniejszy odstęp między elementami listy */
 }
+
+.drzewko-dni-span {
+   margin-bottom: 5px; /* Mniejszy odstęp między elementami listy */
+}

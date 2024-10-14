@@ -176,7 +176,7 @@
          "dzien": "Czwartek (Fartlek)",
          "opis": "Fartlek (trening na zmienne tempo)",
          "rozgrzewka": "10 minut spokojnego biegu.",
-         "fartlek": "30 minut => 5 minut – Bieg w tempie (około 5:30-6:00/km). -> Interwały(5x) 1 minuta – Szybki bieg (3:30-4:00/km). 2 minuty – Wolniejszy bieg (5:30-6:00/km). -> 2 minuty – Bieg w komfortowym tempie (około 5:30-6:00/km). -> Interwały(4x) 30 sekund – Szybki bieg (3:30-4:00/km). 1 minuta – Wolniejszy bieg (5:30-6:00/km). -> 5 minut – Bieg w komfortowym tempie (około 5:30-6:00/km).",
+         "fartlek": "(~30 minut łącznie)\n 5 minut - Bieg w tempie (około 5:30-6:00/km).\nInterwały(5x) 1 minuta - Szybki bieg (3:30-4:00/km) -> 2 minuty - Wolniejszy bieg (5:30-6:00/km).\n2 minuty - Bieg w komfortowym tempie (około 5:30-6:00/km).\nInterwały(4x) 30 sekund - Szybki bieg (3:30-4:00/km). 1 minuta - Wolniejszy bieg (5:30-6:00/km).\n5 minut - Bieg w komfortowym tempie (około 5:30-6:00/km).",
          "chlodzenie": "10 minut spokojnego biegu.",
          "mobilizacja": "Stretching"
       },
@@ -194,6 +194,65 @@
          "dzien": "Niedziela (Regeneracja/Aktywna Regeneracja)",
          "opis": "Dzień aktywnej regeneracji",
          "aktywnosc": "Lekkie spacery, jazda na rowerze, ćwiczenia wzmacniające lub jogi"
+      }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Bieg Regeneracyjny)",
+         "opis": "Bieg regeneracyjny",
+         "bieg": "6-8 km w 2. strefie tętna (spokojne tempo, tętno na poziomie 65-75% maksymalnego).",
+         "stretching": "Stretching po biegu (wg zestawu)."
+      },
+      {
+         "dzien": "Wtorek (Interwały)",
+         "opis": "Trening interwałowy",
+         "rozgrzewka": "10 minut spokojnego biegu + dynamiczne rozciąganie.",
+         "interwaly": "6-8x 400 m w tempie 3:50-4:00 na km. Odpoczynek: 90 sekund truchtu.",
+         "chlodzenie": "2-3 km truchtem.",
+         "mobilizacja": "Skup się na rozciąganiu nóg i bioder."
+      },
+      {
+         "dzien": "Środa (Regeneracja)",
+         "opis": "Trening regeneracyjny",
+         "bieg": "5-6 km w tempie wolniejszym niż w 2. strefie tętna (pełna regeneracja).",
+         "cwiczenia": "Ćwiczenia wzmacniające core (2-3 obwody).",
+         "stretching": "Stretching po biegu."
+      },
+      {
+         "dzien": "Czwartek (Fartlek)",
+         "opis": "Fartlek (trening na zmienne tempo)",
+         "rozgrzewka": "10 minut spokojnego biegu.",
+         "fartlek": "4 min w tempie progowym (4:20-4:30/km) → 2 min spokojnego biegu(5:30-6:00/km).\n3 min w szybszym tempie (4:10-4:15/km) → 2 min spokojnego biegu(5:30-6:00/km).\n2 min w tempie (4:00/km) → 2 min spokojnego biegu(5:30-6:00/km).\n1 min w mocnym tempie (3:50/km) → 2 min spokojnego biegu(5:30-6:00/km).\nPowtórz cały cykl 2 razy (ok. 28 minut biegu).",
+         "chlodzenie": "2-3 km truchtem."
+      },
+      {
+         "dzien": "Piątek (Regeneracja lub Podbiegi)",
+         "opis": "Opcja 1: Podbiegi lub Opcja 2: Aktywna regeneracja",
+         "opcje": [
+            {
+               "opcjonalne": "Podbiegi",
+               "rozgrzewka": "10 minut spokojnego biegu.",
+               "podbiegi": "6-8 powtórzeń podbiegów 100-150 m, technika ważniejsza niż tempo.",
+               "chlodzenie": "2-3 km truchtem."
+            },
+            {
+               "opcjonalne": "Aktywna regeneracja",
+               "aktywnosc": "30-60 minut spokojnej aktywności (rower lub spacer)."
+            }
+         ]
+      },
+      {
+         "dzien": "Sobota (Długi Bieg)",
+         "opis": "Długi bieg",
+         "bieg": "14-16 km w spokojnym tempie, tętno w 2. strefie (możesz biec w zróżnicowanym terenie).",
+         "stretching": "Stretching po biegu."
+      },
+      {
+         "dzien": "Niedziela (Cross-training lub Aktywna Regeneracja)",
+         "opis": "Cross-training lub aktywna regeneracja",
+         "aktywnosc": "45-60 minut umiarkowanej aktywności (rower lub pływanie).",
+         "cwiczenia": "Ćwiczenia wzmacniające core (1-2 obwody).",
+         "stretching": "Stretching, szczególnie nóg i pleców."
       }
    ]
 ]

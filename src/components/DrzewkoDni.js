@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import "../styles/DrzewkoDni.css";
 
 const DrzewkoDni = ({ dni }) => {
-   // console.log(dni);
    const [rozwinieteDni, ustawRozwinieteDni] = useState([]);
 
    const toggleDzien = (index) => {
@@ -11,6 +10,15 @@ const DrzewkoDni = ({ dni }) => {
       } else {
          ustawRozwinieteDni([...rozwinieteDni, index]);
       }
+   };
+
+   const renderWithNewLines = (text) => {
+      return text.split("\n").map((line, index) => (
+         <span key={index} className='drzewko-dni-span'>
+            {line}
+            <br />
+         </span>
+      ));
    };
 
    return (
@@ -23,56 +31,66 @@ const DrzewkoDni = ({ dni }) => {
                {rozwinieteDni.includes(index) && (
                   <ul>
                      <li>
-                        <strong>{dzien.opis}</strong>
+                        <strong>{renderWithNewLines(dzien.opis)}</strong>
                      </li>
                      {dzien.aktywnosc && (
                         <li>
-                           <strong>Aktywność:</strong> {dzien.aktywnosc}
+                           <strong>Aktywność:</strong>{" "}
+                           {renderWithNewLines(dzien.aktywnosc)}
                         </li>
                      )}
                      {dzien.bieg && (
                         <li>
-                           <strong>Bieg:</strong> {dzien.bieg}
+                           <strong>Bieg:</strong>{" "}
+                           {renderWithNewLines(dzien.bieg)}
                         </li>
                      )}
                      {dzien.cwiczenia && (
                         <li>
-                           <strong>Ćwiczenia:</strong> {dzien.cwiczenia}
+                           <strong>Ćwiczenia:</strong>{" "}
+                           {renderWithNewLines(dzien.cwiczenia)}
                         </li>
                      )}
                      {dzien.rozgrzewka && (
                         <li>
-                           <strong>Rozgrzewka:</strong> {dzien.rozgrzewka}
+                           <strong>Rozgrzewka:</strong>{" "}
+                           {renderWithNewLines(dzien.rozgrzewka)}
                         </li>
                      )}
                      {dzien.interwaly && (
                         <li>
-                           <strong>Interwały:</strong> {dzien.interwaly}
+                           <strong>Interwały:</strong>{" "}
+                           {renderWithNewLines(dzien.interwaly)}
                         </li>
-                     )}{" "}
+                     )}
                      {dzien.podbiegi && (
                         <li>
-                           <strong>Podbiegi:</strong> {dzien.podbiegi}
+                           <strong>Podbiegi:</strong>{" "}
+                           {renderWithNewLines(dzien.podbiegi)}
                         </li>
                      )}
                      {dzien.fartlek && (
                         <li>
-                           <strong>Fartlek:</strong> {dzien.fartlek}
+                           <strong>Fartlek:</strong>{" "}
+                           {renderWithNewLines(dzien.fartlek)}
                         </li>
                      )}
                      {dzien.chlodzenie && (
                         <li>
-                           <strong>Chłodzenie:</strong> {dzien.chlodzenie}
+                           <strong>Chłodzenie:</strong>{" "}
+                           {renderWithNewLines(dzien.chlodzenie)}
                         </li>
                      )}
                      {dzien.mobilizacja && (
                         <li>
-                           <strong>Mobilizacja:</strong> {dzien.mobilizacja}
+                           <strong>Mobilizacja:</strong>{" "}
+                           {renderWithNewLines(dzien.mobilizacja)}
                         </li>
                      )}
                      {dzien.stretching && (
                         <li>
-                           <strong>Stretching:</strong> {dzien.stretching}
+                           <strong>Stretching:</strong>{" "}
+                           {renderWithNewLines(dzien.stretching)}
                         </li>
                      )}
                   </ul>
