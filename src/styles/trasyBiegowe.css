@@ -26,6 +26,10 @@
    border: 0; /* Usunięcie ramki */
 }
 
+.route-buttons {
+   margin-top: 1rem;
+}
+
 /* Responsywne dostosowanie wysokości iframe na mniejszych ekranach */
 @media (max-width: 768px) {
    .map-container {

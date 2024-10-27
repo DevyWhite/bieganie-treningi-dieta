@@ -41,21 +41,23 @@ const TrasyBiegowe = () => {
                                  ></iframe>
                               </div>
                            )}
-                           <Button
-                              variant='outline-primary'
-                              href={stage.gpx}
-                              target='_blank'
-                              style={{ marginRight: "10px" }}
-                           >
-                              GPX
-                           </Button>
-                           <Button
-                              variant='outline-secondary'
-                              href={stage.moreInfo}
-                              target='_blank'
-                           >
-                              Więcej informacji
-                           </Button>
+                           <div className='route-buttons'>
+                              <Button
+                                 variant='outline-primary'
+                                 href={stage.gpx}
+                                 target='_blank'
+                                 style={{ marginRight: "10px" }}
+                              >
+                                 GPX
+                              </Button>
+                              <Button
+                                 variant='outline-secondary'
+                                 href={stage.moreInfo}
+                                 target='_blank'
+                              >
+                                 Więcej informacji
+                              </Button>
+                           </div>
                         </div>
                      ))}
                   </Accordion.Body>
