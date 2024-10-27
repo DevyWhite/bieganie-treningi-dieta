@@ -30,3 +30,10 @@
 .menu-nawigacyjne button:hover {
    background-color: #484e52; /* Ciemniejszy szary po najechaniu */
 }
+
+/* Styl responsywny dla urządzeń mobilnych */
+@media (max-width: 480px) {
+   .menu-nawigacyjne button {
+      margin-bottom: 2px;
+   }
+}
