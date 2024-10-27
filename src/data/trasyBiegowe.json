@@ -140,7 +140,7 @@
          "stages": [
             {
                "stageId": 1,
-               "stageInfo": "93 km 2672 m+ / 2728 m-",
+               "stageInfo": "121 km xxx m+ / xxx m-",
                "stageDescription": "Niebieska, 121 kilometrowa trasa przecinający województwo lubelskie z południa na północ. Biegnie wzdłuż Wisły. Jej północna część znajduje się na terenie Krainy Lessowych Wąwozów.",
                "image": "https://hasajacezajace.com/wp-content/uploads/2021/09/kazimierz-dolny-korzeniowy-dol.jpg",
                "gpx": "https://mapa-turystyczna.pl/trail/szlak-nadwislanski-tmr#51.23038/21.88408/10",
@@ -148,6 +148,74 @@
                   "iframe": "https://mapa-turystyczna.pl/map/widget/trail/h1l0p0/tmr.html"
                },
                "moreInfo": "https://www.kraina.org.pl/szlaki/piesze/miejsce/kazimierz-dolny/nadwislanski"
+            }
+         ]
+      },
+      {
+         "id": 5,
+         "name": "Szlak Wyżynny Wschodni",
+         "stages": [
+            {
+               "stageId": 1,
+               "stageInfo": "90 km 503 m+ / 491 m-",
+               "stageDescription": "Szlak jest oznakowany kolorem czerwonym i ma długość 90 km. Prowadzi z Lublina do Chełma, terenami zaliczanymi do Wyżyny Lubelskiej i Pagórów Chełmskich.",
+               "image": "https://cdn.mapa-turystyczna.pl/photo/181685.jpg",
+               "gpx": "https://mapa-turystyczna.pl/trail/szlak-wyzynny-wschodni-ca4#51.16919/23.03730/11",
+               "map": {
+                  "iframe": "https://mapa-turystyczna.pl/map/widget/trail/h1l0p0/ca4.html"
+               },
+               "moreInfo": "https://www.chelm.pttk.pl/index.php/szlaki/szlaki-piesze/55-szlak-wyzynny-wschodni-czerwony"
+            }
+         ]
+      },
+      {
+         "id": 6,
+         "name": "Szlak Wyżynny Zachodni",
+         "stages": [
+            {
+               "stageId": 1,
+               "stageInfo": "61 km 489 m+ / 575 m-",
+               "stageDescription": "Czerwony, szlak od długości 61 km przecinający województwo lubelskie z zachodu na wschód. Łączy on ze sobą renesansową perłę - Kazimierz Dolny, sanktuarium w Wąwolnicy, uzdrowiskowy Nałęczów i stolicę województwa Lublin.",
+               "image": "https://cdn.mapa-turystyczna.pl/photo/162905.jpg",
+               "gpx": "https://mapa-turystyczna.pl/trail/szlak-wyzynny-zachodni-cyz#51.26596/22.21333/11",
+               "map": {
+                  "iframe": "https://mapa-turystyczna.pl/map/widget/trail/h1l0p0/cyz.html"
+               },
+               "moreInfo": "https://www.kraina.org.pl/szlaki/piesze/miejsce/kazimierz-dolny/wyzynny-zachodni"
+            }
+         ]
+      },
+      {
+         "id": 7,
+         "name": "Szlak Partyzancki Rąblów - Ostrów Lubelski",
+         "stages": [
+            {
+               "stageId": 1,
+               "stageInfo": "74,5 km 439 m+ / 434 m-",
+               "stageDescription": "Niebieski szlak o długości ok 75 km biegnie przez historyczne miejsca działań partyzanckich, które miały miejsce na terenach powiatów: puławskiego, lubelskiego i lubartowskiego.",
+               "image": "https://cdn.mapa-turystyczna.pl/photo/203807.jpg",
+               "gpx": "https://mapa-turystyczna.pl/trail/szlak-partyzancki-ccq#51.39424/22.45914/11",
+               "map": {
+                  "iframe": "https://mapa-turystyczna.pl/map/widget/trail/h1l0p0/ccq.html"
+               },
+               "moreInfo": "https://www.kraina.org.pl/szlaki/piesze/miejsce/partyzancki"
+            }
+         ]
+      },
+      {
+         "id": 8,
+         "name": "Bialski Szlak Pamięci Narodowej",
+         "stages": [
+            {
+               "stageId": 1,
+               "stageInfo": "40 km 145 m+ / 145 m-",
+               "stageDescription": "Biała Podlaska pętla ok 40km",
+               "image": "",
+               "gpx": "https://mapa-turystyczna.pl/trail/bialski-szlak-pamieci-narodowej-t72#52.02532/23.11923/14",
+               "map": {
+                  "iframe": "https://mapa-turystyczna.pl/map/widget/trail/h1l0p0/t72.html"
+               },
+               "moreInfo": "https://www.kraina.org.pl/szlaki/piesze/miejsce/partyzancki"
             }
          ]
       }
