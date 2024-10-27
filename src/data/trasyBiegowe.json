@@ -218,6 +218,23 @@
                "moreInfo": "https://www.kraina.org.pl/szlaki/piesze/miejsce/partyzancki"
             }
          ]
+      },
+      {
+         "id": 9,
+         "name": "Szlak Krawędziowy Roztocza",
+         "stages": [
+            {
+               "stageId": 1,
+               "stageInfo": "54 km 568 m+ / 594 m-",
+               "stageDescription": "Szlak ukazuje najcenniejsze obiekty kultury znajdujące się w Zwierzyńcu, przechodzi obok browaru i dawnego Pałacu Plenipotenta (siedziba Dyrekcji RPN) oraz Ośrodka Edukacyjno-Muzealnego RPN. Po pokonaniu kilku kilometrów dochodzi do Florianki - starej osady leśnej z tradycyjną zabudową oraz stajenną hodowlą konika polskiego.",
+               "image": "https://rpn.gov.pl/uploads/thumbs/669848e06c5e4693164367.webp",
+               "gpx": "https://mapa-turystyczna.pl/trail/szlak-krawedziowy-tuc#50.50793/23.07850/11",
+               "map": {
+                  "iframe": "https://mapa-turystyczna.pl/map/widget/trail/h1l0p0/tuc.html"
+               },
+               "moreInfo": "https://rpn.gov.pl/szlak-krawedziowy-roztocza"
+            }
+         ]
       }
    ]
 }
