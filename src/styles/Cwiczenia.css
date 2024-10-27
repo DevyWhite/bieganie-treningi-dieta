@@ -13,6 +13,7 @@
 /* Nawigacja */
 .cwiczenia-nav {
    margin-bottom: 20px; /* Odstęp poniżej nawigacji */
+   min-width: 100vh;
 }
 
 /* Lista nawigacji */
