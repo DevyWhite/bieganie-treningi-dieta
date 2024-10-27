@@ -254,5 +254,42 @@
          "cwiczenia": "Ćwiczenia wzmacniające core (1-2 obwody).",
          "stretching": "Stretching, szczególnie nóg i pleców."
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Długie Wybieganie)",
+         "opis": "Długie wybieganie przełożone z soboty",
+         "bieg": "14-16 km w spokojnym tempie, tętno w 2. strefie (utrzymuj komfortowe tempo, aby nie przeciążać organizmu).",
+         "stretching": "Rozciąganie po biegu."
+      },
+      {
+         "dzien": "Wtorek (Wolne)",
+         "opis": "Wolne"
+      },
+      {
+         "dzien": "Środa (Wolne)",
+         "opis": "Wolne"
+      },
+      {
+         "dzien": "Czwartek (Wolne)",
+         "opis": "Wolne"
+      },
+      {
+         "dzien": "Piątek (Wolne)",
+         "opis": "Wolne"
+      },
+      {
+         "dzien": "Sobota (Regeneracja)",
+         "opis": "Dzień regeneracyjny",
+         "aktywnosc": "Spacer z psem ok 10km + spacer wieczorem ok 2-5km w spokojnym tempie",
+         "stretching": "Delikatne rozciąganie"
+      },
+      {
+         "dzien": "Niedziela (Cross-training)",
+         "opis": "Cross-training, nieobciążający nogi",
+         "aktywnosc": "15-20 minut umiarkowanej aktywności (rower lub pływanie).",
+         "cwiczenia": "Ćwiczenia wzmacniające core (1-2 obwody) [Deska (przód i bok), Hollow hold (pozycja łódeczki), Superman].",
+         "stretching": "Skup się na rozciąganiu nóg i pleców."
+      }
    ]
 ]

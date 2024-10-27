@@ -24,6 +24,7 @@
    border-radius: 5px; /* Zaokrąglone rogi przycisków */
    font-size: 16px;
    transition: background-color 0.3s ease; /* Płynna zmiana koloru */
+   margin-bottom: 15px;
 }
 
 .menu-nawigacyjne button:hover {
