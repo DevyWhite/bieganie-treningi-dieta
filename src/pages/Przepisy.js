@@ -1,13 +1,13 @@
 import React, { useState } from "react";
 import { Link, Outlet } from "react-router-dom";
 import "../styles/Przepisy.css";
-import przepisyData from "../data/przepisy.json";
+import recipesData from "../data/recipes.json";
 import imageMap from "../components/imageMap";
 
 // Przekształcanie danych JSON na dane z obrazkami
-const przepisDane = przepisyData.map((przepis) => ({
-   ...przepis,
-   image: imageMap[przepis.imageId],
+const przepisDane = recipesData.map((recipe) => ({
+   ...recipe,
+   image: imageMap[recipe.imageId],
 }));
 
 const Przepisy = () => {
@@ -15,9 +15,9 @@ const Przepisy = () => {
 
    // Filtrowanie przepisów na podstawie tekstu w polu filtracji
    const filteredPrzepisy = przepisDane.filter(
-      (przepis) =>
-         przepis.title &&
-         przepis.title.toLowerCase().includes(filter.toLowerCase())
+      (recipe) =>
+         recipe.title &&
+         recipe.title.toLowerCase().includes(filter.toLowerCase())
    );
 
    return (
@@ -34,15 +34,18 @@ const Przepisy = () => {
 
          {/* Kontener siatki dla przepisów */}
          <div className='grid-container'>
-            {filteredPrzepisy.map((przepis) => (
-               <div className='grid-item' key={przepis.id}>
-                  <Link to={przepis.link} className='przepis-link'>
+            {filteredPrzepisy.map((recipe) => (
+               <div className='grid-item' key={recipe.id}>
+                  <Link
+                     to={`/przepisy/${recipe.link}`}
+                     className='przepis-link'
+                  >
                      <img
-                        src={przepis.image}
-                        alt={przepis.title}
+                        src={recipe.image}
+                        alt={recipe.title}
                         className='przepis-image'
                      />
-                     <p className='przepis-title'>{przepis.title}</p>
+                     <p className='przepis-title'>{recipe.title}</p>
                   </Link>
                </div>
             ))}

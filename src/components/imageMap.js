@@ -14,6 +14,8 @@ import imgChlebekBananowy from "../images/chlebek_bananowy.jpg";
 import imgPlackiBananoweCzekoladowe from "../images/placki_bananowe_czekoladowe.jpg";
 import imgSernikBezCukru from "../images/sernik_bez_cukru.jpg";
 import imgKuleMocy from "../images/imgKuleMocy.png";
+import imgKokosowyChiaPudding from "../images/imgKokosowyChiaPudding.png";
+import imgBolognese_tofu from "../images/bolognese_tofu.png";
 
 // Mapowanie identyfikatorów obrazków na zaimportowane obrazy
 const imageMap = {
@@ -33,6 +35,8 @@ const imageMap = {
    placki_bananowe_czekoladowe: imgPlackiBananoweCzekoladowe,
    sernik_bez_cukru: imgSernikBezCukru,
    kule_mocy: imgKuleMocy,
+   bolognese_tofu: imgBolognese_tofu,
+   kokosowy_chia_pudding: imgKokosowyChiaPudding,
 };
 
 export default imageMap;

@@ -110,7 +110,7 @@
                "image": "http://www.turystyka.susiec.pl/files/centralny_niebieski.jpg",
                "gpx": "https://mapa-turystyczna.pl/trail/centralny-szlak-roztocza-tx5#50.52333/22.90031/10",
                "map": {
-                  "iframe": "https://mapa-turystyczna.pl/map/widget/trail/h1l0p1/tx5.html"
+                  "iframe": "https://mapa-turystyczna.pl/map/widget/trail/h1l0p0/tx5.html"
                },
                "moreInfo": "https://rpn.gov.pl/szlak-centralny-roztocza"
             }
@@ -128,9 +128,26 @@
                "image": "https://gorskim-szlakiem.pl/wp-content/uploads/2022/06/P1010270-e1654504499380-1024x640.jpg",
                "gpx": "https://mapa-turystyczna.pl/trail/glowny-szlak-swietokrzyski-im-edmunda-massalskiego-t3#50.88805/20.81326/11",
                "map": {
-                  "iframe": "https://mapa-turystyczna.pl/map/widget/trail/h1l0p1/t3.html"
+                  "iframe": "https://mapa-turystyczna.pl/map/widget/trail/h1l0p0/t3.html"
                },
                "moreInfo": "https://gorskim-szlakiem.pl/glowny-szlak-swietokrzyski/"
+            }
+         ]
+      },
+      {
+         "id": 4,
+         "name": "Szlak Nadwiślański",
+         "stages": [
+            {
+               "stageId": 1,
+               "stageInfo": "93 km 2672 m+ / 2728 m-",
+               "stageDescription": "Niebieska, 121 kilometrowa trasa przecinający województwo lubelskie z południa na północ. Biegnie wzdłuż Wisły. Jej północna część znajduje się na terenie Krainy Lessowych Wąwozów.",
+               "image": "https://hasajacezajace.com/wp-content/uploads/2021/09/kazimierz-dolny-korzeniowy-dol.jpg",
+               "gpx": "https://mapa-turystyczna.pl/trail/szlak-nadwislanski-tmr#51.23038/21.88408/10",
+               "map": {
+                  "iframe": "https://mapa-turystyczna.pl/map/widget/trail/h1l0p0/tmr.html"
+               },
+               "moreInfo": "https://www.kraina.org.pl/szlaki/piesze/miejsce/kazimierz-dolny/nadwislanski"
             }
          ]
       }

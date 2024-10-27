@@ -1,0 +1,285 @@
+[
+   {
+      "id": 1,
+      "title": "Orzechowo-czeko-bananowe batony energetyczne",
+      "link": "orzechowo_czeko_bananowe",
+      "imageId": "orzechowo_czeko_bananowe",
+      "ingredients": [
+         "150 gramów płatków owsianych błyskawicznych",
+         "2 duże, dojrzałe banany",
+         "60 gramów masła orzechowego",
+         "2 łyżki naturalnego kakao",
+         "20 gramów czekolady mlecznej w formie wiórk...",
+         "garść drobno posiekanych orzechów laskowych",
+         "miód według uznania smakowego"
+      ],
+      "description": [
+         "Banany zgnieć na papkę.",
+         "Wymieszaj z płatkami, masłem orzechowym i pozostałymi składnikami.",
+         "Przerzuć masę na brytfannę wyłożoną papierem do pieczenia.",
+         "Piecz w 180 stopniach, przynajmniej 15 minut."
+      ]
+   },
+   {
+      "id": 2,
+      "title": "Batony energetyczne – przepis z suszonkami i pestkami",
+      "link": "suszone_owoce",
+      "imageId": "suszone_owoce",
+      "ingredients": [
+         "200 gramów płatków owsianych",
+         "70 gramów masła orzechowego",
+         "80 gramów miód/syrop daktylowy/syrop z agawy/syrop klonowy",
+         "garść pestek słonecznika",
+         "garść pestek dyni",
+         "garść rodzynek",
+         "garść suszonej żurawiny",
+         "garść suszonych borówek",
+         "garść nasion konopii"
+      ],
+      "description": [
+         "Wymieszaj na gładko wszystkie składniki.",
+         "Wstaw do lodówki na kilka godzin.",
+         "Po schłodzeniu pokrój na batoniki."
+      ]
+   },
+   {
+      "id": 3,
+      "title": "Daktylowy baton energetyczny – przepis",
+      "link": "daktylowy_baton",
+      "imageId": "daktylowy",
+      "ingredients": [
+         "100 gramów suszonych daktyli",
+         "100 gramów płatków orkiszowych górskich",
+         "30 gramów nasion chia",
+         "30 gramów sezamu",
+         "30 gramów oleju kokosowego"
+      ],
+      "description": [
+         "Zblenduj daktyle na gładką masę.",
+         "Wymieszaj z pozostałymi składnikami.",
+         "Przerzuć do naczynia, wstaw do lodówki."
+      ]
+   },
+   {
+      "id": 4,
+      "title": "Batony energetyczne – przepis z ryżem preparowanym",
+      "link": "ryz_preparowany",
+      "imageId": "ryz_preparowany",
+      "ingredients": [
+         "50 gramów ryżu preparowanego",
+         "50 gramów płatków owsianych górskich",
+         "garść orzechów włoskich drobno posiekanych",
+         "garść rodzynek",
+         "garść żurawiny suszonej",
+         "300 gramów czekolady gorzkiej o zawartości kakao minimum 80%"
+      ],
+      "description": [
+         "Rozpuść czekoladę w kąpieli wodnej.",
+         "Dodaj pozostałe składniki i wymieszaj.",
+         "Przerzuć do naczynia, wstaw do lodówki na kilka godzin."
+      ]
+   },
+   {
+      "id": 5,
+      "title": "Figowe batoniki dodające energii",
+      "link": "figowe_batoniki",
+      "imageId": "figowe_batoniki",
+      "ingredients": [
+         "100 gramów płatków owsianych",
+         "2 jajka",
+         "150 gramów suszonych fig",
+         "20 gramów oleju rzepakowego",
+         "30 gramów miodu",
+         "pół łyżeczki sody oczyszczonej"
+      ],
+      "description": [
+         "Wymieszaj płatki, jajka, olej i mleko.",
+         "Pokrój figi i dodaj do masy.",
+         "Piecz w 180 stopniach przez 25-30 minut."
+      ]
+   },
+   {
+      "id": 6,
+      "title": "Kawowo-kakaowe batony energetyczne – przepis",
+      "link": "kawowo_kakaowe",
+      "imageId": "kawowo_kakaowe",
+      "ingredients": [
+         "150 gramów mąki orkiszowej razowej",
+         "100 gramów miodu",
+         "100 gramów suszonych daktyli",
+         "50 gramów posiekanych migdałów",
+         "garść rodzynek",
+         "garść orzechów laskowych",
+         "łyżka kawy rozpuszczalnej",
+         "2 łyżki kakao naturalnego"
+      ],
+      "description": [
+         "Zmiel daktyle na papkę, wymieszaj z resztą składników.",
+         "Piecz w 180 stopniach przez około 20 minut."
+      ]
+   },
+   {
+      "id": 7,
+      "title": "Chlebek bananowy",
+      "imageId": "chlebek_bananowy",
+      "link": "chlebek_bananowy",
+      "ingredients": [
+         "3 dojrzałe banany (jednego przekrój wzdłuż, do ciasta idą dwa)",
+         "2 jajka",
+         "200 g mąki pszennej pełnoziarnistej",
+         "100 g płatków owsianych błyskawicznej",
+         "70 g masła orzechowego",
+         "1/3 szklanki erytrytolu (opcjonalnie – 1/4 szklanki cukru)",
+         "chlust mleka",
+         "łyżeczka sody oczyszczonej",
+         "łyżeczka cynamonu",
+         "dwie łyżeczki kakao naturalnego",
+         "1/4 łyżeczki soli",
+         "opcjonalnie – suszone owoce według uznania",
+         "opcjonalnie – pokruszona czekolada według uznania"
+      ],
+      "description": [
+         "Piekarnik rozgrzać do 180°C. Keksówkę wyłożyć papierem do pieczenia.",
+         "Banany rozgnieść widelcem. Masło orzechowe podtopić do półpłynnej konsystencji.",
+         "Białka jaj ubić, wymieszać z żółtkami. Dodać pozostałe składniki, wymieszać do połączenia.",
+         "Ciasto przełożyć do przygotowanej formy, na wierzch położyć połówki banana i piec przez około 50 minut, do suchego patyczka.",
+         "Podawaj z dżemem, jogurtem naturalnym, jogurtem proteinowym, twarogiem, ciepłym mlekiem."
+      ]
+   },
+   {
+      "id": 8,
+      "title": "Kulki Mocy z Daktylami i Orzechami",
+      "imageId": "kule_mocy",
+      "link": "kule_mocy",
+      "ingredients": [
+         "200 g daktyli (bez pestek)",
+         "100 g orzechów (np. migdałów, orzechów włoskich lub nerkowców)",
+         "50 g płatków owsianych",
+         "2 łyżki kakao (opcjonalnie)",
+         "1 łyżka masła orzechowego",
+         "Szczypta soli",
+         "Woda (w razie potrzeby)"
+      ],
+      "description": [
+         "Namocz daktyle w ciepłej wodzie przez 10-15 minut, jeśli są twarde, a następnie odcedź.",
+         "Włóż daktyle, orzechy, płatki owsiane, kakao, masło orzechowe i sól do malaksera. Miksuj, aż składniki dobrze się połączą. Dodaj odrobinę wody, jeśli masa jest za sucha.",
+         "Wilgotnymi dłońmi formuj z masy małe kulki (około 2-3 cm średnicy).",
+         "Umieść kulki na talerzu lub w pojemniku i wstaw do lodówki na co najmniej 30 minut, aby stwardniały.",
+         "Kulki mocy można przechowywać w lodówce przez tydzień."
+      ]
+   },
+   {
+      "id": 9,
+      "title": "Bananowy sernik bez cukru",
+      "link": "sernik_bez_cukru",
+      "imageId": "sernik_bez_cukru",
+      "ingredients": [
+         "250 g twarogu chudego (kostka drobno zmielonego)",
+         "1 jajko",
+         "1 dojrzały banan",
+         "1/2 szklanki płatków owsianych błyskawicznych",
+         "łyżka wiórków kokosowych",
+         "garść drobno posiekanych orzechów",
+         "2 łyżki erytrytolu",
+         "5 kropli aromatu waniliowego/kokosowego/biała czekolada/migdał",
+         "opcjonalnie – drugi banan przekrojony na pół, do położenia na wierzchu ciasta"
+      ],
+      "description": [
+         "Banany rozgnieść widelcem, połączyć z twarogiem.",
+         "Jajka ubić z erytrytolem na puszystą masę. Dodać rozgniecione banany, twaróg i aromat waniliowy. Wymieszać.",
+         "Do masy wrzucić płatki owsiane, orzechy i wiórki kokosowe. Wymieszać.",
+         "Masę przelać do przygotowanej formy (opcjonalnie – połówki banana na wierzch) i piec przez około 40 minut, 180 stopni, do suchego patyczka.",
+         "Podawać z czym chcesz – sernik jest zbilansowany, są w nim wszystkie makroskładniki. Jak dla nas, świeżych owoców nigdy dość 😉."
+      ]
+   },
+   {
+      "id": 10,
+      "title": "Najprostsze bananowe placuszki",
+      "link": "placki_bananowe",
+      "imageId": "placki_bananowe",
+      "ingredients": [
+         "1 dojrzały banan",
+         "30 g płatków owsianych błyskawicznych",
+         "20 g mąki pszennej pełnoziarnistej",
+         "1 jajko",
+         "na oko dowolnego mleka",
+         "szczypta soli",
+         "szczypta sody oczyszczonej",
+         "minimalna ilość oleju rzepakowego"
+      ],
+      "description": [
+         "Banany rozgnieć widelcem. Dodaj jajka i wymieszać. Opcjonalnie – jeśli ubijesz białko, placki nabiorą puszystości.",
+         "Dodać płatki owsiane, mąkę, sodę, sól. Chlusnąć mlekiem, żeby wyszło gładkie, ale gęste ciasto (jak na racuchy). Wymieszać do połączenia składników.",
+         "Rozgrzać patelnię na średnim ogniu i dodać odrobinę oleju. Nakładać porcje ciasta na patelnię i smażyć na wolnym ogniu z każdej strony, aż placki się zarumienią.",
+         "Podawać z wysokobiałkowym jogurtem, twarogiem, serkiem wiejskim, batonikiem proteinowym.",
+         "Opcjonalnie, przy wykładaniu na patelnię możesz dodać do placków całe kawałki bananów."
+      ]
+   },
+   {
+      "id": 11,
+      "title": "Placki bananowe – wersja wysokobiałkowo-kakaowa",
+      "link": "placki_bananowe_czekoladowe",
+      "imageId": "placki_bananowe_czekoladowe",
+      "ingredients": [
+         "1 duży dojrzały banan",
+         "30 g odżywki białkowej o smaku czekoladowym",
+         "40 g mąki pszennej",
+         "1 łyżka naturalnego kakao",
+         "chlust mleka na oko",
+         "szczypta sody oczyszczonej",
+         "szczypta soli",
+         "olej do smażenia",
+         "opcjonalnie – jajko"
+      ],
+      "description": [
+         "Banany rozgnieść widelcem. Wrzucić do miski wszystko, chlusnąć mlekiem. Wymieszać do połączenia składników.",
+         "Rozgrzać naolejowaną patelnię, usmażyć placuszki na wolnym ogniu z każdej strony.",
+         "Podawać z owocami, frużeliną, masłem orzechowym, gorzką czekoladą, słodkim sosem.",
+         "Te placki są świetnym posiłkiem po treningu – białko odżywi mięśnie, bananowa słodycz uruchomi odnowę glikogenu.",
+         "Możesz dodać więcej kakao, żeby uzyskać mocno czekoladową barwę. Smakują świetnie z domową bitą śmietaną i malinami."
+      ]
+   },
+   {
+      "title": "Bolognese z wędzonym tofu",
+      "link": "bolognese_tofu",
+      "imageId": "bolognese_tofu",
+      "ingredients": [
+         "200g Passata pomidorowa",
+         "100g pieczarki",
+         "50g Marchew",
+         "2x łyżeczka Natka pietruszki",
+         "1 łyżka Oliwa z oliwek",
+         "150g Makaron pełnoziarnisty",
+         "1 ząbek Czosnek",
+         "90g Tofu wędzone",
+         "0,5szt Czerwona cebula"
+      ],
+      "description": [
+         "Na oliwie podduszamy pokrojoną cebulę, wyciśnięty czosneki pokrojone pieczarki oraz marchewkę.",
+         "Gotujemy makaron(nieważny ksztatt, warto, aby był razowy).",
+         "Tofu rozgniatamy widelcemDorzucamy na patelnię.",
+         "Doprawiamy wszystko",
+         "Na koniec dodajemypomidory/passatę i zagotowujemy.",
+         "Podajemy z posiekaną zielonąpietruszką/kietkami/czymszielonym.Opcjonalnie dodatkowopłatki drożdżowe/parmezan(zamiennie)."
+      ]
+   },
+   {
+      "id": 12,
+      "title": "Kokosowy chia pudding",
+      "link": "kokosowy_chia_pudding",
+      "imageId": "kokosowy_chia_pudding",
+      "description": [
+         "Mleczko kokosowe, mleko owsiane, miód i nasiona chia mieszamy razem",
+         "Odstawiamy do lodówki na min 3h",
+         "Rozdrobnić truskawki i posypać nimi pudding"
+      ],
+      "ingredients": [
+         "125g napój owsiany",
+         "80g mleczko kokosowe",
+         "70g truskawki",
+         "30g nasiona chia",
+         "25g miód",
+         "10g białko sojowe"
+      ]
+   }
+]
