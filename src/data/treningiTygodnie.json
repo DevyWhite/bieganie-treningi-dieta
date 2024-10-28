@@ -291,5 +291,52 @@
          "cwiczenia": "Ćwiczenia wzmacniające core (1-2 obwody) [Deska (przód i bok), Hollow hold (pozycja łódeczki), Superman].",
          "stretching": "Skup się na rozciąganiu nóg i pleców."
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Spokojny bieg + rozciąganie)",
+         "opis": "Spokojny bieg",
+         "bieg": "5-6 km w bardzo spokojnym tempie (tętno w 2. strefie), bez przyspieszeń ani zmiany tempa. Obserwuj nogę i przerwij bieg, jeśli poczujesz jakiekolwiek nieprzyjemne napięcie.",
+         "stretching": "Delikatne rozciąganie łydki, ud i bioder, jak w ostatnich dniach."
+      },
+      {
+         "dzien": "Wtorek (Lekki trening siłowy + core)",
+         "opis": "Lekki trening siłowy i ćwiczenia wzmacniające core",
+         "aktywnosc": "Przysiady bez obciążenia – 2 serie po 15 powtórzeń, aby rozruszać nogi i stawy, \nMostek biodrowy (glute bridge) – 2 serie po 15 powtórzeń, aby wzmocnić pośladki i tylne partie nóg, \nĆwiczenia mobilizacyjne – delikatna mobilizacja bioder i łydek",
+         "cwiczenia": "Deska – 2-3 serie po 30-45 sekund, \nHollow hold – 2 serie po 20-30 sekund, \nSuperman – 2 serie po 15 powtórzeń"
+      },
+      {
+         "dzien": "Środa (Regeneracja)",
+         "opis": "Trening regeneracyjny",
+         "bieg": "6-8 km spokojnego biegu, obserwując nogę. Jeśli nie ma bólu, możesz lekko zwiększyć dystans do 8 km.",
+         "stretching": "Po biegu rozciąganie łydki, ud, bioder i dolnej części pleców."
+      },
+      {
+         "dzien": "Czwartek (Fartlek - w wersji lżejszej)",
+         "opis": "Fartlek (trening na zmienne tempo)",
+         "rozgrzewka": "10 minut spokojnego biegu.",
+         "fartlek": "3 minuty w tempie progowym (około 4:30-4:40 na km) → 2 minuty spokojnego biegu (około 5:30-6:00/km).\n2 minuty w tempie nieco szybszym (około 4:20-4:30 na km) →  Wolniejszy bieg (5:30-6:00/km).\n1 minuta w mocnym tempie (około 4:00 na km) → 2 minuty spokojnego biegu. \nPowtórz cały cykl 2 razy.",
+         "chlodzenie": "10 minut spokojnego biegu.",
+         "stretching": "Zwróć szczególną uwagę na łydki i biodra."
+      },
+      {
+         "dzien": "Piątek (Regeneracja)",
+         "opis": "Aktywna regeneracja",
+         "aktywnosc": "Spacer lub rower, ewentualnie basen. Unikaj obciążania nogi, ale postaraj się o lekką, regeneracyjną aktywność.",
+         "stretching": "Skup się na rozciąganiu łydek i bioder."
+      },
+      {
+         "dzien": "Sobota (Długi bieg)",
+         "opis": "Długi bieg",
+         "bieg": "12-14 km w spokojnym tempie, bez przyspieszeń. Utrzymuj tempo w 2. strefie tętna i obserwuj reakcję nogi.",
+         "stretching": "Rozciąganie po biegu, szczególnie łydki i uda."
+      },
+      {
+         "dzien": "Niedziela (Cross-training lub aktywna regeneracja)",
+         "opis": "Cross-training lub aktywna regeneracja",
+         "aktywnosc": "Basen lub rower (bezpieczniejsze dla nogi niż dynamiczne ćwiczenia).",
+         "cwiczenia": "Ćwiczenia wzmacniające core - zestaw ćwiczeń na core, jeśli noga czuje się dobrze po sobocie.",
+         "stretching": "Skup się na biodrach, łydkach i dolnej części pleców."
+      }
    ]
 ]
