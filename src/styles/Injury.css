@@ -29,3 +29,21 @@
 .injury-note {
    margin-top: 1rem; /* Odstęp powyżej uwag */
 }
+
+/* Media Queries dla responsywności */
+@media (max-width: 768px) {
+   .card-title {
+      font-size: 1.2rem; /* Zmniejszenie tytułu na mniejszych ekranach */
+   }
+
+   .injury-description,
+   .injury-instructions,
+   .exercise-category,
+   .exercise-subcategory,
+   .exercise-item,
+   .stretch-item,
+   .tip-item,
+   .injury-note {
+      font-size: 0.9rem; /* Zmniejszenie rozmiaru tekstu dla wszystkich elementów */
+   }
+}
