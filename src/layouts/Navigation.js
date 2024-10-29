@@ -16,7 +16,10 @@ const list = [
 const Navigation = () => {
    const menu = list.map((item) => (
       <li key={item.name}>
-         <NavLink to={item.path} activeClassName='nav-active'>
+         <NavLink
+            to={item.path}
+            className={({ isActive }) => (isActive ? "nav-active" : undefined)}
+         >
             {item.name}
          </NavLink>
       </li>

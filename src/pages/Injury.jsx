@@ -1,102 +1,145 @@
 import React, { useEffect, useState } from "react";
+import { Container, Row, Col, Card } from "react-bootstrap";
 import injuryData from "../data/injury.json";
 import "../styles/Injury.css";
 
 const Injury = () => {
-   const [injuryInfo, setInjuryInfo] = useState({});
+   const [injuryInfo, setInjuryInfo] = useState([]);
 
    useEffect(() => {
       setInjuryInfo(injuryData);
    }, []);
 
-   if (!injuryInfo.title) return null;
+   if (injuryInfo.length === 0) {
+      return <div>Nie znaleziono danych o kontuzji.</div>;
+   }
 
    return (
-      <div className='injury-container'>
-         <h1 className='injury-title'>{injuryInfo.title}</h1>
-         <p className='injury-description'>{injuryInfo.description}</p>
+      <Container>
+         <Row>
+            {injuryInfo.map((injury) => (
+               <Col key={injury.id} md={12} className='mb-4'>
+                  <Card id={injury.id} className='injury-card p-3'>
+                     <Card.Body>
+                        <Card.Title className='injury-title'>
+                           {injury.title}
+                        </Card.Title>
+                        <Card.Text>{injury.description}</Card.Text>
 
-         {injuryInfo.exercises &&
-            injuryInfo.exercises.map((section, index) => (
-               <div key={index} className='injury-section'>
-                  <h2 className='injury-section-title'>{section.category}</h2>
+                        {/* Sekcja ćwiczeń */}
+                        <h5 className='mt-4'>Ćwiczenia:</h5>
+                        {injury.exercises && injury.exercises.length > 0 ? (
+                           injury.exercises.map((exercise, index) => {
+                              // Jeśli ćwiczenie ma kategorię
+                              if (exercise.category) {
+                                 return (
+                                    <div key={index}>
+                                       <h6 className='exercise-category'>
+                                          {exercise.category}
+                                       </h6>
+                                       {exercise.instructions && (
+                                          <p>{exercise.instructions}</p>
+                                       )}
+                                       {exercise.types &&
+                                          exercise.types.map(
+                                             (type, typeIndex) => (
+                                                <div key={typeIndex}>
+                                                   <h6 className='exercise-subcategory'>
+                                                      {type.subcategory}
+                                                   </h6>
+                                                   <ul>
+                                                      {type.exercises.map(
+                                                         (ex, exIndex) => (
+                                                            <li
+                                                               key={exIndex}
+                                                               className='exercise-item'
+                                                            >
+                                                               <strong>
+                                                                  {ex.title}
+                                                               </strong>
+                                                               :{" "}
+                                                               {ex.description}{" "}
+                                                               <br />
+                                                               <em>
+                                                                  {
+                                                                     ex.repetitions
+                                                                  }
+                                                               </em>
+                                                            </li>
+                                                         )
+                                                      )}
+                                                   </ul>
+                                                </div>
+                                             )
+                                          )}
+                                    </div>
+                                 );
+                              } else {
+                                 // Jeśli ćwiczenie nie ma kategorii, renderujemy je bezpośrednio
+                                 return (
+                                    <ul key={index}>
+                                       <li className='exercise-item'>
+                                          <strong>{exercise.title}</strong>{" "}
+                                          {exercise.description}
+                                          {exercise.series && (
+                                             <span>
+                                                Serie: {exercise.series}
+                                             </span>
+                                          )}
+                                          {exercise.repetitions && (
+                                             <span>
+                                                Powtórzenia:{" "}
+                                                {exercise.repetitions}
+                                             </span>
+                                          )}
+                                       </li>
+                                    </ul>
+                                 );
+                              }
+                           })
+                        ) : (
+                           <p>Brak ćwiczeń do wyświetlenia.</p>
+                        )}
 
-                  {/* Jeśli to instrukcje wstępne */}
-                  {section.instructions && (
-                     <p className='injury-section-instructions'>
-                        {section.instructions}
-                     </p>
-                  )}
-
-                  {/* Jeśli są podsekcje z różnymi typami ćwiczeń */}
-                  {section.types &&
-                     section.types.map((type, typeIndex) => (
-                        <div key={typeIndex} className='injury-subsection'>
-                           <h3 className='injury-subsection-title'>
-                              {type.subcategory}
-                           </h3>
-                           <ul className='injury-exercises-list'>
-                              {type.exercises.map((exercise, exIndex) => (
-                                 <li
-                                    key={exIndex}
-                                    className='injury-exercise-item'
-                                 >
-                                    <h4 className='injury-exercise-title'>
-                                       {exercise.title}
-                                    </h4>
-                                    <p className='injury-exercise-description'>
-                                       {exercise.description}
-                                    </p>
-                                    {exercise.repetitions && (
-                                       <p className='injury-exercise-repetitions'>
-                                          <strong>Powtórzenia:</strong>{" "}
-                                          {exercise.repetitions}
-                                       </p>
-                                    )}
-                                    {exercise.time && (
-                                       <p className='injury-exercise-time'>
-                                          <strong>Czas:</strong> {exercise.time}
-                                       </p>
-                                    )}
+                        {/* Sekcja rozciągania */}
+                        <h5 className='mt-4'>Stretching:</h5>
+                        {injury.stretching && injury.stretching.length > 0 ? (
+                           <ul>
+                              {injury.stretching.map((stretch, index) => (
+                                 <li key={index} className='stretch-item'>
+                                    <strong>{stretch.title}</strong>:{" "}
+                                    {stretch.description} <br />
+                                    <em>{stretch.duration}</em>
                                  </li>
                               ))}
                            </ul>
-                        </div>
-                     ))}
+                        ) : (
+                           <p>Brak rozciągania do wyświetlenia.</p>
+                        )}
 
-                  {/* Jeśli sekcja zawiera ćwiczenia bez podsekcji */}
-                  {section.exercises &&
-                     section.exercises.map((exercise, exIndex) => (
-                        <div key={exIndex} className='injury-exercise-item'>
-                           <h4 className='injury-exercise-title'>
-                              {exercise.title}
-                           </h4>
-                           <p className='injury-exercise-description'>
-                              {exercise.description}
-                           </p>
-                           {exercise.repetitions && (
-                              <p className='injury-exercise-repetitions'>
-                                 <strong>Powtórzenia:</strong>{" "}
-                                 {exercise.repetitions}
-                              </p>
-                           )}
-                           {exercise.time && (
-                              <p className='injury-exercise-time'>
-                                 <strong>Czas:</strong> {exercise.time}
-                              </p>
-                           )}
-                        </div>
-                     ))}
-               </div>
+                        {/* Sekcja wskazówek */}
+                        <h5 className='mt-4'>Porady:</h5>
+                        {injury.tips && injury.tips.length > 0 ? (
+                           <ul>
+                              {injury.tips.map((tip, index) => (
+                                 <li key={index} className='tip-item'>
+                                    {tip}
+                                 </li>
+                              ))}
+                           </ul>
+                        ) : (
+                           <p>Brak wskazówek do wyświetlenia.</p>
+                        )}
+
+                        {/* Sekcja uwag */}
+                        {injury.note && <h5 className='mt-4'>Uwagi:</h5>}
+                        <p className='injury-note'>{injury.note}</p>
+                     </Card.Body>
+                  </Card>
+               </Col>
             ))}
-
-         {/* Uwagi na temat ćwiczeń */}
-         {injuryInfo.note && (
-            <p className='injury-note'>
-               <strong>Uwagi:</strong> {injuryInfo.note}
-            </p>
-         )}
-      </div>
+         </Row>
+      </Container>
    );
 };
 

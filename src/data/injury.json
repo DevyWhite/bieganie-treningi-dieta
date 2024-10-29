@@ -1,81 +1,146 @@
-{
-   "title": "Ból więzadeł AiTFL i ATFL (uraz stawu skokowego)",
-   "description": "Ból w okolicach więzadeł AiTFL (przednie więzadło piszczelowo-strzałkowe dolne) oraz ATFL (więzadło skokowo-strzałkowe przednie) może świadczyć o urazach typowych dla skręcenia kostki. Przeciążenie tych więzadeł często wymaga odpoczynku i stopniowego wprowadzania ćwiczeń wzmacniających oraz stabilizacyjnych, które pomogą przywrócić stabilność stawu skokowego.",
-   "exercises": [
-      {
-         "category": "Kiedy zacząć ćwiczenia?",
-         "instructions": "Zacznij je, gdy minie ostry ból i opuchlizna. Na początek wybierz ćwiczenia o małej intensywności, aby sprawdzić, jak staw reaguje. Jeśli nie odczuwasz bólu, możesz stopniowo zwiększać intensywność."
-      },
-      {
-         "category": "Ćwiczenia wzmacniające i stabilizacyjne",
-         "types": [
-            {
-               "subcategory": "A. Ćwiczenia izometryczne",
-               "exercises": [
-                  {
-                     "title": "Izometryczne zgięcie grzbietowe",
-                     "description": "Usiądź na podłodze z wyprostowanymi nogami. Owiń taśmę lub ręcznik wokół przedniej części stopy i pociągnij w stronę siebie, jednocześnie próbując odepchnąć stopę do przodu (nie ruszając nią).",
-                     "repetitions": "Przytrzymaj napięcie przez 5-10 sekund, 5 powtórzeń na każdą stopę."
-                  },
-                  {
-                     "title": "Izometryczne zgięcie boczne i przywodzenie",
-                     "description": "Przytrzymaj stopę taśmą elastyczną (jeśli masz dostęp) i wykonuj lekki nacisk w stronę wewnętrzną (przywodzenie) oraz zewnętrzną (odwodzenie).",
-                     "repetitions": "10 powtórzeń na każdą stronę."
-                  }
-               ]
-            },
-            {
-               "subcategory": "B. Wzmacnianie i zakres ruchu",
-               "exercises": [
-                  {
-                     "title": "Alfabety palcami",
-                     "description": "Usiądź i wyciągnij nogę przed siebie, używając stopy do „pisania” liter alfabetu w powietrzu.",
-                     "repetitions": "Cały alfabet 2-3 razy na każdą stopę."
-                  },
-                  {
-                     "title": "Zgięcie podeszwowe i grzbietowe na taśmie oporowej",
-                     "description": "Umieść taśmę oporową wokół przedniej części stopy i ciągnij ją do siebie, jednocześnie opierając się stopą.",
-                     "repetitions": "10-15 razy na każdą stopę."
-                  },
-                  {
-                     "title": "Ćwiczenie na balans na jednej nodze",
-                     "description": "Stań na jednej nodze i utrzymaj równowagę przez 30 sekund, wykonując lekkie zgięcie kolana.",
-                     "repetitions": "Dodaj zamknięcie oczu lub niestabilną powierzchnię, aby zwiększyć trudność."
-                  }
-               ]
-            },
-            {
-               "subcategory": "C. Ćwiczenia propriocepcyjne",
-               "exercises": [
-                  {
-                     "title": "Balans na desce balansującej lub dysku sensorycznym",
-                     "description": "Ćwicz utrzymywanie równowagi przez 30-60 sekund na jednej nodze.",
-                     "repetitions": "30-60 sekund."
-                  },
-                  {
-                     "title": "Chodzenie na palcach i piętach",
-                     "description": "Spaceruj na palcach, a następnie na piętach przez 30-60 sekund.",
-                     "repetitions": "2-3 razy."
-                  }
-               ]
-            }
-         ]
-      },
-      {
-         "category": "Rozciąganie po treningu",
-         "exercises": [
-            {
-               "title": "Rozciąganie łydki przy ścianie",
-               "description": "Stań w wykroku, opierając ręce o ścianę. Przednia noga ugięta, tylna wyprostowana. Dociskaj piętę tylnej nogi do podłogi.",
-               "time": "20-30 sekund."
-            },
-            {
-               "title": "Rozciąganie mięśni łydek i stopy przy użyciu ręcznika",
-               "description": "Usiądź z wyprostowanymi nogami, owiń ręcznik wokół przedniej części stopy i delikatnie pociągnij w swoją stronę, aż poczujesz rozciąganie.",
-               "time": "20-30 sekund."
-            }
-         ]
-      }
-   ],
-   "note": "Regularność i stopniowe zwiększanie intensywności ćwiczeń pomoże w odbudowie stabilności oraz elastyczności stawu skokowego. Jeśli ból nie ustępuje lub staje się bardziej intensywny, warto skonsultować się z fizjoterapeutą."
-}
+[
+   {
+      "id": "ankle-injury",
+      "title": "Ból więzadeł AiTFL i ATFL (uraz stawu skokowego)",
+      "description": "Ból w okolicach więzadeł AiTFL (przednie więzadło piszczelowo-strzałkowe dolne) oraz ATFL (więzadło skokowo-strzałkowe przednie) może świadczyć o urazach typowych dla skręcenia kostki. Przeciążenie tych więzadeł często wymaga odpoczynku i stopniowego wprowadzania ćwiczeń wzmacniających oraz stabilizacyjnych, które pomogą przywrócić stabilność stawu skokowego.",
+      "instructions": "Zacznij ćwiczenia, gdy minie ostry ból i opuchlizna. Na początek wybierz ćwiczenia o małej intensywności i stopniowo je zwiększaj.",
+      "exercises": [
+         {
+            "category": "Kiedy zacząć ćwiczenia?",
+            "instructions": "Zacznij je, gdy minie ostry ból i opuchlizna. Na początek wybierz ćwiczenia o małej intensywności, aby sprawdzić, jak staw reaguje. Jeśli nie odczuwasz bólu, możesz stopniowo zwiększać intensywność."
+         },
+         {
+            "category": "Ćwiczenia wzmacniające i stabilizacyjne",
+            "types": [
+               {
+                  "subcategory": "A. Ćwiczenia izometryczne",
+                  "exercises": [
+                     {
+                        "title": "Izometryczne zgięcie grzbietowe",
+                        "description": "Usiądź na podłodze z wyprostowanymi nogami. Owiń taśmę lub ręcznik wokół przedniej części stopy i pociągnij w stronę siebie, jednocześnie próbując odepchnąć stopę do przodu (nie ruszając nią).",
+                        "repetitions": "Przytrzymaj napięcie przez 5-10 sekund, 5 powtórzeń na każdą stopę."
+                     },
+                     {
+                        "title": "Izometryczne zgięcie boczne i przywodzenie",
+                        "description": "Przytrzymaj stopę taśmą elastyczną (jeśli masz dostęp) i wykonuj lekki nacisk w stronę wewnętrzną (przywodzenie) oraz zewnętrzną (odwodzenie).",
+                        "repetitions": "10 powtórzeń na każdą stronę."
+                     }
+                  ]
+               },
+               {
+                  "subcategory": "B. Wzmacnianie i zakres ruchu",
+                  "exercises": [
+                     {
+                        "title": "Alfabety palcami",
+                        "description": "Usiądź i wyciągnij nogę przed siebie, używając stopy do „pisania” liter alfabetu w powietrzu.",
+                        "repetitions": "Cały alfabet 2-3 razy na każdą stopę."
+                     },
+                     {
+                        "title": "Zgięcie podeszwowe i grzbietowe na taśmie oporowej",
+                        "description": "Umieść taśmę oporową wokół przedniej części stopy i ciągnij ją do siebie, jednocześnie opierając się stopą.",
+                        "repetitions": "10-15 razy na każdą stopę."
+                     },
+                     {
+                        "title": "Ćwiczenie na balans na jednej nodze",
+                        "description": "Stań na jednej nodze i utrzymaj równowagę przez 30 sekund, wykonując lekkie zgięcie kolana.",
+                        "repetitions": "Dodaj zamknięcie oczu lub niestabilną powierzchnię, aby zwiększyć trudność."
+                     }
+                  ]
+               },
+               {
+                  "subcategory": "C. Ćwiczenia propriocepcyjne",
+                  "exercises": [
+                     {
+                        "title": "Balans na desce balansującej lub dysku sensorycznym",
+                        "description": "Ćwicz utrzymywanie równowagi przez 30-60 sekund na jednej nodze.",
+                        "repetitions": "30-60 sekund."
+                     },
+                     {
+                        "title": "Chodzenie na palcach i piętach",
+                        "description": "Spaceruj na palcach, a następnie na piętach przez 30-60 sekund.",
+                        "repetitions": "2-3 razy."
+                     }
+                  ]
+               }
+            ]
+         }
+      ],
+      "stretching": [
+         {
+            "title": "Rozciąganie łydki przy ścianie",
+            "description": "Stań w wykroku, opierając ręce o ścianę. Przednia noga ugięta, tylna wyprostowana. Dociskaj piętę tylnej nogi do podłogi.",
+            "duration": "20-30 sekund."
+         },
+         {
+            "title": "Rozciąganie mięśni łydek i stopy przy użyciu ręcznika",
+            "description": "Usiądź z wyprostowanymi nogami, owiń ręcznik wokół przedniej części stopy i delikatnie pociągnij w swoją stronę, aż poczujesz rozciąganie.",
+            "duration": "20-30 sekund."
+         }
+      ],
+      "tips": [
+         "Wykonuj ćwiczenia wzmacniające 2-3 razy w tygodniu.",
+         "Rozciąganie najlepiej wykonywać po ćwiczeniach wzmacniających lub codziennie.",
+         "Stopniowo wracaj do biegania, zaczynając od krótszych dystansów i wolniejszego tempa."
+      ],
+      "note": "Regularność i stopniowe zwiększanie intensywności ćwiczeń pomoże w odbudowie stabilności oraz elastyczności stawu skokowego. Jeśli ból nie ustępuje lub staje się bardziej intensywny, warto skonsultować się z fizjoterapeutą."
+   },
+   {
+      "id": "knee-injury",
+      "title": "Zespół bólu rzepkowo-udowego („kolano biegacza”)",
+      "description": "Zespół bólu rzepkowo-udowego (inaczej „kolano biegacza”) to dolegliwość często spotykana u osób, które zaczynają biegać. Ból lokalizuje się z przodu kolana, pod lub wokół rzepki, często przy schodzeniu po schodach, kucaniu lub siedzeniu przez dłuższy czas.",
+      "instructions": "Najlepiej rozpocząć ćwiczenia około tygodnia po ustąpieniu bólu. Zacznij od mniejszej intensywności i zwiększaj ją stopniowo.",
+      "exercises": [
+         {
+            "title": "Wzmacnianie mięśnia czworogłowego uda (straight leg raises)",
+            "description": "Połóż się na plecach, jedną nogę zgiętą w kolanie, drugą wyprostowaną. Unieś wyprostowaną nogę kilka centymetrów nad podłogę i utrzymaj pozycję przez 5 sekund.",
+            "series": "2-3 serie",
+            "repetitions": "10 powtórzeń na każdą nogę"
+         },
+         {
+            "title": "Wzmacnianie mięśni pośladkowych (mostek biodrowy)",
+            "description": "Połóż się na plecach, zgięte nogi ustaw na szerokość bioder. Unieś biodra do góry, tworząc linię od ramion do kolan, i utrzymaj pozycję przez 5 sekund.",
+            "series": "1 seria",
+            "repetitions": "10-15 powtórzeń"
+         },
+         {
+            "title": "Ćwiczenia na mięśnie bioder (clam shells)",
+            "description": "Połóż się na boku, nogi ugięte w kolanach, jedna na drugiej. Powoli unieś górne kolano, nie rozdzielając stóp, i powoli opuść.",
+            "series": "1 seria",
+            "repetitions": "15 powtórzeń na każdą stronę"
+         },
+         {
+            "title": "Przysiady przy ścianie",
+            "description": "Stań plecami do ściany i zsuń się w dół, jakbyś siedziała na niewidzialnym krześle, zginając kolana do 90 stopni (lub trochę płycej, jeśli czujesz dyskomfort). Wytrzymaj 5-10 sekund, wróć do pozycji wyjściowej.",
+            "series": "1 seria",
+            "repetitions": "8-10 powtórzeń"
+         }
+      ],
+      "stretching": [
+         {
+            "title": "Rozciąganie mięśnia czworogłowego",
+            "description": "Stań, przytrzymaj się ściany dla równowagi. Zegnij jedno kolano, przyciągając piętę w stronę pośladka, aż poczujesz rozciąganie w przedniej części uda.",
+            "duration": "20-30 sekund na każdą nogę"
+         },
+         {
+            "title": "Rozciąganie mięśni dwugłowych uda",
+            "description": "Usiądź na podłodze z wyprostowanymi nogami. Pochyl się do przodu, próbując dotknąć palców stóp, aż poczujesz rozciąganie z tyłu ud.",
+            "duration": "20-30 sekund"
+         },
+         {
+            "title": "Rozciąganie łydki",
+            "description": "Stań na krawędzi schodka lub książki, opuszczając jedną piętę w dół, aż poczujesz rozciąganie w łydce.",
+            "duration": "20-30 sekund na każdą stronę"
+         },
+         {
+            "title": "Rozciąganie mięśni bioder (pozycja gołębia)",
+            "description": "Usiądź na podłodze i wyciągnij jedną nogę za siebie, drugą ugnij przed sobą pod kątem 90 stopni, aż poczujesz rozciąganie w biodrze.",
+            "duration": "20-30 sekund na każdą stronę"
+         }
+      ],
+      "tips": [
+         "Wykonuj ćwiczenia wzmacniające 2-3 razy w tygodniu.",
+         "Rozciąganie najlepiej wykonywać po ćwiczeniach wzmacniających lub codziennie.",
+         "Stopniowo wracaj do biegania, zaczynając od krótszych dystansów i wolniejszego tempa."
+      ]
+   }
+]
