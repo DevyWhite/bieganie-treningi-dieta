@@ -3,6 +3,7 @@ import { Link, Outlet } from "react-router-dom";
 import "../styles/Przepisy.css";
 import recipesData from "../data/recipes.json";
 import imageMap from "../components/imageMap";
+import defaultImage from "../images/defaultImage.png";
 
 // Przekształcanie danych JSON na dane z obrazkami
 const przepisDane = recipesData.map((recipe) => ({
@@ -41,7 +42,7 @@ const Przepisy = () => {
                      className='przepis-link'
                   >
                      <img
-                        src={recipe.image}
+                        src={recipe.image || defaultImage}
                         alt={recipe.title}
                         className='przepis-image'
                      />

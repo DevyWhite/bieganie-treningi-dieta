@@ -2,6 +2,7 @@ import React from "react";
 import { useParams } from "react-router-dom";
 import recipes from "../data/recipes.json"; // Importujemy szczegółowe dane z przepisami
 import imageMap from "../components/imageMap";
+import defaultImage from "../images/defaultImage.png";
 import "../styles/RecipeCard.css";
 
 const RecipePage = () => {
@@ -15,7 +16,7 @@ const RecipePage = () => {
    return (
       <div className='recipe-card'>
          <img
-            src={imageMap[przepis.imageId]}
+            src={imageMap[przepis.imageId] || defaultImage}
             alt={przepis.title}
             className='recipe-image'
          />
