@@ -1,0 +1,118 @@
+/* Injury.css */
+
+/* Główny kontener dla komponentu Injury */
+.injury-container {
+   max-width: 800px; /* Maksymalna szerokość kontenera */
+   margin: 0 auto; /* Wyśrodkowanie kontenera */
+   padding: 20px; /* Padding wewnętrzny */
+   background-color: #f9f9f9; /* Kolor tła kontenera */
+   border-radius: 8px; /* Zaokrąglenie krawędzi */
+   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Cień dla kontenera */
+}
+
+/* Tytuł sekcji urazów */
+.injury-title {
+   font-size: 2rem; /* Rozmiar czcionki tytułu */
+   color: #333; /* Kolor tekstu */
+   margin-bottom: 20px; /* Odstęp poniżej tytułu */
+}
+
+/* Opis urazu */
+.injury-description {
+   font-size: 1rem; /* Rozmiar czcionki opisu */
+   color: #555; /* Kolor tekstu */
+   margin: 10px 0; /* Odstęp wokół opisu */
+}
+
+/* Sekcja ćwiczeń w ramach kategorii */
+.injury-section {
+   margin-bottom: 20px; /* Odstęp poniżej sekcji */
+}
+
+/* Tytuł sekcji ćwiczeń */
+.injury-section-title {
+   font-size: 1.5rem; /* Rozmiar czcionki tytułu sekcji */
+   font-weight: bold; /* Pogrubienie */
+   color: #333; /* Kolor tekstu */
+   margin: 15px 0; /* Odstęp wokół tytułu sekcji */
+}
+
+/* Instrukcje sekcji */
+.injury-section-instructions {
+   font-size: 1rem; /* Rozmiar czcionki instrukcji */
+   color: #777; /* Kolor tekstu */
+   margin: 10px 0; /* Odstęp wokół instrukcji */
+   font-style: italic; /* Kursywa dla wyróżnienia */
+}
+
+/* Tytuł podsekcji ćwiczeń */
+.injury-subsection-title {
+   font-size: 1.3rem; /* Rozmiar czcionki podsekcji */
+   font-weight: bold; /* Pogrubienie czcionki */
+   color: #444; /* Kolor tekstu */
+   margin-top: 10px; /* Odstęp powyżej podsekcji */
+}
+
+/* Lista ćwiczeń */
+.injury-exercises-list {
+   list-style-type: decimal; /* Typ listy - numeryczny */
+   padding-left: 20px; /* Padding z lewej */
+}
+
+/* Element listy ćwiczeń */
+.injury-exercise-item {
+   margin-bottom: 15px; /* Odstęp pomiędzy elementami listy */
+   border-bottom: 1px solid #ccc; /* Dolna linia oddzielająca */
+   padding-bottom: 10px; /* Padding poniżej */
+}
+
+/* Tytuł ćwiczenia */
+.injury-exercise-title {
+   font-size: 1.2rem; /* Rozmiar czcionki tytułu */
+   font-weight: bold; /* Pogrubienie */
+   color: #333; /* Kolor tekstu */
+   margin: 5px 0; /* Odstęp wokół tytułu */
+}
+
+/* Opis ćwiczenia */
+.injury-exercise-description,
+.injury-exercise-repetitions,
+.injury-exercise-time {
+   font-size: 1rem; /* Rozmiar czcionki opisu */
+   color: #555; /* Kolor tekstu */
+   margin: 4px 0; /* Odstęp wokół opisu */
+}
+
+/* Sekcja uwag */
+.injury-note {
+   font-size: 1rem; /* Rozmiar czcionki sekcji uwag */
+   color: #777; /* Kolor tekstu */
+   margin-top: 20px; /* Odstęp powyżej sekcji uwag */
+   font-style: italic; /* Kursywa */
+}
+
+/* Responsywność dla mniejszych ekranów */
+@media (max-width: 600px) {
+   .injury-title {
+      font-size: 1.4rem; /* Mniejszy rozmiar czcionki tytułu */
+   }
+
+   .injury-section-title {
+      font-size: 1.2rem; /* Mniejszy rozmiar czcionki tytułu sekcji */
+   }
+
+   .injury-subsection-title {
+      font-size: 1rem; /* Mniejszy rozmiar czcionki podsekcji */
+   }
+
+   .injury-exercise-title {
+      font-size: 1rem; /* Mniejszy rozmiar czcionki tytułów ćwiczeń */
+   }
+
+   .injury-exercise-description,
+   .injury-exercise-repetitions,
+   .injury-exercise-time,
+   .injury-note {
+      font-size: 0.9rem; /* Mniejszy rozmiar czcionki opisu */
+   }
+}

@@ -17,6 +17,11 @@ const Cwiczenia = () => {
                      Core
                   </Link>
                </li>
+               <li className='cwiczenia-nav-item'>
+                  <Link to='kontuzje' className='cwiczenia-nav-link'>
+                     Kontuzje
+                  </Link>
+               </li>
             </ul>
          </nav>
          <Outlet />

@@ -1,0 +1,81 @@
+{
+   "title": "Ból więzadeł AiTFL i ATFL (uraz stawu skokowego)",
+   "description": "Ból w okolicach więzadeł AiTFL (przednie więzadło piszczelowo-strzałkowe dolne) oraz ATFL (więzadło skokowo-strzałkowe przednie) może świadczyć o urazach typowych dla skręcenia kostki. Przeciążenie tych więzadeł często wymaga odpoczynku i stopniowego wprowadzania ćwiczeń wzmacniających oraz stabilizacyjnych, które pomogą przywrócić stabilność stawu skokowego.",
+   "exercises": [
+      {
+         "category": "Kiedy zacząć ćwiczenia?",
+         "instructions": "Zacznij je, gdy minie ostry ból i opuchlizna. Na początek wybierz ćwiczenia o małej intensywności, aby sprawdzić, jak staw reaguje. Jeśli nie odczuwasz bólu, możesz stopniowo zwiększać intensywność."
+      },
+      {
+         "category": "Ćwiczenia wzmacniające i stabilizacyjne",
+         "types": [
+            {
+               "subcategory": "A. Ćwiczenia izometryczne",
+               "exercises": [
+                  {
+                     "title": "Izometryczne zgięcie grzbietowe",
+                     "description": "Usiądź na podłodze z wyprostowanymi nogami. Owiń taśmę lub ręcznik wokół przedniej części stopy i pociągnij w stronę siebie, jednocześnie próbując odepchnąć stopę do przodu (nie ruszając nią).",
+                     "repetitions": "Przytrzymaj napięcie przez 5-10 sekund, 5 powtórzeń na każdą stopę."
+                  },
+                  {
+                     "title": "Izometryczne zgięcie boczne i przywodzenie",
+                     "description": "Przytrzymaj stopę taśmą elastyczną (jeśli masz dostęp) i wykonuj lekki nacisk w stronę wewnętrzną (przywodzenie) oraz zewnętrzną (odwodzenie).",
+                     "repetitions": "10 powtórzeń na każdą stronę."
+                  }
+               ]
+            },
+            {
+               "subcategory": "B. Wzmacnianie i zakres ruchu",
+               "exercises": [
+                  {
+                     "title": "Alfabety palcami",
+                     "description": "Usiądź i wyciągnij nogę przed siebie, używając stopy do „pisania” liter alfabetu w powietrzu.",
+                     "repetitions": "Cały alfabet 2-3 razy na każdą stopę."
+                  },
+                  {
+                     "title": "Zgięcie podeszwowe i grzbietowe na taśmie oporowej",
+                     "description": "Umieść taśmę oporową wokół przedniej części stopy i ciągnij ją do siebie, jednocześnie opierając się stopą.",
+                     "repetitions": "10-15 razy na każdą stopę."
+                  },
+                  {
+                     "title": "Ćwiczenie na balans na jednej nodze",
+                     "description": "Stań na jednej nodze i utrzymaj równowagę przez 30 sekund, wykonując lekkie zgięcie kolana.",
+                     "repetitions": "Dodaj zamknięcie oczu lub niestabilną powierzchnię, aby zwiększyć trudność."
+                  }
+               ]
+            },
+            {
+               "subcategory": "C. Ćwiczenia propriocepcyjne",
+               "exercises": [
+                  {
+                     "title": "Balans na desce balansującej lub dysku sensorycznym",
+                     "description": "Ćwicz utrzymywanie równowagi przez 30-60 sekund na jednej nodze.",
+                     "repetitions": "30-60 sekund."
+                  },
+                  {
+                     "title": "Chodzenie na palcach i piętach",
+                     "description": "Spaceruj na palcach, a następnie na piętach przez 30-60 sekund.",
+                     "repetitions": "2-3 razy."
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "category": "Rozciąganie po treningu",
+         "exercises": [
+            {
+               "title": "Rozciąganie łydki przy ścianie",
+               "description": "Stań w wykroku, opierając ręce o ścianę. Przednia noga ugięta, tylna wyprostowana. Dociskaj piętę tylnej nogi do podłogi.",
+               "time": "20-30 sekund."
+            },
+            {
+               "title": "Rozciąganie mięśni łydek i stopy przy użyciu ręcznika",
+               "description": "Usiądź z wyprostowanymi nogami, owiń ręcznik wokół przedniej części stopy i delikatnie pociągnij w swoją stronę, aż poczujesz rozciąganie.",
+               "time": "20-30 sekund."
+            }
+         ]
+      }
+   ],
+   "note": "Regularność i stopniowe zwiększanie intensywności ćwiczeń pomoże w odbudowie stabilności oraz elastyczności stawu skokowego. Jeśli ból nie ustępuje lub staje się bardziej intensywny, warto skonsultować się z fizjoterapeutą."
+}
