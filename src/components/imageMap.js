@@ -16,6 +16,9 @@ import imgSernikBezCukru from "../images/sernik_bez_cukru.jpg";
 import imgKuleMocy from "../images/imgKuleMocy.png";
 import imgKokosowyChiaPudding from "../images/imgKokosowyChiaPudding.png";
 import imgBolognese_tofu from "../images/bolognese_tofu.png";
+import imgShake_owocowy_z_bananem_i_jagodami from "../images/shake_owocowy_z_bananem_i_jagodami.png";
+import imgChia_pudding_dyniowy from "../images/chia_pudding_dyniowy.jpeg";
+import imgMakaron_z_dynia_szpinakiem_i_serem_feta from "../images/makaron_z_dynia_szpinakiem_i_serem_feta.jpeg";
 
 // Mapowanie identyfikatorów obrazków na zaimportowane obrazy
 const imageMap = {
@@ -37,6 +40,10 @@ const imageMap = {
    kule_mocy: imgKuleMocy,
    bolognese_tofu: imgBolognese_tofu,
    kokosowy_chia_pudding: imgKokosowyChiaPudding,
+   shake_owocowy_z_bananem_i_jagodami: imgShake_owocowy_z_bananem_i_jagodami,
+   chia_pudding_dyniowy: imgChia_pudding_dyniowy,
+   makaron_z_dynia_szpinakiem_i_serem_feta:
+      imgMakaron_z_dynia_szpinakiem_i_serem_feta,
 };
 
 export default imageMap;

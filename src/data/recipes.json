@@ -281,5 +281,119 @@
          "25g miód",
          "10g białko sojowe"
       ]
+   },
+   {
+      "id": 13,
+      "title": "Shake owocowy z bananem i jagodami",
+      "link": "shake_owocowy_z_bananem_i_jagodami",
+      "imageId": "shake_owocowy_z_bananem_i_jagodami",
+      "description": [
+         "Zmiksuj wszystkie składniki na gładką masę.",
+         "W razie potrzeby dodaj więcej mleka, aby uzyskać preferowaną konsystencję."
+      ],
+      "ingredients": [
+         "250ml pitnego skyru naturalnego",
+         "1szt banan",
+         "125ml jagód (świeżych lub mrożonych)",
+         "125ml mleka owsianego",
+         "10g miodu",
+         "10g białko sojowe"
+      ]
+   },
+   {
+      "id": 14,
+      "title": "Shake tropikalny z mango i pomarańczą",
+      "link": "shake_tropikalny_z_mango_i_pomarańczą",
+      "imageId": "shake_tropikalny_z_mango_i_pomarańczą",
+      "description": [
+         "Wszystkie składniki zmiksuj, aż shake będzie gładki.",
+         "Możesz dodać kilka kostek lodu, jeśli chcesz, aby był bardziej orzeźwiający."
+      ],
+      "ingredients": [
+         "250ml pitnego skyru naturalnego",
+         "sok z 1 pomarańczy",
+         "125ml mango (świeżego lub mrożonego)",
+         "63ml mleka owsianego lub wody kokosowej",
+         "Opcjonalnie: szczypta imbiru lub kurkumy",
+         "10g białko sojowe"
+      ]
+   },
+   {
+      "id": 15,
+      "title": "Shake czekoladowy z masłem orzechowym",
+      "link": "shake_czekoladowy_z_maslem_orzechowym",
+      "imageId": "shake_czekoladowy_z_maslem_orzechowym",
+      "description": [
+         "Wszystkie składniki wrzuć do blendera i miksuj, aż uzyskasz gładką konsystencję.",
+         "Gotowy shake będzie sycący i idealny dla miłośników czekoladowych smaków."
+      ],
+      "ingredients": [
+         "250ml pitnego skyru",
+         "1 łyżka masła orzechowego (lub migdałowego)",
+         "1 łyżeczka kakao w proszku (bez cukru)",
+         "1/2 banana",
+         "63ml mleka",
+         "Opcjonalnie: szczypta cynamonu lub 1 łyżeczka miodu"
+      ]
+   },
+   {
+      "id": 16,
+      "title": "Shake zielony z szpinakiem i kiwi",
+      "link": "shake_zielony_z_szpinakiem_i_kiwi",
+      "imageId": "shake_zielony_z_szpinakiem_i_kiwi",
+      "description": [
+         "Zmiksuj wszystkie składniki na gładko.",
+         "Shake będzie miał orzeźwiający, lekko kwaskowy smak – idealny na poranny zastrzyk energii."
+      ],
+      "ingredients": [
+         "250ml pitnego skyru",
+         "Garść świeżego szpinaku",
+         "1 kiwi (obrane i pokrojone)",
+         "1/2 banana (dla słodyczy)",
+         "125ml wody lub soku jabłkowego"
+      ]
+   },
+   {
+      "id": 17,
+      "title": "Chia Pudding Dyniowy",
+      "link": "chia_pudding_dyniowy",
+      "imageId": "chia_pudding_dyniowy",
+      "description": [
+         "Wymieszaj składniki: W miseczce lub słoiku połącz mleko, puree z dyni, syrop klonowy (lub miód), przyprawy korzenne i ekstrakt waniliowy. Dobrze wymieszaj, aż wszystkie składniki się połączą.",
+         "Dodaj nasiona chia: Wsyp nasiona chia do mieszanki dyniowej i dokładnie wymieszaj, aby dobrze się rozprowadziły.",
+         "Chłodzenie: Przykryj słoik lub miseczkę i wstaw do lodówki na co najmniej 3-4 godziny, a najlepiej na całą noc. Nasiona chia wchłoną płyn, tworząc kremową konsystencję.",
+         "Podawanie: Przed podaniem zamieszaj pudding, aby konsystencja była jednolita. Możesz ozdobić go ulubionymi dodatkami, takimi jak orzechy, płatki migdałów, jogurt grecki, świeże owoce (np. jabłko lub gruszka) lub dodatkowa szczypta cynamonu."
+      ],
+      "ingredients": [
+         "3 łyżki nasion chia",
+         "250ml mleka (dowolnego rodzaju, np. krowiego, migdałowego, owsianego)",
+         "1/3 szklanki puree z dyni (możesz użyć gotowego puree lub zrobić je, blendując ugotowaną dynię)",
+         "1-2 łyżeczki syropu klonowego lub miodu (do smaku)",
+         "1/2 łyżeczki przyprawy do dyni (lub po szczypcie cynamonu, imbiru, gałki muszkatołowej i goździków)",
+         "1/2 łyżeczki ekstraktu waniliowego (opcjonalnie)"
+      ]
+   },
+   {
+      "id": 18,
+      "title": "Makaron z dynią, szpinakiem i serem feta",
+      "link": "makaron_z_dynia_szpinakiem_i_serem_feta",
+      "imageId": "makaron_z_dynia_szpinakiem_i_serem_feta",
+      "description": [
+         "Ugotuj makaron al dente zgodnie z instrukcją na opakowaniu.",
+         "Dynię pokrój w małe kostki, a czosnek posiekaj drobno.",
+         "Na dużej patelni rozgrzej oliwę/olej, dodaj czosnek, a po chwili dynię. Smaż na średnim ogniu przez około 10 minut, aż dynia zmięknie.",
+         "Jeśli używasz świeżego szpinaku, dodaj go na patelnię w ostatnich minutach gotowania. Jeśli mrożonego, wrzuć go nieco wcześniej i poczekaj, aż się rozmrozi.",
+         "Dopraw wszystko solą, pieprzem, odrobiną gałki muszkatołowej i chili (opcjonalnie).",
+         "Połącz ugotowany makaron z dynią i szpinakiem, a na wierzch pokrusz fetę."
+      ],
+      "ingredients": [
+         "300 g makaronu (penne, spaghetti lub inny ulubiony)",
+         "300 g dyni (najlepiej hokkaido, bo nie trzeba jej obierać)",
+         "150 g świeżego szpinaku (lub mrożonego, jeśli taniej)",
+         "100 g sera feta (lub tańszy odpowiednik)",
+         "2 ząbki czosnku",
+         "2-3 łyżki oliwy lub oleju",
+         "Przyprawy: sól, pieprz, gałka muszkatołowa, szczypta chili (opcjonalnie)"
+      ]
    }
 ]
