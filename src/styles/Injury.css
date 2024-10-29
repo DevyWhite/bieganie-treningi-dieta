@@ -44,6 +44,6 @@
    .stretch-item,
    .tip-item,
    .injury-note {
-      font-size: 0.9rem; /* Zmniejszenie rozmiaru tekstu dla wszystkich elementów */
+      font-size: 0.6rem; /* Zmniejszenie rozmiaru tekstu dla wszystkich elementów */
    }
 }
