@@ -44,7 +44,7 @@
    },
    {
       "id": 3,
-      "title": "Daktylowy baton energetyczny – przepis",
+      "title": "Daktylowy baton energetyczny",
       "link": "daktylowy_baton",
       "imageId": "daktylowy",
       "ingredients": [
@@ -100,7 +100,7 @@
    },
    {
       "id": 6,
-      "title": "Kawowo-kakaowe batony energetyczne – przepis",
+      "title": "Kawowo-kakaowe batony energetyczne",
       "link": "kawowo_kakaowe",
       "imageId": "kawowo_kakaowe",
       "ingredients": [
@@ -115,7 +115,8 @@
       ],
       "description": [
          "Zmiel daktyle na papkę, wymieszaj z resztą składników.",
-         "Piecz w 180 stopniach przez około 20 minut."
+         "Piecz w 180 stopniach przez około 20 minut.",
+         "Zamiast kawy rozpuszczalnej mozna dodać espresso."
       ]
    },
    {
@@ -396,6 +397,29 @@
          "2 ząbki czosnku",
          "2-3 łyżki oliwy lub oleju",
          "Przyprawy: sól, pieprz, gałka muszkatołowa, szczypta chili (opcjonalnie)"
+      ]
+   },
+   {
+      "id": 20,
+      "title": "Zapiekanka makaronową z warzywami i serem",
+      "link": "zapiekanka_makaronowa_z_wazywami_i_serem",
+      "imageId": "zapiekanka_makaronowa_z_wazywami_i_serem",
+      "ingredients": [
+         "250 g makaronu (np. penne, świderki lub rurki)",
+         "400 g mrożonych warzyw (np. mieszanka warzywna z marchewką, groszkiem, kukurydzą i papryką)",
+         "200 ml śmietanki 18% lub śmietany do gotowania (możesz też użyć jogurtu naturalnego dla lżejszej wersji)",
+         "1 jajko",
+         "150 g tartego sera (np. mozzarella, cheddar lub gouda)",
+         "1 ząbek czosnku (opcjonalnie)",
+         "Sól, pieprz, suszone oregano, bazylia lub inne ulubione zioła"
+      ],
+      "description": [
+         "W garnku zagotuj wodę z solą i ugotuj makaron według instrukcji na opakowaniu, ale skróć czas gotowania o 1-2 minuty. Odcedź.",
+         "Mrożone warzywa delikatnie podgotuj przez około 3-5 minut lub zalej gorącą wodą na kilka minut, a następnie odsącz. Warzywa powinny być rozmrożone, ale nadal lekko chrupiące.",
+         "W misce wymieszaj śmietankę z jajkiem, przeciśniętym przez praskę czosnkiem (jeśli go używasz), oraz przyprawami. Dopraw do smaku solą, pieprzem i ziołami.",
+         "W dużej misce połącz ugotowany makaron z warzywami, połową startego sera i sosem. Wszystko dokładnie wymieszaj.",
+         "Wysmaruj naczynie oliwą. Przełóż do niego mieszankę makaronu, warzyw i sosu. Posyp resztą sera na wierzchu.",
+         "Wstaw zapiekankę do piekarnika nagrzanego do 180°C i piecz przez około 30 minut, aż ser na wierzchu się zarumieni, a zapiekanka będzie gorąca."
       ]
    }
 ]
