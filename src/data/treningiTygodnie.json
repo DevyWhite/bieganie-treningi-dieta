@@ -344,14 +344,15 @@
          "dzien": "Poniedziałek (Regeneracyjny bieg)",
          "opis": "Regeneracyjny bieg",
          "bieg": "6-8 km w 2. strefie tętna (tempo spokojne, około 6:00-6:30 min/km, zależnie od samopoczucia).",
-         "po_biegu": "Stretching i krótki masaż łydek, żeby rozluźnić mięśnie po marszobiegu z psem."
+         "stretching": "Stretching i krótki masaż łydek, żeby rozluźnić mięśnie po marszobiegu z psem."
       },
       {
-         "dzien": "Wtorek (Interwały na szybkość)",
-         "opis": "Interwały na szybkość",
-         "rozgrzewka": "10 minut spokojnego biegu + dynamiczne ćwiczenia rozgrzewające.",
-         "trening": "6x 400 m w tempie 4:00-4:15 min/km,\nPrzerwy 90 sekund truchtem.\nJeśli tempo wydaje się za szybkie, dostosuj je, ale staraj się utrzymać intensywność, która poprawi szybkość.",
-         "chlodzenie": "2 km truchtu + rozciąganie, ze szczególnym uwzględnieniem łydek i bioder."
+         "dzien": "Wtorek (Interwały)",
+         "opis": "Trening interwałowy",
+         "rozgrzewka": "10 minut spokojnego biegu + dynamiczne rozciąganie.",
+         "interwaly": "6x 400 m w tempie 4:00-4:15 min/km.\nOdpoczynek: 90 sekund truchtu.\nJeśli tempo wydaje się za szybkie, dostosuj je, ale staraj się utrzymać intensywność, która poprawi szybkość.",
+         "chlodzenie": "2 km truchtem.",
+         "mobilizacja": "Skup się na rozciąganiu nóg i bioder."
       },
       {
          "dzien": "Środa (Regeneracja aktywna)",
@@ -375,9 +376,9 @@
       {
          "dzien": "Sobota (Zawody 5 km - trail)",
          "opis": "Zawody 5 km (trail)",
-         "przygotowanie": "Rozgrzewka (5-10 minut spokojnego biegu, kilka dynamicznych skipów i wymachów, kilka krótkich przyspieszeń).",
+         "rozgrzewka": "Rozgrzewka (5-10 minut spokojnego biegu, kilka dynamicznych skipów i wymachów, kilka krótkich przyspieszeń).",
          "bieg": "Daj z siebie tyle, ile komfortowo możesz! Postaraj się dobrze wystartować, a następnie znajdź rytm, w którym będziesz w stanie przyspieszyć na ostatnim kilometrze.",
-         "po_biegu": "Krótki trucht lub spacer, aby schłodzić organizm, oraz delikatne rozciąganie."
+         "stretching": "Krótki trucht lub spacer, aby schłodzić organizm, oraz delikatne rozciąganie."
       },
       {
          "dzien": "Niedziela (Regeneracja aktywna)",
