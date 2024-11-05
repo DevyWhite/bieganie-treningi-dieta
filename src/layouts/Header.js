@@ -11,7 +11,7 @@ const list = [
    { name: "Plan Treningowy", path: "/treningi" },
    { name: "Dieta", path: "/dieta" },
    { name: "Przepisy", path: "/przepisy" },
-   { name: "Zawody", path: "/zwody-biegowe" },
+   { name: "Zawody", path: "/zawody-biegowe" },
    { name: "Trasy", path: "/trasy-biegowe" },
    { name: "Apteczka", path: "/apteczka" },
 ];

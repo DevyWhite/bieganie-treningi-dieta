@@ -338,5 +338,52 @@
          "cwiczenia": "Ćwiczenia wzmacniające core - zestaw ćwiczeń na core, jeśli noga czuje się dobrze po sobocie.",
          "stretching": "Skup się na biodrach, łydkach i dolnej części pleców."
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracyjny bieg)",
+         "opis": "Regeneracyjny bieg",
+         "bieg": "6-8 km w 2. strefie tętna (tempo spokojne, około 6:00-6:30 min/km, zależnie od samopoczucia).",
+         "po_biegu": "Stretching i krótki masaż łydek, żeby rozluźnić mięśnie po marszobiegu z psem."
+      },
+      {
+         "dzien": "Wtorek (Interwały na szybkość)",
+         "opis": "Interwały na szybkość",
+         "rozgrzewka": "10 minut spokojnego biegu + dynamiczne ćwiczenia rozgrzewające.",
+         "trening": "6x 400 m w tempie 4:00-4:15 min/km,\nPrzerwy 90 sekund truchtem.\nJeśli tempo wydaje się za szybkie, dostosuj je, ale staraj się utrzymać intensywność, która poprawi szybkość.",
+         "chlodzenie": "2 km truchtu + rozciąganie, ze szczególnym uwzględnieniem łydek i bioder."
+      },
+      {
+         "dzien": "Środa (Regeneracja aktywna)",
+         "opis": "Regeneracja aktywna",
+         "aktywnosc": "Lekki spacer lub rower 30-45 minut, bez dużego wysiłku.",
+         "cwiczenia": "Delikatne ćwiczenia wzmacniające core + mobilizacja bioder i łydek."
+      },
+      {
+         "dzien": "Czwartek (Fartlek - luźny)",
+         "opis": "Fartlek (luźny)",
+         "rozgrzewka": "10 minut spokojnego biegu.",
+         "fartlek": "3 minuty w tempie około 4:30-4:40 min/km → 2 minuty spokojnego biegu.\n2 minuty w tempie około 4:20 min/km → 2 minuty spokojnego biegu.\n1 minuta w mocnym tempie (około 4:00 min/km) → 2 minuty spokojnego biegu.\nPowtórz cały cykl 2 razy.",
+         "chlodzenie": "1-2 km spokojnego biegu lub marszu."
+      },
+      {
+         "dzien": "Piątek (Regeneracja)",
+         "opis": "Regeneracja",
+         "aktywnosc": "Spokojny spacer lub bardzo lekki bieg (5-6 km w spokojnym tempie, jeśli czujesz potrzebę rozruchu).",
+         "stretching": "Skup się na rozciąganiu całych nóg, szczególnie bioder, łydek i ud."
+      },
+      {
+         "dzien": "Sobota (Zawody 5 km - trail)",
+         "opis": "Zawody 5 km (trail)",
+         "przygotowanie": "Rozgrzewka (5-10 minut spokojnego biegu, kilka dynamicznych skipów i wymachów, kilka krótkich przyspieszeń).",
+         "bieg": "Daj z siebie tyle, ile komfortowo możesz! Postaraj się dobrze wystartować, a następnie znajdź rytm, w którym będziesz w stanie przyspieszyć na ostatnim kilometrze.",
+         "po_biegu": "Krótki trucht lub spacer, aby schłodzić organizm, oraz delikatne rozciąganie."
+      },
+      {
+         "dzien": "Niedziela (Regeneracja aktywna)",
+         "opis": "Regeneracja aktywna",
+         "aktywnosc": "Spokojny marsz lub lekki rower.",
+         "cwiczenia": "Delikatna mobilizacja bioder i łydek.\nMożesz także zrobić krótki masaż (rolowanie łydek lub lekkie automasaże), żeby pomóc mięśniom zregenerować się po starcie."
+      }
    ]
 ]
