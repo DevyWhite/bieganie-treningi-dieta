@@ -48,6 +48,18 @@
    /* border: 1px solid #686868; */
 }
 
+.cwiczenia-nav-link-active {
+   display: block; /* Blokowy wyświetlanie linków */
+   padding: 10px 15px; /* Padding wewnętrzny linków */
+   text-align: center; /* Wyśrodkowanie tekstu */
+   text-decoration: none; /* Brak podkreślenia */
+   background-color: #5c5c5c; /* Kolor tła na hover */
+   color: #fff; /* Kolor tekstu */
+   border: 1px solid transparent; /* Przejrzysta ramka dla efektu hover */
+   border-radius: 4px; /* Zaokrąglenie krawędzi linków */
+   transition: background-color 0.3s, color 0.3s; /* Animacja przy zmianie */
+}
+
 /* Media queries dla responsywności */
 @media (max-width: 600px) {
    .cwiczenia-container {

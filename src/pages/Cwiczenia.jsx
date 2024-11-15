@@ -1,5 +1,5 @@
 import React from "react";
-import { Link, Outlet } from "react-router-dom";
+import { NavLink, Outlet } from "react-router-dom";
 import "../styles/Cwiczenia.css";
 
 const Cwiczenia = () => {
@@ -8,19 +8,52 @@ const Cwiczenia = () => {
          <nav className='cwiczenia-nav'>
             <ul className='cwiczenia-nav-list'>
                <li className='cwiczenia-nav-item'>
-                  <Link to='stretching' className='cwiczenia-nav-link'>
+                  <NavLink
+                     to='stretching'
+                     className={({ isActive }) =>
+                        isActive
+                           ? "cwiczenia-nav-link-active"
+                           : "cwiczenia-nav-link"
+                     }
+                  >
                      Stretching
-                  </Link>
+                  </NavLink>
                </li>
                <li className='cwiczenia-nav-item'>
-                  <Link to='core' className='cwiczenia-nav-link'>
+                  <NavLink
+                     to='core'
+                     className={({ isActive }) =>
+                        isActive
+                           ? "cwiczenia-nav-link-active"
+                           : "cwiczenia-nav-link"
+                     }
+                  >
                      Core
-                  </Link>
+                  </NavLink>
                </li>
                <li className='cwiczenia-nav-item'>
-                  <Link to='kontuzje' className='cwiczenia-nav-link'>
+                  <NavLink
+                     to='mobilizacja'
+                     className={({ isActive }) =>
+                        isActive
+                           ? "cwiczenia-nav-link-active"
+                           : "cwiczenia-nav-link"
+                     }
+                  >
+                     Mobilizacja
+                  </NavLink>
+               </li>
+               <li className='cwiczenia-nav-item'>
+                  <NavLink
+                     to='kontuzje'
+                     className={({ isActive }) =>
+                        isActive
+                           ? "cwiczenia-nav-link-active"
+                           : "cwiczenia-nav-link"
+                     }
+                  >
                      Kontuzje
-                  </Link>
+                  </NavLink>
                </li>
             </ul>
          </nav>

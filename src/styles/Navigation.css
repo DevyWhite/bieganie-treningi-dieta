@@ -33,9 +33,13 @@
    transition: background-color 0.3s, color 0.3s; /* Płynne przejście koloru tła i tekstu */
 }
 
-.nav-list a.nav-active,
 .nav-list a:hover {
    background-color: #939494; /* Kolor tła dla aktywnego linku i hover */
+   color: #fff; /* Kolor tekstu dla aktywnego linku i hover */
+}
+
+.nav-list a.nav-active {
+   background-color: #5c5c5c; /* Kolor tła dla aktywnego linku i hover */
    color: #fff; /* Kolor tekstu dla aktywnego linku i hover */
 }
 
