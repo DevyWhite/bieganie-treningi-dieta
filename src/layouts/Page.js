@@ -20,6 +20,7 @@ import Cwiczenia from "../pages/Cwiczenia";
 import Core from "../pages/Core";
 import Stretching from "../pages/Stretching";
 import Injury from "../pages/Injury";
+import Mobilizacja from "../pages/Mobilizacja";
 
 const Page = () => {
    return (
@@ -47,6 +48,7 @@ const Page = () => {
             <Route path='core' element={<Core />} />
             <Route path='stretching' element={<Stretching />} />
             <Route path='kontuzje' element={<Injury />} />
+            <Route path='mobilizacja' element={<Mobilizacja />} />
          </Route>
 
          <Route path='*' element={<ErrorPage />} />

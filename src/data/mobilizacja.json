@@ -1,0 +1,94 @@
+[
+   {
+      "title": "Mobilizacja bioder, łydek, czworogłowych i mięśni wokół stawu skokowego",
+      "exercises": [
+         {
+            "title": "Krążenia biodrami",
+            "goal": "Rozgrzanie stawów biodrowych",
+            "execution": "Stań prosto, stopy rozstawione na szerokość bioder, ręce na biodrach. Powoli kręć biodrami w szerokie koła – najpierw 30 sekund w jedną stronę, potem 30 sekund w drugą stronę.",
+            "repetitions": "2 x 30 sekund"
+         },
+         {
+            "title": "Przysiady sumo z unoszeniem kolan",
+            "goal": "Mobilizacja bioder, rozciąganie przywodzicieli",
+            "execution": "Stań szeroko, stopy skierowane lekko na zewnątrz. Zrób głęboki przysiad, a w najniższym punkcie unosimy jedno kolano do boku, napinając biodro.",
+            "repetitions": "2 serie po 8-10 powtórzeń na każdą nogę"
+         },
+         {
+            "title": "Wykroki z rotacją tułowia",
+            "goal": "Rozciąganie bioder i mobilizacja górnej części ciała",
+            "execution": "Zrób wykrok, utrzymując kolano w linii z kostką. Gdy zejdziesz na dół, wykonaj rotację tułowia w stronę przedniej nogi.",
+            "repetitions": "2-3 serie po 5 powtórzeń na stronę"
+         },
+         {
+            "title": "Wspięcia na palce",
+            "goal": "Wzmocnienie i mobilizacja łydek",
+            "execution": "Stań na prostych nogach, podnieś się na palce, napinając łydki, a następnie powoli wróć do pozycji wyjściowej.",
+            "repetitions": "3 serie po 15 powtórzeń"
+         },
+         {
+            "title": "Stretching dynamiczny: Skipy",
+            "goal": "Mobilizacja łydek i bioder",
+            "execution": "W miejscu, podskakując na przemian, unosząc kolana wysoko, jak przy biegu.",
+            "duration": "30-45 sekund"
+         }
+      ]
+   },
+   {
+      "title": "Rozciąganie statyczne (po biegu lub ćwiczeniach)",
+      "exercises": [
+         {
+            "title": "Rozciąganie łydek na stopniu",
+            "goal": "Rozciąganie mięśni łydek",
+            "execution": "Stań na krawędzi stopnia (pięty poza krawędzią) i opuść je w dół, aż poczujesz rozciąganie.",
+            "duration": "20-30 sekund",
+            "repetitions": "2 razy"
+         },
+         {
+            "title": "Rozciąganie czworogłowych (na stojąco)",
+            "goal": "Rozciąganie mięśni czworogłowych",
+            "execution": "Złap się za kostkę jednej nogi i przyciągnij piętę do pośladka.",
+            "duration": "20-30 sekund na każdą nogę",
+            "repetitions": "2 powtórzenia"
+         },
+         {
+            "title": "Rozciąganie bioder w rozkroku",
+            "goal": "Rozciąganie wewnętrznej części ud i mobilizacja bioder",
+            "execution": "Stopy szeroko, palce na zewnątrz. Zegnij kolana i delikatnie zejdź w dół, naciskając na uda.",
+            "duration": "20-30 sekund",
+            "repetitions": "2-3 razy"
+         },
+         {
+            "title": "Rozciąganie biodra i pośladka (na stojąco)",
+            "goal": "Rozciąganie pośladków i bioder",
+            "execution": "Stań na jednej nodze, załóż kostkę drugiej nogi nad kolanem nogi stojącej. Zrób lekki przysiad, jakbyś siadał na niewidzialnym krześle.",
+            "duration": "20-30 sekund na każdą stronę",
+            "repetitions": "2 powtórzenia"
+         },
+         {
+            "title": "Rozciąganie tyłu nóg (mięśnie dwugłowe i ścięgna)",
+            "goal": "Rozciąganie tyłu nóg i mobilizacja stawów",
+            "execution": "Stań prosto, jedną nogę wyciągnij przed siebie, pięta na podłożu, a palce uniesione. Pochyl się do przodu, trzymając proste plecy.",
+            "duration": "20-30 sekund na nogę",
+            "repetitions": "2 powtórzenia"
+         }
+      ]
+   },
+   {
+      "title": "Ćwiczenia uzupełniające na mobilizację stawu skokowego",
+      "exercises": [
+         {
+            "title": "Krążenia kostkami",
+            "goal": "Poprawa mobilności stawu skokowego",
+            "execution": "Stań na jednej nodze, drugą podnieś, i wykonuj krążenia stopą w stawie skokowym – 30 sekund w jedną stronę, 30 sekund w drugą.",
+            "repetitions": "2 razy na każdą stopę"
+         },
+         {
+            "title": "Rozciąganie dynamiczne na staw skokowy",
+            "goal": "Wzmocnienie i mobilizacja stawów skokowych",
+            "execution": "Stań przodem do ściany. Pochyl się w stronę ściany, jedną nogę wysuń lekko do przodu, ugnij ją w kolanie i dotknij ściany. Staraj się, aby pięta przedniej nogi była cały czas przy podłożu.",
+            "repetitions": "10-15 powtórzeń na stronę"
+         }
+      ]
+   }
+]
