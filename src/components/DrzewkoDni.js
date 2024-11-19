@@ -39,22 +39,16 @@ const DrzewkoDni = ({ dni }) => {
                            {renderWithNewLines(dzien.aktywnosc)}
                         </li>
                      )}
-                     {dzien.bieg && (
-                        <li>
-                           <strong>Bieg:</strong>{" "}
-                           {renderWithNewLines(dzien.bieg)}
-                        </li>
-                     )}
-                     {dzien.cwiczenia && (
-                        <li>
-                           <strong>Ćwiczenia:</strong>{" "}
-                           {renderWithNewLines(dzien.cwiczenia)}
-                        </li>
-                     )}
                      {dzien.rozgrzewka && (
                         <li>
                            <strong>Rozgrzewka:</strong>{" "}
                            {renderWithNewLines(dzien.rozgrzewka)}
+                        </li>
+                     )}
+                     {dzien.bieg && (
+                        <li>
+                           <strong>Bieg:</strong>{" "}
+                           {renderWithNewLines(dzien.bieg)}
                         </li>
                      )}
                      {dzien.interwaly && (
@@ -79,6 +73,12 @@ const DrzewkoDni = ({ dni }) => {
                         <li>
                            <strong>Chłodzenie:</strong>{" "}
                            {renderWithNewLines(dzien.chlodzenie)}
+                        </li>
+                     )}
+                     {dzien.cwiczenia && (
+                        <li>
+                           <strong>Ćwiczenia:</strong>{" "}
+                           {renderWithNewLines(dzien.cwiczenia)}
                         </li>
                      )}
                      {dzien.mobilizacja && (
