@@ -2,10 +2,10 @@ import React from "react";
 import { Routes, Route } from "react-router-dom";
 
 import HomePage from "../pages/HomePage";
-import ContactPage from "../pages/ContactPage";
-import AdminPage from "../pages/AdminPage";
 import ErrorPage from "../pages/ErrorPage";
-import LoginPage from "../pages/LoginPage";
+// import ContactPage from "../pages/ContactPage";
+// import AdminPage from "../pages/AdminPage";
+// import LoginPage from "../pages/LoginPage";
 
 import Treningi from "../pages/Treningi";
 import Dieta from "../pages/Dieta";
@@ -27,9 +27,9 @@ const Page = () => {
       <Routes>
          <Route path='/' element={<HomePage />} />
 
-         <Route path='/contact' element={<ContactPage />} />
-         <Route path='/admin/*' element={<AdminPage />} />
-         <Route path='/login' element={<LoginPage />} />
+         {/* <Route path='/contact' element={<ContactPage />} /> */}
+         {/* <Route path='/admin/*' element={<AdminPage />} /> */}
+         {/* <Route path='/login' element={<LoginPage />} /> */}
 
          <Route path='/treningi' element={<Treningi />} />
          <Route path='/dieta' element={<Dieta />} />

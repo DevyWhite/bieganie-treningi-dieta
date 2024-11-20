@@ -1,9 +1,9 @@
 import React from "react";
 import { Routes, Route, useLocation } from "react-router-dom";
 import "../styles/Header.css";
-import img1 from "../images/runer1.jpeg";
-import img2 from "../images/img2.jpg";
-import img3 from "../images/runer2.jpeg";
+import img1 from "../images/heder/runer1.jpeg";
+import img2 from "../images/heder/img2.jpg";
+import img3 from "../images/heder/runer2.jpeg";
 
 // Lista komponentów
 const list = [
@@ -13,7 +13,7 @@ const list = [
    { name: "Przepisy", path: "/przepisy" },
    { name: "Zawody", path: "/zawody-biegowe" },
    { name: "Trasy", path: "/trasy-biegowe" },
-   { name: "Apteczka", path: "/apteczka" },
+   { name: "Apteczka", path: "/" },
 ];
 
 const Header = () => {
@@ -21,9 +21,9 @@ const Header = () => {
 
    const getImage = () => {
       switch (location.pathname) {
-         case "/products":
+         case "/treningi":
             return img2;
-         case "/contact":
+         case "/apteczka":
             return img3;
          case "/admin":
             return img1;

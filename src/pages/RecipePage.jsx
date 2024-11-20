@@ -2,7 +2,7 @@ import React from "react";
 import { useParams } from "react-router-dom";
 import recipes from "../data/recipes.json"; // Importujemy szczegółowe dane z przepisami
 import imageMap from "../components/imageMap";
-import defaultImage from "../images/defaultImage.png";
+import defaultImage from "../images/food-images/defaultImage.png";
 import "../styles/RecipeCard.css";
 
 const RecipePage = () => {
