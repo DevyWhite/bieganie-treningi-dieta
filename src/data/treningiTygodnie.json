@@ -479,5 +479,51 @@
          "aktywnosc": "Lekki marsz lub 20-30 minut truchtu, aby rozruszać nogi po zawodach.",
          "stretching": "Rozciąganie bioder, łydek i czworogłowych – około 10-15 minut."
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja aktywna + Mobilizacja)",
+         "opis": "Lekki spacer lub bardzo łagodny trucht",
+         "aktywnosc": "Spacer lub bardzo lekki trucht (3-5 km) w tempie regeneracyjnym. W miarę możliwości znajdź teren o miękkim podłożu.",
+         "stretching": "Rozciąganie i mobilizacja bioder, łydek i czworogłowych.",
+         "mobilizacja": "Krążenia bioder (10 krążeń w każdą stronę), \nWykroki mobilizacyjne (8-10 razy na każdą stronę), \nSkłony do łydki (20-30 sekund na każdą nogę), \nKrążenia kostek (10 krążeń w każdą stronę), \n Skłony z rozstawionymi nogami (8-10 powtórzeń w każdą stronę),\n Dynamiczne unoszenie kolan (przygotowanie bioder i łydek) (10-12 razy na każdą stronę), \n Rozciąganie dynamiczne czworogłowych uda (8-10 razy na każdą stronę)"
+      },
+      {
+         "dzien": "Wtorek (Lekki bieg)",
+         "opis": "Lekki bieg + ćwiczenia wzmacniające",
+         "bieg": "6-8 km w spokojnym tempie (w 2. strefie tętna).",
+         "cwiczenia": "Ćwiczenia wzmacniające core + stretching."
+      },
+      {
+         "dzien": "Środa (Regeneracja aktywna)",
+         "opis": "Trening regeneracyjny i stabilizacyjny",
+         "aktywnosc": "5 km w tempie regeneracyjnym lub lekki rower, jeśli nogi będą się dobrze czuły.",
+         "stretching": "Rozciąganie i mobilizacja bioder, łydek i czworogłowych.",
+         "mobilizacja": "Krążenia bioder (10 krążeń w każdą stronę), \nWykroki mobilizacyjne (8-10 razy na każdą stronę), \nSkłony do łydki (20-30 sekund na każdą nogę), \nKrążenia kostek (10 krążeń w każdą stronę), \n Skłony z rozstawionymi nogami (8-10 powtórzeń w każdą stronę),\n Dynamiczne unoszenie kolan (przygotowanie bioder i łydek) (10-12 razy na każdą stronę), \n Rozciąganie dynamiczne czworogłowych uda (8-10 razy na każdą stronę)"
+      },
+      {
+         "dzien": "Czwartek (Fartlek)",
+         "opis": "Trening fartlek",
+         "rozgrzewka": "2 km spokojnego biegu (około 6:00 min/km).",
+         "fartlek": "4 minuty w tempie około 4:40-4:50/km → 2 minuty spokojnego biegu.\n3 minuty w tempie 4:30-4:40/km → 2 minuty spokojnego biegu.\n2 minuty w tempie około 4:20-4:30/km → 2 minuty spokojnego biegu.\n1 minuta w tempie około 4:10/km.",
+         "chlodzenie": "1 km spokojnego biegu.",
+         "stretching": "Rozciąganie i mobilizacja bioder, łydek i czworogłowych."
+      },
+      {
+         "dzien": "Piątek (Regeneracja)",
+         "opis": "Lekki spacer, joga, rolowanie, lub ćwiczenia mobilizacyjne."
+      },
+      {
+         "dzien": "Sobota (Długi Bieg)",
+         "opis": "Długi bieg",
+         "bieg": "15-18 km w spokojnym tempie (2. strefa tętna, lub około 60-70% maksymalnego tętna).",
+         "stretching": "Rozciąganie bioder, łydek i czworogłowych"
+      },
+      {
+         "dzien": "Niedziela (Regeneracja aktywna)",
+         "opis": "Regeneracja i ćwiczenia stabilizacyjne",
+         "aktywnosc": "Spacer lub lekki trucht, jeśli będziesz się dobrze czuł po sobotnim wybieganiu.",
+         "stretching": "Rozciąganie i mobilizacja bioder, łydek i czworogłowych."
+      }
    ]
 ]
