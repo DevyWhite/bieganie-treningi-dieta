@@ -2,17 +2,16 @@
 
 /* Styl dla menu nawigacyjnego */
 .menu-nawigacyjne {
-   display: -webkit-inline-box; /* Ustawia elementy w poziomie */
+   display: flex;
+   flex-wrap: wrap;
+   row-gap: 5px;
    list-style-type: none;
    padding: 0;
-   /* background-color: #f0f0f0;  */
-   margin: 10px 0 20px 0; /* Odstęp od góry i od spodu */
    overflow: hidden; /* Zapewnia, że elementy nie wyjdą poza kontener */
 }
 
 .menu-nawigacyjne li {
-   display: inline; /* Ustawia elementy listy w poziomie */
-   margin-right: 15px; /* Odstęp między przyciskami */
+   flex-grow: 1;
 }
 
 .menu-nawigacyjne button {
@@ -24,16 +23,8 @@
    border-radius: 5px; /* Zaokrąglone rogi przycisków */
    font-size: 16px;
    transition: background-color 0.3s ease; /* Płynna zmiana koloru */
-   margin-bottom: 15px;
 }
 
 .menu-nawigacyjne button:hover {
    background-color: #484e52; /* Ciemniejszy szary po najechaniu */
-}
-
-/* Styl responsywny dla urządzeń mobilnych */
-@media (max-width: 480px) {
-   .menu-nawigacyjne button {
-      margin-bottom: 2px;
-   }
 }
