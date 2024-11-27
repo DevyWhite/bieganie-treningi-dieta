@@ -21,6 +21,7 @@
    list-style-type: none; /* Brak punktów w liście */
    padding: 0; /* Brak paddingu */
    display: flex; /* Wyświetlenie w formie rzędu */
+   flex-wrap: wrap;
    justify-content: space-around; /* Rozłożenie elementów nawigacji */
 }
 
