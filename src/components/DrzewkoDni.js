@@ -75,6 +75,12 @@ const DrzewkoDni = ({ dni }) => {
                            {renderWithNewLines(dzien.chlodzenie)}
                         </li>
                      )}
+                     {dzien.stretching && (
+                        <li>
+                           <strong>Stretching:</strong>{" "}
+                           {renderWithNewLines(dzien.stretching)}
+                        </li>
+                     )}
                      {dzien.cwiczenia && (
                         <li>
                            <strong>Ćwiczenia:</strong>{" "}
@@ -85,12 +91,6 @@ const DrzewkoDni = ({ dni }) => {
                         <li>
                            <strong>Mobilizacja:</strong>{" "}
                            {renderWithNewLines(dzien.mobilizacja)}
-                        </li>
-                     )}
-                     {dzien.stretching && (
-                        <li>
-                           <strong>Stretching:</strong>{" "}
-                           {renderWithNewLines(dzien.stretching)}
                         </li>
                      )}
                   </ul>
