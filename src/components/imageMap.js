@@ -26,6 +26,11 @@ import imgPesto_pietruszkowe from "../images/food-images/pesto_pietruszkowe.jpg"
 import imgShake_mango_pomarancza from "../images/food-images/shakez-mango-pomarancza.jpeg";
 import imgShake_zielony_z_szpinakiem_i_kiwi from "../images/food-images/shake_zielony_z_szpinakiem_i_kiwi.jpg";
 import imgBulki_orkiszowe from "../images/food-images/bulki_orkiszowe.jpg";
+import imgWoda_kokosowa from "../images/food-images/woda_kokosowa.jpg";
+import imgDomowy_izotonik_cytrusowy from "../images/food-images/domowy_izotonik_cytrusowy.jpg";
+import imgNapoj_mietowo_cytrynowy from "../images/food-images/napoj_mietowo_cytrynowy.jpg";
+import imgHerbata_hibiskus_cytryna from "../images/food-images/herbata_hibiskus_cytryna.jpg";
+import imgNapoj_miodowo_imbirowy from "../images/food-images/napoj_miodowo_imbirowy.jpg";
 
 // Mapowanie identyfikatorów obrazków na zaimportowane obrazy
 const imageMap = {
@@ -59,6 +64,11 @@ const imageMap = {
    shake_tropikalny_z_mango_i_pomarańczą: imgShake_mango_pomarancza,
    shake_zielony_z_szpinakiem_i_kiwi: imgShake_zielony_z_szpinakiem_i_kiwi,
    bulki_orkiszowe: imgBulki_orkiszowe,
+   woda_kokosowa: imgWoda_kokosowa,
+   domowy_izotonik_cytrusowy: imgDomowy_izotonik_cytrusowy,
+   napoj_mietowo_cytrynowy: imgNapoj_mietowo_cytrynowy,
+   herbata_hibiskus_cytryna: imgHerbata_hibiskus_cytryna,
+   napoj_miodowo_imbirowy: imgNapoj_miodowo_imbirowy,
 };
 
 export default imageMap;
