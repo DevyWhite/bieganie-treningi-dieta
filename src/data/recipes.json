@@ -421,5 +421,155 @@
          "Wysmaruj naczynie oliwą. Przełóż do niego mieszankę makaronu, warzyw i sosu. Posyp resztą sera na wierzchu.",
          "Wstaw zapiekankę do piekarnika nagrzanego do 180°C i piecz przez około 30 minut, aż ser na wierzchu się zarumieni, a zapiekanka będzie gorąca."
       ]
+   },
+   {
+      "id": 21,
+      "title": "Zupa krem pomidorowy a’la ŁUT",
+      "link": "Zupa_LUT",
+      "imageId": "Zupa_ŁUT",
+      "ingredients": [
+         "2 szt Cebula",
+         "2 szt Marchewka",
+         "600g Pomidory pelati z puszki",
+         "400g Bulion warzywny",
+         "200ml Sok pomarańczowy",
+         "1/5 łyżeczki Chilli",
+         "50 ml Olej rzepakowy",
+         "Sól, cukier do smaku"
+      ],
+      "description": [
+         "Cebulę kroimy w piórka, marchewkę w plastry następnie podsmażamy na średnim ogniu 2-3 min.",
+         "Dodajemy sok pomarańczowy, pomidory, bulion.",
+         "Gotujemy na małym ogniu 15 min.",
+         "Miksujemy blenderem i przecieramy przez drobne sito.",
+         "W trakcie gotowania należy zetrzeć skórkę z połowy pomarańczy.",
+         "Doprawiamy do smaku.",
+         "Krem musi być lekko pikantny i delikatnie słodki.",
+         "Na koniec dodajemy Łemkowskie pesto pietruszkowe"
+      ]
+   },
+   {
+      "id": 22,
+      "title": "Łemkowskie pesto pietruszkowe",
+      "link": "pesto_pietruszkowe",
+      "imageId": "pesto_pietruszkowe",
+      "ingredients": [
+         "2 pęczki Natka pietruszki",
+         "50g Orzechy włoskie",
+         "2 ząbki Czosnek",
+         "2 łyżki Ser zagrodowy- starty",
+         "150ml Olej rzepakowy tłoczony na zimno",
+         "Sól, pieprz do smaku"
+      ],
+      "description": [
+         "Czosnek miksujemy z orzechami.",
+         " Dodajemy natkę pietruszki i miksujemy 1 min.",
+         " Dodajemy olej i ser.",
+         " Mieszamy i doprawiamy solą i pieprzem."
+      ]
+   },
+   {
+      "id": 23,
+      "title": "Bułki orkiszowe",
+      "link": "bulki_orkiszowe",
+      "imageId": "bulki_orkiszowe",
+      "ingredients": [
+         "500 g mąki orkiszowej 1850",
+         "300 ml ciepłej wody",
+         "20 g świeżych drożdży (lub 7 g suchych)",
+         "1 łyżeczka soli",
+         "1 łyżeczka cukru lub miodu",
+         "2 łyżki oliwy z oliwek"
+      ],
+      "description": [
+         "Przygotowanie zaczynu (jeśli używasz świeżych drożdży): W misce wymieszaj drożdże z cukrem, 3 łyżkami ciepłej wody i łyżką mąki. Odstaw na 10 minut, aż zacznie się pienić. W przypadku suchych drożdży pomiń ten krok i dodaj je bezpośrednio do mąki.",
+         "Wyrabianie ciasta: Do dużej miski wsyp mąkę, dodaj sól, oliwę i zaczyn drożdżowy (lub suche drożdże). Powoli dolewaj wodę, mieszając. Wyrób ciasto przez około 5-7 minut, aż będzie elastyczne i nieco lepkie.",
+         "Pierwsze wyrastanie: Przykryj miskę ściereczką i odstaw w ciepłe miejsce na około 30-40 minut, aż ciasto podwoi objętość.",
+         "Formowanie bułek: Podziel ciasto na 6-8 równych części, uformuj bułki i ułóż je na blaszce wyłożonej papierem do pieczenia.",
+         "Drugie wyrastanie: Pozostaw bułki na 15 minut do lekkiego napuszenia.",
+         "Pieczenie: Wstaw do piekarnika nagrzanego do 200°C i piecz przez około 20-25 minut, aż bułki będą rumiane i wypieczone.",
+         "Do ciasta, jak i do posypania, można dodać różne dodatki, takie jak pestki, nasiona itp."
+      ]
+   },
+   {
+      "id": 24,
+      "title": "Domowy izotonik cytrusowy",
+      "link": "domowy_izotonik_cytrusowy",
+      "imageId": "domowy_izotonik_cytrusowy",
+      "ingredients": [
+         "500 ml wody",
+         "Sok z połowy cytryny lub pomarańczy",
+         "Szczypta soli (najlepiej himalajskiej lub morskiej)",
+         "1-2 łyżeczki miodu lub cukru (opcjonalnie)"
+      ],
+      "description": [
+         "Wymieszaj wszystkie składniki, aż sól i miód się rozpuszczą.",
+         "Ten napój nawadnia i dostarcza elektrolitów w naturalny sposób."
+      ]
+   },
+   {
+      "id": 25,
+      "title": "Napój miętowo-cytrynowy",
+      "link": "napoj_mietowo_cytrynowy",
+      "imageId": "napoj_mietowo_cytrynowy",
+      "ingredients": [
+         "500 ml wody",
+         "Kilka listków mięty",
+         "Sok z połowy cytryny",
+         "Szczypta soli",
+         "Kostki lodu (opcjonalnie)"
+      ],
+      "description": [
+         "Zmieszaj składniki i odstaw na kilka minut, aby mięta oddała aromat.",
+         "To odświeżający, prosty napój o lekko słonym smaku, idealny na nawodnienie."
+      ]
+   },
+   {
+      "id": 26,
+      "title": "Woda kokosowa z cytryną (wersja budżetowa)",
+      "link": "woda_kokosowa",
+      "imageId": "woda_kokosowa",
+      "ingredients": [
+         "Woda (500 ml)",
+         "1 łyżeczka wiórków kokosowych",
+         "Sok z cytryny",
+         "Szczypta soli"
+      ],
+      "description": [
+         "Zalej wiórki kokosowe gorącą wodą i odstaw na 10 minut.",
+         "Przecedź, dodaj sok z cytryny i sól.",
+         "Powstaje napój o delikatnym kokosowym aromacie, przypominający wodę kokosową."
+      ]
+   },
+   {
+      "id": 27,
+      "title": "Herbata z hibiskusa z cytryną",
+      "link": "herbata_hibiskus_cytryna",
+      "imageId": "herbata_hibiskus_cytryna",
+      "ingredients": [
+         "500 ml zaparzonej herbaty z hibiskusa",
+         "Sok z połowy cytryny",
+         "Szczypta soli (opcjonalnie dla efektu elektrolitów)"
+      ],
+      "description": [
+         "Po ostudzeniu dodaj sok z cytryny.",
+         "Hibiskus nadaje lekko kwaśny smak, podobny do komercyjnych napojów izotonicznych."
+      ]
+   },
+   {
+      "id": 28,
+      "title": "Napój imbirowo-miodowy",
+      "link": "napoj_miodowo_imbirowy",
+      "imageId": "napoj_miodowo_imbirowy",
+      "ingredients": [
+         "500 ml wody",
+         "Plasterki świeżego imbiru",
+         "Sok z cytryny",
+         "Łyżeczka miodu"
+      ],
+      "description": [
+         "Zagotuj wodę z imbirem, a po ostudzeniu dodaj sok z cytryny i miód.",
+         "To napój o lekkim, pikantnym smaku, który poprawia krążenie i nawadnia."
+      ]
    }
 ]

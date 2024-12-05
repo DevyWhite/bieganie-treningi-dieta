@@ -16,11 +16,16 @@ import imgSernikBezCukru from "../images/food-images/sernik_bez_cukru.jpg";
 import imgKuleMocy from "../images/food-images/imgKuleMocy.png";
 import imgKokosowyChiaPudding from "../images/food-images/imgKokosowyChiaPudding.png";
 import imgBolognese_tofu from "../images/food-images/bolognese_tofu.png";
-import imgShake_owocowy_z_bananem_i_jagodami from "../images/food-images/shake_owocowy_z_bananem_i_jagodami.png";
+import imgShake_owocowy_z_bananem_i_jagodami from "../images/food-images/shake_owocowy_z_bananem_i_jagodami.jpg";
 import imgChia_pudding_dyniowy from "../images/food-images/chia_pudding_dyniowy.jpeg";
 import imgMakaron_z_dynia_szpinakiem_i_serem_feta from "../images/food-images/makaron_z_dynia_szpinakiem_i_serem_feta.jpeg";
 import imgZapiekanka_makaronowa_z_wazywami_i_serem from "../images/food-images/zapiekanka_makaronowa_z_wazywami_i_serem.jpeg";
 import imgShakeCzekoladowy from "../images/food-images/shake-czekolada.jpeg";
+import imgZupa_ŁUT from "../images/food-images/Zupa_ŁUT.jpg";
+import imgPesto_pietruszkowe from "../images/food-images/pesto_pietruszkowe.jpg";
+import imgShake_mango_pomarancza from "../images/food-images/shakez-mango-pomarancza.jpeg";
+import imgShake_zielony_z_szpinakiem_i_kiwi from "../images/food-images/shake_zielony_z_szpinakiem_i_kiwi.jpg";
+import imgBulki_orkiszowe from "../images/food-images/bulki_orkiszowe.jpg";
 
 // Mapowanie identyfikatorów obrazków na zaimportowane obrazy
 const imageMap = {
@@ -49,6 +54,11 @@ const imageMap = {
    zapiekanka_makaronowa_z_wazywami_i_serem:
       imgZapiekanka_makaronowa_z_wazywami_i_serem,
    shake_czekoladowy_z_maslem_orzechowym: imgShakeCzekoladowy,
+   Zupa_ŁUT: imgZupa_ŁUT,
+   pesto_pietruszkowe: imgPesto_pietruszkowe,
+   shake_tropikalny_z_mango_i_pomarańczą: imgShake_mango_pomarancza,
+   shake_zielony_z_szpinakiem_i_kiwi: imgShake_zielony_z_szpinakiem_i_kiwi,
+   bulki_orkiszowe: imgBulki_orkiszowe,
 };
 
 export default imageMap;
