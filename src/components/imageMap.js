@@ -31,6 +31,8 @@ import imgDomowy_izotonik_cytrusowy from "../images/food-images/domowy_izotonik_
 import imgNapoj_mietowo_cytrynowy from "../images/food-images/napoj_mietowo_cytrynowy.jpg";
 import imgHerbata_hibiskus_cytryna from "../images/food-images/herbata_hibiskus_cytryna.jpg";
 import imgNapoj_miodowo_imbirowy from "../images/food-images/napoj_miodowo_imbirowy.jpg";
+import imgBulki_pszenno_orkiszowe from "../images/food-images/bulki_pszenno_orkiszowe.jpg";
+import imgPasta_bezjajeczna_ze_straczkow from "../images/food-images/pasta_bezjajeczna_ze_straczkow.jpg";
 
 // Mapowanie identyfikatorów obrazków na zaimportowane obrazy
 const imageMap = {
@@ -69,6 +71,8 @@ const imageMap = {
    napoj_mietowo_cytrynowy: imgNapoj_mietowo_cytrynowy,
    herbata_hibiskus_cytryna: imgHerbata_hibiskus_cytryna,
    napoj_miodowo_imbirowy: imgNapoj_miodowo_imbirowy,
+   bulki_pszenno_orkiszowe: imgBulki_pszenno_orkiszowe,
+   pasta_bezjajeczna_ze_straczkow: imgPasta_bezjajeczna_ze_straczkow,
 };
 
 export default imageMap;

@@ -571,5 +571,53 @@
          "Zagotuj wodę z imbirem, a po ostudzeniu dodaj sok z cytryny i miód.",
          "To napój o lekkim, pikantnym smaku, który poprawia krążenie i nawadnia."
       ]
+   },
+   {
+      "id": 29,
+      "title": "Bułki pszenno-orkiszowe",
+      "link": "bulki_pszenno_orkiszowe",
+      "imageId": "bulki_pszenno_orkiszowe",
+      "ingredients": [
+         "200 g mąki orkiszowej typ 1850",
+         "150 g mąki pszennej typ 650",
+         "150 g mąki włoskiej typ 00 (W=330)",
+         "7 g suchych drożdży (lub 20 g świeżych)",
+         "1 łyżeczka soli",
+         "1 łyżeczka cukru lub miodu",
+         "300 ml ciepłej wody (może być lekko więcej, w zależności od chłonności mąki)",
+         "2 łyżki oliwy z oliwek",
+         "(Opcjonalnie) Nasiona do posypania: sezam, mak, słonecznik."
+      ],
+      "description": [
+         "Przygotowanie zaczynu (dla świeżych drożdży): Wymieszaj drożdże z cukrem, 3 łyżkami ciepłej wody i 1 łyżką mąki. Odstaw na 10 minut w ciepłe miejsce, aż się spieni.",
+         "Mieszanie składników: W dużej misce połącz trzy rodzaje mąk. Dodaj sól, oliwę, suchą mieszankę drożdżową (lub zaczyn). Stopniowo dolewaj wodę, mieszając ciasto.",
+         "Wyrabianie ciasta: Wyrabiaj ciasto ręcznie lub robotem przez około 8-10 minut, aż będzie elastyczne, ale lekko klejące. Jeśli ciasto jest za suche, dodaj odrobinę wody.",
+         "Pierwsze wyrastanie: Przełóż ciasto do miski posmarowanej oliwą. Przykryj ściereczką i odstaw na 1–1,5 godziny w ciepłe miejsce (lub do podwojenia objętości).",
+         "Formowanie bułek: Wyjmij ciasto na oprószoną mąką powierzchnię. Podziel na 8 równych części. Uformuj bułki, delikatnie napinając ciasto pod spodem.",
+         "Drugie wyrastanie: Ułóż bułki na blaszce wyłożonej papierem do pieczenia. Przykryj ściereczką i odstaw na 20–30 minut do napuszenia.",
+         "Pieczenie: Rozgrzej piekarnik do 220°C. (Opcjonalnie) Posmaruj bułki wodą lub mlekiem i posyp nasionami. Piecz bułki przez 20–25 minut, aż będą rumiane.",
+         "Wskazówki: Jeśli chcesz, aby bułki były bardziej chrupiące, umieść na dole piekarnika naczynie z wodą podczas pieczenia."
+      ]
+   },
+   {
+      "id": 29,
+      "title": "Pasta bezjajeczna ze strączków",
+      "link": "pasta_bezjajeczna_ze_straczkow",
+      "imageId": "pasta_bezjajeczna_ze_straczkow",
+      "ingredients": [
+         "180 g Tofu",
+         "180 g Ciecierzyca z puszki/słoika",
+         "2 łyżka Płatki drożdżowe nieaktywne",
+         "1 łyżeczka Musztarda",
+         "2 łyżki oliwy z oliwek",
+         "Sól czarna kala namak",
+         "Sól, pieprz czarny świeżo mielony",
+         "Kurkuma - do koloru"
+      ],
+      "description": [
+         "Pokruszone tofu blendujemy razem z ciecierzycą (może być sama ciecierzyca, tofu opcjonalnie wędzone) oraz niewielką ilością wody i oliwą (może być też olej lniany).",
+         "Dodajemy przyprawy: kurkumy dodaj tyle, aby nadać koloru, czarna sól kala namak nadaje jajecznego aromatu, możesz ją pominąć to tylko dodatek smakowy. ",
+         "Płatki drożdżowe nieaktywne również, one nadają serowo-orzechowo aromatu. Pastę podajemy z pieczywem i świeżymi warzywami - koniecznie na wierzch kiełki bądź szczypiorek."
+      ]
    }
 ]
