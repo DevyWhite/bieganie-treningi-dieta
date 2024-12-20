@@ -621,9 +621,58 @@
          "stretching": "Rozciąganie bioder, łydek i czworogłowych"
       },
       {
-         "dzien": "Niedziela (Długi Bieg)",
+         "dzien": "Niedziela (Regeneracja)",
+         "opis": "Trening regeneracyjny i stabilizacyjny",
+         "aktywnosc": "6–10 km spokojnego biegu lub spaceru.",
+         "cwiczenia": "Plank boczny: 2 serie po 40 sekund na stronę.\n Martwy ciąg na jednej nodze (bez obciążenia lub z lekką hantlą): 2 x 8 na stronę.\n Przenoszenie ciężaru na jednej nodze: 2 serie po 8 powtórzeń."
+      }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Długi Bieg)",
          "opis": "Długi bieg - jeśli to możliwe, wybierz trasę leśną lub polną, by odciążyć stawy.",
          "bieg": "18-22 km w spokojnym tempie (utrzymuj tętno w strefie 2).",
+         "stretching": "Rozciąganie bioder, łydek i czworogłowych"
+      },
+      {
+         "dzien": "Wtorek (Regeneracja)",
+         "opis": "Trening regeneracyjny i mobilizacja",
+         "bieg": "5-6 km w spokojnym tempie (~6:30 min/km)",
+         "stretching": "Rozciąganie bioder, łydek i czworogłowych.",
+         "cwiczenia": "Skłony do łydki (20–30 sekund na każdą nogę).\nRozciąganie dynamiczne czworogłowych uda (8–10 powtórzeń).\nMostek biodrowy (2 serie po 10 powtórzeń).\nKoci grzbiet i siodełko (10 powtórzeń)."
+      },
+      {
+         "dzien": "Środa (Regeneracja)",
+         "opis": "Trening regeneracyjny",
+         "aktywnosc": "5-6 km spokojnego biegu lub spaceru.",
+         "cwiczenia": "Koci grzbiet (10 powtórzeń)\nSkłony do łydki (20–30 sekund na nogę)\nDynamiczne unoszenie kolan (10 powtórzeń na nogę)\nPozycja gołębia (po 30 sekund na stronę)\nMostek biodrowy (2 serie po 10 powtórzeń)"
+      },
+      {
+         "dzien": "Czwartek (Fartlek)",
+         "opis": "Trening fartlek",
+         "rozgrzewka": "2 km spokojnego biegu.\n3× skipy A (30 metrów)\n3× dynamiczne wymachy nóg (do przodu i do tyłu)\n3× krążenia bioder (po obu stronach)\nLekki stretching dynamiczny (np. wymachy rąk i nóg).",
+         "fartlek": "1 minuta w tempie 4:15–4:30 min/km → 2 minuty trucht (tempo 6:00–6:30 min/km)\n powtórz 8 razy.",
+         "chlodzenie": "2 km spokojnego biegu.",
+         "stretching": "Rozciąganie i mobilizacja bioder, łydek i czworogłowych."
+      },
+      {
+         "dzien": "Piątek (Regeneracja)",
+         "opis": "5-6 km spacer.",
+         "mobilizacja": "Rozciąganie bioder, pośladków i dwugłowego uda (jak wcześniej)"
+      },
+      {
+         "dzien": "Sobota (Siła biegowa)",
+         "opis": "Trening siły biegowej",
+         "rozgrzewka": "2 km spokojnego truchtu.",
+         "podbiegi": "8–10 podbiegów na odcinku 100 metrów (intensywnie pod górę, spokojny trucht w dół jako odpoczynek).",
+         "chlodzenie": "2 km spokojnego biegu.",
+         "stretching": "Rozciąganie bioder, łydek i czworogłowych",
+         "cwiczenia": "Plank - 3 serie po 30-40 sekund,\nPlank boczny -2 serie po 30–40 sekund na stronę,\nMostek biodrowy (glute bridge) - 2 serie po 15 powtórzeń,\nKrążenia bioder - 10 krążeń w każdą stronę,\nMartwy ciąg na jednej nodze - 2 serie po 8 powtórzeń na stronę"
+      },
+      {
+         "dzien": "Niedziela (Długi Bieg)",
+         "opis": "Długi bieg - jeśli to możliwe, wybierz trasę leśną lub polną, by odciążyć stawy.",
+         "bieg": "18-20 km w spokojnym tempie (utrzymuj tętno w strefie 2).",
          "stretching": "Rozciąganie bioder, łydek i czworogłowych"
       }
    ]
