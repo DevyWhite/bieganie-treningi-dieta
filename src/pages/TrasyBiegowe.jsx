@@ -23,7 +23,7 @@ const TrasyBiegowe = () => {
                         <div key={stage.stageId}>
                            <h5>{stage.stageName}</h5>
                            <img
-                              src={stage.image}
+                              src={`/images/running-trails/${stage.image}`}
                               alt={stage.stageName}
                               className='img-fluid'
                            />
