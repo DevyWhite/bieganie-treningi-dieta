@@ -22,7 +22,7 @@
    background-color: #6c757d; /* Kolor tła przycisków - szary */
    color: #fff; /* Kolor tekstu */
    border: none;
-   width: 120px;
+   width: 100%;
    padding: 10px 20px; /* Większy padding dla lepszego wyglądu */
    cursor: pointer;
    border-radius: 5px; /* Zaokrąglone rogi przycisków */
@@ -32,4 +32,12 @@
 
 .menu-nawigacyjne button:hover {
    background-color: #484e52; /* Ciemniejszy szary po najechaniu */
+}
+
+@media (max-width: 768px) {
+   .menu-nawigacyjne li {
+      flex: 1 1 120px;
+      max-width: 100%;
+      text-align: center;
+   }
 }
