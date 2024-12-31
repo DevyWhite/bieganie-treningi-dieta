@@ -13,6 +13,8 @@ const DrzewkoDni = ({ dni }) => {
    };
 
    const renderWithNewLines = (text) => {
+      if (!text) return;
+
       return text.split("\n").map((line, index) => (
          <span key={index} className='drzewko-dni-span'>
             {line}
