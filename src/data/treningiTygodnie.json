@@ -719,12 +719,16 @@
          "stretching": "Rozciąganie bioder, łydek i czworogłowych"
       },
       {
-         "dzien": "Wtorek (We will see!)",
-         "opis": "We will see!"
+         "dzien": "Wtorek (Lekki bieg)",
+         "opis": "Lekki bieg ciągły",
+         "bieg": "6–8 km w tempie 5:45–6:00",
+         "cwiczenia": "Plank boczny (2x 40 sekund na stronę)\nMostek biodrowy (2x 12 powtórzeń)\nDynamiczne unoszenie kolan (10–12 razy na każdą stronę)"
       },
       {
-         "dzien": "Środa (We will see!)",
-         "opis": "We will see!"
+         "dzien": "Środa (Regeneracja)",
+         "opis": "Dzień regeneracyjny",
+         "aktywnosc": "Spacer lub aktywna regeneracja (do 5 km).",
+         "cwiczenia": "Krążenia bioder, koci grzbiet, skłony do łydki."
       },
       {
          "dzien": "Czwartek (We will see!)",
