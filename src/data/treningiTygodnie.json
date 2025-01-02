@@ -721,7 +721,7 @@
       {
          "dzien": "Wtorek (Lekki bieg)",
          "opis": "Lekki bieg ciągły",
-         "bieg": "6–8 km w tempie 5:45–6:00",
+         "bieg": "6-8 km w tempie 5:45–6:00",
          "cwiczenia": "Plank boczny (2x 40 sekund na stronę)\nMostek biodrowy (2x 12 powtórzeń)\nDynamiczne unoszenie kolan (10–12 razy na każdą stronę)"
       },
       {
@@ -731,20 +731,30 @@
          "cwiczenia": "Krążenia bioder, koci grzbiet, skłony do łydki."
       },
       {
-         "dzien": "Czwartek (We will see!)",
-         "opis": "We will see!"
+         "dzien": "Czwartek (Bieg Progowy)",
+         "opis": "Bieg progowy",
+         "rozgrzewka": "2-3 km spokojnie (tempo regeneracyjne)\n3× skipy A (30 metrów)\n3× dynamiczne wymachy nóg do przodu i na boki\n3× krążenia bioder (na każdą stronę)\nDynamiczne krążenie ramion i bioder",
+         "bieg": "8 minut w tempie progowym (ok. 4:50–5:00 min/km).\nPrzerwa 2 minuty truchtu.\nPowtórzyć 3 razy",
+         "chlodzenie": "2 km spokojnego schłodzenia",
+         "stretching": "Rozciąganie bioder, łydek i czworogłowych.",
+         "cwiczenia": "Plank boczny (2 serie po 30–40 sekund na stronę)\nMartwy ciąg na jednej nodze (2 serie po 8 powtórzeń na stronę)"
       },
       {
-         "dzien": "Piątek (We will see!)",
-         "opis": "We will see!"
+         "dzien": "Piątek (Regeneracja)",
+         "opis": "Dzień regeneracyjny",
+         "bieg": "6-8 km w spokojnym tempie (6:20–6:30).",
+         "stretching": "Rozciąganie bioder, łydek i czworogłowych."
       },
       {
-         "dzien": "Sobota (We will see!)",
-         "opis": "We will see!"
+         "dzien": "Sobota (Mobilność + Stabilizacja)",
+         "opis": "Poprawa zakresu ruchu, stabilności oraz regeneracja aktywna.",
+         "cwiczenia": "Mobilność:\nSkłony do łydki (2x20 sekund na każdą nogę).\nKrążenia bioder (10 w każdą stronę).\nSkłony z rozstawionymi nogami (8–10 powtórzeń).\n\nStabilizacja:\nDeska boczna (2x20–30 sekund na każdą stronę).\nMartwy ciąg na jednej nodze z lekkim obciążeniem (2x8 powtórzeń na stronę).\nWykroki mobilizacyjne (2x10 na każdą nogę)."
       },
       {
-         "dzien": "Niedziela (We will see!)",
-         "opis": "We will see!"
+         "dzien": "Niedziela (Długi Bieg)",
+         "opis": "Długie wybieganie 18–20 km w tempie 6:10–6:30 min/km. Możesz wybrać trasę z delikatnymi przewyższeniami.",
+         "bieg": "18-20 km w spokojnym tempie (tętno w strefie 2).",
+         "stretching": "Rozciąganie bioder, łydek i czworogłowych"
       }
    ]
 ]
