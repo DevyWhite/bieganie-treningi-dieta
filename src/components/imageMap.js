@@ -33,6 +33,7 @@ import imgHerbata_hibiskus_cytryna from "../images/food-images/herbata_hibiskus_
 import imgNapoj_miodowo_imbirowy from "../images/food-images/napoj_miodowo_imbirowy.jpg";
 import imgBulki_pszenno_orkiszowe from "../images/food-images/bulki_pszenno_orkiszowe.jpg";
 import imgPasta_bezjajeczna_ze_straczkow from "../images/food-images/pasta_bezjajeczna_ze_straczkow.jpg";
+import imgChleb_pszenno_orkiszowy from "../images/food-images/chleb_pszenno_orkiszowy.jpg";
 
 // Mapowanie identyfikatorów obrazków na zaimportowane obrazy
 const imageMap = {
@@ -73,6 +74,7 @@ const imageMap = {
    napoj_miodowo_imbirowy: imgNapoj_miodowo_imbirowy,
    bulki_pszenno_orkiszowe: imgBulki_pszenno_orkiszowe,
    pasta_bezjajeczna_ze_straczkow: imgPasta_bezjajeczna_ze_straczkow,
+   chleb_pszenno_orkiszowy: imgChleb_pszenno_orkiszowy,
 };
 
 export default imageMap;
