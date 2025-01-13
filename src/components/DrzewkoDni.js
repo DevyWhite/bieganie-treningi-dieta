@@ -95,6 +95,11 @@ const DrzewkoDni = ({ dni }) => {
                            {renderWithNewLines(dzien.mobilizacja)}
                         </li>
                      )}
+                     {dzien.cel && (
+                        <li>
+                           <strong>Cel:</strong> {renderWithNewLines(dzien.cel)}
+                        </li>
+                     )}
                   </ul>
                )}
             </li>
