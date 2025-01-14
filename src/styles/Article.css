@@ -1,29 +1,39 @@
-/* Article.css */
-
-article {
+.article {
+   border: 1px solid #e0e0e0;
+   border-radius: 10px;
    padding: 20px;
-   margin: 20px 0;
-   background: linear-gradient(90deg, #ffffff, #f9f9f9); /* gradientowe tło */
-   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* subtelny cień */
-   border-radius: 8px; /* zaokrąglone rogi */
-   border: 1px solid #e0e0e0; /* delikatna linia */
+   background-color: #fff;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   transition: transform 0.2s, box-shadow 0.2s;
 }
 
-h3 {
-   font-size: 1.5rem; /* większa czcionka dla lepszej czytelności */
-   margin-bottom: 10px;
+.article:hover {
+   transform: translateY(-5px);
+   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.article-image {
+   width: 100%; /* Zdjęcie zajmuje całą szerokość kontenera */
+   height: 200px; /* Stała wysokość zdjęcia */
+   object-fit: cover; /* Dopasowanie zdjęcia bez deformacji */
+   border-radius: 8px; /* Zaokrąglone rogi */
+   margin-bottom: 15px; /* Odstęp od tekstu */
+}
+
+.article h3 {
+   margin: 0 0 10px 0;
+   font-size: 1.5em;
    color: #333;
 }
 
-span {
-   display: block;
-   font-size: 0.9rem; /* nieco większa czcionka */
-   color: #555;
-   margin-bottom: 15px;
+.article span {
+   color: #666;
+   font-size: 0.9em;
+   margin: 0 0 10px 0;
 }
 
-p {
-   font-size: 1rem;
-   line-height: 1.6;
+.article p {
+   margin: 0 0 15px 0;
    color: #444;
+   line-height: 1.5;
 }

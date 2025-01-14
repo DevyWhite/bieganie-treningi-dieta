@@ -15,6 +15,7 @@ import ZawodyBiegowe from "../pages/ZawodyBiegowe";
 import TrasyBiegowe from "../pages/TrasyBiegowe";
 
 import RecipePage from "../pages/RecipePage";
+import ArticlePage from "../pages/ArticlePage";
 
 import Cwiczenia from "../pages/Cwiczenia";
 import Core from "../pages/Core";
@@ -42,6 +43,9 @@ const Page = () => {
 
          {/* Dynamiczne strony przepisów */}
          <Route path='/przepisy/:recipeId' element={<RecipePage />} />
+
+         {/* Dynamiczne strony artykułów */}
+         <Route path='/article/:id' element={<ArticlePage />} />
 
          {/* CWICZENIA */}
          <Route path='/cwiczenia' element={<Cwiczenia />}>
