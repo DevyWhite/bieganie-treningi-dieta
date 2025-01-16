@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import racesData from "../data/zawodyBiegowe.json";
 import { Card, Button, Container, Row, Col, Accordion } from "react-bootstrap";
-import "../styles/ZawodyBiegowe.css"; // Twoje style
+import "../styles/ZawodyBiegowe.css";
 
 const ZawodyBiegowe = () => {
    const [races, setRaces] = useState([]);

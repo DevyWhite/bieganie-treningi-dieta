@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
-import ReactMarkdown from "react-markdown"; // Importuj react-markdown
+import ReactMarkdown from "react-markdown";
 import "../styles/ArticlePage.css";
 
 const ArticlePage = () => {
@@ -50,7 +50,6 @@ const ArticlePage = () => {
                         className='section-image'
                      />
                   )}
-                  {/* Użyj react-markdown do renderowania treści */}
                   <ReactMarkdown>{section.content}</ReactMarkdown>
                </div>
             ))}

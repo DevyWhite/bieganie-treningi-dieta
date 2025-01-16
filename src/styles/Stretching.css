@@ -1,80 +1,68 @@
-/* Stretching.css */
-
-/* Główny kontener dla komponentu Stretching */
 .stretching-container {
-   max-width: 800px; /* Maksymalna szerokość kontenera */
-   margin: 0 auto; /* Wyśrodkowanie kontenera */
-   padding: 20px; /* Padding wewnętrzny */
-   background-color: #f9f9f9; /* Kolor tła kontenera */
-   border-radius: 8px; /* Zaokrąglenie krawędzi */
-   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Cień dla kontenera */
+   max-width: 800px;
+   margin: 0 auto;
+   padding: 20px;
+   background-color: #f9f9f9;
+   border-radius: 8px;
+   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Tytuł sekcji ćwiczeń */
 .stretching-title {
-   font-size: 2rem; /* Rozmiar czcionki tytułu */
-   color: #333; /* Kolor tekstu */
-   margin-bottom: 20px; /* Odstęp poniżej tytułu */
+   font-size: 2rem;
+   color: #333;
+   margin-bottom: 20px;
 }
 
-/* Lista ćwiczeń */
 .stretching-exercises-list {
-   list-style-type: decimal; /* Typ listy - numeryczny */
-   padding-left: 20px; /* Padding z lewej */
+   list-style-type: decimal;
+   padding-left: 20px;
 }
 
-/* Element listy ćwiczeń */
 .stretching-exercise-item {
-   margin-bottom: 15px; /* Odstęp pomiędzy elementami listy */
-   border-bottom: 1px solid #ccc; /* Dolna linia oddzielająca */
-   padding-bottom: 10px; /* Padding poniżej */
+   margin-bottom: 15px;
+   border-bottom: 1px solid #ccc;
+   padding-bottom: 10px;
 }
 
-/* Tytuł ćwiczenia */
 .stretching-exercise-title {
-   font-size: 1.3rem; /* Rozmiar czcionki tytułu */
-   font-weight: bold; /* Pogrubienie czcionki */
-   margin: 5px 0; /* Odstępy wokół tytułu */
+   font-size: 1.3rem;
+   font-weight: bold;
+   margin: 5px 0;
 }
 
-/* Opis ćwiczenia i inne informacje */
 .stretching-exercise-description,
 .stretching-exercise-time,
 .stretching-exercise-repetitions,
 .stretching-exercise-time-or-repetitions {
-   font-size: 1rem; /* Rozmiar czcionki opisu */
-   color: #555; /* Kolor tekstu */
-   margin: 4px 0; /* Odstęp wokół opisu */
+   font-size: 1rem;
+   color: #555;
+   margin: 4px 0;
 }
 
-/* Tytuł sekcji dodatkowych wskazówek */
 .stretching-tips-title {
-   font-size: 1.5rem; /* Rozmiar czcionki tytułu wskazówek */
-   color: #333; /* Kolor tekstu */
-   margin-top: 30px; /* Odstęp powyżej */
+   font-size: 1.5rem;
+   color: #333;
+   margin-top: 30px;
 }
 
-/* Lista wskazówek */
 .stretching-tips-list {
-   list-style-type: disc; /* Typ listy - punktowy */
-   padding-left: 20px; /* Padding z lewej */
+   list-style-type: disc;
+   padding-left: 20px;
 }
 
-/* Element listy wskazówek */
 .stretching-tip-item {
-   font-size: 1rem; /* Rozmiar czcionki elementu listy */
-   color: #555; /* Kolor tekstu */
-   margin: 4px 0; /* Odstęp wokół elementu */
+   font-size: 1rem;
+   color: #555;
+   margin: 4px 0;
 }
 
-/* Responsywność dla mniejszych ekranów */
 @media (max-width: 600px) {
    .stretching-title {
-      font-size: 1.4rem; /* Mniejszy rozmiar czcionki tytułu */
+      font-size: 1.4rem;
    }
 
    .stretching-exercise-title {
-      font-size: 1rem; /* Mniejszy rozmiar czcionki tytułów ćwiczeń */
+      font-size: 1rem;
    }
 
    .stretching-exercise-description,
@@ -82,10 +70,10 @@
    .stretching-exercise-repetitions,
    .stretching-exercise-time-or-repetitions,
    .stretching-exercise-benefits {
-      font-size: 0.9rem; /* Mniejszy rozmiar czcionki opisu */
+      font-size: 0.9rem;
    }
 
    .stretching-training-suggestion-title {
-      font-size: 1rem; /* Mniejszy rozmiar czcionki tytułu sugerowanego układu */
+      font-size: 1rem;
    }
 }

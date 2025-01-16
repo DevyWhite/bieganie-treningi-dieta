@@ -1,6 +1,3 @@
-/* MenuNawigacyjne.css */
-
-/* Styl dla menu nawigacyjnego */
 .menu-nawigacyjne {
    display: flex;
    flex-wrap: wrap;
@@ -9,7 +6,7 @@
    justify-content: center;
    list-style-type: none;
    padding: 0;
-   overflow: hidden; /* Zapewnia, że elementy nie wyjdą poza kontener */
+   overflow: hidden;
 }
 
 .menu-nawigacyjne li {
@@ -19,19 +16,19 @@
 }
 
 .menu-nawigacyjne button {
-   background-color: #6c757d; /* Kolor tła przycisków - szary */
-   color: #fff; /* Kolor tekstu */
+   background-color: #6c757d;
+   color: #fff;
    border: none;
    width: 100%;
-   padding: 10px 20px; /* Większy padding dla lepszego wyglądu */
+   padding: 10px 20px;
    cursor: pointer;
-   border-radius: 5px; /* Zaokrąglone rogi przycisków */
+   border-radius: 5px;
    font-size: 16px;
-   transition: background-color 0.3s ease; /* Płynna zmiana koloru */
+   transition: background-color 0.3s ease;
 }
 
 .menu-nawigacyjne button:hover {
-   background-color: #484e52; /* Ciemniejszy szary po najechaniu */
+   background-color: #484e52;
 }
 
 @media (max-width: 768px) {

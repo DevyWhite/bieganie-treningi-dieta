@@ -1,24 +1,24 @@
 .footer {
-   background-color: #2c3e50; /* Ciemne tło stopki */
-   color: #ecf0f1; /* Jasny kolor tekstu */
+   background-color: #2c3e50;
+   color: #ecf0f1;
    padding: 20px;
    text-align: center;
-   border-top: 2px solid #bdc3c7; /* Jaśniejsza górna linia oddzielająca stopkę */
+   border-top: 2px solid #bdc3c7;
 }
 
 .footer h2 {
-   margin: 0 0 10px; /* Marginesy dla nagłówka */
-   font-size: 24px; /* Rozmiar czcionki nagłówka */
+   margin: 0 0 10px;
+   font-size: 24px;
 }
 
 .footer p {
-   margin: 5px 0; /* Marginesy dla tekstu */
-   font-size: 16px; /* Rozmiar czcionki dla tekstu */
-   color: #bdc3c7; /* Jaśniejszy kolor dla tekstu */
+   margin: 5px 0;
+   font-size: 16px;
+   color: #bdc3c7;
 }
 
 .footer-info {
-   margin-top: 15px; /* Margines górny dla informacji o prawach autorskich */
-   font-size: 14px; /* Rozmiar czcionki dla informacji o prawach autorskich */
-   color: #bdc3c7; /* Jaśniejszy kolor dla tekstu praw autorskich */
+   margin-top: 15px;
+   font-size: 14px;
+   color: #bdc3c7;
 }

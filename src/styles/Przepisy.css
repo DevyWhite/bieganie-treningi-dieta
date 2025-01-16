@@ -1,83 +1,74 @@
-/* Kontener siatki dla przepisów */
 .grid-container {
    display: grid;
-   grid-template-columns: repeat(
-      auto-fill,
-      minmax(250px, 1fr)
-   ); /* Automatyczne dopasowanie kolumn */
-   gap: 16px; /* Odstępy między elementami siatki */
+   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+   gap: 16px;
 }
 
-/* Element siatki dla przepisów */
 .grid-item {
    border: 1px solid #ddd;
    border-radius: 8px;
    overflow: hidden;
-   background-color: #fff; /* Ustal spójne tło */
-   display: flex; /* Użyj flexboxa */
-   flex-direction: column; /* Ustaw kierunek na kolumnę */
-   justify-content: space-between; /* Rozłóż elementy w pionie */
+   background-color: #fff;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
 }
 
 .grid-item:hover {
    background-color: #939494;
 }
 
-/* Styl dla obrazków przepisów */
 .przepis-image {
-   width: 100%; /* Sprawia, że obrazek zajmuje całą szerokość kontenera */
-   height: auto; /* Ustawia wysokość w proporcji do szerokości, zachowując proporcje */
-   max-height: 200px; /* Ustala maksymalną wysokość obrazka */
-   object-fit: cover; /* Wypełnia kontener obrazkiem, zachowując jego proporcje */
+   width: 100%;
+   height: auto;
+   max-height: 200px;
+   object-fit: cover;
    border-radius: 5px;
 }
 
-/* Stylizacja dla pola tekstowego */
 input[type="text"] {
-   width: 100%; /* Pełna szerokość kontenera */
-   max-width: 400px; /* Maksymalna szerokość, aby nie był za szeroki */
-   padding: 10px; /* Wewnętrzne odstępy dla lepszej czytelności */
-   margin: 16px 0; /* Odstęp od innych elementów */
-   border: 1px solid #ddd; /* Delikatna ramka */
-   border-radius: 4px; /* Zaokrąglenie krawędzi */
-   font-size: 1em; /* Rozmiar czcionki */
-   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Cień dla lepszego efektu wizualnego */
-   transition: border-color 0.3s, box-shadow 0.3s; /* Płynna zmiana koloru ramki i cienia */
+   width: 100%;
+   max-width: 400px;
+   padding: 10px;
+   margin: 16px 0;
+   border: 1px solid #ddd;
+   border-radius: 4px;
+   font-size: 1em;
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+   transition: border-color 0.3s, box-shadow 0.3s;
 }
 
 input[type="text"]:focus {
-   border-color: #2c2c2c; /* Kolor ramki przy fokusie */
-   box-shadow: 0 0 8px rgba(0, 0, 0, 0.2); /* Zwiększony cień przy fokusie */
-   outline: none; /* Usuń domyślną obwódkę przeglądarki */
+   border-color: #2c2c2c;
+   box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+   outline: none;
 }
 
-/* Styl dla tytułów przepisów */
 .przepis-title {
-   margin: 8px 0; /* Dodatkowy margines, aby było przestronniej */
-   font-size: 3vw; /* Użycie jednostki vw do dynamicznego dopasowania rozmiaru czcionki */
+   margin: 8px 0;
+   font-size: 3vw;
    font-weight: bold;
-   text-align: center; /* Wyśrodkowanie tekstu */
+   text-align: center;
 }
 
 .przepis-link {
-   text-decoration: none; /* Usunięcie podkreślenia */
+   text-decoration: none;
 }
 
-/* media query dla większych ekranów */
 @media (min-width: 1200px) {
    .przepis-title {
-      font-size: 1.2rem; /* stały rozmiar czcionki dla dużych ekranów */
+      font-size: 1.2rem;
    }
 }
 
 @media (max-width: 768px) {
    .przepis-title {
-      font-size: 5vw; /* Większy rozmiar czcionki na mniejszych ekranach */
+      font-size: 5vw;
    }
 }
 
 @media (max-width: 480px) {
    .przepis-title {
-      font-size: 6vw; /* Jeszcze większy rozmiar czcionki na małych ekranach */
+      font-size: 6vw;
    }
 }

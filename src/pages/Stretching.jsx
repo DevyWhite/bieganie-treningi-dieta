@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
-import stretchingExercisesData from "../data/stretching.json"; // Ścieżka do pliku JSON
-import "../styles/Stretching.css"; // Stylizacja
+import stretchingExercisesData from "../data/stretching.json";
+import "../styles/Stretching.css";
 
 const Stretching = () => {
    const [exercises, setExercises] = useState([]);

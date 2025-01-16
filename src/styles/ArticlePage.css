@@ -22,7 +22,6 @@
    margin-bottom: 20px;
 }
 
-/* Stylowanie sekcji */
 .article-page .article-sections {
    margin-top: 20px;
 }
@@ -40,7 +39,7 @@
 .article-page .article-sections .section p {
    line-height: 1.6;
    color: #444;
-   margin: 0 0 15px 0; /* Odstęp między akapitami */
+   margin: 0 0 15px 0;
 }
 
 .article-page .article-sections .section .section-image {
@@ -50,7 +49,6 @@
    margin-bottom: 15px;
 }
 
-/* Przycisk powrotu do strony głównej */
 .article-page .back-to-home {
    display: inline-block;
    margin-top: 20px;
@@ -73,7 +71,7 @@
 }
 
 .react-markdown p {
-   margin: 0 0 15px 0; /* Odstęp między akapitami */
+   margin: 0 0 15px 0;
 }
 
 .react-markdown strong {

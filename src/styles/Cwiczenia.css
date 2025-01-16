@@ -1,73 +1,62 @@
-/* Cwiczenia.css */
-
-/* Główny kontener dla komponentu Cwiczenia */
 .cwiczenia-container {
-   max-width: 800px; /* Maksymalna szerokość kontenera */
-   margin: 0 auto; /* Wyśrodkowanie kontenera */
-   padding-top: 1rem; /* Padding wewnętrzny */
-   background-color: #f9f9f9; /* Kolor tła kontenera */
-   border-radius: 8px; /* Zaokrąglenie krawędzi */
-   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Cień dla kontenera */
+   max-width: 800px;
+   margin: 0 auto;
+   padding-top: 1rem;
+   background-color: #f9f9f9;
+   border-radius: 8px;
+   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
    width: 100%;
 }
 
-/* Nawigacja */
 .cwiczenia-nav {
-   /* margin-bottom: 20px; */
 }
 
-/* Lista nawigacji */
 .cwiczenia-nav-list {
-   list-style-type: none; /* Brak punktów w liście */
-   padding: 0; /* Brak paddingu */
-   display: flex; /* Wyświetlenie w formie rzędu */
+   list-style-type: none;
+   padding: 0;
+   display: flex;
    flex-wrap: wrap;
-   justify-content: space-around; /* Rozłożenie elementów nawigacji */
+   justify-content: space-around;
 }
 
-/* Element nawigacji */
 .cwiczenia-nav-item {
-   flex: 1; /* Równomierne rozłożenie */
+   flex: 1;
 }
 
-/* Linki nawigacji */
 .cwiczenia-nav-link {
-   display: block; /* Blokowy wyświetlanie linków */
-   padding: 10px 15px; /* Padding wewnętrzny linków */
-   text-align: center; /* Wyśrodkowanie tekstu */
-   text-decoration: none; /* Brak podkreślenia */
-   color: #333; /* Kolor tekstu */
-   border: 1px solid transparent; /* Przejrzysta ramka dla efektu hover */
-   border-radius: 4px; /* Zaokrąglenie krawędzi linków */
-   transition: background-color 0.3s, color 0.3s; /* Animacja przy zmianie */
+   display: block;
+   padding: 10px 15px;
+   text-align: center;
+   text-decoration: none;
+   color: #333;
+   border: 1px solid transparent;
+   border-radius: 4px;
+   transition: background-color 0.3s, color 0.3s;
 }
 
-/* Efekt hover dla linków */
 .cwiczenia-nav-link:hover {
-   background-color: #939494; /* Kolor tła na hover */
-   color: #fff; /* Kolor tekstu na hover */
-   /* border: 1px solid #686868; */
+   background-color: #939494;
+   color: #fff;
 }
 
 .cwiczenia-nav-link-active {
-   display: block; /* Blokowy wyświetlanie linków */
-   padding: 10px 15px; /* Padding wewnętrzny linków */
-   text-align: center; /* Wyśrodkowanie tekstu */
-   text-decoration: none; /* Brak podkreślenia */
-   background-color: #5c5c5c; /* Kolor tła na hover */
-   color: #fff; /* Kolor tekstu */
-   border: 1px solid transparent; /* Przejrzysta ramka dla efektu hover */
-   border-radius: 4px; /* Zaokrąglenie krawędzi linków */
-   transition: background-color 0.3s, color 0.3s; /* Animacja przy zmianie */
+   display: block;
+   padding: 10px 15px;
+   text-align: center;
+   text-decoration: none;
+   background-color: #5c5c5c;
+   color: #fff;
+   border: 1px solid transparent;
+   border-radius: 4px;
+   transition: background-color 0.3s, color 0.3s;
 }
 
-/* Media queries dla responsywności */
 @media (max-width: 600px) {
    .cwiczenia-container {
-      padding: 10px; /* Mniejszy padding na małych ekranach */
+      padding: 10px;
    }
 
    .cwiczenia-nav-link {
-      padding: 8px 10px; /* Mniejszy padding linków na małych ekranach */
+      padding: 8px 10px;
    }
 }

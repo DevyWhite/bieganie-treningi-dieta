@@ -1,39 +1,38 @@
 .card {
-   border-radius: 10px; /* Zaokrąglenie krawędzi kart */
-   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Cień dla kart */
-   margin-bottom: 20px; /* Odstęp między kartami */
+   border-radius: 10px;
+   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+   margin-bottom: 20px;
 }
 
 .card-title {
-   font-size: 1.5rem; /* Powiększenie rozmiaru czcionki dla tytułu */
-   margin-bottom: 0.5rem; /* Mniejszy odstęp poniżej tytułu */
+   font-size: 1.5rem;
+   margin-bottom: 0.5rem;
 }
 
 .injury-description,
 .injury-instructions {
-   margin-bottom: 1rem; /* Odstęp poniżej opisu i instrukcji */
+   margin-bottom: 1rem;
 }
 
 .exercise-category,
 .exercise-subcategory {
-   margin-top: 1rem; /* Odstęp powyżej kategorii ćwiczeń */
-   margin-bottom: 0.5rem; /* Odstęp poniżej kategorii ćwiczeń */
+   margin-top: 1rem;
+   margin-bottom: 0.5rem;
 }
 
 .exercise-item,
 .stretch-item,
 .tip-item {
-   margin-bottom: 0.5rem; /* Odstęp między elementami listy */
+   margin-bottom: 0.5rem;
 }
 
 .injury-note {
-   margin-top: 1rem; /* Odstęp powyżej uwag */
+   margin-top: 1rem;
 }
 
-/* Media Queries dla responsywności */
 @media (max-width: 768px) {
    .card-title {
-      font-size: 1.2rem; /* Zmniejszenie tytułu na mniejszych ekranach */
+      font-size: 1.2rem;
    }
 
    .injury-description,
@@ -44,6 +43,6 @@
    .stretch-item,
    .tip-item,
    .injury-note {
-      font-size: 0.4rem; /* Zmniejszenie rozmiaru tekstu dla wszystkich elementów */
+      font-size: 0.4rem;
    }
 }

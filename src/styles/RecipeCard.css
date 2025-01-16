@@ -5,7 +5,7 @@
    background-color: #fff;
    padding: 16px;
    margin: 16px;
-   max-width: 1000px; /* Ustaw max-width, aby karta była szeroka */
+   max-width: 1000px;
    display: flex;
    flex-direction: column;
 }
@@ -30,12 +30,12 @@
 
 .recipe-ingredients,
 .recipe-preparation {
-   flex: 1; /* Pozwala na elastyczne szerokości kolumn */
+   flex: 1;
 }
 
 .recipe-ingredients {
    max-width: 30%;
-   border-right: 1px solid #ddd; /* Delikatna linia oddzielająca */
+   border-right: 1px solid #ddd;
    padding-right: 16px;
 }
 
@@ -46,70 +46,67 @@
 
 .recipe-ingredients h3,
 .recipe-preparation h3 {
-   font-size: 1.2em; /* Rozmiar czcionki nagłówków sekcji */
+   font-size: 1.2em;
 }
 
 .recipe-ingredients p,
 .recipe-preparation p {
-   font-size: 0.9em; /* Delikatne zmniejszenie czcionki dla opisu */
-   line-height: 1.5; /* Poprawia czytelność tekstu */
+   font-size: 0.9em;
+   line-height: 1.5;
 }
 
 .recipe-ingredients ul {
-   list-style-type: disc; /* Ustawienie punktów */
-   padding-left: 20px; /* Wcięcie */
-   font-size: 0.9em; /* Rozmiar czcionki */
-   margin: 8px 0; /* Marginesy dla listy */
+   list-style-type: disc;
+   padding-left: 20px;
+   font-size: 0.9em;
+   margin: 8px 0;
 }
 
 ul {
-   /* list-style-type: none; */
    padding-left: 20px;
-   font-size: 0.9em; /* Delikatne zmniejszenie czcionki dla listy składników */
+   font-size: 0.9em;
 }
 
 p {
    margin: 8px 0;
 }
 
-/* Media Queries dla responsywności */
 @media (max-width: 768px) {
    .recipe-card {
-      margin: 8px; /* Zmniejszamy marginesy */
-      padding: 12px; /* Zmniejszamy padding wewnętrzny */
+      margin: 8px;
+      padding: 12px;
    }
 
    .recipe-title {
-      font-size: 1.2em; /* Zmniejszamy tytuł na mniejszych ekranach */
+      font-size: 1.2em;
    }
 
    .recipe-content {
-      flex-direction: column; /* Zamiast poziomego układu, pionowy na małych ekranach */
+      flex-direction: column;
    }
 
    .recipe-ingredients,
    .recipe-preparation {
-      max-width: 100%; /* Pełna szerokość na małych ekranach */
-      padding: 0; /* Usunięcie dodatkowych paddingów */
+      max-width: 100%;
+      padding: 0;
    }
 
    .recipe-image {
-      max-height: 200px; /* Zmniejszenie maksymalnej wysokości obrazu */
+      max-height: 200px;
    }
 
-   /* Nowe style dla mniejszych ekranów */
    .recipe-ingredients h3,
    .recipe-preparation h3 {
-      font-size: 1em; /* Zmniejszamy czcionkę nagłówków sekcji */
+      font-size: 1em;
    }
 
    .recipe-ingredients p,
    .recipe-preparation p {
-      font-size: 0.8em; /* Zmniejszamy czcionkę dla opisu */
+      font-size: 0.8em;
    }
 
    .recipe-ingredients ul,
    .recipe-preparation ul {
-      font-size: 0.8em; /* Zmniejszamy czcionkę dla listy składników */
+      font-size: 0.8em;
    }
 }

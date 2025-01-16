@@ -12,11 +12,11 @@
 .custom-card .card-img-top {
    border-top-left-radius: 10px;
    border-top-right-radius: 10px;
-   height: 200px; /* Dostosuj wysokość, aby pasowała do obrazka */
-   object-fit: cover; /* Obrazek zachowa proporcje */
+   height: 200px;
+   object-fit: cover;
 }
 
 .accordion-button {
-   flex-grow: 1; /* Rozciąga przycisk, aby zajmował całą szerokość */
-   padding: 0.25rem 0.5rem; /* Ustawia mniejsze odstępy */
+   flex-grow: 1;
+   padding: 0.25rem 0.5rem;
 }

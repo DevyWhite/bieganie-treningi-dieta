@@ -1,16 +1,15 @@
-/* Kontener dla przepisu z maksymalną szerokością 90% dostępnej przestrzeni i wyśrodkowaniem */
 .recipe-card-banan {
    border: 1px solid #ddd;
-   border-radius: 8px; /* Zaokrąglenie rogów */
+   border-radius: 8px;
    overflow: hidden;
    background-color: #fff;
    padding: 16px;
-   margin: 16px auto; /* Wyśrodkowanie kontenera */
-   width: 90%; /* Maksymalna szerokość 90% */
-   max-width: 1000px; /* Maksymalna szerokość kontenera */
+   margin: 16px auto;
+   width: 90%;
+   max-width: 1000px;
    display: flex;
    flex-direction: column;
-   box-sizing: border-box; /* Uwzględnienie paddingu i borderów w szerokości kontenera */
+   box-sizing: border-box;
 }
 
 .recipe-image {
@@ -32,12 +31,12 @@
 
 .recipe-ingredients,
 .recipe-preparation {
-   flex: 1; /* Umożliwia elastyczne dopasowanie szerokości */
+   flex: 1;
 }
 
 .recipe-ingredients {
    max-width: 30%;
-   border-right: 1px solid #ddd; /* Delikatna linia oddzielająca */
+   border-right: 1px solid #ddd;
    padding-right: 16px;
 }
 
@@ -48,13 +47,13 @@
 
 .recipe-ingredients h3,
 .recipe-preparation h3 {
-   font-size: 1.2em; /* Rozmiar czcionki nagłówków sekcji */
+   font-size: 1.2em;
 }
 
 .recipe-ingredients ul,
 .recipe-preparation p {
-   font-size: 0.9em; /* Delikatne zmniejszenie czcionki dla opisu */
-   line-height: 1.5; /* Poprawia czytelność tekstu */
+   font-size: 0.9em;
+   line-height: 1.5;
 }
 
 ul {

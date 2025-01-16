@@ -1,142 +1,127 @@
-/* Dieta.css */
-
-/* Styl dla przycisków tygodnia */
 .tydzien-btn {
-   background-color: #6c757d; /* Tło przycisków tygodnia */
-   color: #fff; /* Kolor tekstu tygodnia */
+   background-color: #6c757d;
+   color: #fff;
    border: none;
-   padding: 10px 20px; /* Większy padding poziomy */
+   padding: 10px 20px;
    cursor: pointer;
    border-radius: 5px;
    font-size: 16px;
-   transition: background-color 0.3s ease; /* Płynna zmiana koloru */
+   transition: background-color 0.3s ease;
    width: 100%;
    margin-bottom: 5px;
 }
 
 .tydzien-btn:hover {
-   background-color: #484e52; /* Ciemniejszy szary po najechaniu */
+   background-color: #484e52;
 }
 
-/* Styl dla przycisków dnia */
 .dzien-btn {
-   background-color: #e2e6ea; /* Tło przycisków dnia */
-   color: #333; /* Kolor tekstu dnia */
-   border: 1px solid #ccc; /* Delikatne obramowanie */
+   background-color: #e2e6ea;
+   color: #333;
+   border: 1px solid #ccc;
    cursor: pointer;
    font-size: 16px;
-   padding: 10px 15px; /* Większy padding poziomy */
+   padding: 10px 15px;
    border-radius: 5px;
-   transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Płynna zmiana koloru i cienia */
-   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Delikatny cień */
-   width: 100%; /* Przycisk wypełnia szerokość kontenera */
-   text-align: left; /* Wyrównanie tekstu do lewej */
+   transition: background-color 0.3s ease, box-shadow 0.3s ease;
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+   width: 100%;
+   text-align: left;
    margin-bottom: 5px;
 }
 
 .dzien-btn:hover {
-   background-color: #c4c5c5; /* Kolor tła przycisków dnia po najechaniu */
-   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Intensywniejszy cień */
+   background-color: #c4c5c5;
+   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
 }
 
-/* Styl dla przycisków dnia na stronie diety */
 .dieta .dzien-btn:hover {
-   background-color: #c4c5c5; /* Kolor tła przycisków dnia po najechaniu */
-   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Intensywniejszy cień */
+   background-color: #c4c5c5;
+   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
 }
 
-/* Styl dla przycisków posiłku */
 .posilek-btn {
-   background-color: #f8f9fa; /* Tło przycisków posiłku */
-   color: #333; /* Kolor tekstu posiłku */
-   border: 1px solid #ccc; /* Delikatne obramowanie */
+   background-color: #f8f9fa;
+   color: #333;
+   border: 1px solid #ccc;
    cursor: pointer;
    font-size: 16px;
-   padding: 10px 15px; /* Większy padding poziomy */
+   padding: 10px 15px;
    border-radius: 5px;
-   transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Płynna zmiana koloru i cienia */
-   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Delikatny cień */
-   width: calc(100% - 20px); /* Szerokość przycisku pomniejszona o 40px */
-   text-align: left; /* Wyrównanie tekstu do lewej */
-   margin-bottom: 5px; /* Odstęp poniżej przycisku */
-   margin-left: 10px; /* Odstęp od lewej strony */
+   transition: background-color 0.3s ease, box-shadow 0.3s ease;
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+   width: calc(100% - 20px);
+   text-align: left;
+   margin-bottom: 5px;
+   margin-left: 10px;
 }
 
-/* Styl dla przycisków posiłku po najechaniu */
 .posilek-btn:hover {
-   background-color: #e2e6ea; /* Kolor tła przycisków posiłku po najechaniu */
-   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Intensywniejszy cień */
+   background-color: #e2e6ea;
+   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
 }
 
-/* Styl dla szczegółów posiłku */
 .posilek-details {
-   width: calc(100% - 40px); /* Szerokość przycisku pomniejszona o 40px */
-   margin-left: 20px; /* Odstęp od lewej strony */
-   background-color: #f8f9fa; /* Tło dla szczegółów posiłku */
-   color: #333; /* Kolor tekstu */
-   border: 1px solid #ccc; /* Delikatne obramowanie */
+   width: calc(100% - 40px);
+   margin-left: 20px;
+   background-color: #f8f9fa;
+   color: #333;
+   border: 1px solid #ccc;
    border-radius: 5px;
    padding: 15px;
    margin-bottom: 10px;
-   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Delikatny cień */
+   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-/* Styl dla kontenera siatki */
 .posilek-grid {
    display: grid;
-   grid-template-columns: 25% 75%; /* Ustawienie dwóch kolumn o szerokościach 25% i 75% */
-   gap: 15px; /* Odstęp między kolumnami */
+   grid-template-columns: 25% 75%;
+   gap: 15px;
 }
 
-/* Styl dla kolumny ze składnikami */
 .posilek-skladniki {
-   padding-right: 15px; /* Odstęp po prawej stronie kolumny */
-   border-right: 1px solid #ddd; /* Delikatna linia oddzielająca kolumny */
+   padding-right: 15px;
+   border-right: 1px solid #ddd;
 }
 
 .posilek-skladniki p:first-of-type {
-   font-weight: bold; /* Pogrubienie nagłówka */
+   font-weight: bold;
 }
 
-/* Styl dla elementów listy składników */
 .posilek-skladniki li {
-   font-size: 16px; /* Zmniejszona czcionka dla składników */
-   margin-bottom: 5px; /* Odstęp poniżej elementu listy */
+   font-size: 16px;
+   margin-bottom: 5px;
 }
 
-/* Styl dla kolumny z przygotowaniem */
 .posilek-przygotowanie {
-   padding-left: 15px; /* Odstęp po lewej stronie kolumny */
+   padding-left: 15px;
 }
 
-/* Styl dla nagłówka przygotowania */
 .posilek-przygotowanie p:first-of-type {
-   font-weight: bold; /* Pogrubienie nagłówka */
+   font-weight: bold;
 }
 
-/* Styl dla tekstu przygotowania */
 .przygotowanie-text {
-   font-size: 16px; /* Rozmiar czcionki dla tekstu przygotowania */
-   line-height: 1.5; /* Wysokość linii dla lepszej czytelności */
-   margin: 0; /* Usunięcie marginesu */
+   font-size: 16px;
+   line-height: 1.5;
+   margin: 0;
 }
 
-/* Styl responsywny dla urządzeń mobilnych */
 @media (max-width: 768px) {
    .posilek-btn {
-      width: 100%; /* Przyciski na mniejszych ekranach zajmują całą szerokość */
-      margin-left: 0; /* Brak marginesu */
+      width: 100%;
+      margin-left: 0;
    }
 
    .posilek-grid {
-      grid-template-columns: 1fr; /* Jedna kolumna na małych ekranach */
-      gap: 10px; /* Zmniejsz odstępy między kolumnami */
+      grid-template-columns: 1fr;
+      gap: 10px;
    }
 
    .posilek-skladniki,
    .posilek-przygotowanie {
-      padding: 10px 0; /* Ustawienie paddingu wewnątrz kolumn */
-      border: none; /* Usuń obramowanie między kolumnami */
+      padding: 10px 0;
+      border: none;
    }
 
    .tydzien-btn {

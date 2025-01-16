@@ -6,7 +6,7 @@ const HomePage = () => {
    const [articles, setArticles] = useState([]);
 
    useEffect(() => {
-      fetch("/data/running_articles.json") // Upewnij się, że ścieżka jest poprawna
+      fetch("/data/running_articles.json")
          .then((response) => response.json())
          .then((data) => setArticles(data));
    }, []);

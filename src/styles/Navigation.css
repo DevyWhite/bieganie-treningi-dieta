@@ -1,59 +1,57 @@
-/* Navigation.css */
-
 .custom-nav {
-   background-color: #fff; /* Tło nawigacji */
-   padding: 0.4rem; /* Wewnętrzne marginesy */
-   border-radius: 10px; /* Zaokrąglenie rogów */
-   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Cień dla kontenera */
-   border: 1px solid #ddd; /* Subtelne obramowanie kontenera */
-   width: 100%; /* Szerokość nawigacji */
-   max-width: 400px; /* Maksymalna szerokość nawigacji */
-   margin: auto; /* Wyśrodkowanie nawigacji */
+   background-color: #fff;
+   padding: 0.4rem;
+   border-radius: 10px;
+   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+   border: 1px solid #ddd;
+   width: 100%;
+   max-width: 400px;
+   margin: auto;
 }
 
 .nav-list {
-   list-style: none; /* Usunięcie punktów listy */
+   list-style: none;
    padding: 0;
    margin: 0;
-   display: flex; /* Ustawienie elementów listy w poziomie */
-   flex-direction: column; /* Ustawienie elementów w kolumnie */
+   display: flex;
+   flex-direction: column;
 }
 
 .nav-list li {
-   margin-bottom: 0.1rem; /* Margines góra-dół dla elementów listy */
+   margin-bottom: 0.1rem;
 }
 
 .nav-list a {
-   display: block; /* Aby padding działał poprawnie */
-   padding: 12px 20px; /* Wewnętrzne marginesy */
-   color: #333; /* Kolor tekstu */
-   background-color: #f1f1f1; /* Jasne tło linku */
-   text-decoration: none; /* Usunięcie podkreślenia */
-   border-radius: 5px; /* Zaokrąglenie rogów linku */
-   transition: background-color 0.3s, color 0.3s; /* Płynne przejście koloru tła i tekstu */
+   display: block;
+   padding: 12px 20px;
+   color: #333;
+   background-color: #f1f1f1;
+   text-decoration: none;
+   border-radius: 5px;
+   transition: background-color 0.3s, color 0.3s;
 }
 
 .nav-list a:hover {
-   background-color: #939494; /* Kolor tła dla aktywnego linku i hover */
-   color: #fff; /* Kolor tekstu dla aktywnego linku i hover */
+   background-color: #939494;
+   color: #fff;
 }
 
 .nav-list a.nav-active {
-   background-color: #5c5c5c; /* Kolor tła dla aktywnego linku i hover */
-   color: #fff; /* Kolor tekstu dla aktywnego linku i hover */
+   background-color: #5c5c5c;
+   color: #fff;
 }
 
 @media (max-width: 768px) {
    .custom-nav {
-      width: 100%; /* Szerokość 100% na mniejszych ekranach */
+      width: 100%;
    }
 
    .custom-nav {
-      background-color: #fff; /* Tło nawigacji */
-      border-radius: 10px; /* Zaokrąglenie rogów */
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Cień dla kontenera */
-      border: 1px solid #ddd; /* Subtelne obramowanie kontenera */
-      width: 100%; /* Szerokość nawigacji */
-      max-width: 300px; /* Maksymalna szerokość nawigacji */
+      background-color: #fff;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      border: 1px solid #ddd;
+      width: 100%;
+      max-width: 300px;
    }
 }

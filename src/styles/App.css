@@ -1,59 +1,53 @@
-/* Globalne style */
 * {
-   box-sizing: border-box; /* Uwzględnia padding i border w wysokości elementów */
-   margin: 0; /* Resetowanie domyślnych marginesów */
-   padding: 0; /* Resetowanie domyślnych paddingów */
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
 }
 
 body {
-   font-family: "Arial", sans-serif; /* Ustalenie czcionki */
-   background-color: #f4f4f4; /* Jasne tło */
-   color: #222; /* Kolor tekstu */
+   font-family: "Arial", sans-serif;
+   background-color: #f4f4f4;
+   color: #222;
 }
 
-/* Style dla aplikacji */
 div.app {
    display: flex;
    flex-direction: column;
    min-height: 100vh;
    width: 90%;
-   max-width: 1200px; /* Maksymalna szerokość dla większych ekranów */
+   max-width: 1200px;
    margin: 0 auto;
-   background-color: #ffffff; /* Tło aplikacji */
-   box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); /* Delikatny cień */
-   border-radius: 8px; /* Zaokrąglone rogi */
+   background-color: #ffffff;
+   box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+   border-radius: 8px;
 }
 
-/* Styl główny */
 main {
    display: flex;
    flex-grow: 1;
    padding: 30px 0;
-   align-items: flex-start; /* Ustawienie elementów na początku kontenera w pionie */
-   background-color: #ffffff; /* Białe tło głównego kontenera */
+   align-items: flex-start;
+   background-color: #ffffff;
 }
 
-/* Styl bocznego menu */
 aside {
    min-width: 250px;
-   max-width: 200px; /* Ustalenie maksymalnej szerokości */
+   max-width: 200px;
    margin-right: 10px;
    margin-left: 10px;
    display: flex;
-   flex-direction: column; /* Wstawienie elementów w kolumnie */
+   flex-direction: column;
 }
 
-/* Styl sekcji strony */
 section.page {
    flex-grow: 1;
    display: flex;
-   flex-direction: column; /* Ustawienie zawartości w kolumnie */
-   padding: 20px; /* Odstępy wewnętrzne */
+   flex-direction: column;
+   padding: 20px;
 }
 
-/* Styl responsywny dla urządzeń mobilnych */
 @media (max-width: 768px) {
    main {
-      flex-direction: column; /* Zmiana na kolumnę na mniejszych ekranach */
+      flex-direction: column;
    }
 }
