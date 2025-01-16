@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useParams, Link } from "react-router-dom";
+import ReactMarkdown from "react-markdown"; // Importuj react-markdown
 import "../styles/ArticlePage.css";
 
 const ArticlePage = () => {
@@ -17,11 +18,7 @@ const ArticlePage = () => {
                fetch(articleMeta.content)
                   .then((response) => response.json())
                   .then((content) => {
-                     // Podział tekstu na linie
-                     const paragraphs = content.text
-                        .split("\n")
-                        .map((line, index) => <p key={index}>{line}</p>);
-                     setArticle({ ...articleMeta, ...content, paragraphs });
+                     setArticle({ ...articleMeta, ...content });
                   });
             }
          });
@@ -42,7 +39,22 @@ const ArticlePage = () => {
                className='article-image'
             />
          )}
-         <div className='full-text'>{article.paragraphs}</div>
+         <div className='article-sections'>
+            {article.sections.map((section, index) => (
+               <div key={index} className='section'>
+                  <h2>{section.title}</h2>
+                  {section.image && (
+                     <img
+                        src={section.image}
+                        alt={section.title}
+                        className='section-image'
+                     />
+                  )}
+                  {/* Użyj react-markdown do renderowania treści */}
+                  <ReactMarkdown>{section.content}</ReactMarkdown>
+               </div>
+            ))}
+         </div>
          <Link to='/' className='back-to-home'>
             Powrót do strony głównej
          </Link>
