@@ -1,15 +1,12 @@
 .home {
-   padding: 20px;
+   /* padding: 20px; */
    max-width: 1200px;
    margin: 0 auto;
 }
 
 .article-list {
    display: grid;
-   grid-template-columns: repeat(
-      auto-fit,
-      minmax(300px, 1fr)
-   ); /* Responsywne kafelki */
+   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
    gap: 20px; /* Odstęp między artykułami */
 }
 
@@ -66,4 +63,45 @@
 
 .article-preview .read-more:hover {
    background-color: #5c5c5c;
+}
+
+/* Stylowanie dla małych ekranów (max-width: 768px) */
+@media (max-width: 768px) {
+   .home {
+      padding: 10px; /* Mniejszy padding */
+   }
+
+   .article-list {
+      grid-template-columns: 1fr; /* Jedna kolumna na telefonach */
+      gap: 10px; /* Mniejszy odstęp między kafelkami */
+   }
+
+   .article-preview {
+      padding: 10px; /* Mniejszy padding wewnątrz kafelków */
+   }
+
+   .article-preview h3 {
+      font-size: 1.1em; /* Mniejsza czcionka dla tytułów */
+      margin: 0 0 8px 0; /* Mniejszy margines pod tytułem */
+   }
+
+   .article-preview .author {
+      font-size: 0.8em; /* Mniejsza czcionka dla autora */
+      margin: 0 0 8px 0; /* Mniejszy margines pod autorem */
+   }
+
+   .article-preview .preview-text {
+      font-size: 0.85em; /* Mniejsza czcionka dla tekstu */
+      margin: 0 0 10px 0; /* Mniejszy margines pod tekstem */
+   }
+
+   .article-preview .article-image {
+      height: 120px; /* Mniejsza wysokość zdjęć */
+      margin-bottom: 10px; /* Mniejszy margines pod zdjęciem */
+   }
+
+   .article-preview .read-more {
+      padding: 6px 12px; /* Mniejszy przycisk */
+      font-size: 0.85em; /* Mniejsza czcionka na przycisku */
+   }
 }
