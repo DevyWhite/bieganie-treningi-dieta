@@ -16,7 +16,7 @@ const HomePage = () => {
       return shuffled.slice(0, count);
    };
 
-   const randomArticles = getRandomArticles(articles, 3);
+   const randomArticles = getRandomArticles(articles, 6);
 
    return (
       <div className='home'>
@@ -32,9 +32,6 @@ const HomePage = () => {
                         className='article-image'
                      />
                   )}
-                  <p className='preview-text'>
-                     {article.text?.slice(0, 150)}...
-                  </p>
                   <Link to={`/article/${article.id}`} className='read-more'>
                      Czytaj więcej
                   </Link>
