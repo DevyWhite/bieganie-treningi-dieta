@@ -67,7 +67,6 @@
    background-color: #5a6268;
 }
 
-/* Dodaj te style do ArticlePage.css */
 .react-markdown {
    line-height: 1.6;
    color: #444;
@@ -86,6 +85,7 @@
    font-style: italic;
 }
 
+.article-page .article-sections .section h3,
 .react-markdown h3 {
    font-size: 1.3em;
    color: #333;
@@ -99,4 +99,45 @@
 
 .react-markdown li {
    margin-bottom: 5px;
+}
+
+@media (max-width: 768px) {
+   .article-page h1 {
+      font-size: 0.9em;
+   }
+
+   .article-page .author {
+      font-size: 0.6em;
+   }
+
+   .article-page .article-sections .section h2 {
+      font-size: 0.8em;
+   }
+
+   .article-page .article-sections .section p,
+   .react-markdown p {
+      font-size: 0.7em;
+   }
+
+   .article-page .article-sections .section h3,
+   .react-markdown h3 {
+      font-size: 0.75em;
+   }
+
+   .react-markdown ul,
+   .react-markdown ol {
+      margin: 0 0 8px 15px;
+      padding-left: 20px;
+   }
+
+   .article-page .article-sections .section li,
+   .react-markdown li {
+      font-size: 0.7em;
+      margin-bottom: 4px;
+   }
+
+   .article-page .back-to-home {
+      font-size: 0.6em;
+      padding: 4px 8px;
+   }
 }
