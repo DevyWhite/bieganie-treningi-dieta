@@ -3,5 +3,46 @@
    "title": "Jak uniknąć kontuzji podczas biegania",
    "author": "Katarzyna Wiśniewska",
    "image": "/images/article-images/kontuzje-bieganie.jpg",
-   "text": "Kontuzje to częsty problem wśród biegaczy. W tym artykule znajdziesz porady, jak unikać kontuzji, w tym odpowiednią technikę biegu, rozgrzewkę oraz znaczenie regeneracji.\n\n**1. Rozgrzewka**\nPrzed każdym treningiem poświęć 5-10 minut na rozgrzewkę. Możesz wykonać lekkie ćwiczenia, takie jak skłony, przysiady czy trucht w miejscu.\n\n**2. Technika biegu**\nPrawidłowa technika biegu jest kluczowa. Staraj się utrzymywać wyprostowaną postawę, lekko pochylaj się do przodu i ląduj na śródstopiu, a nie na pięcie.\n\n**3. Odpowiednie buty**\nWybierz buty dostosowane do swojego stylu biegania i typu stopy. Dobre buty zmniejszają ryzyko kontuzji.\n\n**4. Stopniowe zwiększanie obciążeń**\nNie zwiększaj dystansu ani intensywności treningów zbyt szybko. Stopniowe zwiększanie obciążeń pozwala organizmowi się zaadaptować.\n\n**5. Regeneracja**\nPo treningu zadbaj o regenerację. Pij dużo wody, jedz posiłki bogate w białko i węglowodany, a jeśli czujesz zmęczenie, zrób dzień przerwy.\n\n**6. Słuchaj swojego ciała**\nJeśli odczuwasz ból, nie ignoruj go. Daj sobie czas na odpoczynek i ewentualnie skonsultuj się z lekarzem.\n\nUnikanie kontuzji to klucz do długotrwałego cieszenia się bieganiem. Pamiętaj, że lepiej zapobiegać niż leczyć!"
+   "sections": [
+      {
+         "title": "Wstęp",
+         "content": "Kontuzje to częsty problem wśród biegaczy. W tym artykule znajdziesz porady, jak unikać kontuzji, w tym odpowiednią technikę biegu, rozgrzewkę oraz znaczenie regeneracji. Pamiętaj, że lepiej zapobiegać niż leczyć!",
+         "image": "/images/article-images/wstep-kontuzje.jpg"
+      },
+      {
+         "title": "1. Rozgrzewka",
+         "content": "Przed każdym treningiem poświęć 5-10 minut na rozgrzewkę. To kluczowy element, który przygotowuje mięśnie, stawy i układ krążenia do wysiłku.\n\n- **Ćwiczenia dynamiczne**: Wykonaj trucht w miejscu, skłony, przysiady i krążenia ramion.\n- **Rozciąganie dynamiczne**: Skoncentruj się na mięśniach nóg, bioder i pleców.\n- **Stopniowe zwiększanie intensywności**: Zacznij od lekkiego truchtu, a następnie przejdź do szybszego biegu.",
+         "image": "/images/article-images/rozgrzewka-kontuzje.jpg"
+      },
+      {
+         "title": "2. Technika biegu",
+         "content": "Prawidłowa technika biegu jest kluczowa, aby uniknąć przeciążeń i kontuzji. Oto kilka wskazówek:\n\n- **Postawa**: Utrzymuj wyprostowaną postawę, lekko pochyl się do przodu.\n- **Lądowanie**: Staraj się lądować na śródstopiu, a nie na pięcie, aby zmniejszyć obciążenie stawów.\n- **Krok**: Unikaj zbyt długich kroków, które mogą prowadzić do przeciążeń.\n- **Ręce**: Trzymaj ręce zgięte pod kątem 90 stopni i poruszaj nimi w rytm biegu.",
+         "image": "/images/article-images/technika-biegu-kontuzje.jpg"
+      },
+      {
+         "title": "3. Odpowiednie buty",
+         "content": "Wybierz buty dostosowane do swojego stylu biegania i typu stopy. Dobre buty zmniejszają ryzyko kontuzji.\n\n- **Dopasowanie**: Buty powinny być wygodne i dobrze dopasowane do kształtu stopy.\n- **Amortyzacja**: Wybierz buty z odpowiednią amortyzacją, szczególnie jeśli biegasz po twardych nawierzchniach.\n- **Wymiana butów**: Buty biegowe należy wymieniać co 500-800 km, aby zachować ich właściwości amortyzujące.",
+         "image": "/images/article-images/buty-kontuzje.jpg"
+      },
+      {
+         "title": "4. Stopniowe zwiększanie obciążeń",
+         "content": "Nie zwiększaj dystansu ani intensywności treningów zbyt szybko. Stopniowe zwiększanie obciążeń pozwala organizmowi się zaadaptować.\n\n- **Zasada 10%**: Nie zwiększaj tygodniowego dystansu o więcej niż 10%.\n- **Różnorodność treningów**: Wprowadź różne rodzaje treningów, takie jak interwały, biegi tempowe i długie dystanse.\n- **Dni odpoczynku**: Planuj dni regeneracyjne, aby organizm mógł się zregenerować.",
+         "image": "/images/article-images/obciazenia-kontuzje.jpg"
+      },
+      {
+         "title": "5. Regeneracja",
+         "content": "Po treningu zadbaj o regenerację. To kluczowy element, który pomaga uniknąć kontuzji.\n\n- **Nawodnienie**: Pij dużo wody, aby uzupełnić utracone płyny.\n- **Posiłek**: Jedz posiłki bogate w białko i węglowodany, aby odżywić mięśnie.\n- **Rozciąganie**: Po treningu wykonaj ćwiczenia rozciągające, aby poprawić elastyczność mięśni.\n- **Sen**: Zadbaj o odpowiednią ilość snu, aby organizm mógł się zregenerować.",
+         "image": "/images/article-images/regeneracja-kontuzje.jpg"
+      },
+      {
+         "title": "6. Słuchaj swojego ciała",
+         "content": "Jeśli odczuwasz ból, nie ignoruj go. Daj sobie czas na odpoczynek i ewentualnie skonsultuj się z lekarzem.\n\n- **Ból mięśni**: Delikatny ból mięśni po treningu jest normalny, ale ostry ból może wskazywać na kontuzję.\n- **Zmęczenie**: Jeśli czujesz się przemęczony, zrób dzień przerwy.\n- **Konsultacja**: W przypadku uporczywego bólu skonsultuj się z fizjoterapeutą lub lekarzem.",
+         "image": "/images/article-images/sluchaj-ciala.jpg"
+      },
+      {
+         "title": "Podsumowanie",
+         "content": "Unikanie kontuzji to klucz do długotrwałego cieszenia się bieganiem. Pamiętaj, że lepiej zapobiegać niż leczyć! Stosując się do tych porad, możesz cieszyć się bieganiem bez bólu i kontuzji. Zacznij już dziś i biegaj bezpiecznie!",
+         "image": "/images/article-images/podsumowanie-kontuzje.jpg"
+      }
+   ]
 }
