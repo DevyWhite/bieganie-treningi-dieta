@@ -1,5 +1,4 @@
 .home {
-   /* padding: 20px; */
    max-width: 1200px;
    margin: 0 auto;
 }
@@ -7,7 +6,7 @@
 .article-list {
    display: grid;
    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-   gap: 20px; /* Odstęp między artykułami */
+   gap: 20px;
 }
 
 .article-preview {
@@ -20,8 +19,8 @@
 }
 
 .article-preview:hover {
-   transform: translateY(-5px); /* Lekkie podniesienie kafelka */
-   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Większy cień */
+   transform: translateY(-5px);
+   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
 .article-preview h3 {
@@ -37,11 +36,11 @@
 }
 
 .article-preview .article-image {
-   width: 100%; /* Zdjęcie zajmuje całą szerokość kontenera */
-   height: 200px; /* Stała wysokość zdjęcia */
-   object-fit: cover; /* Dopasowanie zdjęcia bez deformacji */
-   border-radius: 8px; /* Zaokrąglone rogi */
-   margin-bottom: 15px; /* Odstęp od tekstu */
+   width: 100%;
+   height: 200px;
+   object-fit: cover;
+   border-radius: 8px;
+   margin-bottom: 15px;
 }
 
 .article-preview .preview-text {
@@ -68,40 +67,40 @@
 /* Stylowanie dla małych ekranów (max-width: 768px) */
 @media (max-width: 768px) {
    .home {
-      padding: 10px; /* Mniejszy padding */
+      padding: 10px;
    }
 
    .article-list {
       grid-template-columns: 1fr; /* Jedna kolumna na telefonach */
-      gap: 10px; /* Mniejszy odstęp między kafelkami */
+      gap: 10px;
    }
 
    .article-preview {
-      padding: 10px; /* Mniejszy padding wewnątrz kafelków */
+      padding: 10px;
    }
 
    .article-preview h3 {
-      font-size: 1.1em; /* Mniejsza czcionka dla tytułów */
-      margin: 0 0 8px 0; /* Mniejszy margines pod tytułem */
+      font-size: 0.9em;
+      margin: 0 0 8px 0;
    }
 
    .article-preview .author {
-      font-size: 0.8em; /* Mniejsza czcionka dla autora */
-      margin: 0 0 8px 0; /* Mniejszy margines pod autorem */
+      font-size: 0.5em;
+      margin: 0 0 8px 0;
    }
 
    .article-preview .preview-text {
-      font-size: 0.85em; /* Mniejsza czcionka dla tekstu */
-      margin: 0 0 10px 0; /* Mniejszy margines pod tekstem */
+      font-size: 0.85em;
+      margin: 0 0 10px 0;
    }
 
    .article-preview .article-image {
-      height: 120px; /* Mniejsza wysokość zdjęć */
-      margin-bottom: 10px; /* Mniejszy margines pod zdjęciem */
+      height: 120px;
+      margin-bottom: 10px;
    }
 
    .article-preview .read-more {
-      padding: 6px 12px; /* Mniejszy przycisk */
-      font-size: 0.85em; /* Mniejsza czcionka na przycisku */
+      padding: 6px 12px;
+      font-size: 0.5em;
    }
 }
