@@ -52,6 +52,7 @@ input[type="text"]:focus {
 }
 
 .przepis-link {
+   color: rgb(43, 43, 43);
    text-decoration: none;
 }
 
