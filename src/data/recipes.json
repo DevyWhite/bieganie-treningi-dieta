@@ -696,5 +696,30 @@
          "Przygotuj kurczaka: Filet z kurczaka oprósz ulubionymi przyprawami. Piecz w airfryerze przez 15 minut w temperaturze 190°C, aż kurczak będzie złocisty i soczysty.",
          "Podawanie: Makaron w sosie z soczewicy podawaj z upieczonym kurczakiem. Możesz posypać danie świeżymi ziołami (np. pietruszką) dla dodatkowego aromatu."
       ]
+   },
+   {
+      "id": 34,
+      "title": "Zapiekanka z kaszy gryczanej",
+      "link": "zapiekanka_z_kaszy_gryczanej",
+      "imageId": "zapiekanka_z_kaszy_gryczanej",
+      "ingredients": [
+         "200 g kaszy gryczanej",
+         "400 g papryki",
+         "360 g cukinii",
+         "200 g pomidorków koktajlowych",
+         "500 g mięsa mielonego z indyka",
+         "500 ml wody",
+         "2 łyżki sosu sojowego",
+         "100 g ketchupu",
+         "Przyprawy: słodka papryka, sól, pieprz, curry, kurkuma (ilość według preferencji)"
+      ],
+      "description": [
+         "Przygotuj sos pomidorowy: W miseczce wymieszaj ketchup, sos sojowy i wodę. Dodaj ulubione przyprawy (np. słodką paprykę, curry, kurkumę, sól, pieprz) i dokładnie wymieszaj.",
+         "Przygotuj warzywa: Cukinię pokrój w półplasterki. Paprykę pokrój w plasterki lub większe kawałki. Pomidorki koktajlowe przekrój na pół.",
+         "Przygotuj warstwy zapiekanki: Na dno naczynia żaroodpornego wysyp suchą kaszę gryczaną. Na kaszę ułóż warstwę mięsa mielonego z indyka. Następnie dodaj pokrojoną cukinię, paprykę i pomidorki koktajlowe.",
+         "Zalej sosem: Przygotowanym sosem pomidorowym równomiernie polej wszystkie warstwy zapiekanki.",
+         "Pieczenie: Zapiekankę piecz w piekarniku nagrzanym do 180°C przez około 1 godzinę, aż kasza zmięknie, warzywa będą miękkie, a wierzch lekko się zrumieni.",
+         "Podawanie: Podawaj zapiekankę na ciepło, posypaną świeżymi ziołami (np. pietruszką) dla dodatkowego aromatu."
+      ]
    }
 ]
