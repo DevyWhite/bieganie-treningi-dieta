@@ -721,5 +721,45 @@
          "Pieczenie: Zapiekankę piecz w piekarniku nagrzanym do 180°C przez około 1 godzinę, aż kasza zmięknie, warzywa będą miękkie, a wierzch lekko się zrumieni.",
          "Podawanie: Podawaj zapiekankę na ciepło, posypaną świeżymi ziołami (np. pietruszką) dla dodatkowego aromatu."
       ]
+   },
+   {
+      "id": 35,
+      "title": "Makaron z tuńczykiem i oliwkami",
+      "link": "makaron_z_tuńczykiem_i_oliwkami",
+      "imageId": "makaron_z_tuńczykiem_i_oliwkami",
+      "ingredients": [
+         "200 g makaronu pełnoziarnistego,",
+         "1 puszka tuńczyka w sosie własnym (ok. 150 g),",
+         "1/2 szklanki oliwek (zielonych lub czarnych),",
+         "1 ząbek czosnku,",
+         "1 łyżka oliwy z oliwek,",
+         "sok z 1/2 cytryny,",
+         "sól, pieprz, chili."
+      ],
+      "description": [
+         "Makaron ugotuj al dente.",
+         "Na patelni rozgrzej oliwę, dodaj posiekany czosnek i tuńczyka (bez sosu). Podgrzej przez 2–3 minuty.",
+         "Dodaj oliwki i sok z cytryny. Wymieszaj.",
+         "Połącz makaron z sosem i podawaj."
+      ]
+   },
+   {
+      "id": 36,
+      "title": "Makaron z pesto, mozzarellą i suszonymi pomidorami",
+      "link": "makaron_z_pesto_mozzarellą_suszonymi_pomidorami",
+      "imageId": "makaron_z_pesto_mozzarellą_suszonymi_pomidorami",
+      "ingredients": [
+         "200 g makaronu pełnoziarnistego,",
+         "2 łyżki pesto (zielone lub czerwone),",
+         "1 kulka mozzarelli (125 g),",
+         "4–5 suszonych pomidorów,",
+         "1 łyżka oliwy z oliwek,",
+         "sól, pieprz."
+      ],
+      "description": [
+         "Makaron ugotuj al dente.",
+         "Suszone pomidory pokrój w paski, mozzarellę w kostkę.",
+         "Makaron wymieszaj z pesto, oliwą, pomidorami i mozzarellą."
+      ]
    }
 ]

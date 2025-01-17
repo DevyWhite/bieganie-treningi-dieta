@@ -37,6 +37,8 @@ import imgChleb_pszenno_orkiszowy from "../images/food-images/chleb_pszenno_orki
 import imgOwsianka_pomaranczowo_bananowa from "../images/food-images/owsianka_pomaranczowo_bananowa.jpg";
 import imgMakaron_w_sosie_z_soczewicy_z_kurczakiem from "../images/food-images/makaron_w_sosie_z_soczewicy_z_kurczakiem.jpg";
 import imgZapiekanka_z_kaszy_gryczanej from "../images/food-images/zapiekanka_z_kaszy_gryczanej.jpg";
+import imgMakaron_z_pesto_mozzarellą_suszonymi_pomidorami from "../images/food-images/makaron_z_pesto_mozzarellą_suszonymi_pomidorami.jpg";
+import imgMakaron_z_tuńczykiem_i_oliwkami from "../images/food-images/makaron_z_tuńczykiem_i_oliwkami.jpg";
 
 // Mapowanie identyfikatorów obrazków na zaimportowane obrazy
 const imageMap = {
@@ -82,6 +84,9 @@ const imageMap = {
    makaron_w_sosie_z_soczewicy_z_kurczakiem:
       imgMakaron_w_sosie_z_soczewicy_z_kurczakiem,
    zapiekanka_z_kaszy_gryczanej: imgZapiekanka_z_kaszy_gryczanej,
+   makaron_z_pesto_mozzarellą_suszonymi_pomidorami:
+      imgMakaron_z_pesto_mozzarellą_suszonymi_pomidorami,
+   makaron_z_tuńczykiem_i_oliwkami: imgMakaron_z_tuńczykiem_i_oliwkami,
 };
 
 export default imageMap;
