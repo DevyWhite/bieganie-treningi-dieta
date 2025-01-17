@@ -35,6 +35,7 @@ import imgBulki_pszenno_orkiszowe from "../images/food-images/bulki_pszenno_orki
 import imgPasta_bezjajeczna_ze_straczkow from "../images/food-images/pasta_bezjajeczna_ze_straczkow.jpg";
 import imgChleb_pszenno_orkiszowy from "../images/food-images/chleb_pszenno_orkiszowy.jpg";
 import imgOwsianka_pomaranczowo_bananowa from "../images/food-images/owsianka_pomaranczowo_bananowa.jpg";
+import imgMakaron_w_sosie_z_soczewicy_z_kurczakiem from "../images/food-images/makaron_w_sosie_z_soczewicy_z_kurczakiem.jpg";
 
 // Mapowanie identyfikatorów obrazków na zaimportowane obrazy
 const imageMap = {
@@ -77,6 +78,8 @@ const imageMap = {
    pasta_bezjajeczna_ze_straczkow: imgPasta_bezjajeczna_ze_straczkow,
    chleb_pszenno_orkiszowy: imgChleb_pszenno_orkiszowy,
    owsianka_pomaranczowo_bananowa: imgOwsianka_pomaranczowo_bananowa,
+   makaron_w_sosie_z_soczewicy_z_kurczakiem:
+      imgMakaron_w_sosie_z_soczewicy_z_kurczakiem,
 };
 
 export default imageMap;

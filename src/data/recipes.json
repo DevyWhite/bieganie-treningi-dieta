@@ -654,7 +654,7 @@
       "link": "owsianka_pomaranczowo_bananowa",
       "imageId": "owsianka_pomaranczowo_bananowa",
       "ingredients": [
-         " 200 g kefiru proteinowego",
+         "200 g kefiru proteinowego",
          "80 g płatków owsianych",
          "20 g masła orzechowego",
          "150 g banana",
@@ -670,6 +670,31 @@
          "Połącz składniki: Przygotowane płatki owsiane przełóż do miseczki. Na wierzch wylej sos bananowo-pomarańczowy.",
          "Dodaj skyr i posypkę: Na sos wyłóż waniliowy skyr, a na samym wierzchu posyp płatkami migdałowymi.",
          "Podawaj: Owsianka jest gotowa do spożycia od razu. Możesz ją podać na ciepło lub schłodzić w lodówce, jeśli wolisz zimną wersję."
+      ]
+   },
+   {
+      "id": 33,
+      "title": "Makaron w sosie z soczewicy z kurczakiem",
+      "link": "makaron_w_sosie_z_soczewicy_z_kurczakiem",
+      "imageId": "makaron_w_sosie_z_soczewicy_z_kurczakiem",
+      "ingredients": [
+         "150 g cebuli",
+         "80 g marchewki",
+         "150 g czerwonej soczewicy",
+         "10 g oliwy z oliwek",
+         "1 litr bulionu",
+         "230 g makaronu",
+         "80 g koncentratu pomidorowego",
+         "250 g ricotty",
+         "280 g fileta z kurczaka"
+      ],
+      "description": [
+         "Przygotuj warzywa: Cebulę i marchewkę pokrój w kostkę. Następnie podsmaż je na oliwie z oliwek, aż zmiękną i nabiorą lekko złocistego koloru.",
+         "Dodaj bulion i soczewicę: Do podsmażonych warzyw wlej bulion i dodaj czerwoną soczewicę. Gotuj na średnim ogniu przez 15–20 minut, aż soczewica będzie miękka.",
+         "Przygotuj sos: Do ugotowanej soczewicy dodaj ricottę i całość zblenduj na gładki sos. Dopraw solą i pieprzem do smaku.",
+         "Połącz makaron z sosem: Ugotowany makaron dodaj do sosu i dokładnie wymieszaj.",
+         "Przygotuj kurczaka: Filet z kurczaka oprósz ulubionymi przyprawami. Piecz w airfryerze przez 15 minut w temperaturze 190°C, aż kurczak będzie złocisty i soczysty.",
+         "Podawanie: Makaron w sosie z soczewicy podawaj z upieczonym kurczakiem. Możesz posypać danie świeżymi ziołami (np. pietruszką) dla dodatkowego aromatu."
       ]
    }
 ]
