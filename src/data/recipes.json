@@ -647,5 +647,29 @@
          "Studzenie: Po wyjęciu z piekarnika odstaw chleb na kratkę, aby ostygł. Dzięki temu skórka zachowa chrupkość.",
          "Wskazówki: Jeśli chcesz większą puszystość, dodaj odrobinę więcej wody (20–30 ml). Możesz wzbogacić chleb nasionami (np. dyni, słonecznika) dodanymi do środka lub posypanymi na wierzchu przed pieczeniem."
       ]
+   },
+   {
+      "id": 32,
+      "title": "Owsianka pomarańczowo-bananowa",
+      "link": "owsianka_pomaranczowo_bananowa",
+      "imageId": "owsianka_pomaranczowo_bananowa",
+      "ingredients": [
+         " 200 g kefiru proteinowego",
+         "80 g płatków owsianych",
+         "20 g masła orzechowego",
+         "150 g banana",
+         "200 g pomarańczy",
+         "szczypta cynamonu",
+         "150 g waniliowego skyra",
+         "6 g płatków migdałów",
+         "6 g nasion chia"
+      ],
+      "description": [
+         "Przygotuj płatki owsiane: Płatki owsiane i nasiona chia zalej kefirem proteinowym. Wymieszaj i odstaw na 5–10 minut, aby płatki zmiękły i napęczniały.",
+         "Przygotuj sos bananowo-pomarańczowy: Banana i pomarańczę (obraną i pozbawioną pestek) zblenduj na gładką masę. Następnie przelej papkę na patelnię, dodaj masło orzechowe i szczyptę cynamonu. Podgrzewaj na małym ogniu przez 2–3 minuty, ciągle mieszając, aż sos zgęstnieje i nabierze aromatu.",
+         "Połącz składniki: Przygotowane płatki owsiane przełóż do miseczki. Na wierzch wylej sos bananowo-pomarańczowy.",
+         "Dodaj skyr i posypkę: Na sos wyłóż waniliowy skyr, a na samym wierzchu posyp płatkami migdałowymi.",
+         "Podawaj: Owsianka jest gotowa do spożycia od razu. Możesz ją podać na ciepło lub schłodzić w lodówce, jeśli wolisz zimną wersję."
+      ]
    }
 ]
