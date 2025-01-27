@@ -922,5 +922,121 @@
          "aktywnosc": "30-60 minut spaceru.",
          "cwiczenia": "Mostek biodrowy (3 x 12 powtórzeń),\n Plank (3 x 30 sekund),\n Unoszenie nóg w bok (2 x 10 na nogę)."
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Bieg progowy)",
+         "opis": "Bieg progowy",
+         "cel": "Poprawa wytrzymałości na progu mleczanowym.",
+         "rozgrzewka": "2 km spokojnie (tempo regeneracyjne)\n3× skipy A (30 metrów)\n3× dynamiczne wymachy nóg do przodu i na boki\n3× krążenia bioder (na każdą stronę)\nDynamiczne krążenie ramion i bioder",
+         "bieg": "\n10 minut w tempie 4:50-5:00/km.\n2 minuty truchtu.\n8 minut w tempie 4:40-4:50/km.\n2 minuty truchtu.\n6 minut w tempie 4:30-4:40/km.",
+         "chlodzenie": "2 km spokojnego schłodzenia",
+         "stretching": "Rozciąganie bioder, łydek i czworogłowych.",
+         "cwiczenia": "Plank boczny (2x 40 sekund na stronę)\nMostek biodrowy (2x 12 powtórzeń)\nDynamiczne unoszenie kolan (10–12 razy na każdą stronę)"
+      },
+      {
+         "dzien": "Wtorek (Regeneracja)",
+         "opis": "Trening regeneracyjny",
+         "cel": "Regeneracja i delikatne pobudzenie organizmu.",
+         "aktywnosc": "30-60 minut spaceru.",
+         "cwiczenia": "Mostek biodrowy (3 x 12 powtórzeń),\n Plank (3 x 30 sekund),\n Unoszenie nóg w bok (2 x 10 na nogę)."
+      },
+      {
+         "dzien": "Środa (Fartlek)",
+         "opis": "Trening fartlek",
+         "cel": "Poprawa zmienności tempa i przygotowanie do zmiennych warunków górskich.",
+         "rozgrzewka": "2 km spokojnego biegu.\n3× skipy A (30 metrów)\n3× dynamiczne wymachy nóg (do przodu i do tyłu)\n3× krążenia bioder (po obu stronach)\nLekki stretching dynamiczny (np. wymachy rąk i nóg).",
+         "fartlek": "\n4 minuty w tempie 4:30-4:40/km → 2 minuty spokojnego biegu.\n3 minuty w tempie 4:20-4:30/km → 2 minuty spokojnego biegu.\n2 minuty w tempie 4:10-4:20/km → 2 minuty spokojnego biegu.\n1 minuta w tempie 4:00-4:10/km → 2 minuty spokojnego biegu.\nPowtórz cały cykl 2 razy.",
+         "chlodzenie": "2 km spokojnego biegu.",
+         "stretching": "Rozciąganie i mobilizacja bioder, łydek i czworogłowych.",
+         "cwiczenia": "Plank (3 serie po 30 sekund)\n Wykroki mobilizacyjne (2 x 10 na nogę)"
+      },
+      {
+         "dzien": "Czwartek (Regeneracja)",
+         "opis": "Trening regeneracyjny",
+         "cel": "Regeneracja i delikatne pobudzenie organizmu.",
+         "aktywnosc": "30-60 minut spaceru.",
+         "stretching": "Rozciąganie bioder, łydek i czworogłowych. \nRolowanie: Szczególnie mięśnie czworogłowe i łydki (10 min)."
+      },
+      {
+         "dzien": "Piątek (Podbiegi)",
+         "opis": "Trening podbiegów",
+         "cel": "Budowanie siły biegowej i przygotowanie do podbiegów w maratonie górskim.",
+         "rozgrzewka": "2 km spokojnie (tempo regeneracyjne)\n3× skipy A (30 metrów)\n3× dynamiczne wymachy nóg do przodu i na boki\n3× krążenia bioder (na każdą stronę)\nDynamiczne krążenie ramion i bioder",
+         "podbiegi": "6-8 x 100-150 m pod górę (~10% nachylenie, intensywność 8/10)\nTrucht w dół.",
+         "chlodzenie": "2 km spokojnie (tempo regeneracyjne)",
+         "stretching": "Rozciąganie bioder, łydek i czworogłowych. \nRolowanie: Szczególnie mięśnie czworogłowe i łydki (10 min)."
+      },
+      {
+         "dzien": "Sobota (Regeneracja)",
+         "opis": "Trening regeneracyjny",
+         "cel": "Regeneracja i delikatne pobudzenie organizmu.",
+         "aktywnosc": "30-60 minut spaceru.",
+         "cwiczenia": "Krążenia stawów: 10 krążeń w każdą stronę (kolana, biodra, kostki).\n Rozciąganie bioder, łydek i czworogłowych."
+      },
+      {
+         "dzien": "Niedziela (Długie wybieganie)",
+         "opis": "Długie wybieganie - jeśli to możliwe, wybierz trasę z przewyższeniami, aby symulować warunki maratonu górskiego.",
+         "cel": "Budowanie wytrzymałości i przyzwyczajenie organizmu do długotrwałego wysiłku.",
+         "bieg": "20-22 km w spokojnym tempie (6:10-6:30/km).",
+         "stretching": "Rozciąganie bioder, łydek i czworogłowych. \nRolowanie: Całe nogi (10-15 min)."
+      }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja)",
+         "opis": "Trening regeneracyjny",
+         "cel": "Regeneracja i delikatne pobudzenie organizmu.",
+         "aktywnosc": "30-60 minut spaceru.",
+         "cwiczenia": "Mostek biodrowy (3 x 12 powtórzeń),\n Plank (3 x 30 sekund),\n Unoszenie nóg w bok (2 x 10 na nogę)."
+      },
+      {
+         "dzien": "Wtorek (Bieg progowy)",
+         "opis": "Bieg progowy",
+         "cel": "Utrzymanie wytrzymałości na progu mleczanowym.",
+         "rozgrzewka": "2 km spokojnie (tempo regeneracyjne)\n3× skipy A (30 metrów)\n3× dynamiczne wymachy nóg do przodu i na boki\n3× krążenia bioder (na każdą stronę)\nDynamiczne krążenie ramion i bioder",
+         "bieg": "\n12 minut w tempie 4:50-5:00/km.\n2 minuty truchtu.\n10 minut w tempie 4:40-4:50/km.\n2 minuty truchtu.\n8 minut w tempie 4:30-4:40/km.",
+         "chlodzenie": "2 km spokojnego schłodzenia",
+         "stretching": "Rozciąganie bioder, łydek i czworogłowych.",
+         "cwiczenia": "Plank boczny (2x 40 sekund na stronę)\nMostek biodrowy (2x 12 powtórzeń)\nDynamiczne unoszenie kolan (10–12 razy na każdą stronę)"
+      },
+      {
+         "dzien": "Środa (Regeneracja)",
+         "opis": "Trening regeneracyjny",
+         "cel": "Regeneracja i delikatne pobudzenie organizmu.",
+         "aktywnosc": "30-60 minut spaceru.",
+         "stretching": "Rozciąganie bioder, łydek i czworogłowych. \nRolowanie: Całe nogi (10-15 min)."
+      },
+      {
+         "dzien": "Czwartek (Fartlek)",
+         "opis": "Trening fartlek",
+         "cel": "Poprawa zmienności tempa i przygotowanie do zmiennych warunków górskich.",
+         "rozgrzewka": "2 km spokojnego biegu.\n3× skipy A (30 metrów)\n3× dynamiczne wymachy nóg (do przodu i do tyłu)\n3× krążenia bioder (po obu stronach)\nLekki stretching dynamiczny (np. wymachy rąk i nóg).",
+         "fartlek": "\n4 minuty w tempie 4:30-4:40/km → 2 minuty spokojnego biegu.\n3 minuty w tempie 4:20-4:30/km → 2 minuty spokojnego biegu.\n2 minuty w tempie 4:10-4:20/km → 2 minuty spokojnego biegu.\n1 minuta w tempie 4:00-4:10/km → 2 minuty spokojnego biegu.\nPowtórz cały cykl 1 razy.",
+         "chlodzenie": "2 km spokojnego biegu.",
+         "stretching": "Rozciąganie i mobilizacja bioder, łydek i czworogłowych.",
+         "cwiczenia": "Plank (3 serie po 30 sekund)\n Wykroki mobilizacyjne (2 x 10 na nogę)"
+      },
+      {
+         "dzien": "Piątek (Regeneracja)",
+         "opis": "Trening regeneracyjny",
+         "cel": "Regeneracja i delikatne pobudzenie organizmu.",
+         "aktywnosc": "30-60 minut spaceru.",
+         "cwiczenia": "Krążenia stawów: 10 krążeń w każdą stronę (kolana, biodra, kostki).\n Rozciąganie bioder, łydek i czworogłowych."
+      },
+      {
+         "dzien": "Sobota (Długie wybieganie)",
+         "opis": "Długie wybieganie - jeśli to możliwe, wybierz trasę z przewyższeniami.",
+         "cel": "Budowanie wytrzymałości i symulacja warunków maratonu górskiego.",
+         "bieg": "24-26 km w spokojnym tempie (6:10-6:30/km).",
+         "stretching": "Rozciąganie bioder, łydek i czworogłowych. \nRolowanie: Całe nogi (10-15 min)."
+      },
+      {
+         "dzien": "Niedziela (Regeneracja)",
+         "opis": "Trening regeneracyjny",
+         "cel": "Regeneracja i delikatne pobudzenie organizmu.",
+         "aktywnosc": "30-60 minut spaceru.",
+         "cwiczenia": "Mostek biodrowy (3 x 12 powtórzeń),\n Plank (3 x 30 sekund),\n Unoszenie nóg w bok (2 x 10 na nogę)."
+      }
    ]
 ]
