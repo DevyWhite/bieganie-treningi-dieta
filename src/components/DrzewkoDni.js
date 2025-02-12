@@ -35,16 +35,16 @@ const DrzewkoDni = ({ dni }) => {
                      <li>
                         <strong>{renderWithNewLines(dzien.opis)}</strong>
                      </li>
-                     {dzien.aktywnosc && (
-                        <li>
-                           <strong>Aktywność:</strong>{" "}
-                           {renderWithNewLines(dzien.aktywnosc)}
-                        </li>
-                     )}
                      {dzien.rozgrzewka && (
                         <li>
                            <strong>Rozgrzewka:</strong>{" "}
                            {renderWithNewLines(dzien.rozgrzewka)}
+                        </li>
+                     )}
+                     {dzien.aktywnosc && (
+                        <li>
+                           <strong>Aktywność:</strong>{" "}
+                           {renderWithNewLines(dzien.aktywnosc)}
                         </li>
                      )}
                      {dzien.bieg && (
