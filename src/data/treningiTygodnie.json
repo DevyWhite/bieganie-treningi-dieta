@@ -1435,5 +1435,127 @@
          "aktywnosc": "Opcja 1: Wykonać lekki bieg regeneracyjny 5–6 km (tempo komfortowe, np. 6:30–7:00/km)\nOpcja 2: Spacer 45-60 minut, joga lub rolowanie.",
          "cwiczenia": "Mostek biodrowy (3 x 12 powtórzeń),\n Plank (3 x 30 sekund),\n Unoszenie nóg w bok (2 x 10 na nogę)."
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja)",
+         "opis": "Trening regeneracyjny",
+         "cel": "Regeneracja i delikatne pobudzenie organizmu.",
+         "aktywnosc": "30-90 minut spaceru.",
+         "cwiczenia": "Mostek biodrowy (3 x 12 powtórzeń),\n Plank (3 x 30 sekund),\n Unoszenie nóg w bok (2 x 10 na nogę)."
+      },
+      {
+         "dzien": "Wtorek (Bieg progowy + siła lekka)",
+         "opis": "Bieg progowy – ciągły",
+         "cel": "Poprawa wytrzymałości na progu mleczanowym.",
+         "rozgrzewka": "2-3 km spokojnie (tempo ~6:00/km)\n3× skipy A (30 metrów)\n3× dynamiczne wymachy nóg do przodu i na boki\n3× krążenia bioder (na każdą stronę)\nDynamiczne krążenie ramion i bioder",
+         "bieg": "5 km w tempie progowym (~4:50-5:00/km)",
+         "chlodzenie": "2-3 km spokojnego schłodzenia (tempo ~6:00/km)",
+         "stretching": "Rozciąganie bioder, łydek i czworogłowych.",
+         "cwiczenia": "Plank boczny (2x 40 sekund na stronę)\nMostek biodrowy (2x 12 powtórzeń)\nDynamiczne unoszenie kolan (10–12 razy na każdą stronę)\n\n⚡️ Lekki trening siłowy (opcjonalnie po bieganiu):\n1–2 serie:\n- 8–10 przysiadów (wolne tempo)\n- 8 wykroków na nogę (statyczne)\n- 10 wspięć na palce\n- 15 sekund krzesełko\n- 1× 30 sek plank"
+      },
+      {
+         "dzien": "Środa (Regeneracja)",
+         "opis": "Trening regeneracyjny",
+         "cel": "Regeneracja i delikatne pobudzenie organizmu.",
+         "aktywnosc": "30-90 minut spaceru.",
+         "cwiczenia": "Mostek biodrowy (3 x 12 powtórzeń),\n Plank (3 x 30 sekund),\n Unoszenie nóg w bok (2 x 10 na nogę)."
+      },
+      {
+         "dzien": "Czwartek (Fartlek w terenie)",
+         "opis": "Trening fartlek w terenie - biegać w lesie/drogach leśnych, żeby oswoić się z terenem.",
+         "cel": "Poprawa zmienności tempa i przygotowanie do zmiennych warunków górskich.",
+         "rozgrzewka": "2 km spokojnego biegu.\n3× skipy A (30 metrów)\n3× dynamiczne wymachy nóg (do przodu i do tyłu)\n3× krążenia bioder (po obu stronach)\nLekki stretching dynamiczny.",
+         "fartlek": "4 x (3 min w tempie 4:30-4:40/km + 2 min spokojnego biegu)",
+         "chlodzenie": "2 km spokojnego biegu.",
+         "stretching": "Rozciąganie i mobilizacja bioder, łydek i czworogłowych.",
+         "cwiczenia": "Plank (3 serie po 30 sekund)\n Wykroki mobilizacyjne (2 x 10 na nogę)"
+      },
+      {
+         "dzien": "Piątek (Regeneracja)",
+         "opis": "Spacer lub delikatny stretching + rolowanie.",
+         "cel": "Zniwelowanie napięć, regeneracja mięśni.",
+         "aktywnosc": "30-60 minut spaceru.",
+         "cwiczenia": "Rolowanie łydek, czworogłowych i pośladków\nStretching dynamiczny i statyczny (20 minut)"
+      },
+      {
+         "dzien": "Sobota (Podbiegi – interwał siłowy)",
+         "opis": "Interwały pod górę",
+         "cel": "Rozwój siły biegowej, poprawa ekonomii biegu i VO2 max.",
+         "rozgrzewka": "2 km trucht + ćwiczenia dynamiczne.",
+         "bieg": "6 x 1 minuta pod górę (~4:40-4:50/km, ~6-10% nachylenie)",
+         "przerwa": "Zbieg + 1 minuta odpoczynku.",
+         "chlodzenie": "2 km spokojnego biegu.",
+         "stretching": "Rolowanie i rozciąganie mięśni nóg."
+      },
+      {
+         "dzien": "Niedziela (Long run)",
+         "opis": "Długi bieg w terenie",
+         "cel": "Budowa bazy wytrzymałościowej, adaptacja do długiego wysiłku.",
+         "bieg": "25–30 km w spokojnym tempie (5:45–6:15/km), najlepiej w terenie z przewyższeniami.",
+         "nawodnienie": "Zabierz ze sobą izotonik/wodę (min. 1 l).",
+         "stretching": "Rozciąganie łydek, tyłów ud i bioder."
+      }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja)",
+         "opis": "Trening regeneracyjny 🚶",
+         "cel": "Odpoczynek po weekendowym long runie.",
+         "aktywnosc": "30–90 minut spokojnego spaceru lub delikatna aktywność (np. joga, rower).",
+         "cwiczenia": "Mostek biodrowy (3 x 12 powtórzeń),\nPlank (3 x 30 sekund),\nUnoszenie nóg w bok (2 x 10 na nogę)."
+      },
+      {
+         "dzien": "Wtorek (Bieg progowy – ciągły)",
+         "opis": "Bieg progowy – ciągły 🔥",
+         "cel": "Rozwijanie wytrzymałości tempowej.",
+         "rozgrzewka": "2-3 km spokojnego biegu (ok. 6:00/km)\n+ Skipy A x 3 (30m),\n+ Krążenia bioder, ramion, dynamiczne wymachy nóg.",
+         "bieg": "5–6 km biegu ciągłego w tempie progowym (ok. 4:50–5:00/km)",
+         "chlodzenie": "2 km truchtu + stretching dynamiczny.",
+         "stretching": "Rozciąganie bioder, łydek i czworogłowych.",
+         "cwiczenia": "Plank boczny (2x 40 sekund na stronę)\nMostek biodrowy (2x 12 powtórzeń)\nDynamiczne unoszenie kolan (10–12 razy na stronę)"
+      },
+      {
+         "dzien": "Środa (Regeneracja + lekki trening siłowy)",
+         "opis": "Regeneracja + aktywacja mięśni nóg 💪",
+         "cel": "Odpoczynek i podtrzymanie siły funkcjonalnej.",
+         "aktywnosc": "30–60 minut spaceru.",
+         "cwiczenia": "🦵 Przysiady z masą ciała (2 x 10)\n🦵 Mostek biodrowy (2 x 12)\n🦵 Wspięcia na palce (2 x 12)\n⚠️ Tempo wolne, bez maksymalnego wysiłku"
+      },
+      {
+         "dzien": "Czwartek (Fartlek)",
+         "opis": "Fartlek w terenie 🌲",
+         "cel": "Poprawa kontroli tempa i adaptacja do zmiennego wysiłku.",
+         "rozgrzewka": "2 km spokojnego biegu + skipy A x3, krążenia bioder, wymachy nóg",
+         "fartlek": "2 min w tempie ~4:30/km → 2 min spokojnie\n1 min w tempie ~4:15/km → 2 min spokojnie\n30 sek w tempie ~4:00/km → 2 min spokojnie\n🔁 Całość powtórz 2–3 razy",
+         "chlodzenie": "2 km spokojnego biegu",
+         "stretching": "Rozciąganie mięśni nóg, głównie łydek i dwugłowych.",
+         "cwiczenia": "Wykroki mobilizacyjne (2 x 10 na nogę)\nPlank (3 x 30 sekund)"
+      },
+      {
+         "dzien": "Piątek (Regeneracja)",
+         "opis": "Regeneracja 🧘",
+         "cel": "Odpoczynek przed wymagającym weekendem.",
+         "aktywnosc": "Spokojny spacer (do 60 minut) lub lekki stretching/joga.",
+         "cwiczenia": "Mostek biodrowy (2 x 10)\nPlank (2 x 30 sekund)\nUnoszenie nóg w bok (2 x 8 na stronę)"
+      },
+      {
+         "dzien": "Sobota (Podbiegi)",
+         "opis": "Trening siły biegowej i eksplozywności ⛰️",
+         "cel": "Rozwijanie siły i dynamiki na zbiegach/podbiegach.",
+         "rozgrzewka": "2–3 km biegu + skipy A/B, dynamiczne krążenia, wymachy nóg",
+         "bieg": "6 x 1 minuta mocno pod górę (~4:40-4:50/km, teren 6–8%)\nPrzerwy: spokojny zbieg + 1 min odpoczynku",
+         "chlodzenie": "1–2 km schłodzenia w truchcie",
+         "stretching": "Rozciąganie łydek, bioder i czworogłowych.",
+         "cwiczenia": "Mostek biodrowy (2 x 10)\nPlank boczny (2 x 30 sekund na stronę)"
+      },
+      {
+         "dzien": "Niedziela (Long run)",
+         "opis": "Długi bieg terenowy 🏞️",
+         "cel": "Rozbudowa bazy wytrzymałościowej.",
+         "bieg": "28–30 km w terenie (tempo komfortowe ~5:50–6:10/km)\nStarać się zebrać minimum 400–500 m przewyższeń",
+         "nawodnienie": "Zabrać plecak z izotonikiem/wodą i żelami.",
+         "stretching": "Dokładne rozciąganie całych nóg + rollowanie łydek i czworogłowych."
+      }
    ]
 ]
