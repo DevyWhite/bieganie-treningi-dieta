@@ -24,6 +24,7 @@ const Dieta = () => {
 
    return (
       <div className='dieta'>
+         <h4>Diety nieaktualizowane!</h4>
          <div className='tydzien-list'>
             {daneDiety.map((tydzienData) => (
                <div key={tydzienData.tydzien}>
