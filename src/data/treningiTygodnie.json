@@ -1920,5 +1920,125 @@
          "bieg": "Dystans: 22–26 km w terenie (tempo spokojne, 5:45–6:15/km)\nPrzewyższenia: minimum 300 m jeśli możliwe",
          "stretching": "Rozciąganie pośladków, czworogłowych, łydek."
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja)",
+         "opis": "Regeneracja aktywna – rower lub spacer",
+         "cel": "Podtrzymanie aktywności i regeneracja mięśni po longu.",
+         "aktywnosc": "Rower 45–60 minut (do 20 km) lub spacer 5–6 km.",
+         "cwiczenia": "Plank (3 x 30 sekund),\nWznosy bioder (2 x 15 powtórzeń),\nUnoszenie nóg w bok (2 x 10 na stronę)"
+      },
+      {
+         "dzien": "Wtorek (Bieg progowy – ciągły)",
+         "opis": "Bieg ciągły w tempie progowym",
+         "cel": "Poprawa tempa progowego i tolerancji zmęczenia.",
+         "rozgrzewka": "3 km spokojnego biegu + skipy A, B, wymachy.",
+         "bieg": "6 km w tempie 4:35–4:45/km",
+         "chlodzenie": "2 km trucht + rozciąganie",
+         "stretching": "Rozciąganie czworogłowych, pośladków i łydek.",
+         "cwiczenia": "Plank boczny (2 x 40 sek na stronę),\nWznosy kolan (2 x 10 na stronę)"
+      },
+      {
+         "dzien": "Środa (Regeneracja aktywna)",
+         "opis": "Rower lub spacer",
+         "cel": "Regeneracja i utrzymanie objętości.",
+         "aktywnosc": "Rower 60–75 min (teren płaski, średnie tempo) lub spacer 6–8 km.",
+         "cwiczenia": "Wznosy bioder (2 x 12),\nPlank (3 x 30 sek),\nUnoszenie nóg w bok (2 x 10)"
+      },
+      {
+         "dzien": "Czwartek (Fartlek terenowy)",
+         "opis": "Zmiany tempa w terenie",
+         "cel": "Rozwijanie zdolności do zmiany tempa i pracy nad ekonomią biegu.",
+         "rozgrzewka": "2 km + ćwiczenia dynamiczne (skipy, wymachy).",
+         "fartlek": "8 x (1 min szybko + 2 min trucht)",
+         "chlodzenie": "2 km spokojnego biegu",
+         "stretching": "Rozciąganie bioder i łydek.",
+         "cwiczenia": "Wykroki dynamiczne (2 x 8 na stronę),\nSkip A w miejscu (2 x 20 sek)"
+      },
+      {
+         "dzien": "Piątek (Podbiegi)",
+         "opis": "Trening siły biegowej",
+         "cel": "Wzmocnienie mięśni nóg i poprawa techniki na wzniesieniach.",
+         "rozgrzewka": "2 km + krążenia bioder, skipy.",
+         "bieg": "5 x 90 sek mocnego podbiegu (6–10% nachylenia), zbieg jako przerwa.",
+         "chlodzenie": "2 km trucht",
+         "stretching": "Czworogłowe, pośladki, łydki.",
+         "cwiczenia": "Wykroki statyczne (2 x 8),\nWznosy bioder (2 x 15),\nDeska bokiem (2 x 30 sek)"
+      },
+      {
+         "dzien": "Sobota (Regeneracja aktywna)",
+         "opis": "Spokojny rower lub spacer",
+         "cel": "Odpoczynek i regeneracja układu nerwowego.",
+         "aktywnosc": "Rower do 60 min (do 20 km) lub spacer 5–6 km.",
+         "cwiczenia": "Rolowanie łydek i dwugłowych,\nPlank (3 x 30 sek),\nWznosy nóg bokiem (2 x 10)"
+      },
+      {
+         "dzien": "Niedziela (Long run trailowy)",
+         "opis": "Długi bieg terenowy",
+         "cel": "Budowa wytrzymałości tlenowej i adaptacja do warunków trailowych.",
+         "bieg": "25–28 km w terenie (tempo 5:45–6:15/km), przewyższenia >300 m",
+         "stretching": "Rozciąganie całych nóg + wałek na pasmo biodrowo-piszczelowe."
+      }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja)",
+         "opis": "Spacer lub lekki rower",
+         "cel": "Odpoczynek po longu, regeneracja mięśni i stawów.",
+         "aktywnosc": "Spacer 5–6 km lub rower do 60 min (15–20 km).",
+         "cwiczenia": "Mostek biodrowy (2 x 12),\nPlank (3 x 30 sek),\nRolowanie łydek"
+      },
+      {
+         "dzien": "Wtorek (Bieg progowy – odcinki)",
+         "opis": "Bieg progowy interwałowy",
+         "cel": "Poprawa tempa i adaptacja do intensywności.",
+         "rozgrzewka": "3 km + skipy, wymachy, krążenia ramion.",
+         "bieg": "3 x 2 km w tempie 4:35–4:45/km (2 min truchtu między powtórzeniami)",
+         "chlodzenie": "2 km spokojnego biegu",
+         "stretching": "Łydki, dwugłowe uda, pośladki.",
+         "cwiczenia": "Plank boczny (2 x 30 sek),\nSkip A (2 x 20 sek),\nWznosy bioder (2 x 12)"
+      },
+      {
+         "dzien": "Środa (Regeneracja aktywna)",
+         "opis": "Rower lub spacer",
+         "cel": "Odpoczynek i utrzymanie objętości bez obciążania stawów.",
+         "aktywnosc": "Rower 60–75 min lub spacer 6–8 km.",
+         "cwiczenia": "Plank (3 x 30 sek),\nWykroki mobilizacyjne (2 x 8),\nWznosy nóg bokiem (2 x 10)"
+      },
+      {
+         "dzien": "Czwartek (Fartlek)",
+         "opis": "Zmienność tempa",
+         "cel": "Zwiększenie pojemności tlenowej i elastyczności tempa.",
+         "rozgrzewka": "2 km spokojnie + dynamiczne ćwiczenia.",
+         "fartlek": "10 x (1 min szybko, 1:30 min truchtu)",
+         "chlodzenie": "2 km spokojnego biegu",
+         "stretching": "Rozciąganie po treningu: biodra, czworogłowe, łydki.",
+         "cwiczenia": "Skip B (2 x 20 sek),\nWykroki naprzemienne (2 x 10)"
+      },
+      {
+         "dzien": "Piątek (Podbiegi – siła)",
+         "opis": "Mocny trening siłowy w biegu",
+         "cel": "Zwiększenie siły mięśni nóg i pracy stawu skokowego.",
+         "rozgrzewka": "2 km + wymachy, skipy.",
+         "bieg": "6 x 60 sek podbieg (tempo ok. 4:30/km), zbieg jako odpoczynek",
+         "chlodzenie": "2 km spokojnie",
+         "stretching": "Wałek + rozciąganie łydki, pasmo biodrowe, pośladki.",
+         "cwiczenia": "Przysiady (2 x 15),\nWykroki w miejscu (2 x 8),\nPlank (3 x 30 sek)"
+      },
+      {
+         "dzien": "Sobota (Regeneracja aktywna)",
+         "opis": "Lekka aktywność",
+         "cel": "Regeneracja przed longiem.",
+         "aktywnosc": "Rower 45–60 min lub spacer 5 km.",
+         "cwiczenia": "Rolowanie, plank, krzesełko przy ścianie (2 x 20 sek)"
+      },
+      {
+         "dzien": "Niedziela (Long run)",
+         "opis": "Długi bieg w terenie",
+         "cel": "Kontynuacja budowy bazy tlenowej i pracy nad trailowymi warunkami.",
+         "bieg": "28–30 km trail (tempo 5:45–6:15/km), przewyższenia 300–500 m",
+         "stretching": "Rozciąganie po treningu + kąpiel solankowa jeśli możliwe."
+      }
    ]
 ]
