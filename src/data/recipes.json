@@ -768,15 +768,15 @@
       "link": "zel_energetyczny_maurten_style_cytrynowy",
       "imageId": "zel_energetyczny_maurten_style_cytrynowy",
       "ingredients": [
-         "40 g maltodekstryny,",
-         "20 g fruktozy,",
-         "90 ml wody,",
-         "1 g alginianu sodu,",
-         "1/2–1 g soli,",
+         "50 g maltodekstryny,",
+         "25 g fruktozy,",
+         "70 ml wody,",
+         "1,5 g alginianu sodu,",
+         "1 g soli,",
          "10 ml soku z cytryny."
       ],
       "description": [
-         "Wymieszaj maltodekstrynę i fruktozę w ok. 70 ml wody.",
+         "Wymieszaj maltodekstrynę i fruktozę w ok. 50 ml wody.",
          "Dodaj sól, sok z cytryny i aromat.",
          "Osobno rozpuść alginian sodu w 20 ml bardzo ciepłej wody – najlepiej użyć blendera (albo szejkera), bo się grudkuje.",
          "Połącz wszystko razem – powinno mieć konsystencję rzadkiego kisielu. W lodówce jeszcze lekko zgęstnieje.",
@@ -808,6 +808,28 @@
          "Zblenduj fasolę z przyprawami.",
          "Wymieszaj wszystko, pozostawiając kawałki cebuli i jabłka.",
          "Schłódź – smakuje jeszcze lepiej kolejnego dnia."
+      ]
+   },
+   {
+      "id": 39,
+      "title": "Żel energetyczny Maurten-style – espresso",
+      "link": "zel_energetyczny_maurten_style_espresso",
+      "imageId": "zel_energetyczny_maurten_style_espresso",
+      "ingredients": [
+         "50 g maltodekstryny,",
+         "25 g fruktozy,",
+         "60 ml espresso",
+         "10 ml wody,",
+         "1,5 g alginianu sodu,",
+         "1 g soli,"
+      ],
+      "description": [
+         "Wymieszaj maltodekstrynę, fruktozę i sól.",
+         "W osobnym naczyniu wymieszaj wodę z espresso.",
+         "Do mieszanki płynnej powoli wsyp alginian sodu, energicznie mieszając trzepaczką lub blenderem ręcznym, aby uniknąć grudek.",
+         "Po rozpuszczeniu alginianu połącz zawartość obu misek i dokładnie wymieszaj.",
+         "Odstaw na 30–60 minut, aby alginian sodu się aktywował i żel zgęstniał.",
+         "Przelej soft flasku albo buteleczki po żelu."
       ]
    }
 ]
