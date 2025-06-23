@@ -761,5 +761,26 @@
          "Suszone pomidory pokrój w paski, mozzarellę w kostkę.",
          "Makaron wymieszaj z pesto, oliwą, pomidorami i mozzarellą."
       ]
+   },
+   {
+      "id": 37,
+      "title": "Żel energetyczny Maurten-style – cytrynowy",
+      "link": "zel_energetyczny_maurten_style_cytrynowy",
+      "imageId": "zel_energetyczny_maurten_style_cytrynowy",
+      "ingredients": [
+         "40 g maltodekstryny,",
+         "20 g fruktozy,",
+         "90 ml wody,",
+         "1 g alginianu sodu,",
+         "1/2–1 g soli,",
+         "10 ml soku z cytryny."
+      ],
+      "description": [
+         "Wymieszaj maltodekstrynę i fruktozę w ok. 70 ml wody.",
+         "Dodaj sól, sok z cytryny i aromat.",
+         "Osobno rozpuść alginian sodu w 20 ml bardzo ciepłej wody – najlepiej użyć blendera (albo szejkera), bo się grudkuje.",
+         "Połącz wszystko razem – powinno mieć konsystencję rzadkiego kisielu. W lodówce jeszcze lekko zgęstnieje.",
+         "Przelej do silikonowej saszetki, soft flasku albo buteleczki po żelu."
+      ]
    }
 ]
