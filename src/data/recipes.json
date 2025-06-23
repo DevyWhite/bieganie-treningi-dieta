@@ -426,7 +426,7 @@
       "id": 21,
       "title": "Zupa krem pomidorowy a’la Łemkowyna Ultra Trail",
       "link": "Zupa_LUT",
-      "imageId": "Zupa_ŁUT",
+      "imageId": "zupa_lut",
       "ingredients": [
          "2 szt Cebula",
          "2 szt Marchewka",
@@ -781,6 +781,33 @@
          "Osobno rozpuść alginian sodu w 20 ml bardzo ciepłej wody – najlepiej użyć blendera (albo szejkera), bo się grudkuje.",
          "Połącz wszystko razem – powinno mieć konsystencję rzadkiego kisielu. W lodówce jeszcze lekko zgęstnieje.",
          "Przelej do silikonowej saszetki, soft flasku albo buteleczki po żelu."
+      ]
+   },
+   {
+      "id": 38,
+      "title": "Wegański smalec z fasoli i jabłka",
+      "link": "weganski_smalec_z_fasoli_i_jablka",
+      "imageId": "weganski_smalec_z_fasoli_i_jablka",
+      "ingredients": [
+         "1 puszka białej fasoli,",
+         "2–3 cebule,",
+         "1 jabłko,",
+         "olej do smażenia,",
+         "ziele angielskie,",
+         "liść laurowy,",
+         "goździk,",
+         "jałowiec,",
+         "majeranek,",
+         "lubczyk,",
+         "sos sojowy,",
+         "sól,",
+         "pieprz."
+      ],
+      "description": [
+         "Podsmaż cebulę, jabłko i przyprawy.",
+         "Zblenduj fasolę z przyprawami.",
+         "Wymieszaj wszystko, pozostawiając kawałki cebuli i jabłka.",
+         "Schłódź – smakuje jeszcze lepiej kolejnego dnia."
       ]
    }
 ]
