@@ -831,5 +831,28 @@
          "Odstaw na 30–60 minut, aby alginian sodu się aktywował i żel zgęstniał.",
          "Przelej soft flasku albo buteleczki po żelu."
       ]
+   },
+   {
+      "id": 40,
+      "title": "Twarożek wysokobiałkowy z jogurtem i ziołami",
+      "link": "twarozek_wysokobialkowy_z_jogurtem_i_ziolami",
+      "imageId": "twarozek_wysokobialkowy_z_jogurtem_i_ziolami",
+      "ingredients": [
+         "200 g chudego twarogu (najlepiej półtłusty lub chudy – ma więcej białka),",
+         "2–3 łyżki gęstego jogurtu naturalnego (np. typu greckiego light),",
+         "1 ząbek czosnku (opcjonalnie),",
+         "sól i pieprz do smaku,",
+         "zioła wedle uznania: szczypiorek, koperek, natka pietruszki, bazylia – co lubisz,",
+         "kilka kropel soku z cytryny (opcjonalnie – dla lekko kwaśnego smaku),",
+         "(opcjonalnie) 1 łyżka odżywki białkowej naturalnej lub neutralnej,",
+         "(opcjonalnie) 1–2 łyżki serka wiejskiego (zblendować razem),",
+         "(opcjonalnie) gotowane jajko na twardo (można zblendować razem lub posiekać)."
+      ],
+      "description": [
+         "Twaróg rozgnieć widelcem lub zblenduj z jogurtem, aż uzyskasz kremową konsystencję.",
+         "Dodaj przeciśnięty przez praskę czosnek (jeśli używasz), przyprawy, zioła i ewentualnie sok z cytryny.",
+         "Wszystko dokładnie wymieszaj. Jeśli chcesz uzyskać jeszcze bardziej kremowy efekt – użyj blendera.",
+         "Gotowe! Wstaw do lodówki na 15–30 minut, żeby smaki się przegryzły."
+      ]
    }
 ]
