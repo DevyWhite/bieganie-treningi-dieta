@@ -2077,28 +2077,25 @@
          "cwiczenia": "Wznosy kolan dynamiczne (2 x 10 na stronę),\nWykroki mobilizacyjne (2 x 8 na stronę)"
       },
       {
-         "dzien": "Piątek (Siła biegowa – podbiegi)",
-         "opis": "Trening mocy i siły mięśniowej",
-         "cel": "Poprawa siły biegowej i zdolności do biegania pod górę.",
-         "rozgrzewka": "2 km spokojnego biegu + ćwiczenia dynamiczne.",
-         "bieg": "6–8 x 45 sekund mocno pod górę (nachylenie 6–10%)\nPrzerwa: spokojny zbieg + 1 min odpoczynku.",
-         "chlodzenie": "2 km spokojnego biegu",
-         "stretching": "Rozciąganie mięśni pośladkowych, czworogłowych i łydek.",
-         "cwiczenia": "Wznosy bioder (2 x 15),\nUnoszenie kolan stojąc (2 x 10 na stronę),\nWykroki statyczne (2 x 8 na stronę)"
+         "dzien": "Piątek (Regeneracja aktywna)",
+         "opis": "Odpoczynek przed długim biegiem",
+         "cel": "Zmniejszenie napięcia mięśniowego i przygotowanie nóg na long run.",
+         "aktywnosc": "Opcja 1: Rower spokojny 45 minut (dystans do 20 km)\nOpcja 2: Spacer 5–6 km",
+         "cwiczenia": "Plank (2 x 30 sekund),\nWznosy bioder (2 x 12 powtórzeń),\nLekki stretching nóg (łydki, uda)"
       },
       {
-         "dzien": "Sobota (Regeneracja aktywna)",
-         "opis": "Odpoczynek po tygodniu treningowym",
-         "cel": "Regeneracja po treningach jakościowych.",
-         "aktywnosc": "Opcja 1: 45 minut roweru terenowego (dystans do 20 km)\nOpcja 2: Spacer 6 km",
-         "cwiczenia": "Plank (3 x 30 sekund),\nWznosy nóg w bok (2 x 10 na stronę),\nKrzesełko przy ścianie (2 x 15 sekund)"
-      },
-      {
-         "dzien": "Niedziela (Long run w terenie)",
-         "opis": "Dłuższy bieg trailowy",
+         "dzien": "Sobota (Long run w terenie)",
+         "opis": "Dłuższy bieg trailowy – wykorzystaj okazję w terenie",
          "cel": "Budowanie wytrzymałości ogólnej i adaptacja do biegania w terenie.",
-         "bieg": "Dystans: 26–30 km w terenie (tempo spokojne, 5:50–6:20/km)\nPrzewyższenia: minimum 300–400 m jeśli możliwe",
+         "bieg": "Dystans: 26–30 km (tempo spokojne 5:50–6:20/km),\nPrzewyższenia: 300–500 m w terenie jeśli możliwe.",
          "stretching": "Rozciąganie pośladków, czworogłowych, łydek."
+      },
+      {
+         "dzien": "Niedziela (Regeneracja lub lekka aktywność)",
+         "opis": "Odpoczynek po long runie",
+         "cel": "Regeneracja i rozluźnienie mięśni po intensywnym dniu.",
+         "aktywnosc": "Opcja 1: Lekki rower 30–40 min\nOpcja 2: Spacer 5 km\nOpcja 3: Całkowity odpoczynek – jeśli czujesz zmęczenie",
+         "cwiczenia": "Rolowanie łydki i uda,\nStretching ogólny (10–15 minut)"
       }
    ]
 ]
