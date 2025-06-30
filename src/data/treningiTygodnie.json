@@ -2097,5 +2097,65 @@
          "aktywnosc": "Trening siłowy w domu lub na zewnątrz (bez sprzętu)",
          "cwiczenia": "Plank (3 x 40 sekund),\nPlank boczny (2 x 30 sekund na stronę),\nWznosy bioder (3 x 15),\nWykroki w miejscu (2 x 10 na nogę),\nKrzesełko przy ścianie (3 x 20 sekund),\nUnoszenie nóg w bok w podporze (2 x 12 na stronę)"
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja)",
+         "opis": "Regeneracja aktywna – rower lub spacer",
+         "cel": "Odpoczynek po intensywnym weekendzie i przygotowanie do akcentów.",
+         "aktywnosc": "Rower: 45–60 minut spokojnie (15–25 km) lub spacer 6–8 km",
+         "cwiczenia": "Plank (3 x 30 sekundy),\nWznosy bioder (2 x 15 powtórzeń),\nWznosy nóg w bok (2 x 10 na stronę)"
+      },
+      {
+         "dzien": "Wtorek (Bieg progowy – ciągły)",
+         "opis": "Trening tempa i tolerancji wysiłku",
+         "cel": "Poprawa tempa progowego i adaptacja do zmęczenia.",
+         "rozgrzewka": "3 km spokojnego biegu + dynamiczne ćwiczenia (skipy, wymachy).",
+         "bieg": "6–7 km w tempie 4:35–4:45/km (ciągły)",
+         "chlodzenie": "2 km spokojnie.",
+         "stretching": "Rozciąganie bioder, czworogłowych i łydek.",
+         "cwiczenia": "Plank boczny (2 x 40 sekund na stronę),\nWykroki z unoszeniem kolana (2 x 8 na stronę)"
+      },
+      {
+         "dzien": "Środa (Regeneracja aktywna + ćwiczenia siłowe)",
+         "opis": "Regeneracja – spacer lub rower + siła funkcjonalna",
+         "cel": "Utrzymanie aktywności i wzmocnienie core i mięśni wspomagających.",
+         "aktywnosc": "Opcja 1: Rower spokojny 45–60 minut\nOpcja 2: Spacer 6–8 km",
+         "cwiczenia": "Plank (3 x 30 sek),\nWznosy bioder na jednej nodze (2 x 10 na stronę),\nPrzysiady z pauzą (2 x 12),\nWykroki statyczne (2 x 10 na stronę)"
+      },
+      {
+         "dzien": "Czwartek (Fartlek trail)",
+         "opis": "Zmienność tempa w terenie",
+         "cel": "Poprawa zdolności do zmiany tempa i pracy w terenie.",
+         "rozgrzewka": "2 km spokojnego biegu + skipy A, B, wymachy, krążenia bioder.",
+         "fartlek": "6 x (2 min szybciej – tempo 4:30–4:40/km + 2 min spokojnego biegu)",
+         "chlodzenie": "2 km spokojnego biegu",
+         "stretching": "Rozciąganie bioder i tyłu uda.",
+         "cwiczenia": "Wznosy kolan dynamiczne (2 x 10 na stronę),\nSkip A na miejscu (2 x 20 sek),\nWymachy nóg bokiem (2 x 10)"
+      },
+      {
+         "dzien": "Piątek (Regeneracja aktywna)",
+         "opis": "Luźny dzień – mobilność + opcjonalnie lekki rower/spacer",
+         "cel": "Odświeżenie nóg przed weekendem.",
+         "aktywnosc": "Spacer 5–6 km lub rower do 20 km (bardzo spokojnie)",
+         "cwiczenia": "Rollowanie łydek i ud,\nMobilizacja stawu skokowego,\nPlank (2 x 40 sek)"
+      },
+      {
+         "dzien": "Sobota (Siła biegowa – podbiegi)",
+         "opis": "Trening siły biegowej",
+         "cel": "Rozwój mocy i siły kończyn dolnych.",
+         "rozgrzewka": "2 km biegu + skipy, wieloskoki, krążenia kolan.",
+         "bieg": "6–8 x 1 minuta pod górę (nachylenie 6–10%), tempo mocne\nPrzerwa: spokojny zbieg + 1 min odpoczynku.",
+         "chlodzenie": "2 km spokojnego biegu",
+         "stretching": "Pośladki, czworogłowe, łydki.",
+         "cwiczenia": "Przysiady z wyskokiem (2 x 8),\nWykroki chodzone (2 x 10 na stronę),\nPlank boczny (2 x 30 sek)"
+      },
+      {
+         "dzien": "Niedziela (Long run trail)",
+         "opis": "Długi bieg terenowy",
+         "cel": "Budowanie wytrzymałości tlenowej i adaptacja do trailu.",
+         "bieg": "Dystans: 22–26 km w terenie (tempo 5:45–6:15/km)\nPrzewyższenia: minimum 300 m",
+         "stretching": "Pośladki, łydki, pasmo biodrowo-piszczelowe."
+      }
    ]
 ]
