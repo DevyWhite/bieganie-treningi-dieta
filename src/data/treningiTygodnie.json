@@ -2334,5 +2334,65 @@
          "bieg": "Dystans: 22-26 km w terenie (tempo 5:50-6:20/km, przewyższenia 400-700 m w górę)",
          "stretching": "Rozciąganie pośladków, łydek, tyłu uda."
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja)",
+         "opis": "Aktywna regeneracja po weekendzie",
+         "cel": "Odpoczynek po treningach jakościowych i zbieraniu jagód.",
+         "aktywnosc": "Lekki rower 45-60 minut (dystans 15-25 km, bez mocnych podjazdów) lub spacer 6-8 km.",
+         "cwiczenia": "Plank (3 x 30 sekund),\nWznosy bioder (2 x 15 powtórzeń),\nUnoszenie nóg w bok (2 x 10 na stronę)"
+      },
+      {
+         "dzien": "Wtorek (Bieg progowy - odcinki)",
+         "opis": "Trening tempa i wytrzymałości tempowej",
+         "cel": "Poprawa tempa progowego, praca nad rytmem i kontrolą oddechu.",
+         "rozgrzewka": "3 km spokojnego biegu + dynamiczne ćwiczenia (skipy, wymachy).",
+         "bieg": "4 x 2 km w tempie 4:30-4:45/km.\nPrzerwa: 2 min truchtu.",
+         "chlodzenie": "2 km spokojnie.",
+         "stretching": "Rozciąganie bioder, czworogłowych i łydek.",
+         "cwiczenia": "Plank boczny (2 x 40 sekund na stronę),\nSkip A w miejscu (2 x 20 sekund)"
+      },
+      {
+         "dzien": "Środa (Regeneracja aktywna)",
+         "opis": "Spokojna aktywność",
+         "cel": "Redukcja zmęczenia po biegu tempowym.",
+         "aktywnosc": "Opcja 1: Rower spokojny 45-60 minut (do 20 km)\nOpcja 2: Spacer 5-7 km",
+         "cwiczenia": "Plank (3 x 30 sekund),\nWznosy bioder (2 x 12),\nWymachy nóg bokiem (2 x 10 na stronę)"
+      },
+      {
+         "dzien": "Czwartek (Fartlek Trail)",
+         "opis": "Zmiany tempa w terenie",
+         "cel": "Zwiększenie zdolności adaptacyjnych i ekonomii biegu w zmiennym terenie.",
+         "rozgrzewka": "2 km spokojnego biegu + ćwiczenia mobilizujące (skipy A, krążenia bioder).",
+         "fartlek": "8 x 1 minuta w tempie 4:00-4:20/km + 1,5 minuty spokojnego biegu.\nW terenie pofałdowanym.",
+         "chlodzenie": "2 km spokojnego biegu",
+         "stretching": "Rozciąganie bioder i tylnej taśmy (dwugłowe, pośladki).",
+         "cwiczenia": "Unoszenie kolan dynamiczne (2 x 10 na stronę),\nWykroki mobilizacyjne (2 x 8 na stronę)"
+      },
+      {
+         "dzien": "Piątek (Regeneracja aktywna / opcjonalne ćwiczenia siłowe)",
+         "opis": "Lekka aktywność lub sesja wzmacniająca w domu",
+         "cel": "Regeneracja lub wzmocnienie mięśni stabilizacyjnych.",
+         "aktywnosc": "Opcja 1: Spacer 6-8 km lub rower do 20 km.\nOpcja 2: Trening siłowy w domu.",
+         "cwiczenia": "Plank (3 x 30 sekund),\nPrzysiady (3 x 12),\nWznosy bioder (2 x 15),\nKrzesełko przy ścianie (3 x 20 sekund)"
+      },
+      {
+         "dzien": "Sobota (Siła biegowa - podbiegi)",
+         "opis": "Budowanie siły i dynamiki",
+         "cel": "Rozwój siły biegowej i zdolności do pokonywania wzniesień.",
+         "rozgrzewka": "2 km biegu + ćwiczenia dynamiczne (skipy, wieloskoki).",
+         "bieg": "8 x 1 minuta podbieg (6-10% nachylenia).\nPrzerwa: spokojny zbieg + 1 minuta odpoczynku.",
+         "chlodzenie": "2 km spokojnego biegu",
+         "stretching": "Rozciąganie czworogłowych, pośladkowych i łydek.",
+         "cwiczenia": "Unoszenie kolan stojąc (2 x 10),\nWznosy bioder (2 x 15),\nWykroki (2 x 8 na stronę)"
+      },
+      {
+         "dzien": "Niedziela (Long run w terenie)",
+         "opis": "Długi bieg trailowy",
+         "cel": "Budowanie wytrzymałości i adaptacja do wysiłku długotrwałego.",
+         "bieg": "Dystans: 22-26 km w terenie, tempo spokojne (5:45-6:15/km).\nWysokość: min. 400 m przewyższeń.",
+         "stretching": "Rozciąganie pośladków, czworogłowych i łydki."
+      }
    ]
 ]
