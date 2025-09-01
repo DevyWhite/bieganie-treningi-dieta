@@ -2454,5 +2454,62 @@
          "bieg": "Dystans: 20-24 km w terenie, tempo spokojne (5:45-6:15/km).\nWysokość: min. 300-400 m przewyższeń.",
          "stretching": "Rozciąganie pośladków, czworogłowych i łydek."
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja)",
+         "opis": "Aktywna regeneracja po weekendowym longu.",
+         "cel": "Odpoczynek po długim biegu.",
+         "aktywnosc": "Spacer 6-8 km lub lekki rower do 20 km.",
+         "cwiczenia": "Plank (3 x 30 sekund),\nWznosy bioder (2 x 12),\nRozciąganie tylnej taśmy (2 x 20 sekund na stronę)."
+      },
+      {
+         "dzien": "Wtorek (Bieg progowy – ciągiem)",
+         "opis": "Trening tempa i wytrzymałości tempowej.",
+         "cel": "Budowanie mocy progowej, praca nad oddechem i rytmem.",
+         "rozgrzewka": "3 km spokojnego biegu + skipy i przebieżki (4 x 80 m).",
+         "bieg": "6-8 km w tempie 4:35-4:45/km.",
+         "chlodzenie": "2 km spokojnie.",
+         "stretching": "Rozciąganie bioder, czworogłowych i łydek.",
+         "cwiczenia": "Plank boczny (2 x 30 sekund na stronę),\nSkip A w miejscu (2 x 20 sekund)."
+      },
+      {
+         "dzien": "Środa (Regeneracja aktywna)",
+         "opis": "Spokojna aktywność dla przyspieszenia regeneracji.",
+         "cel": "Zmniejszenie napięcia mięśniowego.",
+         "aktywnosc": "Rower spokojny 45-60 minut (15-20 km) lub spacer 5-7 km.",
+         "cwiczenia": "Wznosy bioder (2 x 15),\nWymachy nóg bokiem (2 x 10 na stronę),\nPlank (2 x 30 sekund)."
+      },
+      {
+         "dzien": "Czwartek (Fartlek Trail)",
+         "opis": "Bieg zmiennym tempem w terenie.",
+         "cel": "Poprawa ekonomii biegu w zmiennym terenie i pracy siłowej.",
+         "rozgrzewka": "2 km spokojnego biegu + mobilizacja bioder i skipy.",
+         "fartlek": "8 x 1 minuta w tempie 4:00-4:20/km + 1,5 minuty spokojnego biegu (teren pofałdowany).",
+         "chlodzenie": "2 km spokojnie.",
+         "stretching": "Rozciąganie dwugłowych, pośladków i bioder.",
+         "cwiczenia": "Wykroki chodzone (2 x 8 na stronę),\nSkip C (2 x 20 sekund)."
+      },
+      {
+         "dzien": "Piątek (Siła ogólnorozwojowa / mobilność)",
+         "opis": "Lekki trening wzmacniający w domu.",
+         "cel": "Wzmocnienie mięśni stabilizacyjnych przed longiem.",
+         "aktywnosc": "Krótki zestaw ćwiczeń w domu, 20-30 minut.",
+         "cwiczenia": "Przysiady (3 x 12),\nPlank (3 x 30 sekund),\nWznosy bioder (3 x 12),\nDeska bokiem (2 x 30 sekund na stronę),\nRozciąganie bioder i dwugłowych."
+      },
+      {
+         "dzien": "Sobota (Long run w terenie)",
+         "opis": "Długi bieg trailowy.",
+         "cel": "Budowanie bazy wytrzymałościowej.",
+         "bieg": "24-28 km w spokojnym tempie 5:45-6:15/km.\nPrzewyższenia: min. 400-500 m.",
+         "stretching": "Rozciąganie pośladków, dwugłowych i łydek."
+      },
+      {
+         "dzien": "Niedziela (Regeneracja – praca)",
+         "opis": "Odpoczynek po longu.",
+         "cel": "Pełna regeneracja mięśniowa.",
+         "aktywnosc": "Spacer 4-6 km lub totalny odpoczynek (w zależności od tego, jak zmęczy praca).",
+         "cwiczenia": "Rolowanie dwugłowych i pośladków (jeśli masz wałek) lub lekkie rozciąganie (10 minut)."
+      }
    ]
 ]
