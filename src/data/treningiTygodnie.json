@@ -2511,5 +2511,59 @@
          "aktywnosc": "Spacer 4-6 km lub totalny odpoczynek (w zależności od tego, jak zmęczy praca).",
          "cwiczenia": "Rolowanie dwugłowych i pośladków (jeśli masz wałek) lub lekkie rozciąganie (10 minut)."
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja)",
+         "opis": "Spokojny dzień po weekendzie.",
+         "cel": "Regeneracja ogólna.",
+         "aktywnosc": "Spacer 5-7 km lub lekki rower do 15 km.",
+         "cwiczenia": "Plank (2 x 30 sekund),\nRozciąganie bioder i dwugłowych (2 x 20 sekund na stronę)."
+      },
+      {
+         "dzien": "Wtorek (Bieg progowy – odcinki)",
+         "opis": "Trening tempa i kontroli oddechu.",
+         "cel": "Poprawa wytrzymałości tempowej.",
+         "rozgrzewka": "3 km spokojnego biegu + 4 przebieżki po 80 m.",
+         "bieg": "4 x 2 km w tempie 4:30–4:45/km.\nPrzerwa: 2 min truchtu.",
+         "chlodzenie": "2 km spokojnie.",
+         "stretching": "Rozciąganie bioder, czworogłowych i łydek.",
+         "cwiczenia": "Plank boczny (2 x 30 sekund na stronę),\nSkip A w miejscu (2 x 20 sekund)."
+      },
+      {
+         "dzien": "Środa (Regeneracja aktywna)",
+         "opis": "Lekki ruch przed rowerami.",
+         "cel": "Rozluźnienie nóg i przygotowanie do wysiłku.",
+         "aktywnosc": "Spacer 5-6 km lub rower spokojny do 15 km.",
+         "cwiczenia": "Wznosy bioder (2 x 15),\nWymachy nóg bokiem (2 x 10 na stronę)."
+      },
+      {
+         "dzien": "Czwartek (Rower wyjazdowy)",
+         "opis": "Trening wytrzymałości na rowerze.",
+         "cel": "Budowanie ogólnej bazy tlenowej.",
+         "aktywnosc": "50 km rowerem w terenie, tempo spokojne–umiarkowane.",
+         "stretching": "Rozciąganie czworogłowych i łydek po jeździe."
+      },
+      {
+         "dzien": "Piątek (Regeneracja w trasie)",
+         "opis": "Lekki ruch w ciągu dnia.",
+         "cel": "Utrzymanie aktywności przy minimalnym obciążeniu.",
+         "aktywnosc": "Spacer 4-6 km.",
+         "cwiczenia": "Plank (2 x 30 sekund),\nRozciąganie dwugłowych (2 x 20 sekund)."
+      },
+      {
+         "dzien": "Sobota (Rower powrót)",
+         "opis": "Druga jazda rowerowa.",
+         "cel": "Dłuższa jednostka wytrzymałościowa.",
+         "aktywnosc": "50 km rowerem, tempo spokojne–umiarkowane.",
+         "stretching": "Rozciąganie bioder i pośladków po jeździe."
+      },
+      {
+         "dzien": "Niedziela (Long run w terenie)",
+         "opis": "Dłuższy bieg trailowy.",
+         "cel": "Budowanie bazy wytrzymałościowej.",
+         "bieg": "22–26 km w terenie (tempo spokojne 5:45–6:15/km).\nPrzewyższenia: min. 400 m jeśli możliwe.",
+         "stretching": "Rozciąganie pośladków, dwugłowych i łydek."
+      }
    ]
 ]
