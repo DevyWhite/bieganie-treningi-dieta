@@ -2594,39 +2594,36 @@
          "stretching": "Rozciąganie dwugłowego z ręcznikiem (3x30 s), Rozciąganie łydek (3x20 s/strona), Glute bridge hold (3 x 20 s)."
       },
       {
-         "dzien": "Czwartek (Fartlek Trail)",
-         "opis": "Zmiany tempa w terenie",
-         "cel": "Poprawa ekonomii biegu i adaptacji do terenu.",
-         "rozgrzewka": "2 km spokojnego biegu + ćwiczenia mobilizujące.",
-         "fartlek": "8 x 1 minuta w tempie 4:00-4:20/km + 1,5 min trucht. W pofałdowanym terenie.",
-         "chlodzenie": "2 km spokojnie.",
-         "cwiczenia": "Skip C (2 x 20 s), Wykroki mobilizacyjne (2 x 8/strona).",
-         "stretching": "Rozciąganie pośladków (3x20 s/strona), Dwugłowego (3x20 s), Bioder (3x20 s)."
+         "dzien": "Czwartek (Odpoczynek / lekka aktywność)",
+         "opis": "Dzień przed ultra-longiem – pełny odpoczynek lub bardzo lekka aktywność.",
+         "cel": "Zregenerować nogi i przygotować organizm do długiego biegu.",
+         "aktywnosc": "Opcja 1: Pełen odpoczynek.\nOpcja 2: Spacer 30–40 min w spokojnym tempie.",
+         "stretching": "Delikatne rozciąganie mięśni dwugłowych, czworogłowych, pośladków i łydek.",
+         "cwiczenia": "Rolowanie 5–10 min (jeśli masz roller),\nOddechy przeponowe (3 x 1 minuta)."
       },
       {
-         "dzien": "Piątek (Regeneracja + core + stretching)",
-         "opis": "Odpoczynek aktywny z elementami core.",
-         "cel": "Wzmocnienie mięśni stabilizacyjnych i rozciąganie.",
-         "aktywnosc": "Spacer 6-8 km lub rower do 20 km.",
-         "cwiczenia": "Plank (3 x 30 s), Przysiady (3 x 12), Wznosy bioder (2 x 15).",
-         "stretching": "Rozciąganie dwugłowego (z ręcznikiem, 3x30 s), Pośladków (3x20 s), Łydki (3x20 s/strona)."
+         "dzien": "Piątek (Projekt biegowy – Centralny Szlak Roztocza)",
+         "opis": "Bieg ultra-long ok. 54 km",
+         "cel": "Dokończenie projektu biegowego i rozwój wytrzymałości ekstremalnej.",
+         "bieg": "Dystans: ok. 54 km w terenie.\nTempo: kontrolowane, spokojne, zgodnie z odczuciami.\nPriorytet: utrzymanie energii i nawodnienia.",
+         "stretching": "Po biegu – pełna sesja rozciągania (dwugłowe, czworogłowe, łydki, pośladki, biodra).",
+         "cwiczenia": "Rolowanie całego ciała (10–15 min),\nPlank lekki (2 x 20 sekund) – tylko jeśli nie czujesz zmęczenia."
       },
       {
-         "dzien": "Sobota (Siła biegowa - podbiegi)",
-         "opis": "Budowanie siły biegowej",
-         "cel": "Poprawa siły i dynamiki na podbiegach.",
-         "rozgrzewka": "2 km spokojnego biegu + skipy, wieloskoki.",
-         "bieg": "8 x 1 minuta mocny podbieg (6-10% nachylenia). Przerwa: zbieg + 1 min marszu.",
-         "chlodzenie": "2 km spokojnie.",
-         "cwiczenia": "Unoszenie kolan w marszu (2 x 10/strona), Wykroki (2 x 8/strona).",
-         "stretching": "Rozciąganie czworogłowych (3x20 s/strona), Dwugłowego (3x20 s/strona), Pośladków (3x20 s/strona)."
+         "dzien": "Sobota (Regeneracja aktywna)",
+         "opis": "Odpoczynek po ultra-longu.",
+         "cel": "Ułatwić regenerację mięśni i układu nerwowego.",
+         "aktywnosc": "Opcja 1: Spacer 5–6 km w spokojnym tempie.\nOpcja 2: Bardzo lekki rower (do 40 min, płasko).",
+         "stretching": "Delikatne rozciąganie bioder, pośladków i dwugłowych.",
+         "cwiczenia": "Rolowanie nóg (10 min),\nĆwiczenia oddechowe (3 x 1 minuta)."
       },
       {
-         "dzien": "Niedziela (Long run w terenie)",
-         "opis": "Długi bieg trailowy",
-         "cel": "Budowanie wytrzymałości ogólnej.",
-         "bieg": "22-26 km w spokojnym tempie (5:45-6:15/km) z minimum 400 m przewyższeń.",
-         "stretching": "Rozciąganie całej tylnej taśmy: dwugłowe (3x30 s), pośladki (3x30 s), łydki (3x30 s)."
+         "dzien": "Niedziela (Opcjonalny trucht / regeneracja)",
+         "opis": "Lekkie rozruszanie po ciężkim wysiłku.",
+         "cel": "Przywrócić lekkość nóg i poprawić krążenie.",
+         "bieg": "Opcja 1: 30–40 min bardzo spokojnego truchtu (jeśli czujesz się dobrze).\nOpcja 2: Spacer 6–8 km lub rower rekreacyjny do 60 min.",
+         "stretching": "Pełne rozciąganie całego ciała po aktywności.",
+         "cwiczenia": "Mostek biodrowy (2 x 12),\nWznosy nóg w bok (2 x 10 na stronę),\nPlank (2 x 20 sekund)."
       }
    ]
 ]
