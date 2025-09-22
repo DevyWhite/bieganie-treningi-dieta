@@ -2625,5 +2625,67 @@
          "stretching": "Pełne rozciąganie całego ciała po aktywności.",
          "cwiczenia": "Mostek biodrowy (2 x 12),\nWznosy nóg w bok (2 x 10 na stronę),\nPlank (2 x 20 sekund)."
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja)",
+         "opis": "Pełen odpoczynek po projekcie biegowym.",
+         "cel": "Zregenerować organizm po ultra-długim wysiłku.",
+         "aktywnosc": "Spacer 3-5 km w spokojnym tempie lub pełen odpoczynek.",
+         "stretching": "Delikatne rozciąganie tyłu uda, bioder i łydek.",
+         "cwiczenia": "Rolowanie nóg (5-10 minut)."
+      },
+      {
+         "dzien": "Wtorek (Lekki bieg)",
+         "opis": "Pierwsze rozruszanie nóg po ultra.",
+         "cel": "Poprawa krążenia i lekkie pobudzenie mięśni.",
+         "bieg": "6-8 km spokojnego truchtu (tempo >6:00/km, całkowicie na luzie).",
+         "stretching": "Rozciąganie bioder, pośladków i dwugłowych.",
+         "cwiczenia": "Mostek biodrowy (2 x 12),\nPlank (2 x 20 sekund)."
+      },
+      {
+         "dzien": "Środa (Regeneracja aktywna)",
+         "opis": "Rower lub spacer.",
+         "cel": "Odciążenie nóg i regeneracja układu nerwowego.",
+         "aktywnosc": "Opcja 1: Rower 45–60 min spokojnym tempem.\nOpcja 2: Spacer 6–8 km.",
+         "stretching": "Delikatne rozciąganie całego ciała.",
+         "cwiczenia": "Wznosy nóg w bok (2 x 10 na stronę),\nKrzesełko przy ścianie (2 x 20 sekund)."
+      },
+      {
+         "dzien": "Czwartek (Bieg progowy – ciągły, lekki)",
+         "opis": "Delikatny akcent tempowy, żeby pobudzić organizm.",
+         "cel": "Utrzymanie kontaktu z tempem progowym, ale bez przeciążenia.",
+         "rozgrzewka": "2 km spokojnego biegu + skipy A, wymachy.",
+         "bieg": "4–5 km w tempie ok. 4:40–4:50/km (komfortowe odczucie).",
+         "chlodzenie": "2 km spokojnie.",
+         "stretching": "Rozciąganie bioder, czworogłowych i łydek.",
+         "cwiczenia": "Plank boczny (2 x 30 sekund na stronę)."
+      },
+      {
+         "dzien": "Piątek (Regeneracja aktywna)",
+         "opis": "Lekkie poruszenie nóg.",
+         "cel": "Odpoczynek po akcentach i przygotowanie do weekendu.",
+         "aktywnosc": "Spacer 5–6 km lub rower 30–40 minut spokojnie.",
+         "stretching": "Rozciąganie tylnej taśmy (dwugłowe, pośladki).",
+         "cwiczenia": "Rolowanie nóg (5–10 minut)."
+      },
+      {
+         "dzien": "Sobota (Bieg w terenie – fartlek lekki)",
+         "opis": "Zmiany tempa na miękkim podłożu.",
+         "cel": "Pobudzenie nóg i poprawa dynamiki.",
+         "rozgrzewka": "2 km spokojnego biegu + skipy A.",
+         "fartlek": "6 x 1 minuta w tempie ~4:20/km + 2 min spokojnego biegu.",
+         "chlodzenie": "2 km spokojnie.",
+         "stretching": "Rozciąganie pośladków i bioder.",
+         "cwiczenia": "Wznosy bioder (2 x 12),\nPrzysiady (2 x 12)."
+      },
+      {
+         "dzien": "Niedziela (Long easy run)",
+         "opis": "Spokojny dłuższy bieg.",
+         "cel": "Stopniowy powrót do objętości.",
+         "bieg": "16–20 km w spokojnym tempie (ok. 5:45–6:15/km), bez ciśnienia.",
+         "stretching": "Rozciąganie całego ciała po biegu.",
+         "cwiczenia": "Plank (3 x 20 sekund),\nWznosy nóg w bok (2 x 10 na stronę)."
+      }
    ]
 ]
