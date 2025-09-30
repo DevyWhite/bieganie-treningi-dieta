@@ -2687,5 +2687,64 @@
          "stretching": "Rozciąganie całego ciała po biegu.",
          "cwiczenia": "Plank (3 x 20 sekund),\nWznosy nóg w bok (2 x 10 na stronę)."
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja)",
+         "opis": "Aktywna regeneracja po weekendzie",
+         "cel": "Odpoczynek i lekkie rozruszanie nóg.",
+         "aktywnosc": "Spacer 5-7 km lub lekki rower 45 minut.",
+         "cwiczenia": "Plank (3 x 30 sekund),\nMostek biodrowy (2 x 12),\nUnoszenie nóg w bok (2 x 10 na stronę)"
+      },
+      {
+         "dzien": "Wtorek (Regeneracja – przesunięcie treningu)",
+         "opis": "Zmęczenie dwugłowego i uda – odpuszczamy bieg progowy.",
+         "cel": "Regeneracja mięśniowa i odciążenie nóg.",
+         "aktywnosc": "Spacer 5-6 km lub rower lajtowy 40 minut.",
+         "stretching": "Rolowanie dwugłowych i pośladków, rozciąganie tyłu uda (3 x 30 sekund na nogę).",
+         "cwiczenia": "Ćwiczenia mobilności bioder (krążenia – 2 x 8/strona),\nDynamiczny stretching dwugłowych (2 x 8 powtórzeń)."
+      },
+      {
+         "dzien": "Środa (Core + mobilność)",
+         "opis": "Lekka praca nad stabilizacją i mobilnością.",
+         "cel": "Wzmocnienie core bez dużego obciążania nóg.",
+         "aktywnosc": "10 minut mobilizacji (biodra, kręgosłup, barki).",
+         "cwiczenia": "Plank boczny (2 x 30 sekund/strona),\nBird-dog (3 x 10 na stronę),\nDead bug (3 x 10 na stronę),\nStretching dwugłowych i przywodzicieli (3 x 20 sekund/pozycja)."
+      },
+      {
+         "dzien": "Czwartek (Bieg progowy – ciągły)",
+         "opis": "Trening tempa i wytrzymałości.",
+         "cel": "Poprawa wytrzymałości tempowej i ekonomii biegu.",
+         "rozgrzewka": "3 km spokojnego biegu + skip A (2 x 20 m), krążenia bioder.",
+         "bieg": "6–8 km w tempie 4:40–4:50/km.",
+         "chlodzenie": "2 km spokojnie.",
+         "stretching": "Rozciąganie bioder, czworogłowych i łydek (3 x 20 sekund/mięsień).",
+         "cwiczenia": "Wznosy bioder (2 x 12),\nUnoszenie kolan w miejscu (2 x 20),\nPlank (2 x 30 sekund)."
+      },
+      {
+         "dzien": "Piątek (Regeneracja aktywna)",
+         "opis": "Spokojna aktywność i ćwiczenia odciążające.",
+         "cel": "Utrzymanie aktywności bez obciążania nóg.",
+         "aktywnosc": "Spacer 5 km lub rower do 15 km w bardzo spokojnym tempie.",
+         "cwiczenia": "Rozciąganie całego tyłu ciała (dwugłowe, pośladki, plecy – po 3 x 20 sekund),\nKoci grzbiet (3 x 6 powtórzeń),\nRotacje tułowia w klęku podpartym (2 x 10 na stronę)."
+      },
+      {
+         "dzien": "Sobota (Siła biegowa – podbiegi)",
+         "opis": "Budowanie siły i dynamiki, ale w wersji skróconej.",
+         "cel": "Rozwój siły biegowej bez przeciążania mięśni.",
+         "rozgrzewka": "2 km spokojnego biegu + skipy A i C (2 x 20 m).",
+         "bieg": "6 x 1 minuta podbieg (nachylenie 6–8%).\nPrzerwa: spokojny zbieg + 1 minuta odpoczynku.",
+         "chlodzenie": "2 km spokojnie.",
+         "stretching": "Rozciąganie pośladków, łydek i dwugłowych (3 x 20 sekund/mięsień).",
+         "cwiczenia": "Wykroki (2 x 10/strona),\nPlank boczny (2 x 30 sekund/strona)."
+      },
+      {
+         "dzien": "Niedziela (Long run w terenie – skrócony jeśli zmęczenie zostanie)",
+         "opis": "Dłuższy spokojny bieg.",
+         "cel": "Budowanie wytrzymałości i adaptacja do biegania w terenie.",
+         "bieg": "Dystans: 18–22 km w terenie, tempo spokojne 5:45–6:15/km.\nJeśli czujesz duże zmęczenie dwugłowego – skróć do 16 km.",
+         "stretching": "Rozciąganie pośladków, dwugłowych i czworogłowych (3 x 25 sekund/mięsień).",
+         "cwiczenia": "Mostek biodrowy (2 x 12),\nWznosy nóg w bok (2 x 10/strona)."
+      }
    ]
 ]
