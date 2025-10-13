@@ -2746,5 +2746,150 @@
          "stretching": "Rozciąganie pośladków, dwugłowych i czworogłowych (3 x 25 sekund/mięsień).",
          "cwiczenia": "Mostek biodrowy (2 x 12),\nWznosy nóg w bok (2 x 10/strona)."
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja i mobilizacja)",
+         "opis": "Odpoczynek od biegania, praca nad stabilizacją kolana.",
+         "cwiczenia": [
+            "Mostek biodrowy – 3 x 15",
+            "Clamshell (muszelka) – 3 x 12 na stronę",
+            "Wznosy nogi w bok w leżeniu – 2 x 12 na stronę",
+            "Stretching tylnej taśmy – 3 x 30 sek na nogę",
+            "Rozciąganie IT band – 3 x 30 sek",
+            "Rozciąganie czworogłowego – 3 x 30 sek na nogę",
+            "Plank – 3 x 30 sek",
+            "Plank boczny – 2 x 25 sek na stronę"
+         ],
+         "komentarz": "Skupienie na regeneracji i odciążeniu kolan."
+      },
+      {
+         "dzien": "Wtorek (Stabilizacja i mobilność)",
+         "opis": "Kontynuacja ćwiczeń wspomagających kolana.",
+         "cwiczenia": [
+            "Mostek biodrowy – 3 x 15",
+            "Clamshell – 3 x 12 na stronę",
+            "Rozciąganie tylnej taśmy – 3 x 30 sek",
+            "Stretching bioder i pośladków – 3 x 30 sek",
+            "Plank boczny – 2 x 25 sek na stronę"
+         ],
+         "komentarz": "Lekka sesja bez obciążania stawu kolanowego."
+      },
+      {
+         "dzien": "Środa (Mobilizacja + core)",
+         "opis": "Regeneracja aktywna z naciskiem na korpus.",
+         "aktywnosc": "Spacer 5-7 km w spokojnym tempie.",
+         "cwiczenia": [
+            "Plank – 3 x 30 sek",
+            "Bird dog – 3 x 10 na stronę",
+            "Stretching bioder, dwugłowych i łydek – 3 x 30 sek"
+         ]
+      },
+      {
+         "dzien": "Czwartek (Delikatna siła + mobilność)",
+         "opis": "Utrzymanie aktywacji mięśni stabilizujących bez przeciążenia.",
+         "cwiczenia": [
+            "Wznosy bioder – 3 x 15",
+            "Wykroki w miejscu – 2 x 8 na stronę (jeśli brak bólu)",
+            "Clamshell – 3 x 12 na stronę",
+            "Rozciąganie IT band i dwugłowych – 3 x 30 sek"
+         ]
+      },
+      {
+         "dzien": "Piątek (Regeneracja)",
+         "opis": "Pełny odpoczynek lub spacer 5-6 km.",
+         "komentarz": "Dzień luzu, bez presji treningowej."
+      },
+      {
+         "dzien": "Sobota (Stabilizacja + core)",
+         "opis": "Lekka sesja wzmacniająca.",
+         "cwiczenia": [
+            "Mostek biodrowy – 3 x 15",
+            "Plank – 3 x 30 sek",
+            "Side plank – 2 x 25 sek na stronę",
+            "Stretching czworogłowych i bioder – 3 x 30 sek"
+         ]
+      },
+      {
+         "dzien": "Niedziela (Regeneracja)",
+         "opis": "Odpoczynek, spacer, ewentualnie lekkie rozciąganie.",
+         "aktywnosc": "Spacer 4-6 km + stretching ogólny 15 min"
+      }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja + mobilność)",
+         "opis": "Odpoczynek i rozluźnienie po ostatnich tygodniach.",
+         "cel": "Zredukować napięcia w nogach i wspomóc regenerację kolana.",
+         "aktywnosc": "Spacer 3–5 km w spokojnym tempie lub 30 minut bardzo lekkiego roweru stacjonarnego (jeśli masz dostęp).",
+         "cwiczenia": [
+            "Koci grzbiet (3 x 10 powtórzeń)",
+            "Krążenia bioder (2 x 10 na stronę)",
+            "Stretching tylnej taśmy nóg – 3 x 30 sekund na nogę",
+            "Pozycja gołębia (2 x 30 sekund na stronę)"
+         ]
+      },
+      {
+         "dzien": "Wtorek (Stabilizacja i mobilność kolana)",
+         "opis": "Delikatne wzmacnianie i praca nad stabilnością stawu kolanowego.",
+         "cel": "Poprawić równowagę mięśniową i elastyczność wokół kolana.",
+         "aktywnosc": "Ćwiczenia w domu, spokojne tempo, pełna kontrola ruchu.",
+         "cwiczenia": [
+            "Wznosy bioder (3 x 12 powtórzeń)",
+            "Clamshell (muszle) – 3 x 15 na stronę",
+            "Mostek na jednej nodze (2 x 8 na stronę)",
+            "Unoszenie nóg w leżeniu bokiem (2 x 10 na stronę)",
+            "Rolowanie pośladków i dwugłowych (jeśli masz wałek) – 3–5 minut"
+         ]
+      },
+      {
+         "dzien": "Środa (Stretching całego ciała)",
+         "opis": "Skupienie na rozciąganiu i przywracaniu pełnego zakresu ruchu.",
+         "cel": "Zwiększyć elastyczność i poprawić regenerację mięśniową.",
+         "aktywnosc": "Krótka sesja stretchingu lub jogi – 25–30 minut.",
+         "cwiczenia": [
+            "Pozycja dziecka – 2 x 30 sekund",
+            "Skłon w siadzie prostym – 3 x 30 sekund",
+            "Rozciąganie czworogłowych – 2 x 30 sekund na stronę",
+            "Pozycja gołębia – 2 x 30 sekund na stronę",
+            "Rozciąganie łydek – 2 x 30 sekund na stronę"
+         ]
+      },
+      {
+         "dzien": "Czwartek (Lekki bieg lub spacer)",
+         "opis": "Pierwszy powrót do biegania – tylko jeśli czujesz się w pełni zdrowy.",
+         "cel": "Sprawdzić reakcję organizmu i kolana na lekki wysiłek.",
+         "bieg": "5–7 km w tempie easy (ok. 6:00–6:30/km). Jeśli nie czujesz się pewnie, zrób 40–60 minut spokojnego marszu.",
+         "stretching": "Po biegu: rozciąganie dwugłowych, pośladków i łydek (3 x 30 sekund na grupę)."
+      },
+      {
+         "dzien": "Piątek (Wzmacnianie core i bioder)",
+         "opis": "Ćwiczenia stabilizacyjne i ogólnowzmacniające.",
+         "cel": "Wzmocnić gorset mięśniowy i wspomóc kolana.",
+         "cwiczenia": [
+            "Plank (3 x 30 sekund)",
+            "Plank boczny (2 x 25 sekund na stronę)",
+            "Wykroki w miejscu (2 x 10 na stronę)",
+            "Unoszenie bioder (3 x 12)",
+            "Mostek na jednej nodze (2 x 8 na stronę)"
+         ]
+      },
+      {
+         "dzien": "Sobota (Ruch i regeneracja)",
+         "opis": "Aktywność swobodna i regeneracyjna.",
+         "cel": "Utrzymać delikatny ruch i wspomóc regenerację.",
+         "aktywnosc": "Spacer 5–7 km, lekkie rozciąganie po powrocie.",
+         "cwiczenia": [
+            "Koci grzbiet (3 x 10)",
+            "Krążenia bioder (2 x 10)",
+            "Stretching łydek i pośladków – 2 x 30 sekund"
+         ]
+      },
+      {
+         "dzien": "Niedziela (Odpoczynek lub lekki ruch)",
+         "opis": "Pełna regeneracja lub bardzo lekki ruch – zależnie od samopoczucia.",
+         "cel": "Pozwolić organizmowi w pełni się zregenerować.",
+         "aktywnosc": "Spacer 3–5 km lub spokojny stretching całego ciała 20 minut."
+      }
    ]
 ]
