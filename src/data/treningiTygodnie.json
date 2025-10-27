@@ -2880,5 +2880,60 @@
          "cel": "Podtrzymanie aktywności mięśni stabilizujących i regeneracja po tygodniu.",
          "cwiczenia": "Plank (3 x 30 sekund),\nBird-dog (3 x 10 na stronę),\nWznosy bioder (2 x 15),\nRolowanie tylnej taśmy (3 minuty),\nRozciąganie pośladków, dwugłowych i łydek."
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Ciepło + mobilność)",
+         "opis": "Początek tygodnia z naciskiem na poprawę ukrwienia i delikatne uruchomienie uda.",
+         "cel": "Zwiększenie krążenia w mięśniu dwugłowym uda i rozluźnienie tylnej taśmy.",
+         "aktywnosc": "Ciepły okład lub plaster rozgrzewający na tylne udo przez 6–8h (unikać bezpośredniego kontaktu z ścięgnem pod kolanem).",
+         "cwiczenia": "Krążenia bioder (3 x 15 w każdą stronę),\nKoci grzbiet (3 x 10 powtórzeń),\nUnoszenie nóg w leżeniu tyłem (2 x 10 powoli),\nIzometria dwugłowego: w leżeniu na brzuchu dociśnij piętę do podłoża na 5 sekund, 5 powtórzeń na nogę.",
+         "stretching": "Bardzo delikatne rozciąganie dwugłowego – 3 serie po 20 sek, bez bólu."
+      },
+      {
+         "dzien": "Wtorek (Core + aktywacja pośladków)",
+         "opis": "Wzmocnienie mięśni głębokich bez obciążania dwugłowego uda.",
+         "cel": "Poprawa stabilizacji miednicy i odciążenie tylnej taśmy.",
+         "cwiczenia": "Plank (3 x 30 sekund),\nBird-dog (3 x 10 na stronę),\nWznosy bioder (3 x 12, powoli w górę i dół),\nClamshell z gumą mini-band (3 x 10 na stronę),\nDead Bug (3 x 8 powtórzeń).",
+         "stretching": "Pośladki, biodra i dolny grzbiet – 3 serie po 20–30 sekund."
+      },
+      {
+         "dzien": "Środa (Mobilność i rolowanie)",
+         "opis": "Aktywny odpoczynek z naciskiem na mobilizację tkanek i krążenie.",
+         "cel": "Utrzymanie elastyczności i poprawa regeneracji.",
+         "aktywnosc": "Spacer 4–6 km w spokojnym tempie.",
+         "cwiczenia": "Rolowanie dwugłowego uda (2–3 min, średni nacisk),\nRolowanie pośladków (2 min na stronę),\nKoci grzbiet i krążenia bioder (2 x 10).",
+         "stretching": "Tył uda i pośladki po rolowaniu – delikatnie, 3 x 20 sek."
+      },
+      {
+         "dzien": "Czwartek (Izometria + lekkie wzmacnianie)",
+         "opis": "Wzmacnianie mięśni uda i pośladków bez bólu.",
+         "cel": "Przywrócenie siły izometrycznej i elastyczności mięśnia dwugłowego.",
+         "cwiczenia": "Izometria dwugłowego: pięta dociskana do podłoża (3 x 6 powtórzeń po 5 sekund),\nMostek biodrowy (3 x 12),\nWznosy bioder na jednej nodze (2 x 8, jeśli bez bólu),\nPlank boczny (2 x 30 sek na stronę).",
+         "stretching": "Pośladki i tylna taśma 3 x 20 sek,\nCiepły okład po ćwiczeniach przez 15–20 min."
+      },
+      {
+         "dzien": "Piątek (Mobilność + ciepło)",
+         "opis": "Dzień regeneracyjny i rozluźniający.",
+         "cel": "Zwiększenie przepływu krwi i rozluźnienie mięśnia.",
+         "aktywnosc": "Ciepły okład lub plaster rozgrzewający na tylne udo przez 6–8h.",
+         "cwiczenia": "Lekka mobilizacja bioder (3 x 10),\nKoci grzbiet (3 x 10),\nRolowanie dwugłowego i pośladków (3–4 min).",
+         "stretching": "Delikatne rozciąganie tylnej taśmy, bez bólu."
+      },
+      {
+         "dzien": "Sobota (Core + pośladki)",
+         "opis": "Utrzymanie siły centrum i aktywacja bioder.",
+         "cel": "Utrzymanie stabilizacji i równowagi mięśniowej.",
+         "cwiczenia": "Plank (3 x 30 sek),\nBird-dog (3 x 8),\nClamshell (3 x 12),\nWznosy bioder (3 x 12),\nDead Bug (3 x 8).",
+         "stretching": "Pośladki, biodra, tył uda (3 serie po 20 sek)."
+      },
+      {
+         "dzien": "Niedziela (Regeneracja i ocena postępów)",
+         "opis": "Dzień odpoczynku i obserwacji reakcji uda.",
+         "cel": "Ocena, czy można stopniowo wracać do lekkiej aktywności w przyszłym tygodniu.",
+         "aktywnosc": "Spacer 5–6 km, tempo konwersacyjne.",
+         "cwiczenia": "Ćwiczenia oddechowe (5 minut),\nRolowanie tyłu uda (2–3 min, lekki nacisk).",
+         "stretching": "Delikatne rozciąganie całych nóg i pośladków."
+      }
    ]
 ]
