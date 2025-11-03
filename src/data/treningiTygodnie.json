@@ -2935,5 +2935,63 @@
          "cwiczenia": "Ćwiczenia oddechowe (5 minut),\nRolowanie tyłu uda (2–3 min, lekki nacisk).",
          "stretching": "Delikatne rozciąganie całych nóg i pośladków."
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Aktywizacja + stabilizacja)",
+         "opis": "Kontynuacja pracy izometrycznej i dodanie ćwiczeń kontrolujących miednicę oraz pierwszych ruchów ekscentrycznych w niskim zakresie.",
+         "cel": "Wzmocnienie mięśnia dwugłowego i pośladków, poprawa stabilizacji bez bólu.",
+         "aktywnosc": "Rozgrzewka: marsz + wymachy nóg (10 min).",
+         "cwiczenia": "Izometria leżąca (3 x 6 powt. x 5 s napięcia),\nMost biodrowy jednostronny (3 x 8 na stronę),\nWykrok statyczny (3 x 10 na stronę, tempo 3 s dół / 2 s góra),\nBird-dog (3 x 8 na stronę),\nPlank (2 x 30 sekund).",
+         "stretching": "Rozciąganie tylnej taśmy 3 x 20 sekund na nogę, ciepły prysznic lub plaster rozgrzewający wieczorem."
+      },
+      {
+         "dzien": "Wtorek (Mobilność + spacer)",
+         "opis": "Utrzymanie ruchu poprzez spacer i lekka mobilizacja bioder oraz pośladków.",
+         "cel": "Poprawa krążenia, mobilności i regeneracji mięśni uda.",
+         "aktywnosc": "Spacer terenowy 40–60 minut w spokojnym tempie.",
+         "cwiczenia": "Krążenia bioder (3 x 15),\nClamshell (3 x 15),\nKoci grzbiet (2 x 10).",
+         "stretching": "Rozciąganie bioder i pośladków 3 x 20 sekund."
+      },
+      {
+         "dzien": "Środa (Siła + ekscentryka)",
+         "opis": "Bezpieczne wprowadzenie ćwiczeń ekscentrycznych i lekkiej siły.",
+         "cel": "Zwiększenie odporności mięśnia dwugłowego na wydłużanie pod napięciem.",
+         "aktywnosc": "Rozgrzewka: marsz + glute bridge (10 min).",
+         "cwiczenia": "Hamstring slide (3 x 6) lub Nordic hamstring asystowany (2 x 4–5),\nDeadlift z gumą lub lekkim ciężarem (3 x 8),\nMost biodrowy z zatrzymaniem na górze 3 sekundy (3 x 10),\nBird-dog (3 x 8),\nSide plank (2 x 20 sekund na stronę).",
+         "stretching": "Rozciąganie tylnej taśmy 3 x 20 sekund, lekkie rolowanie 2–3 minuty."
+      },
+      {
+         "dzien": "Czwartek (Regeneracja aktywna)",
+         "opis": "Dzień skupiony na regeneracji i utrzymaniu elastyczności mięśni.",
+         "cel": "Zwiększenie przepływu krwi i redukcja napięcia mięśniowego.",
+         "aktywnosc": "Spokojny spacer lub basen 30–45 minut.",
+         "cwiczenia": "Lekka mobilność bioder i grzbietu 10 minut.",
+         "stretching": "Rozciąganie całego ciała 10–15 minut, kąpiel ciepła lub plaster rozgrzewający wieczorem."
+      },
+      {
+         "dzien": "Piątek (Odpoczynek pełny)",
+         "opis": "Dzień bez treningu, tylko rutynowa mobilizacja bioder.",
+         "cel": "Regeneracja układu mięśniowego i nerwowego.",
+         "aktywnosc": "Brak treningu.",
+         "cwiczenia": "Mobilizacja bioder 5–10 minut (krążenia, delikatne ruchy).",
+         "stretching": "Brak obowiązkowy – tylko jeśli czujesz sztywność (3 x 20 sekund)."
+      },
+      {
+         "dzien": "Sobota (Propriocepcja + pośladki)",
+         "opis": "Wzmacnianie pośladków i nauka kontroli ruchu kończyny na jednej nodze.",
+         "cel": "Poprawa stabilizacji, równowagi i pracy pośladków wspomagających dwugłowy.",
+         "aktywnosc": "Rozgrzewka: marsz + wymachy nóg (10 min).",
+         "cwiczenia": "Most biodrowy jednostronny (3 x 10),\nWykrok boczny (3 x 8 na stronę),\nClamshell z gumą (3 x 15),\nStanie na jednej nodze z zamkniętymi oczami (3 x 30 sekund na stronę).",
+         "stretching": "Rozciąganie pośladków, bioder i tylnej taśmy 3 x 20 sekund."
+      },
+      {
+         "dzien": "Niedziela (Luźny terenowy spacer)",
+         "opis": "Spokojna aktywność w terenie leśnym dla poprawy krążenia i stabilizacji.",
+         "cel": "Zwiększenie tolerancji na wysiłek bez bólu, przygotowanie do kolejnego etapu.",
+         "aktywnosc": "Spacer terenowy 5–8 km w lekkim terenie, opcjonalnie z lekkim plecakiem (2–3 kg).",
+         "cwiczenia": "Brak dodatkowych ćwiczeń – tylko rozciąganie po spacerze.",
+         "stretching": "Rozciąganie pośladków, dwugłowych i łydek 3 x 20 sekund."
+      }
    ]
 ]
