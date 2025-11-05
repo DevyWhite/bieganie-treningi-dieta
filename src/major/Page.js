@@ -22,6 +22,7 @@ import Core from "../pages/Core";
 import Stretching from "../pages/Stretching";
 import Injury from "../pages/Injury";
 import Mobilizacja from "../pages/Mobilizacja";
+import About from "../pages/About";
 
 const Page = () => {
    return (
@@ -37,6 +38,9 @@ const Page = () => {
          <Route path='/apteczka' element={<Apteczka />} />
          <Route path='/zawody-biegowe' element={<ZawodyBiegowe />} />
          <Route path='/trasy-biegowe' element={<TrasyBiegowe />} />
+
+         {/* strona o mnie */}
+         <Route path='/o-mnie' element={<About />} />
 
          {/* Strona główna dla listy przepisów */}
          <Route path='/przepisy' element={<Przepisy />} />

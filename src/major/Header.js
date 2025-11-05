@@ -7,7 +7,7 @@ import img3 from "../images/heder/runer2.jpeg";
 
 // Lista komponentów
 const list = [
-   { name: "Witaj na stronie!", path: "/" },
+   { name: "Trail w dzień, debug w nocy", path: "/" },
    { name: "Plan Treningowy", path: "/treningi" },
    { name: "Dieta", path: "/dieta" },
    { name: "Przepisy", path: "/przepisy" },
@@ -43,7 +43,7 @@ const Header = () => {
       }
 
       const currentItem = list.find((item) => item.path === location.pathname);
-      return currentItem ? currentItem.name : "Witaj na stronie!";
+      return currentItem ? currentItem.name : "Trail w dzień, debug w nocy";
    };
 
    return (

@@ -3,14 +3,15 @@ import { NavLink } from "react-router-dom";
 import "../styles/Navigation.css";
 
 const list = [
-   { name: "start", path: "/" },
-   { name: "plan treningowy", path: "/treningi" },
-   { name: "ćwiczenia", path: "/cwiczenia" },
-   { name: "dieta", path: "/dieta" },
-   { name: "przepisy", path: "/przepisy" },
-   { name: "zawody", path: "/zawody-biegowe" },
-   { name: "trasy", path: "/trasy-biegowe" },
-   { name: "apteczka", path: "/apteczka" },
+   { name: "Start", path: "/" },
+   { name: "Plan treningowy", path: "/treningi" },
+   { name: "Ćwiczenia", path: "/cwiczenia" },
+   { name: "Dieta", path: "/dieta" },
+   { name: "Przepisy", path: "/przepisy" },
+   { name: "Zawody", path: "/zawody-biegowe" },
+   { name: "Trasy", path: "/trasy-biegowe" },
+   { name: "Apteczka", path: "/apteczka" },
+   { name: "O mnie", path: "/o-mnie" },
 ];
 
 const Navigation = () => {
