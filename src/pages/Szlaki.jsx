@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from "react";
-import trailsData from "../data/trasyBiegowe.json";
+import trailsData from "../data/szlaki.json";
 import { Accordion, Button, Container } from "react-bootstrap";
-import "../styles/trasyBiegowe.css";
+import "../styles/Szlaki.css";
 
-const TrasyBiegowe = () => {
+const Szlaki = () => {
    const [trails, setTrails] = useState([]);
 
    useEffect(() => {
@@ -68,4 +68,4 @@ const TrasyBiegowe = () => {
    );
 };
 
-export default TrasyBiegowe;
+export default Szlaki;

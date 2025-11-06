@@ -1,7 +1,7 @@
 import React from "react";
 import MedicalSuppliesList from "./MedicalSuppliesList";
 
-const Apteczka = () => {
+const Zdrowie = () => {
    return (
       <div>
          <h1>Apteczka Biegacza</h1>
@@ -10,4 +10,4 @@ const Apteczka = () => {
    );
 };
 
-export default Apteczka;
+export default Zdrowie;

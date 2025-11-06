@@ -8,11 +8,11 @@ import ErrorPage from "../pages/ErrorPage";
 // import LoginPage from "../pages/LoginPage";
 
 import Treningi from "../pages/Treningi";
-import Dieta from "../pages/Dieta";
+import Projekty from "../pages/Projekty";
 import Przepisy from "../pages/Przepisy";
-import Apteczka from "../pages/Apteczka";
+import Zdrowie from "../pages/Zdrowie";
 import ZawodyBiegowe from "../pages/ZawodyBiegowe";
-import TrasyBiegowe from "../pages/TrasyBiegowe";
+import Szlaki from "../pages/Szlaki";
 
 import RecipePage from "../pages/RecipePage";
 import ArticlePage from "../pages/ArticlePage";
@@ -34,10 +34,10 @@ const Page = () => {
          {/* <Route path='/login' element={<LoginPage />} /> */}
 
          <Route path='/treningi' element={<Treningi />} />
-         <Route path='/dieta' element={<Dieta />} />
-         <Route path='/apteczka' element={<Apteczka />} />
+         <Route path='/projekty' element={<Projekty />} />
+         <Route path='/zdrowie' element={<Zdrowie />} />
          <Route path='/zawody-biegowe' element={<ZawodyBiegowe />} />
-         <Route path='/trasy-biegowe' element={<TrasyBiegowe />} />
+         <Route path='/szlaki' element={<Szlaki />} />
 
          {/* strona o mnie */}
          <Route path='/o-mnie' element={<About />} />

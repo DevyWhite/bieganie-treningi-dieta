@@ -3,14 +3,14 @@ import { NavLink } from "react-router-dom";
 import "../styles/Navigation.css";
 
 const list = [
-   { name: "Start", path: "/" },
-   { name: "Plan treningowy", path: "/treningi" },
+   { name: "Home", path: "/" },
+   { name: "Trening", path: "/treningi" },
    { name: "Ćwiczenia", path: "/cwiczenia" },
-   { name: "Dieta", path: "/dieta" },
+   { name: "Zdrowie", path: "/zdrowie" },
    { name: "Przepisy", path: "/przepisy" },
+   { name: "Szlaki", path: "/szlaki" },
+   { name: "Projekty", path: "/projekty" },
    { name: "Zawody", path: "/zawody-biegowe" },
-   { name: "Trasy", path: "/trasy-biegowe" },
-   { name: "Apteczka", path: "/apteczka" },
    { name: "O mnie", path: "/o-mnie" },
 ];
 

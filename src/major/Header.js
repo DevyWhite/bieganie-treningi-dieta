@@ -9,11 +9,11 @@ import img3 from "../images/heder/runer2.jpeg";
 const list = [
    { name: "Trail w dzień, debug w nocy", path: "/" },
    { name: "Plan Treningowy", path: "/treningi" },
-   { name: "Dieta", path: "/dieta" },
+   { name: "Projekty", path: "/projekty" },
    { name: "Przepisy", path: "/przepisy" },
    { name: "Zawody", path: "/zawody-biegowe" },
-   { name: "Trasy", path: "/trasy-biegowe" },
-   { name: "Apteczka", path: "/" },
+   { name: "Szlaki", path: "/szlaki" },
+   { name: "Zdrowie", path: "/zdrowie" },
 ];
 
 const Header = () => {
@@ -23,7 +23,7 @@ const Header = () => {
       switch (location.pathname) {
          case "/treningi":
             return img2;
-         case "/apteczka":
+         case "/zdrowie":
             return img3;
          case "/admin":
             return img1;
