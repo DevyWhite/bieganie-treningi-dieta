@@ -8,7 +8,7 @@ import ErrorPage from "../pages/ErrorPage";
 // import LoginPage from "../pages/LoginPage";
 
 import Treningi from "../pages/Treningi";
-import Projekty from "../pages/Projekty";
+import Projects from "../pages/Projects";
 import Przepisy from "../pages/Przepisy";
 import Zdrowie from "../pages/Zdrowie";
 import ZawodyBiegowe from "../pages/ZawodyBiegowe";
@@ -22,6 +22,7 @@ import Core from "../pages/Core";
 import Stretching from "../pages/Stretching";
 import Injury from "../pages/Injury";
 import Mobilizacja from "../pages/Mobilizacja";
+import ProjectDetails from "../pages/ProjectDetails";
 import About from "../pages/About";
 
 const Page = () => {
@@ -34,7 +35,6 @@ const Page = () => {
          {/* <Route path='/login' element={<LoginPage />} /> */}
 
          <Route path='/treningi' element={<Treningi />} />
-         <Route path='/projekty' element={<Projekty />} />
          <Route path='/zdrowie' element={<Zdrowie />} />
          <Route path='/zawody-biegowe' element={<ZawodyBiegowe />} />
          <Route path='/szlaki' element={<Szlaki />} />
@@ -58,6 +58,10 @@ const Page = () => {
             <Route path='kontuzje' element={<Injury />} />
             <Route path='mobilizacja' element={<Mobilizacja />} />
          </Route>
+
+         {/* Projekty */}
+         <Route path='/projects' element={<Projects />} />
+         <Route path='/projekty/:id' element={<ProjectDetails />} />
 
          <Route path='*' element={<ErrorPage />} />
       </Routes>

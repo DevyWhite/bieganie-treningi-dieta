@@ -1,10 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* --- Minimalny reset --- */
 * {
    margin: 0;
    padding: 0;
    box-sizing: border-box;
 }
 
+/* --- Globalne style HTML --- */
 html {
-   font-family: "opens sans", sans-serif;
-   font-size: 20px;
+   font-family: "Open Sans", sans-serif;
+   font-size: 18px; /* czytelny rozmiar bazowy */
+   scroll-behavior: smooth;
+}
+
+body {
+   background-color: #fafafa; /* delikatne tło */
+   color: #1a1a1a;
+   line-height: 1.6;
+}
+
+/* --- Linki --- */
+a {
+   text-decoration: none;
+   color: inherit;
+   transition: color 0.2s ease;
+}
+
+a:hover {
+   color: #2563eb; /* tailwindowy blue-600 */
+}
+
+/* --- (opcjonalnie) ujednolicenie obrazków --- */
+img {
+   display: block;
+   max-width: 100%;
+   height: auto;
 }

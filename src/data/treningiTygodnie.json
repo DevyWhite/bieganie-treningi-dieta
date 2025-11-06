@@ -2942,7 +2942,13 @@
          "opis": "Kontynuacja pracy izometrycznej i dodanie ćwiczeń kontrolujących miednicę oraz pierwszych ruchów ekscentrycznych w niskim zakresie.",
          "cel": "Wzmocnienie mięśnia dwugłowego i pośladków, poprawa stabilizacji bez bólu.",
          "aktywnosc": "Rozgrzewka: marsz + wymachy nóg (10 min).",
-         "cwiczenia": "Izometria leżąca (3 x 6 powt. x 5 s napięcia),\nMost biodrowy jednostronny (3 x 8 na stronę),\nWykrok statyczny (3 x 10 na stronę, tempo 3 s dół / 2 s góra),\nBird-dog (3 x 8 na stronę),\nPlank (2 x 30 sekund).",
+         "cwiczenia": [
+            "Izometria leżąca (3 x 6 powt. x 5 s napięcia)",
+            "Most biodrowy jednostronny (3 x 8 na stronę)",
+            "Wykrok statyczny (3 x 10 na stronę, tempo 3 s dół / 2 s góra)",
+            "Bird-dog (3 x 8 na stronę)",
+            "Plank (2 x 30 sekund)"
+         ],
          "stretching": "Rozciąganie tylnej taśmy 3 x 20 sekund na nogę, ciepły prysznic lub plaster rozgrzewający wieczorem."
       },
       {
@@ -2950,7 +2956,11 @@
          "opis": "Utrzymanie ruchu poprzez spacer i lekka mobilizacja bioder oraz pośladków.",
          "cel": "Poprawa krążenia, mobilności i regeneracji mięśni uda.",
          "aktywnosc": "Spacer terenowy 40–60 minut w spokojnym tempie.",
-         "cwiczenia": "Krążenia bioder (3 x 15),\nClamshell (3 x 15),\nKoci grzbiet (2 x 10).",
+         "cwiczenia": [
+            "Krążenia bioder (3 x 15)",
+            "Clamshell (3 x 15)",
+            "Koci grzbiet (2 x 10)"
+         ],
          "stretching": "Rozciąganie bioder i pośladków 3 x 20 sekund."
       },
       {
@@ -2958,7 +2968,13 @@
          "opis": "Bezpieczne wprowadzenie ćwiczeń ekscentrycznych i lekkiej siły.",
          "cel": "Zwiększenie odporności mięśnia dwugłowego na wydłużanie pod napięciem.",
          "aktywnosc": "Rozgrzewka: marsz + glute bridge (10 min).",
-         "cwiczenia": "Hamstring slide (3 x 6) lub Nordic hamstring asystowany (2 x 4–5),\nDeadlift z gumą lub lekkim ciężarem (3 x 8),\nMost biodrowy z zatrzymaniem na górze 3 sekundy (3 x 10),\nBird-dog (3 x 8),\nSide plank (2 x 20 sekund na stronę).",
+         "cwiczenia": [
+            "Hamstring slide (3 x 6) lub Nordic hamstring asystowany (2 x 4–5)",
+            "Deadlift z gumą lub lekkim ciężarem (3 x 8)",
+            "Most biodrowy z zatrzymaniem na górze 3 sekundy (3 x 10)",
+            "Bird-dog (3 x 8)",
+            "Side plank (2 x 20 sekund na stronę)"
+         ],
          "stretching": "Rozciąganie tylnej taśmy 3 x 20 sekund, lekkie rolowanie 2–3 minuty."
       },
       {
@@ -2982,7 +2998,12 @@
          "opis": "Wzmacnianie pośladków i nauka kontroli ruchu kończyny na jednej nodze.",
          "cel": "Poprawa stabilizacji, równowagi i pracy pośladków wspomagających dwugłowy.",
          "aktywnosc": "Rozgrzewka: marsz + wymachy nóg (10 min).",
-         "cwiczenia": "Most biodrowy jednostronny (3 x 10),\nWykrok boczny (3 x 8 na stronę),\nClamshell z gumą (3 x 15),\nStanie na jednej nodze z zamkniętymi oczami (3 x 30 sekund na stronę).",
+         "cwiczenia": [
+            "Most biodrowy jednostronny (3 x 10)",
+            "Wykrok boczny (3 x 8 na stronę)",
+            "Clamshell z gumą (3 x 15)",
+            "Stanie na jednej nodze z zamkniętymi oczami (3 x 30 sekund na stronę)"
+         ],
          "stretching": "Rozciąganie pośladków, bioder i tylnej taśmy 3 x 20 sekund."
       },
       {

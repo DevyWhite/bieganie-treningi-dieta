@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import mobilizacjaData from "../data/mobilizacja.json";
-import "../styles/Mobilizacja.css";
 
 const Mobilizacja = () => {
    const [sections, setSections] = useState([]);
@@ -10,31 +9,38 @@ const Mobilizacja = () => {
    }, []);
 
    return (
-      <div className='mobilizacja-container'>
-         <h1 className='mobilizacja-title'>Zestaw Ćwiczeń Mobilizacyjnych</h1>
+      <div className='mobilizacja-container max-w-4xl mx-auto px-4 py-6'>
+         <h1 className='text-2xl font-bold mb-6 text-gray-800'>
+            Zestaw Ćwiczeń Mobilizacyjnych
+         </h1>
 
          {sections.map((section, index) => (
-            <div className='mobilizacja-section' key={index}>
-               <h2 className='mobilizacja-section-title'>{section.title}</h2>
-               <ol className='mobilizacja-exercises-list'>
+            <div className='mobilizacja-section mb-8' key={index}>
+               <h2 className='text-xl font-semibold mb-4 text-gray-700'>
+                  {section.title}
+               </h2>
+               <ol className='space-y-4'>
                   {section.exercises.map((exercise, i) => (
-                     <li className='mobilizacja-exercise-item' key={i}>
-                        <h3 className='mobilizacja-exercise-title'>
+                     <li
+                        key={i}
+                        className='p-4 rounded-lg bg-white shadow hover:shadow-md transition-shadow duration-200'
+                     >
+                        <h3 className='text-lg font-semibold text-gray-700 mb-1'>
                            {exercise.title}
                         </h3>
-                        <p className='mobilizacja-exercise-goal'>
+                        <p className='text-gray-600 mb-1'>
                            <strong>Cel:</strong> {exercise.goal}
                         </p>
-                        <p className='mobilizacja-exercise-execution'>
+                        <p className='text-gray-600 mb-1'>
                            <strong>Jak wykonać:</strong> {exercise.execution}
                         </p>
                         {exercise.duration && (
-                           <p className='mobilizacja-exercise-duration'>
+                           <p className='text-gray-600 mb-1'>
                               <strong>Czas:</strong> {exercise.duration}
                            </p>
                         )}
                         {exercise.repetitions && (
-                           <p className='mobilizacja-exercise-repetitions'>
+                           <p className='text-gray-600'>
                               <strong>Powtórzenia:</strong>{" "}
                               {exercise.repetitions}
                            </p>
@@ -45,19 +51,19 @@ const Mobilizacja = () => {
             </div>
          ))}
 
-         <h2 className='mobilizacja-plan-title'>
+         <h2 className='text-xl font-semibold mb-4 text-gray-800'>
             Plan wykonania ćwiczeń mobilizacyjnych
          </h2>
-         <ul className='mobilizacja-plan-list'>
-            <li className='mobilizacja-plan-item'>
+         <ul className='list-disc list-inside space-y-2 text-gray-600'>
+            <li>
                Przed bieganiem – Wybierz ćwiczenia dynamiczne (skipy, krążenia
                biodrami, wspięcia na palce, przysiady sumo, krążenia kostkami).
             </li>
-            <li className='mobilizacja-plan-item'>
+            <li>
                Po bieganiu – Wybierz ćwiczenia statyczne (rozciąganie łydek,
                czworogłowych, bioder, pośladków i tyłu nóg).
             </li>
-            <li className='mobilizacja-plan-item'>
+            <li>
                Dni nietreningowe – Wybierz kilka z powyższych, aby zachować
                elastyczność mięśni i stawów.
             </li>

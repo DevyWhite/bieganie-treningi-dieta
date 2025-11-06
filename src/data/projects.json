@@ -1,0 +1,62 @@
+[
+   {
+      "id": "centralny-szlak-roztocza",
+      "title": "Centralny Szlak Roztocza",
+      "distance": "185 km",
+      "duration": "6 dni",
+      "region": "Roztocze, Polska",
+      "year": 2023,
+      "description": "Sześciodniowa samotna podróż przez serce Roztocza — od Szastarki po Hrebenne. 185 kilometrów biegu, marszu, i chwil zatrzymania. Szlak łączy dzikie lasy, ciche wsie i pagórkowate krajobrazy, które pozwalają naprawdę odetchnąć i sprawdzić, gdzie kończy się komfort, a zaczyna wolność.",
+      "highlights": [
+         "185 km w 6 dni — mój osobisty rekord",
+         "Prawdziwa lekcja minimalizmu: plecak 4 kg, jedzenie liofilizowane",
+         "Poranki w mgle, zapach lasu i dźwięk kroków w ciszy",
+         "Najbardziej introwertyczny projekt, jaki dotąd zrobiłem"
+      ],
+      "images": [
+         "/images/projects/roztocze_1.jpg",
+         "/images/projects/roztocze_2.jpg"
+      ],
+      "tags": ["trail", "solo", "ultra", "roztocze"]
+   },
+   {
+      "id": "krawedziowy-szlak-roztocza",
+      "title": "Krawędziowy Szlak Roztocza",
+      "distance": "54 km",
+      "duration": "6 godz",
+      "region": "Roztocze, Polska",
+      "year": 2023,
+      "description": "Kompaktowy, ale techniczny bieg po jednym z najciekawszych fragmentów Roztocza. Szlak prowadzi wzdłuż krawędzi Roztoczańskiego Parku Narodowego, pełen krótkich podbiegów i zbieganek. Szybki, dynamiczny, idealny do sprawdzenia nóg po dłuższej przerwie.",
+      "highlights": [
+         "54 km w 6 godzin — trening tempowy w terenie",
+         "Świetna trasa dla tych, którzy lubią rytm i zmianę podłoża",
+         "Zaskakująco piękne widoki na dolinę Wieprza",
+         "Dzień, w którym zrozumiałem, że Roztocze to więcej niż lasy"
+      ],
+      "images": [
+         "/images/projects/krawedziowy_1.jpg",
+         "/images/projects/krawedziowy_2.jpg"
+      ],
+      "tags": ["trail", "speed", "training", "roztocze"]
+   },
+   {
+      "id": "obwodnica-roztocza",
+      "title": "Obwodnica Roztocza",
+      "distance": "74 km",
+      "duration": "8 godz",
+      "region": "Roztocze, Polska",
+      "year": 2024,
+      "description": "Nieoficjalna 'obwodnica' Roztocza — autorska trasa łącząca kilka mniej znanych szlaków pieszych i leśnych. Bieg w duchu eksploracji, bez planu, z mapą w kieszeni i ciekawością przed każdym zakrętem. Teren zróżnicowany, miejscami dziki, idealny na długi, spokojny dzień w ruchu.",
+      "highlights": [
+         "74 km po nieoznakowanych ścieżkach — pełna improwizacja",
+         "Trasa łącząca fragmenty szlaków: niebieskiego, zielonego i żółtego",
+         "Brak supportu, brak planu — tylko bieg i decyzje po drodze",
+         "Pierwszy raz biegłem dla czystej przyjemności odkrywania"
+      ],
+      "images": [
+         "/images/projects/obwodnica_1.jpg",
+         "/images/projects/obwodnica_2.jpg"
+      ],
+      "tags": ["exploration", "solo", "trail", "roztocze"]
+   }
+]

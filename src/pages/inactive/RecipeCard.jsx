@@ -1,5 +1,4 @@
 import React from "react";
-import "../styles/RecipeCard.css";
 
 const RecipeCard = ({ title, image, description, ingredients }) => {
    return (

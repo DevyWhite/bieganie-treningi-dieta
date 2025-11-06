@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import "../styles/DrzewkoDni.css";
 
 const DrzewkoDni = ({ dni }) => {
    const [rozwinieteDni, ustawRozwinieteDni] = useState([]);
@@ -13,94 +12,119 @@ const DrzewkoDni = ({ dni }) => {
    };
 
    const renderWithNewLines = (text) => {
-      if (!text) return;
-
+      if (!text) return null;
       return text.split("\n").map((line, index) => (
-         <span key={index} className='drzewko-dni-span'>
+         <span key={index} className='block'>
             {line}
-            <br />
          </span>
       ));
    };
 
+   // Funkcja pomocnicza: obsługuje stringi i tablice
+   const renderCwiczenia = (cwiczenia) => {
+      if (!cwiczenia) return null;
+
+      // Jeśli to tablica
+      if (Array.isArray(cwiczenia)) {
+         return (
+            <ul className='list-disc list-inside space-y-1'>
+               {cwiczenia.map((item, idx) => (
+                  <li key={idx}>{item}</li>
+               ))}
+            </ul>
+         );
+      }
+
+      // Jeśli to string - stare dane
+      return renderWithNewLines(cwiczenia);
+   };
+
    return (
-      <ul className='drzewko-dni'>
+      <ul className='space-y-3'>
          {dni.map((dzien, index) => (
             <li key={index}>
-               <button onClick={() => toggleDzien(index)}>
-                  {rozwinieteDni.includes(index) ? "−" : "+"} {dzien.dzien}
+               <button
+                  onClick={() => toggleDzien(index)}
+                  className='w-full flex justify-between items-center bg-gray-100 rounded-lg px-4 py-2 font-medium text-gray-800 hover:bg-gray-200 transition-colors duration-200'
+               >
+                  <span>
+                     {rozwinieteDni.includes(index) ? "−" : "+"} {dzien.dzien}
+                  </span>
                </button>
+
                {rozwinieteDni.includes(index) && (
-                  <ul>
-                     <li>
-                        <strong>{renderWithNewLines(dzien.opis)}</strong>
-                     </li>
+                  <div className='mt-2 p-4 bg-gray-50 rounded-lg shadow-inner space-y-2 text-gray-700'>
+                     {dzien.opis && (
+                        <p>
+                           <strong>{renderWithNewLines(dzien.opis)}</strong>
+                        </p>
+                     )}
                      {dzien.rozgrzewka && (
-                        <li>
+                        <p>
                            <strong>Rozgrzewka:</strong>{" "}
                            {renderWithNewLines(dzien.rozgrzewka)}
-                        </li>
+                        </p>
                      )}
                      {dzien.aktywnosc && (
-                        <li>
+                        <p>
                            <strong>Aktywność:</strong>{" "}
                            {renderWithNewLines(dzien.aktywnosc)}
-                        </li>
+                        </p>
                      )}
                      {dzien.bieg && (
-                        <li>
+                        <p>
                            <strong>Bieg:</strong>{" "}
                            {renderWithNewLines(dzien.bieg)}
-                        </li>
+                        </p>
                      )}
                      {dzien.interwaly && (
-                        <li>
+                        <p>
                            <strong>Interwały:</strong>{" "}
                            {renderWithNewLines(dzien.interwaly)}
-                        </li>
+                        </p>
                      )}
                      {dzien.podbiegi && (
-                        <li>
+                        <p>
                            <strong>Podbiegi:</strong>{" "}
                            {renderWithNewLines(dzien.podbiegi)}
-                        </li>
+                        </p>
                      )}
                      {dzien.fartlek && (
-                        <li>
+                        <p>
                            <strong>Fartlek:</strong>{" "}
                            {renderWithNewLines(dzien.fartlek)}
-                        </li>
+                        </p>
                      )}
                      {dzien.chlodzenie && (
-                        <li>
+                        <p>
                            <strong>Chłodzenie:</strong>{" "}
                            {renderWithNewLines(dzien.chlodzenie)}
-                        </li>
+                        </p>
                      )}
                      {dzien.stretching && (
-                        <li>
+                        <p>
                            <strong>Stretching:</strong>{" "}
                            {renderWithNewLines(dzien.stretching)}
-                        </li>
+                        </p>
                      )}
                      {dzien.cwiczenia && (
                         <li>
                            <strong>Ćwiczenia:</strong>{" "}
-                           {renderWithNewLines(dzien.cwiczenia)}
+                           {renderCwiczenia(dzien.cwiczenia)}
                         </li>
                      )}
                      {dzien.mobilizacja && (
-                        <li>
+                        <p>
                            <strong>Mobilizacja:</strong>{" "}
                            {renderWithNewLines(dzien.mobilizacja)}
-                        </li>
+                        </p>
                      )}
                      {dzien.cel && (
-                        <li>
+                        <p>
                            <strong>Cel:</strong> {renderWithNewLines(dzien.cel)}
-                        </li>
+                        </p>
                      )}
-                  </ul>
+                  </div>
                )}
             </li>
          ))}
