@@ -61,7 +61,7 @@ const Page = () => {
 
          {/* Projekty */}
          <Route path='/projects' element={<Projects />} />
-         <Route path='/projekty/:id' element={<ProjectDetails />} />
+         <Route path='/projects/:id' element={<ProjectDetails />} />
 
          <Route path='*' element={<ErrorPage />} />
       </Routes>

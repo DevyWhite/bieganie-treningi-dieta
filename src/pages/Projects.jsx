@@ -1,46 +1,39 @@
+import React from "react";
 import { Link } from "react-router-dom";
 import projectsData from "../data/projects.json";
 
-export default function Projects() {
-   const projects = projectsData;
+const Projects = () => {
    return (
-      <section className='bg-gray-50 py-10 px-5 rounded-3xl'>
-         <h1 className='text-3xl font-semibold text-gray-800 mb-6 text-center'>
-            Moje Projekty Biegowe
+      <section>
+         <h1 className='text-2xl md:text-3xl font-bold mb-6'>
+            Projekty biegowe
          </h1>
-         <p className='text-gray-600 text-center mb-10 max-w-2xl mx-auto'>
-            Moje osobiste wyzwania, biegi i trasy, które zostawiły ślad nie
-            tylko w nogach, ale i w głowie.
-         </p>
-
-         <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6'>
-            {projects.map((project) => (
+         <div className='grid grid-cols-1 md:grid-cols-2 gap-6'>
+            {projectsData.map((project) => (
                <div
                   key={project.id}
-                  className='bg-white rounded-2xl shadow-md hover:shadow-lg transition-shadow duration-300 overflow-hidden flex flex-col'
+                  className='border rounded-xl overflow-hidden shadow-sm hover:shadow-lg transition'
                >
                   <img
-                     src={project.image}
+                     src={project.images[0]}
                      alt={project.title}
                      className='w-full h-48 object-cover'
                   />
-                  <div className='p-5 flex flex-col flex-grow'>
-                     <h2 className='text-xl font-semibold text-emerald-700 mb-2'>
+                  <div className='p-4'>
+                     <h2 className='text-xl font-semibold mb-2'>
                         {project.title}
                      </h2>
-                     <p className='text-gray-600 text-sm flex-grow'>
-                        {project.description}
+                     <p className='text-gray-700 mb-2'>
+                        {project.shortDescription}
                      </p>
-                     <div className='text-sm text-gray-500 my-3'>
-                        <span>{project.distance} km</span> ·{" "}
-                        <span>{project.location}</span>
-                     </div>
-
+                     <p className='text-gray-500 text-sm mb-2'>
+                        {project.distance}
+                     </p>
                      <Link
-                        to={`/projekty/${project.id}`}
-                        className='inline-block mt-auto bg-emerald-600 text-white text-sm px-4 py-2 rounded-lg hover:bg-emerald-700 transition-colors text-center'
+                        to={`/projects/${project.id}`}
+                        className='text-blue-600 hover:underline'
                      >
-                        Zobacz więcej
+                        Czytaj więcej
                      </Link>
                   </div>
                </div>
@@ -48,4 +41,6 @@ export default function Projects() {
          </div>
       </section>
    );
-}
+};
+
+export default Projects;

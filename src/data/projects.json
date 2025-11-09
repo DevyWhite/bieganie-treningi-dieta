@@ -1,62 +1,289 @@
 [
    {
-      "id": "centralny-szlak-roztocza",
+      "id": "csr",
       "title": "Centralny Szlak Roztocza",
-      "distance": "185 km",
-      "duration": "6 dni",
-      "region": "Roztocze, Polska",
-      "year": 2023,
-      "description": "Sześciodniowa samotna podróż przez serce Roztocza — od Szastarki po Hrebenne. 185 kilometrów biegu, marszu, i chwil zatrzymania. Szlak łączy dzikie lasy, ciche wsie i pagórkowate krajobrazy, które pozwalają naprawdę odetchnąć i sprawdzić, gdzie kończy się komfort, a zaczyna wolność.",
+      "date": "2023",
+      "distance": "192.7 km",
+      "shortDescription": "Projekt biegu na raty - odkrywanie całego Centralnego Szlaku Roztocza etapami.",
+      "description": "Rozpocząłem projekt na raty, biegnąc regularnie po 30 km w soboty, aby odkryć cały pieszy szlak Roztocza od Szastarki do Horyńca-Zdroju. Chciałem cieszyć się trasą, robić zdjęcia i poznawać nowe tereny, nie spiesząc się.",
       "highlights": [
-         "185 km w 6 dni — mój osobisty rekord",
-         "Prawdziwa lekcja minimalizmu: plecak 4 kg, jedzenie liofilizowane",
-         "Poranki w mgle, zapach lasu i dźwięk kroków w ciszy",
-         "Najbardziej introwertyczny projekt, jaki dotąd zrobiłem"
+         "Odkrycie okolic Hoszni Ordynackiej - wieża widokowa i pagórki",
+         "Wąwozy w Kaweczynku",
+         "Kontakt z naturą w Zwierzyńcu i okolicach Góra Piekło",
+         "Rezerwaty i strumyki na trasie",
+         "Ostatni odcinek 60 km - start z Lublina, meta w Horyńcu-Zdroju",
+         "Obóz w Bełżcu - przytłaczające miejsce historyczne",
+         "Ruiny cerkwi i bunkrów wzdłuż trasy"
       ],
-      "images": [
-         "/images/projects/roztocze_1.jpg",
-         "/images/projects/roztocze_2.jpg"
+      "fullContent": [
+         {
+            "type": "subtitle",
+            "text": "Skąd pomysł?"
+         },
+         {
+            "type": "text",
+            "text": "Zawsze lubiłem czytać i oglądać relacje z wielkich biegowych projektów. Zapragnąłem mieć swój własny. Centralny Szlak Roztocza idealnie się do tego nadawał - Roztocze mam blisko, a szlak liczący niespełna 200 km był dla mnie idealnym, nie do końca odkrytym wyzwaniem. Zdecydowałem się podzielić trasę na odcinki 30-40 km, bo taki sposób pozwala cieszyć się każdym fragmentem, robić zdjęcia i poznawać nowe tereny bez pośpiechu."
+         },
+         {
+            "type": "subtitle",
+            "text": "Logistyka i planowanie"
+         },
+         {
+            "type": "text",
+            "text": "Kluczem było odpowiednie zaplanowanie startu i mety każdego odcinka, aby były dostępne samochodem. Projekt realizowałem w trybie 'nonsupport', ale miałem nieocenione wsparcie żony, która odwoziła mnie na start i odbierała z mety. Sam dbałem o GPX na zegarku, sprawdzanie map i lokalizację cywilizacji."
+         },
+         {
+            "type": "quote",
+            "text": "Nie o wynik tu chodziło, a o samą drogę."
+         },
+         {
+            "type": "image",
+            "layout": "side-by-side",
+            "images": [
+               {
+                  "src": "/images/projects/csr5-1.jpg",
+                  "alt": "Wyzwania na trasie 1"
+               },
+               {
+                  "src": "/images/projects/csr5-2.jpg",
+                  "alt": "Wyzwania na trasie 2"
+               }
+            ]
+         },
+         {
+            "type": "subtitle",
+            "text": "Wyzwania na trasie"
+         },
+         {
+            "type": "text",
+            "text": "Bieganie solo to wolność, ale i odpowiedzialność. Największe wyzwania to upały, nawodnienie i zmienna pogoda. Czasami prosiłem o wodę lokalnych mieszkańców, a kilka litrów napoju izotonicznego i tak nie wystarczało przy żarze z nieba. Plecak i bukłak to był mój cały świat."
+         },
+         {
+            "type": "quote",
+            "text": "Zawsze miej apteczkę, dziel się lokalizacją i miej zapasową porcję proszku izotonicznego - ratuje życie!"
+         },
+         {
+            "type": "subtitle",
+            "text": "Spotkania z naturą"
+         },
+         {
+            "type": "text",
+            "text": "Roztocze to nie tylko płaskie ścieżki. Podbiegi, wąwozy, dzikie zwierzęta, a nawet wilki przypominały mi, że jestem gościem w ich domu. Najpiękniejsze odcinki to okolice Hoszni Ordynackiej, zbieg z Gilowa, wąwozy w Kawęczynku, a także różne cerkwie, bunkry i krzyże historyczne."
+         },
+         {
+            "type": "subtitle",
+            "text": "Moment, dla którego się to robi"
+         },
+         {
+            "type": "image",
+            "src": "/images/projects/csr4.jpg",
+            "alt": "Widoki Roztocza"
+         },
+         {
+            "type": "text",
+            "text": "Są chwile, które zapamiętuje się na zawsze: wybiegasz z gęstego lasu na otwartą przestrzeń i rozpościera się panorama pól i łąk. Albo wpadniesz do kamieniołomu Nowiny i przez chwilę czujesz się jak w górach. To jest TO."
+         },
+         {
+            "type": "quote",
+            "text": "Cel to cel - każdy ma swoje wyzwanie, swoje podium, swoją radość."
+         },
+         {
+            "type": "subtitle",
+            "text": "Ostatni odcinek i meta"
+         },
+         {
+            "type": "text",
+            "text": "Ostatni etap liczył 58 km i był symbolicznym zwieńczeniem całego projektu. Rozpocząłem w Lublinie o 5:30 rano, pociągiem do Bełżca, dobieg do miejsca, gdzie skończyłem poprzednio, i ruszyłem dalej. Trasa obejmowała najwyższy szczyt woj. lubelskiego - Krągły Goraj, najwyższy szczyt polskiej części Roztocza - Długa Góra, Wielki Dział, bunkry Linii Mołotowa, stare cerkwie i krzyże. Meta w Horyńcu-Zdroju z żoną i medalem - bezcenne przeżycie."
+         },
+         {
+            "type": "image",
+            "src": "/images/projects/csr3.jpg",
+            "alt": "Centralny Szlak Roztocza - etap"
+         },
+
+         {
+            "type": "subtitle",
+            "text": "Refleksje i lekcje"
+         },
+         {
+            "type": "text",
+            "text": "Projekt CSR nauczył mnie, że nie ma małych ani dużych wyzwań - są tylko Twoje wyzwania. Sukces nie polega na porównywaniu się z innymi, lecz na stawianiu sobie własnej poprzeczki i czerpaniu radości z jej przeskoczenia. Mentalnie wzmacnia i daje satysfakcję, której nie da żadna statystyka."
+         },
+         {
+            "type": "subtitle",
+            "text": "Co dalej?"
+         },
+         {
+            "type": "text",
+            "text": "Project CSR się kończy, ale apetyt rośnie. Kolejnym celem będzie 'Obwodnica Roztocza' - dystans ok. 70 km, tym razem na raz. Jeśli chcesz pobiegać po Roztoczu, ale 200 km Cię przeraża, polecam Krawędziowy Szlak Roztocza - esencja tego, co najlepsze w pigułce."
+         }
       ],
-      "tags": ["trail", "solo", "ultra", "roztocze"]
+      "tips": [
+         "Rozplanuj etapy tak, aby mieć łatwy dojazd samochodem",
+         "Nie spiesz się - pozwól sobie na zdjęcia i obserwacje",
+         "Bądź przygotowany na zmienną pogodę i deszcz",
+         "Nie musisz biec na czas - projekt ma charakter mentalny i poznawczy"
+      ],
+      "images": ["/images/projects/csr1.jpg", "/images/projects/csr2.jpg"]
    },
    {
-      "id": "krawedziowy-szlak-roztocza",
+      "id": "ksr",
       "title": "Krawędziowy Szlak Roztocza",
+      "date": "2024-11-11",
       "distance": "54 km",
-      "duration": "6 godz",
-      "region": "Roztocze, Polska",
-      "year": 2023,
-      "description": "Kompaktowy, ale techniczny bieg po jednym z najciekawszych fragmentów Roztocza. Szlak prowadzi wzdłuż krawędzi Roztoczańskiego Parku Narodowego, pełen krótkich podbiegów i zbieganek. Szybki, dynamiczny, idealny do sprawdzenia nóg po dłuższej przerwie.",
+      "shortDescription": "Jednorazowy bieg całym Krawędziowym Szlakiem Roztocza - esencja Roztocza w 54 km.",
+      "description": "Biegłem cały szlak jednorazowo - 54 km w terenie, startując rano i kończąc w godzinach popołudniowych. Celem było odkrycie całego szlaku w ciągu jednego dnia, doświadczenie wyzwań fizycznych i piękna krajobrazu.",
+      "fullContent": [
+         {
+            "type": "text",
+            "text": "Planowałem długi bieg, ale tak, żeby był w moim realnym zasięgu. Listopadowy dzień jest krótki, a ja musiałem uwzględnić dojazdy pociągiem do startu i powrót z mety. Ostatecznie zdecydowałem się na trasę Susiec → Zwierzyniec, 54 km w jednym podejściu."
+         },
+         {
+            "type": "subtitle",
+            "text": "Dojazd i logistyka"
+         },
+         {
+            "type": "text",
+            "text": "Z Lublina pojechałem pociągiem do Suśca, stamtąd wystartowałem. Miałem przeliczone, że z zapasem 1h dam radę ukończyć bieg w planowanym czasie w Zwierzyńcu, a stamtąd powrót koleją. To wymagało precyzyjnego planowania i przygotowania - od zapisania tracków GPX, przez przygotowanie plecaka, aż po rozpoznanie miejsc, gdzie można było bezpiecznie zrobić przerwę."
+         },
+         {
+            "type": "subtitle",
+            "text": "Trasa i atrakcje"
+         },
+         {
+            "type": "text",
+            "text": "Szlak Krawędziowy Roztocza to około 54 km malowniczej trasy łączącej dziką przyrodę z lokalnym dziedzictwem. Na trasie mijamy historyczne obiekty, takie jak Browar, Pałac Plenipotenta czy Ośrodek Edukacyjno-Muzealny RPN, a także urokliwe osady leśne, np. Floriankę z tradycyjną zabudową i hodowlą koników polskich. W strefie krawędziowej szlak wznosi się na pagórki i dawne kamieniołomy, z których rozciągają się piękne panoramy Parku i okolicznych wzgórz."
+         },
+         {
+            "type": "image",
+            "src": "/images/projects/ksr1.jpg",
+            "alt": "Widok z Wysokiej Góry, Krawędziowy Szlak Roztocza"
+         },
+         {
+            "type": "text",
+            "text": "Trasa prowadzi przez malownicze doliny i przełomy rzek, mijając stare cerkwie, kapliczki czy pozostałości po kamieniołomach. To idealny szlak, aby w jednym biegu poczuć zarówno dziką przyrodę Roztocza, jak i jego bogactwo kulturowe, odkrywając zakątki pełne historii i wyjątkowych widoków."
+         },
+         {
+            "type": "subtitle",
+            "text": "Spotkania i przygody"
+         },
+         {
+            "type": "text",
+            "text": "Po drodze spotkałem dzikie zwierzęta - sarny, jelenie, a nawet wilki! Chwilami las stawał się mroczny, deszcz zacinał, a ostatnie 10 km pokonałem w ulewie z czołówką na głowie. Mimo trudności, zatrzymywałem się, żeby zrobić zdjęcia, nacieszyć się naturą i odwiedzić ulubione miejsca: Florianka, stadnina koników polskich, kamieniołom Nowiny oraz Górecko Kościelne z kapliczką. Przerwy na kawę i pizzę w Józefowie dodały energii i uśmiechu w trakcie trudnej trasy."
+         },
+         {
+            "type": "quote",
+            "text": "Tak jak w przypadku CSR, najważniejsze jest własne doświadczenie i cel - biegłem dla siebie, dla radości odkrywania Roztocza, nie dla porównania się z innymi."
+         },
+         {
+            "type": "subtitle",
+            "text": "Najważniejsze wnioski"
+         },
+         {
+            "type": "text",
+            "text": "Krawędziowy Szlak Roztocza to esencja Roztocza - piękno przyrody, ciekawe formacje geograficzne i bogactwo historyczne. Trasa wymaga respektu: nawet jeśli dystans jest mniejszy niż CSR, trzeba liczyć się z trudami, deszczem i dłuższymi przystankami na zdjęcia czy zwiedzanie. Warto wybierać cieplejsze dni i czerpać pełną radość z każdego kilometra."
+         },
+         {
+            "type": "image",
+            "src": "/images/projects/ksr2.jpg",
+            "alt": "Przełom rzeki Szum, Krawędziowy Szlak Roztocza"
+         }
+      ],
       "highlights": [
-         "54 km w 6 godzin — trening tempowy w terenie",
-         "Świetna trasa dla tych, którzy lubią rytm i zmianę podłoża",
-         "Zaskakująco piękne widoki na dolinę Wieprza",
-         "Dzień, w którym zrozumiałem, że Roztocze to więcej niż lasy"
+         "Widoki na Roztocze Wschodnie i Zachodnie",
+         "Florianka - osada leśna z hodowlą koników polskich",
+         "Kamieniołom Nowiny i Wysoka Góra - panoramy",
+         "Górecko Stare - przełomy rzeki Szum",
+         "Spotkania z dzikimi zwierzętami, w tym wilkami",
+         "Trudne warunki pogodowe - deszcz, krótki dzień",
+         "Przerwy na lokalne przysmaki w Juzefowie"
       ],
-      "images": [
-         "/images/projects/krawedziowy_1.jpg",
-         "/images/projects/krawedziowy_2.jpg"
+      "tips": [
+         "Dobrze zaplanuj dojazd start/meta i czas przejścia",
+         "Bądź przygotowany na zmienną pogodę i nocne warunki",
+         "Miej mapę, GPS i czołówkę - bezpieczeństwo przede wszystkim",
+         "Nie spiesz się - ciesz się trasą, przyrodą i historią",
+         "Przewiduj przerwy na jedzenie i regenerację"
       ],
-      "tags": ["trail", "speed", "training", "roztocze"]
+      "images": ["/images/projects/ksr1.jpg", "/images/projects/ksr2.jpg"]
    },
    {
-      "id": "obwodnica-roztocza",
-      "title": "Obwodnica Roztocza",
-      "distance": "74 km",
-      "duration": "8 godz",
-      "region": "Roztocze, Polska",
-      "year": 2024,
-      "description": "Nieoficjalna 'obwodnica' Roztocza — autorska trasa łącząca kilka mniej znanych szlaków pieszych i leśnych. Bieg w duchu eksploracji, bez planu, z mapą w kieszeni i ciekawością przed każdym zakrętem. Teren zróżnicowany, miejscami dziki, idealny na długi, spokojny dzień w ruchu.",
+      "id": "slp",
+      "title": "Szlak Lasów Podlubelskich",
+      "date": "2024-09-15",
+      "distance": "54.6 km",
+      "shortDescription": "Bieg przez zielone płuca regionu - od Podzamcza do Lublina, odkrywając lasy otaczające miasto.",
+      "description": "Linowy szlak prowadzący przez kompleksy leśne wokół Lublina - trasa łącząca dziką przyrodę z bliskością miejskiej infrastruktury, od startu w Podzamczu do mety przy Dworcu Zachodnim.",
+      "fullContent": [
+         {
+            "type": "text",
+            "text": "Szlak Lasów Podlubelskich to niezwykła, liniowa trasa biegnąca od malowniczego Podzamcza przez lasy otaczające Lublin, kończąca się przy Dworcu Zachodnim. Pokonanie 54.6 km tej trasy to doskonały sposób na poznanie zielonych obszarów regionu."
+         },
+         {
+            "type": "subtitle",
+            "text": "Logistyka i planowanie"
+         },
+         {
+            "type": "text",
+            "text": "Jako trasa liniowa wymagała dokładnego zaplanowania dojazdu na start w Podzamczu oraz powrotu z mety przy Dworcu Zachodnim. Kluczowe było rozpoznanie rozkładów komunikacji lub organizacja transportu. Przygotowanie obejmowało zabranie odpowiedniej ilości wody i jedzenia, oraz sprawdzenie miejsc, gdzie można uzupełnić zapasy."
+         },
+         {
+            "type": "subtitle",
+            "text": "Charakter trasy"
+         },
+         {
+            "type": "text",
+            "text": "Szlak prowadzi przez różnorodne kompleksy leśne - od gęstych lasów mieszanych po bardziej otwarte tereny z widokami na doliny. Trasa jest dobrze oznakowana, ale wymaga uwagi na rozdrożach. Większość ścieżek to leśne dukty i drogi gruntowe, miejscami bardziej techniczne single tracki. Jako trasa liniowa daje poczucie prawdziwej podróży od punktu A do B."
+         },
+         {
+            "type": "image",
+            "src": "/images/projects/slp1.jpg",
+            "alt": "Leśna ścieżka na Szlaku Lasów Podlubelskich"
+         },
+         {
+            "type": "text",
+            "text": "Bieg przez Lasy Stokowskie, Dąbrowę i inne kompleksy leśne pokazuje, jak bogate jest zielone otoczenie Lublina. Mimo bliskości miasta, w wielu momentach można poczuć się jak w głuszy, słuchając tylko odgłosów ptaków i szelestu liści. Linowy charakter trasy dodaje eksploracji autentyczności - każdy kilometr przybliża do celu."
+         },
+         {
+            "type": "subtitle",
+            "text": "Doświadczenia z trasy"
+         },
+         {
+            "type": "text",
+            "text": "Poranny start w Podzamczu przy pięknej, słonecznej pogodzie. Pierwsze kilometry przez lasy dawały energię na resztę dnia. W środkowej części trasy, w okolicach wsi, można było uzupełnić zapasy wody. Ostatnie kilometry przez bardziej zurbanizowane tereny stanowiły ciekawy kontrast z leśnymi odcinkami i stopniowo wprowadzały w miejski krajobraz Lublina."
+         },
+         {
+            "type": "quote",
+            "text": "Linowy charakter Szlaku Lasów Podlubelskich daje niepowtarzalne poczucie podróży - od dzikiej przyrody do miejskiej cywilizacji."
+         },
+         {
+            "type": "subtitle",
+            "text": "Wrażenia i przemyślenia"
+         },
+         {
+            "type": "text",
+            "text": "Jako trasa liniowa oferuje wyjątkowe poczucie osiągnięcia - pokonanie dystansu od startu do mety ma swoją szczególną magię. Zróżnicowanie podłoża i lekkie przewyższenia sprawiają, że bieg nie jest monotonią. Bliskość Lublina w końcowej części daje poczucie bezpieczeństwa, ale wcześniejsze odcinki zapewniają wystarczającą izolację od miejskiego zgiełku."
+         },
+         {
+            "type": "image",
+            "src": "/images/projects/slp2.jpg",
+            "alt": "Widok na lasy z punktu widokowego"
+         }
+      ],
       "highlights": [
-         "74 km po nieoznakowanych ścieżkach — pełna improwizacja",
-         "Trasa łącząca fragmenty szlaków: niebieskiego, zielonego i żółtego",
-         "Brak supportu, brak planu — tylko bieg i decyzje po drodze",
-         "Pierwszy raz biegłem dla czystej przyjemności odkrywania"
+         "Start w malowniczym Podzamczu",
+         "Linowy charakter trasy - prawdziwa podróż od A do B",
+         "Przebieg przez różnorodne kompleksy leśne",
+         "Stopniowe przejście od dzikiej przyrody do miejskiego krajobrazu",
+         "Zróżnicowane podłoże - od miękkich ścieżek po leśne dukty"
       ],
-      "images": [
-         "/images/projects/obwodnica_1.jpg",
-         "/images/projects/obwodnica_2.jpg"
+      "tips": [
+         "Zaplanuj transport na start lub z mety - trasa jest liniowa",
+         "Zabierz wystarczającą ilość wody i jedzenia",
+         "Dostosuj obuwie do mieszanego podłoża",
+         "Miej na uwadze zmienne warunki pogodowe w lesie",
+         "Rozważ opcję odbioru w Lublinie lub dojazdu komunikacją do startu"
       ],
-      "tags": ["exploration", "solo", "trail", "roztocze"]
+      "images": ["/images/projects/slp1.jpg", "/images/projects/slp2.jpg"]
    }
 ]

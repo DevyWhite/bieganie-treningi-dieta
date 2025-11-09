@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
-import { Menu, X } from "lucide-react"; // ikony menu
+import { Menu, X } from "lucide-react";
+import DarkModeToggle from "./DarkModeToggle";
 
 const list = [
    { name: "Home", path: "/" },
@@ -22,6 +23,7 @@ const Navigation = () => {
          {/* Przycisk mobilny */}
          <div className='md:hidden flex justify-between items-center mb-4'>
             <h2 className='text-xl font-semibold tracking-tight'>Menu</h2>
+
             <button
                onClick={() => setOpen(!open)}
                className='text-gray-700 hover:text-gray-900'
@@ -55,6 +57,7 @@ const Navigation = () => {
                </li>
             ))}
          </ul>
+         <DarkModeToggle />
       </nav>
    );
 };

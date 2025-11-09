@@ -9,17 +9,37 @@
    box-sizing: border-box;
 }
 
-/* --- Globalne style HTML --- */
+/* --- Globalne ustawienia --- */
 html {
    font-family: "Open Sans", sans-serif;
-   font-size: 18px; /* czytelny rozmiar bazowy */
+   font-size: 16px;
    scroll-behavior: smooth;
+   scroll-padding-top: 4rem;
+}
+
+@media (max-width: 768px) {
+   html {
+      font-size: 15px;
+   }
+}
+
+@media (max-width: 480px) {
+   html {
+      font-size: 14px;
+   }
 }
 
 body {
-   background-color: #fafafa; /* delikatne tło */
+   background-color: #fafafa;
    color: #1a1a1a;
    line-height: 1.6;
+   transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* --- DARK MODE --- */
+.dark body {
+   background-color: #0f172a; /* slate-900 */
+   color: #f8fafc; /* slate-50 */
 }
 
 /* --- Linki --- */
@@ -30,12 +50,84 @@ a {
 }
 
 a:hover {
-   color: #2563eb; /* tailwindowy blue-600 */
+   color: #2563eb;
 }
 
-/* --- (opcjonalnie) ujednolicenie obrazków --- */
+.dark a:hover {
+   color: #60a5fa; /* blue-400 */
+}
+
+/* --- Obrazki --- */
 img {
    display: block;
    max-width: 100%;
    height: auto;
+   border-radius: 0.75rem;
+}
+
+/* --- Tailwindowa warstwa bazowa --- */
+@layer base {
+   /* Typografia */
+   h1 {
+      @apply text-2xl sm:text-3xl md:text-4xl font-bold mb-4;
+   }
+
+   h2 {
+      @apply text-xl sm:text-2xl md:text-3xl font-semibold mb-3;
+   }
+
+   h3 {
+      @apply text-lg sm:text-xl md:text-2xl font-semibold mb-2;
+   }
+
+   p,
+   li {
+      @apply text-sm sm:text-base leading-relaxed;
+      text-align: justify;
+   }
+
+   /* Listy — domyślnie bez kropek */
+   ul,
+   ol {
+      @apply list-none pl-0 space-y-1;
+   }
+
+   /* Sekcje */
+   section {
+      @apply px-3 sm:px-5 md:px-8 py-4 sm:py-6 md:py-8;
+   }
+
+   /* Maksymalna szerokość treści */
+   main,
+   article,
+   section,
+   .content-container {
+      @apply max-w-5xl mx-auto;
+   }
+
+   /* Cytaty */
+   blockquote {
+      @apply border-l-4 border-blue-500 pl-4 italic text-gray-700;
+   }
+
+   .dark blockquote {
+      @apply border-blue-400 text-gray-300;
+   }
+}
+
+/* --- ELEMENTY DODATKOWE --- */
+.dark img {
+   filter: brightness(0.9);
+}
+
+/* (opcjonalnie) styl dla inputów, kart, itp. */
+input,
+textarea {
+   @apply border border-gray-300 rounded-md px-3 py-2;
+   transition: background-color 0.3s, color 0.3s, border-color 0.3s;
+}
+
+.dark input,
+.dark textarea {
+   @apply border-gray-600 bg-slate-800 text-slate-100;
 }
