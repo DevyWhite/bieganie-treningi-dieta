@@ -3014,5 +3014,94 @@
          "cwiczenia": "Brak dodatkowych ćwiczeń – tylko rozciąganie po spacerze.",
          "stretching": "Rozciąganie pośladków, dwugłowych i łydek 3 x 20 sekund."
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Marszobieg – start)",
+         "opis": "Wprowadzenie lekkiego truchtu po miękkim terenie przy jednoczesnym utrzymaniu marszu.",
+         "cel": "Przyzwyczajenie mięśnia dwugłowego do pracy w wydłużeniu i przygotowanie do biegu.",
+         "aktywnosc": "Marsz 3–5 minut / trucht 1–2 minuty, powtarzaj przez 25–30 minut na miękkim terenie (las, ścieżki leśne).",
+         "cwiczenia": [
+            "Most biodrowy jednostronny (3 x 10)",
+            "Clamshell z gumą (3 x 15)",
+            "Bird-dog (3 x 8 na stronę)",
+            "Stanie na jednej nodze z zamkniętymi oczami (3 x 30 sekund na stronę)"
+         ],
+         "stretching": "Rozciąganie pośladków, dwugłowych i bioder 3 x 20 sekund."
+      },
+      {
+         "dzien": "Wtorek (Regeneracja aktywna)",
+         "opis": "Spacer terenowy dla poprawy krążenia i odciążenia mięśnia dwugłowego.",
+         "cel": "Utrzymanie mobilności i przepływu krwi, regeneracja po poniedziałkowym marszobiegu.",
+         "aktywnosc": "Spacer 5–7 km po lekkim terenie, spokojnym tempem.",
+         "cwiczenia": [
+            "Krążenia bioder (3 x 15)",
+            "Glute bridge (2 x 12)",
+            "Koci grzbiet (2 x 10)"
+         ],
+         "stretching": "Rozciąganie bioder i pośladków 3 x 20 sekund."
+      },
+      {
+         "dzien": "Środa (Marszobieg – kontrola obciążenia)",
+         "opis": "Stopniowe zwiększenie czasu truchtu w proporcji 3–4 min marszu / 2 min truchtu.",
+         "cel": "Budowanie tolerancji na obciążenie mięśnia przy zachowaniu kontroli i bezpieczeństwa.",
+         "aktywnosc": "Całkowity czas: 30–35 minut, miękki teren.",
+         "cwiczenia": [
+            "Most biodrowy z zatrzymaniem 3 s (3 x 10)",
+            "Wykrok statyczny (3 x 10 na stronę)",
+            "Clamshell z gumą (3 x 15)",
+            "Bird-dog (3 x 8 na stronę)",
+            "Plank (2 x 30 sekund)"
+         ],
+         "stretching": "Rozciąganie tylnej taśmy uda 3 x 20 sekund, pośladki i biodra 3 x 20 sekund."
+      },
+      {
+         "dzien": "Czwartek (Spacer regeneracyjny + mobilność)",
+         "opis": "Delikatna aktywność w celu regeneracji po marszobiegu i utrzymania mobilności.",
+         "cel": "Rozluźnienie mięśni, poprawa krążenia i przygotowanie do kolejnego treningu.",
+         "aktywnosc": "Spacer 5–6 km po lekkim terenie lub w parku.",
+         "cwiczenia": [
+            "Krążenia bioder (3 x 15)",
+            "Clamshell (3 x 12)",
+            "Glute bridge (2 x 12)"
+         ],
+         "stretching": "Rozciąganie pośladków i tyłu uda 3 x 20 sekund."
+      },
+      {
+         "dzien": "Piątek (Odpoczynek pełny)",
+         "opis": "Dzień regeneracji z minimalną aktywnością, tylko lekkie mobilizacje.",
+         "cel": "Odpoczynek mięśni, regeneracja układu nerwowego.",
+         "aktywnosc": "Brak aktywności biegowej, tylko rutynowa mobilizacja bioder 5–10 minut.",
+         "cwiczenia": [
+            "Delikatne krążenia bioder (2 x 10)",
+            "Rozciąganie pośladków i tylnej taśmy 2 x 20 sekund"
+         ],
+         "stretching": "Tylko jeśli odczuwasz sztywność 2–3 x 20 sekund."
+      },
+      {
+         "dzien": "Sobota (Marszobieg – wydłużenie)",
+         "opis": "Dłuższa sesja marszobiegowa z proporcją 3–4 min marszu / 2–3 min truchtu, miękki teren.",
+         "cel": "Stopniowe przyzwyczajanie mięśnia do dłuższego wysiłku.",
+         "aktywnosc": "Całkowity czas 35–40 minut, tempo spokojne, podłoże miękkie.",
+         "cwiczenia": [
+            "Most biodrowy jednostronny (3 x 10)",
+            "Wykrok boczny (3 x 8 na stronę)",
+            "Clamshell z gumą (3 x 15)",
+            "Stanie na jednej nodze z zamkniętymi oczami (3 x 30 sekund na stronę)"
+         ],
+         "stretching": "Rozciąganie pośladków, dwugłowych i bioder 3 x 20 sekund."
+      },
+      {
+         "dzien": "Niedziela (Spacer regeneracyjny + kontrola odczuć)",
+         "opis": "Luźny spacer w terenie, opcjonalnie lekkie wzniesienia dla lekkiej pracy ekscentrycznej.",
+         "cel": "Regeneracja, kontrola ewentualnego dyskomfortu, przygotowanie do tygodnia 4.",
+         "aktywnosc": "Spacer 5–8 km w lekkim tempie, miękkie podłoże.",
+         "cwiczenia": [
+            "Krążenia bioder (3 x 15)",
+            "Glute bridge (2 x 12)",
+            "Bird-dog (3 x 8 na stronę)"
+         ],
+         "stretching": "Rozciąganie pośladków, dwugłowych i łydek 3 x 20 sekund."
+      }
    ]
 ]
