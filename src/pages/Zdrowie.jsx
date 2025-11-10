@@ -1,20 +1,20 @@
 import React from "react";
-import { HeartPlus } from "lucide-react";
+import { usePageTitle } from "../hooks/usePageTitle";
 import MedicalSuppliesList from "./MedicalSuppliesList";
 
 const Zdrowie = () => {
+   usePageTitle("Apteczka Biegacza");
    return (
-      <div className='space-y-6 transition-colors duration-300'>
+      <div className='max-w-4xl mx-auto px-4 py-8 space-y-6 transition-colors duration-300'>
          {/* Nagłówek sekcji */}
-         <div className='flex items-center gap-2 border-b border-gray-200 dark:border-gray-700 pb-2'>
-            <HeartPlus className='text-red-500 w-6 h-6' />
-            <h1 className='text-2xl font-semibold text-gray-800 dark:text-gray-200'>
-               Apteczka biegacza
+         <div className='flex items-center gap-3 border-b border-gray-200 dark:border-gray-700 pb-3'>
+            <h1 className='text-2xl md:text-3xl font-semibold text-gray-800 dark:text-gray-200'>
+               🩺 Apteczka Biegacza
             </h1>
          </div>
 
          {/* Opis sekcji */}
-         <p className='text-gray-600 dark:text-gray-300 leading-relaxed'>
+         <p className='text-gray-700 dark:text-gray-300 leading-relaxed text-lg'>
             Bieganie to nie tylko kilometry i treningi — to też dbanie o ciało.
             Tu znajdziesz zestaw rzeczy, które warto mieć pod ręką w razie
             kontuzji, przetarć lub zwykłego zmęczenia po długim wybieganiu.

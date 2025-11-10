@@ -1,9 +1,12 @@
 import { useParams, Link } from "react-router-dom";
+import { usePageTitle } from "../hooks/usePageTitle";
 import projectsData from "../data/projects.json";
 
 export default function ProjectDetails() {
    const { id } = useParams();
    const project = projectsData.find((p) => p.id === id);
+
+   usePageTitle(project?.title || "Projekty Biegowe");
 
    if (!project) {
       return (

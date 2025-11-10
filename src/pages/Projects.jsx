@@ -1,8 +1,10 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import { usePageTitle } from "../hooks/usePageTitle";
 import projectsData from "../data/projects.json";
 
 const Projects = () => {
+   usePageTitle("Projekty Biegowe");
    return (
       <section className='transition-colors duration-300'>
          <h1 className='text-2xl md:text-3xl font-bold mb-6 text-gray-800 dark:text-gray-200'>

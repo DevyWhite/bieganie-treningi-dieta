@@ -19,12 +19,17 @@ const Injury = () => {
    }
 
    return (
-      <div className='max-w-5xl mx-auto px-4 py-6 space-y-6 transition-colors duration-300'>
+      <div className='max-w-5xl mx-auto px-4 py-10 space-y-10 transition-colors duration-300 bg-gray-50 dark:bg-gray-900 min-h-screen'>
+         {/* --- Główny nagłówek strony --- */}
+         <h1 className='text-3xl font-bold mb-10 text-center text-gray-800 dark:text-gray-100'>
+            🏥 Porady i ćwiczenia zdrowotne
+         </h1>
+
          {injuryInfo.map((injury) => (
             <div
                key={injury.id}
                id={injury.id}
-               className='bg-white dark:bg-gray-800 p-6 rounded-xl shadow dark:shadow-gray-700 hover:shadow-md dark:hover:shadow-gray-600 transition-shadow duration-200'
+               className='bg-white dark:bg-gray-800 p-6 rounded-2xl shadow-sm dark:shadow-gray-800 hover:shadow-md dark:hover:shadow-gray-700 transition-all duration-300'
             >
                {/* Tytuł i opis */}
                <h2 className='text-2xl font-semibold mb-2 text-emerald-700 dark:text-emerald-400'>

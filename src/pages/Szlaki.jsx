@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { usePageTitle } from "../hooks/usePageTitle";
 import trailsData from "../data/szlaki.json";
 
 const Szlaki = () => {
@@ -10,6 +11,8 @@ const Szlaki = () => {
       setTrails(trailsData.trasyBiegowe || []);
    }, []);
 
+   usePageTitle("Trasy biegowe");
+
    const toggleTrail = (id) => {
       setOpenTrailId(openTrailId === id ? null : id);
       setOpenStageId(null);
@@ -20,21 +23,21 @@ const Szlaki = () => {
    };
 
    return (
-      <div className='max-w-5xl mx-auto px-4 py-8'>
-         <h1 className='text-3xl font-bold text-gray-800 mb-6 text-center'>
-            🏃‍♂️ Trasy Biegowe
+      <div className='max-w-5xl mx-auto px-4 py-8 transition-colors duration-300'>
+         <h1 className='text-3xl font-bold text-gray-800 dark:text-gray-100 mb-8 text-center'>
+            🏃‍♂️ Trasy biegowe
          </h1>
 
          <div className='space-y-4'>
             {trails.map((trail) => (
                <div
                   key={trail.id}
-                  className='bg-white rounded-2xl shadow-sm border border-gray-100 overflow-hidden transition-all duration-300'
+                  className='bg-white dark:bg-gray-800 rounded-2xl shadow-sm dark:shadow-gray-800 border border-gray-100 dark:border-gray-700 overflow-hidden transition-all duration-300'
                >
                   {/* Nagłówek trasy */}
                   <button
                      onClick={() => toggleTrail(trail.id)}
-                     className='w-full text-left px-6 py-4 font-semibold text-lg text-gray-800 hover:bg-gray-50 transition-colors flex justify-between items-center'
+                     className='w-full text-left px-6 py-4 font-semibold text-lg text-gray-800 dark:text-gray-100 hover:bg-gray-50 dark:hover:bg-gray-700/50 transition-colors flex justify-between items-center'
                   >
                      <span>{trail.name}</span>
                      <span
@@ -55,7 +58,7 @@ const Szlaki = () => {
                      }`}
                   >
                      <div className='px-6 pb-6 animate-fadeIn'>
-                        <p className='text-gray-600 mb-4'>
+                        <p className='text-gray-600 dark:text-gray-300 mb-4'>
                            {trail.description}
                         </p>
 
@@ -73,13 +76,13 @@ const Szlaki = () => {
                               {trail.stages.map((stage) => (
                                  <div
                                     key={stage.stageId}
-                                    className='border border-gray-100 rounded-xl'
+                                    className='border border-gray-100 dark:border-gray-700 rounded-xl overflow-hidden'
                                  >
                                     <button
                                        onClick={() =>
                                           toggleStage(stage.stageId)
                                        }
-                                       className='w-full text-left px-4 py-3 font-medium text-gray-700 flex justify-between items-center hover:bg-gray-50 transition'
+                                       className='w-full text-left px-4 py-3 font-medium text-gray-700 dark:text-gray-200 flex justify-between items-center hover:bg-gray-50 dark:hover:bg-gray-700/50 transition'
                                     >
                                        <span>{stage.stageName}</span>
                                        <span
@@ -122,27 +125,31 @@ const Szlaki = () => {
 
 /* --- Podkomponent: zawartość etapu --- */
 const StageContent = ({ stage, trailName }) => (
-   <div className='pt-2'>
+   <div className='pt-2 transition-colors duration-300'>
       {stage.image && (
          <img
             src={`/images/running-trails/${stage.image}`}
             alt={stage.stageName}
-            className='rounded-xl w-full object-cover mb-3 max-h-80 shadow-sm'
+            className='rounded-xl w-full object-cover mb-3 max-h-80 shadow-md dark:shadow-gray-900'
          />
       )}
 
       {stage.stageInfo && (
-         <p className='text-gray-600 mb-2'>{stage.stageInfo}</p>
+         <p className='text-gray-700 dark:text-gray-300 mb-2'>
+            {stage.stageInfo}
+         </p>
       )}
 
       {stage.stageBonus && (
-         <p className='text-sm text-green-600 font-medium mb-2'>
+         <p className='text-sm text-green-600 dark:text-green-400 font-medium mb-2'>
             🎁 {stage.stageBonus}
          </p>
       )}
 
       {stage.stageDescription && (
-         <p className='text-gray-500 mb-4'>{stage.stageDescription}</p>
+         <p className='text-gray-600 dark:text-gray-400 mb-4'>
+            {stage.stageDescription}
+         </p>
       )}
 
       {stage.map && (
@@ -150,7 +157,7 @@ const StageContent = ({ stage, trailName }) => (
             <iframe
                title={`Mapa trasy: ${trailName}`}
                src={stage.map.iframe}
-               className='w-full h-full rounded-xl border-0 shadow-sm'
+               className='w-full h-full rounded-xl border-0 shadow-sm dark:shadow-gray-900'
                loading='lazy'
             ></iframe>
          </div>
@@ -162,7 +169,7 @@ const StageContent = ({ stage, trailName }) => (
                href={stage.gpx}
                target='_blank'
                rel='noopener noreferrer'
-               className='px-4 py-2 border border-blue-500 text-blue-600 rounded-lg hover:bg-blue-50 transition'
+               className='px-4 py-2 border border-blue-500 text-blue-600 dark:text-blue-400 rounded-lg hover:bg-blue-50 dark:hover:bg-blue-900/30 transition'
             >
                📍 GPX
             </a>
@@ -172,7 +179,7 @@ const StageContent = ({ stage, trailName }) => (
                href={stage.moreInfo}
                target='_blank'
                rel='noopener noreferrer'
-               className='px-4 py-2 border border-gray-400 text-gray-600 rounded-lg hover:bg-gray-50 transition'
+               className='px-4 py-2 border border-gray-400 text-gray-600 dark:text-gray-300 rounded-lg hover:bg-gray-50 dark:hover:bg-gray-700/50 transition'
             >
                ℹ️ Więcej informacji
             </a>

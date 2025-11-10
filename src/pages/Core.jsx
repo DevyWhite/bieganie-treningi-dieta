@@ -4,23 +4,25 @@ import { usePageTitle } from "../hooks/usePageTitle";
 
 const Core = () => {
    const [exercises, setExercises] = useState([]);
-   usePageTitle("Ćwiczenia Core");
+   usePageTitle("Core");
 
    useEffect(() => {
       setExercises(coreExercisesData);
    }, []);
 
    return (
-      <div className='core-container max-w-4xl mx-auto px-4 py-6 transition-colors duration-300'>
-         <h1 className='text-2xl font-bold mb-6 text-gray-800 dark:text-gray-200'>
-            Zestaw Ćwiczeń Wzmacniających Core
+      <div className='core-container max-w-5xl mx-auto px-4 py-10 transition-colors duration-300 bg-gray-50 dark:bg-gray-900 min-h-screen'>
+         {/* --- Główny nagłówek --- */}
+         <h1 className='text-3xl font-bold mb-6 text-gray-800 dark:text-gray-200 text-center'>
+            💪 Zestaw Ćwiczeń Wzmacniających Core
          </h1>
 
+         {/* Lista ćwiczeń */}
          <ol className='space-y-6'>
             {exercises.map((exercise, index) => (
                <li
                   key={index}
-                  className='p-4 rounded-lg bg-white dark:bg-gray-800 shadow dark:shadow-gray-700 hover:shadow-md dark:hover:shadow-gray-600 transition-shadow duration-200'
+                  className='p-4 rounded-2xl bg-white dark:bg-gray-800 shadow-sm dark:shadow-gray-700 hover:shadow-md dark:hover:shadow-gray-600 transition-all duration-300'
                >
                   <h2 className='text-xl font-semibold mb-2 text-gray-800 dark:text-emerald-400'>
                      {exercise.title}
@@ -53,6 +55,7 @@ const Core = () => {
             ))}
          </ol>
 
+         {/* Sugerowany plan treningu */}
          <h2 className='text-xl font-semibold mt-8 mb-4 text-gray-800 dark:text-gray-200'>
             Sugerowany Układ Treningu Core
          </h2>

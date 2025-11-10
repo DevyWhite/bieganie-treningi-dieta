@@ -1,73 +1,104 @@
 import React, { useEffect, useState } from "react";
+import { usePageTitle } from "../hooks/usePageTitle";
 import mobilizacjaData from "../data/mobilizacja.json";
 
 const Mobilizacja = () => {
    const [sections, setSections] = useState([]);
+   usePageTitle("Mobilizacja");
 
    useEffect(() => {
       setSections(mobilizacjaData);
    }, []);
 
    return (
-      <div className='mobilizacja-container max-w-4xl mx-auto px-4 py-6'>
-         <h1 className='text-2xl font-bold mb-6 text-gray-800 dark:text-gray-200'>
-            Zestaw Ćwiczeń Mobilizacyjnych
+      <div className='max-w-4xl mx-auto px-4 py-10 bg-gray-50 dark:bg-gray-900 transition-colors duration-300 min-h-screen'>
+         {/* Nagłówek */}
+         <h1 className='text-3xl font-bold mb-10 text-center text-gray-800 dark:text-gray-100'>
+            🧘‍♀️ Zestaw Ćwiczeń Mobilizacyjnych
          </h1>
 
+         {/* Sekcje ćwiczeń */}
          {sections.map((section, index) => (
-            <div className='mobilizacja-section mb-8' key={index}>
-               <h2 className='text-xl font-semibold mb-4 text-gray-700'>
+            <div
+               key={index}
+               className='mb-10 border-b border-gray-200 dark:border-gray-700 pb-6'
+            >
+               <h2 className='text-2xl font-semibold mb-4 text-emerald-700 dark:text-emerald-400'>
                   {section.title}
                </h2>
-               <ol className='space-y-4'>
+
+               <ol className='space-y-5'>
                   {section.exercises.map((exercise, i) => (
                      <li
                         key={i}
-                        className='p-4 rounded-lg bg-white dark:bg-gray-800 shadow dark:shadow-gray-700 hover:shadow-md transition-shadow duration-200'
+                        className='p-5 rounded-2xl bg-white dark:bg-gray-800 border border-gray-100 dark:border-gray-700 shadow-sm dark:shadow-gray-800 hover:shadow-md dark:hover:shadow-gray-700 transition-all duration-300'
                      >
-                        <h3 className='text-lg font-semibold text-gray-700 mb-1'>
+                        <h3 className='text-lg font-semibold text-gray-800 dark:text-gray-100 mb-2'>
                            {exercise.title}
                         </h3>
-                        <p className='text-gray-600 mb-1'>
-                           <strong>Cel:</strong> {exercise.goal}
-                        </p>
-                        <p className='text-gray-600 mb-1'>
-                           <strong>Jak wykonać:</strong> {exercise.execution}
-                        </p>
-                        {exercise.duration && (
-                           <p className='text-gray-600 mb-1'>
-                              <strong>Czas:</strong> {exercise.duration}
-                           </p>
-                        )}
-                        {exercise.repetitions && (
-                           <p className='text-gray-600'>
-                              <strong>Powtórzenia:</strong>{" "}
-                              {exercise.repetitions}
-                           </p>
-                        )}
+
+                        <div className='space-y-1 text-gray-700 dark:text-gray-300'>
+                           {exercise.goal && (
+                              <p>
+                                 <strong className='text-gray-900 dark:text-gray-200'>
+                                    Cel:
+                                 </strong>{" "}
+                                 {exercise.goal}
+                              </p>
+                           )}
+                           {exercise.execution && (
+                              <p>
+                                 <strong className='text-gray-900 dark:text-gray-200'>
+                                    Jak wykonać:
+                                 </strong>{" "}
+                                 {exercise.execution}
+                              </p>
+                           )}
+                           {exercise.duration && (
+                              <p>
+                                 <strong className='text-gray-900 dark:text-gray-200'>
+                                    Czas:
+                                 </strong>{" "}
+                                 {exercise.duration}
+                              </p>
+                           )}
+                           {exercise.repetitions && (
+                              <p>
+                                 <strong className='text-gray-900 dark:text-gray-200'>
+                                    Powtórzenia:
+                                 </strong>{" "}
+                                 {exercise.repetitions}
+                              </p>
+                           )}
+                        </div>
                      </li>
                   ))}
                </ol>
             </div>
          ))}
 
-         <h2 className='text-xl font-semibold mb-4 text-gray-800'>
-            Plan wykonania ćwiczeń mobilizacyjnych
-         </h2>
-         <ul className='list-disc list-inside space-y-2 text-gray-600'>
-            <li>
-               Przed bieganiem – Wybierz ćwiczenia dynamiczne (skipy, krążenia
-               biodrami, wspięcia na palce, przysiady sumo, krążenia kostkami).
-            </li>
-            <li>
-               Po bieganiu – Wybierz ćwiczenia statyczne (rozciąganie łydek,
-               czworogłowych, bioder, pośladków i tyłu nóg).
-            </li>
-            <li>
-               Dni nietreningowe – Wybierz kilka z powyższych, aby zachować
-               elastyczność mięśni i stawów.
-            </li>
-         </ul>
+         {/* Sekcja: plan wykonywania ćwiczeń */}
+         <div className='mt-12'>
+            <h2 className='text-2xl font-semibold mb-4 text-gray-800 dark:text-gray-100'>
+               📅 Plan wykonania ćwiczeń mobilizacyjnych
+            </h2>
+            <ul className='list-disc list-inside space-y-2 text-gray-700 dark:text-gray-300 leading-relaxed'>
+               <li>
+                  <strong>Przed bieganiem:</strong> wybierz ćwiczenia dynamiczne
+                  (skipy, krążenia biodrami, wspięcia na palce, przysiady sumo,
+                  krążenia kostkami).
+               </li>
+               <li>
+                  <strong>Po bieganiu:</strong> skup się na ćwiczeniach
+                  statycznych (rozciąganie łydek, czworogłowych, bioder,
+                  pośladków i tyłu nóg).
+               </li>
+               <li>
+                  <strong>Dni nietreningowe:</strong> wybierz kilka z
+                  powyższych, aby zachować elastyczność mięśni i stawów.
+               </li>
+            </ul>
+         </div>
       </div>
    );
 };
