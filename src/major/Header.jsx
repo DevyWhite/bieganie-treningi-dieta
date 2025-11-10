@@ -40,7 +40,7 @@ const Header = () => {
    };
 
    return (
-      <header className='relative w-full h-48 md:h-56 lg:h-64 overflow-hidden rounded-2xl shadow-sm'>
+      <header className='relative w-full h-48 md:h-56 lg:h-64 overflow-hidden rounded-2xl shadow-sm dark:shadow-none border border-gray-100 dark:border-gray-700 transition-colors duration-300'>
          {/* Zdjęcie w tle */}
          <Routes>
             <Route
@@ -49,16 +49,18 @@ const Header = () => {
                   <img
                      src={getImage()}
                      alt='header background'
-                     className='absolute inset-0 w-full h-full object-cover object-center opacity-80'
+                     className='absolute inset-0 w-full h-full object-cover object-center opacity-80 transition-opacity duration-500'
                   />
                }
             />
          </Routes>
 
          {/* Nakładka z tytułem */}
-         <div className='absolute inset-0 bg-black/40 flex items-center justify-center'>
+         <div className='absolute inset-0 bg-black/40 dark:bg-black/50 flex items-center justify-center transition-colors duration-300'>
             <h1 className='text-white text-2xl md:text-3xl lg:text-4xl font-semibold tracking-wide text-center drop-shadow-lg'>
-               {getHeaderText()}
+               <span className='text-emerald-300 drop-shadow-md'>
+                  {getHeaderText()}
+               </span>
             </h1>
          </div>
       </header>

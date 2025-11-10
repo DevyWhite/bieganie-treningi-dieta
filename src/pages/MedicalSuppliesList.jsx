@@ -3,8 +3,8 @@ import medicalSupplies from "../data/medicalSupplies.json";
 
 const MedicalSuppliesList = () => {
    return (
-      <section className='mt-6'>
-         <h3 className='text-xl font-semibold text-gray-800 mb-6'>
+      <section className='mt-6 bg-gray-50 dark:bg-gray-900 transition-colors duration-300'>
+         <h3 className='text-xl font-semibold text-gray-800 mb-6 dark:text-emerald-400'>
             Lista leków i asortymentu medycznego
          </h3>
 
@@ -12,23 +12,23 @@ const MedicalSuppliesList = () => {
             {medicalSupplies.map((item, index) => (
                <div
                   key={index}
-                  className='bg-white rounded-xl shadow-md overflow-hidden hover:shadow-lg transition-shadow duration-300 flex flex-col'
+                  className='bg-white dark:bg-gray-800 rounded-xl shadow-md dark:shadow-gray-700 overflow-hidden hover:shadow-lg dark:hover:shadow-gray-600 transition-shadow duration-300 flex flex-col'
                >
                   {/* Obrazek */}
                   {item.imageUrl && (
                      <img
                         src={item.imageUrl}
                         alt={item.name}
-                        className='h-48 w-full object-contain bg-gray-50 p-3'
+                        className='h-48 w-full object-contain bg-gray-50 dark:bg-gray-700 p-3'
                      />
                   )}
 
                   {/* Zawartość */}
                   <div className='flex flex-col flex-grow p-4'>
-                     <h5 className='text-lg font-semibold text-gray-800 mb-2'>
+                     <h5 className='text-lg font-semibold text-gray-800 dark:text-gray-200 mb-2'>
                         {item.name}
                      </h5>
-                     <p className='text-gray-600 text-sm flex-grow'>
+                     <p className='text-gray-600 dark:text-gray-300 text-sm flex-grow leading-relaxed'>
                         {item.description}
                      </p>
 
@@ -37,7 +37,7 @@ const MedicalSuppliesList = () => {
                            href={item.link}
                            target='_blank'
                            rel='noopener noreferrer'
-                           className='mt-4 inline-block text-sm font-medium text-blue-600 hover:text-blue-800 transition-colors duration-300'
+                           className='mt-4 inline-block text-sm font-medium text-emerald-700 dark:text-emerald-400 hover:text-emerald-600 dark:hover:text-emerald-300 transition-colors duration-300'
                         >
                            Więcej informacji →
                         </a>

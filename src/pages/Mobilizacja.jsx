@@ -10,7 +10,7 @@ const Mobilizacja = () => {
 
    return (
       <div className='mobilizacja-container max-w-4xl mx-auto px-4 py-6'>
-         <h1 className='text-2xl font-bold mb-6 text-gray-800'>
+         <h1 className='text-2xl font-bold mb-6 text-gray-800 dark:text-gray-200'>
             Zestaw Ćwiczeń Mobilizacyjnych
          </h1>
 
@@ -23,7 +23,7 @@ const Mobilizacja = () => {
                   {section.exercises.map((exercise, i) => (
                      <li
                         key={i}
-                        className='p-4 rounded-lg bg-white shadow hover:shadow-md transition-shadow duration-200'
+                        className='p-4 rounded-lg bg-white dark:bg-gray-800 shadow dark:shadow-gray-700 hover:shadow-md transition-shadow duration-200'
                      >
                         <h3 className='text-lg font-semibold text-gray-700 mb-1'>
                            {exercise.title}

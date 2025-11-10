@@ -1,70 +1,75 @@
-import React from "react";
+import React, { lazy, Suspense } from "react";
 import { Routes, Route } from "react-router-dom";
 
-import HomePage from "../pages/HomePage";
-import ErrorPage from "../pages/ErrorPage";
-// import ContactPage from "../pages/ContactPage";
-// import AdminPage from "../pages/AdminPage";
-// import LoginPage from "../pages/LoginPage";
+// 🔹 Lazy loading stron (lepsza wydajność)
+const HomePage = lazy(() => import("../pages/HomePage"));
+const ErrorPage = lazy(() => import("../pages/ErrorPage"));
+const Treningi = lazy(() => import("../pages/Treningi"));
+const Projects = lazy(() => import("../pages/Projects"));
+const Przepisy = lazy(() => import("../pages/Przepisy"));
+const Zdrowie = lazy(() => import("../pages/Zdrowie"));
+const ZawodyBiegowe = lazy(() => import("../pages/ZawodyBiegowe"));
+const Szlaki = lazy(() => import("../pages/Szlaki"));
+const RecipePage = lazy(() => import("../pages/RecipePage"));
+const ArticlePage = lazy(() => import("../pages/ArticlePage"));
+const Cwiczenia = lazy(() => import("../pages/Cwiczenia"));
+const Core = lazy(() => import("../pages/Core"));
+const Stretching = lazy(() => import("../pages/Stretching"));
+const Injury = lazy(() => import("../pages/Injury"));
+const Mobilizacja = lazy(() => import("../pages/Mobilizacja"));
+const ProjectDetails = lazy(() => import("../pages/ProjectDetails"));
+const About = lazy(() => import("../pages/About"));
 
-import Treningi from "../pages/Treningi";
-import Projects from "../pages/Projects";
-import Przepisy from "../pages/Przepisy";
-import Zdrowie from "../pages/Zdrowie";
-import ZawodyBiegowe from "../pages/ZawodyBiegowe";
-import Szlaki from "../pages/Szlaki";
-
-import RecipePage from "../pages/RecipePage";
-import ArticlePage from "../pages/ArticlePage";
-
-import Cwiczenia from "../pages/Cwiczenia";
-import Core from "../pages/Core";
-import Stretching from "../pages/Stretching";
-import Injury from "../pages/Injury";
-import Mobilizacja from "../pages/Mobilizacja";
-import ProjectDetails from "../pages/ProjectDetails";
-import About from "../pages/About";
+// 🔹 Prosty loader (fallback)
+const Loader = () => (
+   <div className='flex items-center justify-center min-h-[200px] text-gray-500 dark:text-gray-400 animate-pulse'>
+      Ładowanie strony...
+   </div>
+);
 
 const Page = () => {
    return (
-      <Routes>
-         <Route path='/' element={<HomePage />} />
+      <Suspense fallback={<Loader />}>
+         <Routes>
+            {/* 🏡 Główna */}
+            <Route path='/' element={<HomePage />} />
 
-         {/* <Route path='/contact' element={<ContactPage />} /> */}
-         {/* <Route path='/admin/*' element={<AdminPage />} /> */}
-         {/* <Route path='/login' element={<LoginPage />} /> */}
+            {/* 🏃‍♂️ Treningi */}
+            <Route path='/treningi' element={<Treningi />} />
 
-         <Route path='/treningi' element={<Treningi />} />
-         <Route path='/zdrowie' element={<Zdrowie />} />
-         <Route path='/zawody-biegowe' element={<ZawodyBiegowe />} />
-         <Route path='/szlaki' element={<Szlaki />} />
+            {/* ❤️ Zdrowie */}
+            <Route path='/zdrowie' element={<Zdrowie />} />
 
-         {/* strona o mnie */}
-         <Route path='/o-mnie' element={<About />} />
+            {/* 🏔️ Szlaki i zawody */}
+            <Route path='/szlaki' element={<Szlaki />} />
+            <Route path='/zawody-biegowe' element={<ZawodyBiegowe />} />
 
-         {/* Strona główna dla listy przepisów */}
-         <Route path='/przepisy' element={<Przepisy />} />
+            {/* 👤 O mnie */}
+            <Route path='/o-mnie' element={<About />} />
 
-         {/* Dynamiczne strony przepisów */}
-         <Route path='/przepisy/:recipeId' element={<RecipePage />} />
+            {/* 🍲 Przepisy */}
+            <Route path='/przepisy' element={<Przepisy />} />
+            <Route path='/przepisy/:recipeId' element={<RecipePage />} />
 
-         {/* Dynamiczne strony artykułów */}
-         <Route path='/article/:id' element={<ArticlePage />} />
+            {/* 📘 Artykuły */}
+            <Route path='/article/:id' element={<ArticlePage />} />
 
-         {/* CWICZENIA */}
-         <Route path='/cwiczenia' element={<Cwiczenia />}>
-            <Route path='core' element={<Core />} />
-            <Route path='stretching' element={<Stretching />} />
-            <Route path='kontuzje' element={<Injury />} />
-            <Route path='mobilizacja' element={<Mobilizacja />} />
-         </Route>
+            {/* 🧘‍♀️ Ćwiczenia z podstronami */}
+            <Route path='/cwiczenia' element={<Cwiczenia />}>
+               <Route path='core' element={<Core />} />
+               <Route path='stretching' element={<Stretching />} />
+               <Route path='kontuzje' element={<Injury />} />
+               <Route path='mobilizacja' element={<Mobilizacja />} />
+            </Route>
 
-         {/* Projekty */}
-         <Route path='/projects' element={<Projects />} />
-         <Route path='/projects/:id' element={<ProjectDetails />} />
+            {/* 💻 Projekty */}
+            <Route path='/projects' element={<Projects />} />
+            <Route path='/projects/:id' element={<ProjectDetails />} />
 
-         <Route path='*' element={<ErrorPage />} />
-      </Routes>
+            {/* 🚫 404 */}
+            <Route path='*' element={<ErrorPage />} />
+         </Routes>
+      </Suspense>
    );
 };
 

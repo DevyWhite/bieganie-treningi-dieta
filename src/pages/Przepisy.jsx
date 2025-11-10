@@ -22,7 +22,7 @@ const Przepisy = () => {
 
    return (
       <div className='px-4 md:px-6 py-6 max-w-6xl mx-auto'>
-         <h1 className='text-2xl md:text-3xl font-semibold text-gray-800 mb-6'>
+         <h1 className='text-2xl md:text-3xl font-semibold text-gray-800 mb-6 dark:text-gray-200'>
             Przepisy
          </h1>
 
@@ -41,14 +41,14 @@ const Przepisy = () => {
                <Link
                   to={`/przepisy/${recipe.link}`}
                   key={recipe.id}
-                  className='bg-white rounded-xl shadow hover:shadow-md transition-shadow duration-200 overflow-hidden flex flex-col'
+                  className='bg-white dark:bg-gray-800 rounded-xl shadow dark:shadow-gray-700 hover:shadow-md transition-shadow duration-200 overflow-hidden flex flex-col'
                >
                   <img
                      src={recipe.image || defaultImage}
                      alt={recipe.title}
                      className='w-full h-48 object-cover'
                   />
-                  <p className='p-4 text-gray-800 font-medium'>
+                  <p className='p-4 text-gray-800 font-medium dark:text-gray-200'>
                      {recipe.title}
                   </p>
                </Link>

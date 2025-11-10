@@ -38,8 +38,7 @@ body {
 
 /* --- DARK MODE --- */
 .dark body {
-   background-color: #0f172a; /* slate-900 */
-   color: #f8fafc; /* slate-50 */
+   @apply bg-gray-900 text-gray-200;
 }
 
 /* --- Linki --- */

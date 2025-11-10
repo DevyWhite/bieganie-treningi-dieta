@@ -22,7 +22,13 @@ const Treningi = () => {
          </div>
 
          {/* Drzewko dni */}
-         <div className='w-full max-w-4xl bg-white shadow-md rounded-2xl p-6 border border-gray-100'>
+         <div
+            className='w-full max-w-4xl 
+                bg-white dark:bg-gray-800 
+                shadow-md dark:shadow-gray-700 
+                rounded-2xl p-6 
+                border border-gray-100 dark:border-gray-700'
+         >
             <DrzewkoDni dni={treningiTygodnie[aktywnyTydzien]} />
          </div>
       </div>

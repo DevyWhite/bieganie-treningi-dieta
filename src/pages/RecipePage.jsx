@@ -23,15 +23,15 @@ const RecipePage = () => {
             alt={przepis.title}
             className='w-full h-64 md:h-80 object-cover rounded-xl shadow'
          />
-         <h2 className='text-2xl md:text-3xl font-semibold text-gray-800'>
+         <h2 className='text-2xl md:text-3xl font-semibold text-gray-800 dark:text-gray-200'>
             {przepis.title}
          </h2>
 
          <div className='flex flex-col md:flex-row gap-6'>
             {/* Składniki */}
-            <div className='md:w-1/2 bg-white rounded-xl shadow p-4'>
+            <div className='md:w-1/2 bg-white dark:bg-gray-800 rounded-xl shadow dark:shadow-gray-700 p-4'>
                <h3 className='text-xl font-medium mb-2'>Składniki:</h3>
-               <ul className='list-disc list-inside space-y-1 text-gray-700'>
+               <ul className='list-disc list-inside space-y-1 text-gray-700 dark:text-gray-200'>
                   {przepis.ingredients.map((ingredient, index) => (
                      <li key={index}>{ingredient}</li>
                   ))}
@@ -39,9 +39,9 @@ const RecipePage = () => {
             </div>
 
             {/* Wykonanie */}
-            <div className='md:w-1/2 bg-white rounded-xl shadow p-4'>
+            <div className='md:w-1/2 bg-white dark:bg-gray-800 rounded-xl shadow dark:shadow-gray-700 p-4'>
                <h3 className='text-xl font-medium mb-2'>Wykonanie:</h3>
-               <div className='space-y-2 text-gray-700'>
+               <div className='space-y-2 text-gray-700 dark:text-gray-200'>
                   {przepis.description.map((step, index) => (
                      <p key={index}>{step}</p>
                   ))}

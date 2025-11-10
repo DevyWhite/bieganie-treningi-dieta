@@ -7,18 +7,18 @@ export default function ProjectDetails() {
 
    if (!project) {
       return (
-         <p className='text-center text-gray-600 mt-10'>
+         <p className='text-center text-gray-600 dark:text-gray-300 mt-10'>
             Projekt nie został znaleziony.
          </p>
       );
    }
 
    return (
-      <article className='max-w-4xl mx-auto py-10 px-5'>
+      <article className='max-w-4xl mx-auto py-10 px-5 transition-colors duration-300'>
          <h1 className='text-3xl font-bold text-emerald-700 mb-4'>
             {project.title}
          </h1>
-         <p className='text-gray-500 mb-8'>
+         <p className='text-gray-500 dark:text-gray-400 mb-8'>
             {project.date} · {project.distance}
          </p>
 
@@ -30,20 +30,20 @@ export default function ProjectDetails() {
                      key={index}
                      src={img}
                      alt={`${project.title} - ${index + 1}`}
-                     className='w-full h-64 object-cover rounded-2xl shadow-md'
+                     className='w-full h-64 object-cover rounded-2xl shadow-md dark:shadow-gray-700'
                   />
                ))}
             </div>
          )}
 
-         <div className='prose max-w-none text-gray-800 leading-relaxed'>
+         <div className='prose max-w-none text-gray-800 dark:text-gray-200 leading-relaxed'>
             {project.fullContent.map((block, index) => {
                switch (block.type) {
                   case "subtitle":
                      return (
                         <h2
                            key={index}
-                           className='text-xl font-semibold mt-6 mb-3'
+                           className='text-xl font-semibold mt-6 mb-3 text-gray-800 dark:text-gray-200'
                         >
                            {block.text}
                         </h2>
@@ -58,7 +58,7 @@ export default function ProjectDetails() {
                      return (
                         <blockquote
                            key={index}
-                           className='border-l-4 border-blue-500 pl-4 italic text-gray-700 mb-4'
+                           className='border-l-4 border-blue-500 pl-4 italic text-gray-700 dark:text-gray-200 mb-4'
                         >
                            {block.text}
                         </blockquote>
@@ -79,7 +79,7 @@ export default function ProjectDetails() {
                                     key={i}
                                     src={img.src}
                                     alt={img.alt}
-                                    className='w-full h-96 object-cover rounded-2xl shadow-md'
+                                    className='w-full h-96 object-cover rounded-2xl shadow-md dark:shadow-gray-700'
                                  />
                               ))}
                            </div>
@@ -91,7 +91,7 @@ export default function ProjectDetails() {
                            key={index}
                            src={block.src}
                            alt={block.alt}
-                           className='w-full h-64 object-cover rounded-2xl shadow-md mb-6'
+                           className='w-full h-64 object-cover rounded-2xl shadow-md dark:shadow-gray-700 mb-6'
                         />
                      );
                   default:
@@ -103,10 +103,10 @@ export default function ProjectDetails() {
          {/* Highlights */}
          {project.highlights && project.highlights.length > 0 && (
             <div className='mb-6'>
-               <h2 className='text-xl font-semibold mb-2'>
+               <h2 className='text-xl font-semibold mb-2 text-gray-800 dark:text-gray-200'>
                   Najważniejsze punkty:
                </h2>
-               <ul className='list-disc pl-5 space-y-1'>
+               <ul className='list-disc pl-5 space-y-1 text-gray-700 dark:text-gray-200'>
                   {project.highlights.map((h, i) => (
                      <li key={i}>{h}</li>
                   ))}
@@ -116,18 +116,21 @@ export default function ProjectDetails() {
 
          {/* Tips */}
          {project.tips && project.tips.length > 0 && (
-            <div>
-               <h2 className='text-xl font-semibold mb-2'>Wskazówki:</h2>
-               <ul className='list-disc pl-5 space-y-1'>
+            <div className='mb-6'>
+               <h2 className='text-xl font-semibold mb-2 text-gray-800 dark:text-gray-200'>
+                  Wskazówki:
+               </h2>
+               <ul className='list-disc pl-5 space-y-1 text-gray-700 dark:text-gray-200'>
                   {project.tips.map((tip, i) => (
                      <li key={i}>{tip}</li>
                   ))}
                </ul>
             </div>
          )}
+
          <Link
             to='/projects'
-            className='text-blue-600 hover:underline mb-6 block'
+            className='text-blue-600 hover:underline dark:text-blue-400 mb-6 block'
          >
             ← Powrót do projektów
          </Link>
