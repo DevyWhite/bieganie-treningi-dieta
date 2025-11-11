@@ -11,6 +11,7 @@ const list = [
    { name: "Przepisy", path: "/przepisy" },
    { name: "Szlaki", path: "/szlaki" },
    { name: "Projekty", path: "/projects" },
+   { name: "Artykuły", path: "/articles" },
    { name: "Zawody", path: "/zawody-biegowe" },
    { name: "O mnie", path: "/o-mnie" },
 ];

@@ -19,6 +19,7 @@ const Injury = lazy(() => import("../pages/Injury"));
 const Mobilizacja = lazy(() => import("../pages/Mobilizacja"));
 const ProjectDetails = lazy(() => import("../pages/ProjectDetails"));
 const About = lazy(() => import("../pages/About"));
+const ArticlesListPage = lazy(() => import("../pages/ArticlesListPage"));
 
 // 🔹 Prosty loader (fallback)
 const Loader = () => (
@@ -52,6 +53,7 @@ const Page = () => {
             <Route path='/przepisy/:recipeId' element={<RecipePage />} />
 
             {/* 📘 Artykuły */}
+            <Route path='/articles' element={<ArticlesListPage />} />
             <Route path='/article/:id' element={<ArticlePage />} />
 
             {/* 🧘‍♀️ Ćwiczenia z podstronami */}

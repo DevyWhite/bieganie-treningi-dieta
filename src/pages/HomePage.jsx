@@ -74,6 +74,14 @@ const HomePage = () => {
                </div>
             ))}
          </div>
+         <div className='text-center mt-8'>
+            <Link
+               to='/articles'
+               className='inline-block bg-blue-600 dark:bg-blue-500 text-white px-6 py-3 rounded-lg hover:bg-blue-700 dark:hover:bg-blue-600 transition-colors duration-300'
+            >
+               Zobacz wszystkie artykuły
+            </Link>
+         </div>
       </div>
    );
 };
