@@ -2,18 +2,9 @@ import React, { useEffect, useState } from "react";
 import { Moon, Sun } from "lucide-react";
 
 const DarkModeToggle = () => {
-   const [darkMode, setDarkMode] = useState(false);
-
-   useEffect(() => {
-      const stored = localStorage.getItem("theme");
-      const prefersDark = window.matchMedia(
-         "(prefers-color-scheme: dark)"
-      ).matches;
-      const initial = stored ? stored === "dark" : prefersDark;
-
-      setDarkMode(initial);
-      document.documentElement.classList.toggle("dark", initial);
-   }, []);
+   const [darkMode, setDarkMode] = useState(
+      document.documentElement.classList.contains("dark")
+   );
 
    const toggleTheme = () => {
       const newTheme = !darkMode;
@@ -21,6 +12,21 @@ const DarkModeToggle = () => {
       document.documentElement.classList.toggle("dark", newTheme);
       localStorage.setItem("theme", newTheme ? "dark" : "light");
    };
+
+   // Sync if user changes system preference
+   useEffect(() => {
+      const mediaQuery = window.matchMedia("(prefers-color-scheme: dark)");
+      const handleChange = (e) => {
+         const prefersDark = e.matches;
+         const storedTheme = localStorage.getItem("theme");
+         if (!storedTheme) {
+            document.documentElement.classList.toggle("dark", prefersDark);
+            setDarkMode(prefersDark);
+         }
+      };
+      mediaQuery.addEventListener("change", handleChange);
+      return () => mediaQuery.removeEventListener("change", handleChange);
+   }, []);
 
    return (
       <button

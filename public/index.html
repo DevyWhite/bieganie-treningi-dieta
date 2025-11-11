@@ -13,6 +13,20 @@
          href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap"
          rel="stylesheet"
       />
+      <script>
+         (function () {
+            const storedTheme = localStorage.getItem("theme");
+            const prefersDark = window.matchMedia(
+               "(prefers-color-scheme: dark)"
+            ).matches;
+            if (storedTheme === "dark" || (!storedTheme && prefersDark)) {
+               document.documentElement.classList.add("dark");
+            } else {
+               document.documentElement.classList.remove("dark");
+            }
+         })();
+      </script>
+
       <!--
       Notice the use of %PUBLIC_URL% in the tags above.
       It will be replaced with the URL of the `public` folder during the build.
