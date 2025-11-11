@@ -51,7 +51,7 @@ const ArticlesListPage = () => {
                         Autor: {article.author}
                      </p>
                      {article.excerpt && (
-                        <p className='text-gray-600 dark:text-gray-300 mb-4 line-clamp-4 leading-relaxed'>
+                        <p className='text-gray-600 dark:text-gray-300 mb-4 line-clamp-4 leading-relaxed text-left'>
                            {article.excerpt}
                         </p>
                      )}

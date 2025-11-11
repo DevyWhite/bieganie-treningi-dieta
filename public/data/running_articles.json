@@ -68,5 +68,13 @@
       "author": "Katarzyna Szymczak",
       "image": "/images/article-images/motywacja-bieganie.jpg",
       "content": "/data/articles/article-10.json"
+   },
+   {
+      "id": 11,
+      "title": "Moja walka z kontuzją i tęsknotą za szlakiem",
+      "author": "Dawid",
+      "excerpt": "Pobiegłbym... Ale to byłoby krótkie i nieodpowiedzialne.",
+      "image": "/images/article-images/11/main.jpg",
+      "content": "/data/articles/kontuzja.json"
    }
 ]

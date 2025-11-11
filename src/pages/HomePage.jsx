@@ -58,8 +58,8 @@ const HomePage = () => {
                      )}
 
                      {article.excerpt && (
-                        <p className='text-gray-700 dark:text-gray-300 line-clamp-3 mb-4 leading-relaxed'>
-                           {article.excerpt}
+                        <p className='text-gray-700 dark:text-gray-300 mb-4 leading-relaxed text-left'>
+                           {article.excerpt.replace(/\s+/g, " ").trim()}
                         </p>
                      )}
                   </div>

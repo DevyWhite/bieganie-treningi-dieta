@@ -15,13 +15,13 @@ const Cwiczenia = () => {
    return (
       <div className='cwiczenia-container transition-colors duration-300'>
          <nav className='mb-4'>
-            <ul className='flex flex-wrap gap-2'>
+            <ul className='flex flex-wrap gap-2 items-center'>
                {navItems.map((item) => (
                   <li key={item.path}>
                      <NavLink
                         to={item.path}
                         className={({ isActive }) =>
-                           `px-4 py-2 rounded-lg font-medium transition-colors duration-200
+                           `flex items-center px-4 py-2 rounded-lg font-medium transition-colors duration-200
                             ${
                                isActive
                                   ? "bg-emerald-700 dark:bg-emerald-500 text-white"
