@@ -21,12 +21,12 @@ const ArticlesListPage = () => {
    }
 
    return (
-      <div className='max-w-6xl mx-auto px-4 py-10 transition-colors duration-300'>
-         <h1 className='text-3xl font-bold mb-10 text-center text-gray-800 dark:text-gray-200'>
+      <div className='max-w-6xl mx-auto px-1 py-5 sm:px-4 sm:py-10 transition-colors duration-300'>
+         <h1 className='text-2xl sm:text-3xl font-bold mb-10 text-center text-gray-800 dark:text-gray-200'>
             Wszystkie artykuły 📰
          </h1>
 
-         <div className='grid md:grid-cols-2 lg:grid-cols-3 gap-8'>
+         <div className='grid md:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-8'>
             {articles.map((article) => (
                <Link
                   to={`/article/${article.id}`}

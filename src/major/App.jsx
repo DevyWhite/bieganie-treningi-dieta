@@ -12,13 +12,13 @@ const App = () => {
          <div className='flex flex-col min-h-screen bg-gray-50 text-gray-800 dark:bg-gray-900 dark:text-gray-200 transition-colors duration-300'>
             {/* HEADER */}
             <header className='bg-white dark:bg-gray-800 shadow-sm dark:shadow-none transition-colors duration-300'>
-               <div className='max-w-6xl mx-auto px-4 py-4 flex justify-between items-center'>
+               <div className='max-w-6xl mx-auto px-1 py-1 sm:px-4 sm:py-4 flex justify-between items-center'>
                   <Header />
                </div>
             </header>
 
             {/* MAIN CONTENT */}
-            <main className='flex flex-1 flex-col md:flex-row w-full max-w-6xl mx-auto px-4 py-8 gap-8 transition-colors duration-300'>
+            <main className='flex flex-1 flex-col md:flex-row w-full max-w-6xl mx-auto px-1 py-1 gap-2 sm:px-4 sm:py-8 sm:gap-8 transition-colors duration-300'>
                {/* NAVIGATION */}
                <aside className='md:w-1/4 w-full bg-white dark:bg-gray-800 rounded-2xl shadow-sm dark:shadow-none border border-gray-100 dark:border-gray-700 p-4 transition-colors duration-300'>
                   <Navigation />
@@ -32,7 +32,7 @@ const App = () => {
 
             {/* FOOTER */}
             <footer className='bg-white dark:bg-gray-800 border-t border-gray-100 dark:border-gray-700 shadow-inner mt-auto transition-colors duration-300'>
-               <div className='max-w-6xl mx-auto px-4 py-6 text-center text-sm text-gray-500 dark:text-gray-400'>
+               <div className='max-w-6xl mx-auto px-1 py-1 sm:px-4 sm:py-6 text-center text-sm text-gray-500 dark:text-gray-400'>
                   <Footer />
                </div>
             </footer>

@@ -33,7 +33,7 @@ const ArticlePage = () => {
    }
 
    return (
-      <div className='max-w-4xl mx-auto px-4 py-10 transition-colors duration-300'>
+      <div className='max-w-4xl mx-auto px-1 py-5 sm:px-4 sm:py-10 transition-colors duration-300'>
          {/* Nagłówek artykułu */}
          <h1 className='text-4xl font-bold text-center mb-6 text-gray-800 dark:text-gray-100'>
             {article.title}

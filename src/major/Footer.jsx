@@ -11,7 +11,7 @@ const Footer = () => {
          </h2>
 
          {/* Opis */}
-         <p className='max-w-md text-gray-500 dark:text-gray-400 leading-relaxed'>
+         <p className='max-w-md text-center text-gray-500 dark:text-gray-400 leading-relaxed'>
             Biegam po lesie i po kodzie – moje trasy, projekty biegowe i pomysły
             na życie w rytmie natury.
          </p>

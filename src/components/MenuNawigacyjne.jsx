@@ -2,7 +2,7 @@ import React from "react";
 
 const MenuNawigacyjne = ({ tygodnie, ustawTydzien, aktywnyTydzien }) => {
    return (
-      <nav className='flex flex-wrap justify-center gap-2 mt-4'>
+      <nav className='flex flex-wrap justify-center gap-1 sm:gap-2 mt-4'>
          {tygodnie.map((_, index) => {
             const isActive = index === aktywnyTydzien;
 
@@ -11,7 +11,7 @@ const MenuNawigacyjne = ({ tygodnie, ustawTydzien, aktywnyTydzien }) => {
                   key={index}
                   onClick={() => ustawTydzien(index)}
                   className={`
-                     px-4 py-2 rounded-lg font-medium 
+                     px-2 py:2 sm:px-4 sm:py-2 rounded-lg font-medium 
                      transition-all duration-200 ease-in-out
                      border
                      ${

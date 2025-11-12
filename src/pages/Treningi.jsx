@@ -9,9 +9,9 @@ const Treningi = () => {
    const [aktywnyTydzien, ustawAktywnyTydzien] = useState(0);
 
    return (
-      <div className='min-h-screen bg-gray-50 dark:bg-gray-900 transition-colors duration-300 py-10 px-4 flex flex-col items-center'>
+      <div className='min-h-screen bg-gray-50 dark:bg-gray-900 transition-colors duration-300 px-1 py-5 sm:py-10 sm:px-4 flex flex-col items-center'>
          {/* Nagłówek */}
-         <h1 className='text-3xl font-bold text-gray-800 dark:text-gray-100 mb-8 text-center'>
+         <h1 className='text-2xl sm:text-3xl font-bold text-gray-800 dark:text-gray-100 mb-8 text-center'>
             🏋️‍♂️ Plan treningowy – Tydzień {aktywnyTydzien + 1}
          </h1>
 
