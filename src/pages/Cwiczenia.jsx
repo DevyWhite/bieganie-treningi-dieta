@@ -21,7 +21,7 @@ const Cwiczenia = () => {
                      <NavLink
                         to={item.path}
                         className={({ isActive }) =>
-                           `flex items-center px-4 py-2 rounded-lg font-medium transition-colors duration-200
+                           `flex items-center px-2 py-2 sm:px-4 rounded-lg font-medium transition-colors duration-200
                             ${
                                isActive
                                   ? "bg-emerald-700 dark:bg-emerald-500 text-white"
