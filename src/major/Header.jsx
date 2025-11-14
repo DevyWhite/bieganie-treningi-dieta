@@ -58,7 +58,7 @@ const Header = () => {
          {/* Nakładka z tytułem */}
          <div className='absolute inset-0 bg-black/40 dark:bg-black/50 flex items-center justify-center transition-colors duration-300'>
             <h1 className='text-white text-2xl md:text-3xl lg:text-4xl font-semibold tracking-wide text-center drop-shadow-lg'>
-               <span className='text-emerald-300 drop-shadow-md'>
+               <span className='text-gray-300 drop-shadow-md'>
                   {getHeaderText()}
                </span>
             </h1>
