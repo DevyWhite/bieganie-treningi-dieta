@@ -1,80 +1,18 @@
 [
    {
       "id": 1,
-      "title": "Jak zacząć biegać: przewodnik dla początkujących",
-      "author": "Anna Nowak",
-      "image": "/images/article-images/tmp_img.jpg",
-      "content": "/data/articles/article-1.json"
+      "title": "Dlaczego pokochałem trail running?",
+      "author": "Dawid",
+      "excerpt": "O magii biegania tam, gdzie kończy się asfalt.",
+      "image": "/images/article-images/1/main.jpg",
+      "content": "/data/articles/why-trail-running.json"
    },
    {
       "id": 2,
-      "title": "Korzyści z biegania dla zdrowia",
-      "author": "Marek Kowalski",
-      "image": "/images/article-images/korzysci-biegania.jpg",
-      "content": "/data/articles/article-2.json"
-   },
-   {
-      "id": 3,
-      "title": "Jak uniknąć kontuzji podczas biegania",
-      "author": "Katarzyna Wiśniewska",
-      "image": "/images/article-images/kontuzje-bieganie.jpg",
-      "content": "/data/articles/article-3.json"
-   },
-   {
-      "id": 4,
-      "title": "Bieganie a dieta: co jeść przed i po treningu",
-      "author": "Paweł Jankowski",
-      "image": "/images/article-images/bieganie-dieta.jpg",
-      "content": "/data/articles/article-4.json"
-   },
-   {
-      "id": 5,
-      "title": "Ciekawostki o bieganiu: fakty, które mogą Cię zaskoczyć",
-      "author": "Ewa Nowicka",
-      "image": "/images/article-images/ciekawostki-bieganie.jpg",
-      "content": "/data/articles/article-5.json"
-   },
-   {
-      "id": 6,
-      "title": "Jak wybrać odpowiednie buty do biegania",
-      "author": "-",
-      "image": "/images/article-images/6/buty-biegowe.jpg",
-      "content": "/data/articles/article-6.json"
-   },
-   {
-      "id": 7,
-      "title": "Trening interwałowy: jak poprawić wydolność",
-      "author": "Agnieszka Kowalczyk",
-      "image": "/images/article-images/trening-interwalowy.jpg",
-      "content": "/data/articles/article-7.json"
-   },
-   {
-      "id": 8,
-      "title": "Jak biegać w różnych warunkach pogodowych",
-      "author": "Marta Zielińska",
-      "image": "/images/article-images/bieganie-pogoda.jpg",
-      "content": "/data/articles/article-8.json"
-   },
-   {
-      "id": 9,
-      "title": "Zabawa z bieganiem: wyzwania i zawody",
-      "author": "Janusz Kaczmarek",
-      "image": "/images/article-images/zawody-biegowe.jpg",
-      "content": "/data/articles/article-9.json"
-   },
-   {
-      "id": 10,
-      "title": "Mentalne aspekty biegania: jak utrzymać motywację",
-      "author": "Katarzyna Szymczak",
-      "image": "/images/article-images/motywacja-bieganie.jpg",
-      "content": "/data/articles/article-10.json"
-   },
-   {
-      "id": 11,
       "title": "Moja walka z kontuzją i tęsknotą za szlakiem",
       "author": "Dawid",
       "excerpt": "Pobiegłbym... Ale to byłoby krótkie i nieodpowiedzialne.",
-      "image": "/images/article-images/11/main.jpg",
+      "image": "/images/article-images/2/main.jpg",
       "content": "/data/articles/kontuzja.json"
    }
 ]
