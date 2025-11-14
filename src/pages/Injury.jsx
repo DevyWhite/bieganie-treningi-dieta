@@ -21,7 +21,7 @@ const Injury = () => {
    return (
       <div className='max-w-5xl mx-auto px-4 py-10 space-y-10 transition-colors duration-300 bg-gray-50 dark:bg-gray-900 min-h-screen'>
          {/* --- Główny nagłówek strony --- */}
-         <h1 className='text-3xl font-bold mb-10 text-center text-gray-800 dark:text-gray-100'>
+         <h1 className='text-2xl sm:text-3xl font-bold mb-10 text-center text-gray-800 dark:text-gray-100'>
             🏥 Porady i ćwiczenia zdrowotne
          </h1>
 
@@ -32,10 +32,10 @@ const Injury = () => {
                className='bg-white dark:bg-gray-800 p-6 rounded-2xl shadow-sm dark:shadow-gray-800 hover:shadow-md dark:hover:shadow-gray-700 transition-all duration-300'
             >
                {/* Tytuł i opis */}
-               <h2 className='text-2xl font-semibold mb-2 text-emerald-700 dark:text-emerald-400'>
+               <h2 className='text-xl sm:text-2xl font-bold mb-2 text-emerald-700 dark:text-emerald-400'>
                   {injury.title}
                </h2>
-               <p className='text-gray-700 mb-4 dark:text-gray-200 leading-relaxed'>
+               <p className='text-gray-700 mb-4 dark:text-gray-200 leading-relaxed text-left'>
                   {injury.description}
                </p>
 
@@ -48,12 +48,12 @@ const Injury = () => {
                      {injury.exercises.map((exercise, index) => {
                         if (exercise.category) {
                            return (
-                              <div key={index} className='space-y-2'>
-                                 <h4 className='font-semibold text-gray-800 dark:text-gray-200'>
+                              <div key={index}>
+                                 <h4 className='font-semibold text-gray-800 dark:text-gray-200 text-left'>
                                     {exercise.category}
                                  </h4>
                                  {exercise.instructions && (
-                                    <p className='text-gray-700 dark:text-gray-200 leading-relaxed'>
+                                    <p className='text-gray-700 dark:text-gray-200 leading-relaxed text-left'>
                                        {exercise.instructions}
                                     </p>
                                  )}
@@ -63,13 +63,16 @@ const Injury = () => {
                                           key={typeIndex}
                                           className='pl-4 space-y-1'
                                        >
-                                          <h5 className='font-medium text-gray-800 dark:text-gray-200'>
+                                          <h5 className='font-medium text-gray-800 dark:text-gray-200 text-left'>
                                              {type.subcategory}
                                           </h5>
-                                          <ul className='list-disc list-inside space-y-1 text-gray-700 dark:text-gray-200 leading-relaxed'>
+                                          <ul className='list-disc list-inside space-y-1 text-gray-700 dark:text-gray-200 leading-relaxed text-left'>
                                              {type.exercises.map(
                                                 (ex, exIndex) => (
-                                                   <li key={exIndex}>
+                                                   <li
+                                                      key={exIndex}
+                                                      className='text-left'
+                                                   >
                                                       <strong>
                                                          {ex.title}
                                                       </strong>
@@ -93,7 +96,7 @@ const Injury = () => {
                                  key={index}
                                  className='list-disc list-inside text-gray-700 dark:text-gray-200 leading-relaxed'
                               >
-                                 <li>
+                                 <li className='text-left'>
                                     <strong>{exercise.title}</strong>{" "}
                                     {exercise.description}{" "}
                                     {exercise.series && (
@@ -121,9 +124,9 @@ const Injury = () => {
                   Stretching:
                </h3>
                {injury.stretching && injury.stretching.length > 0 ? (
-                  <ul className='list-disc list-inside space-y-1 text-gray-700 dark:text-gray-200 leading-relaxed'>
+                  <ul className='list-disc list-inside space-y-1 text-gray-700 dark:text-gray-200 leading-relaxed '>
                      {injury.stretching.map((stretch, index) => (
-                        <li key={index}>
+                        <li key={index} className='text-left'>
                            <strong>{stretch.title}</strong>:{" "}
                            {stretch.description}{" "}
                            {stretch.duration && <em>{stretch.duration}</em>}
@@ -143,7 +146,9 @@ const Injury = () => {
                {injury.tips && injury.tips.length > 0 ? (
                   <ul className='list-disc list-inside space-y-1 text-gray-700 dark:text-gray-200 leading-relaxed'>
                      {injury.tips.map((tip, index) => (
-                        <li key={index}>{tip}</li>
+                        <li key={index} className='text-left'>
+                           {tip}
+                        </li>
                      ))}
                   </ul>
                ) : (
@@ -158,7 +163,7 @@ const Injury = () => {
                      <h3 className='text-xl font-semibold mb-1 text-gray-800 dark:text-emerald-400'>
                         Uwagi:
                      </h3>
-                     <p className='text-gray-700 dark:text-gray-200 leading-relaxed'>
+                     <p className='text-gray-700 dark:text-gray-200 leading-relaxed text-left'>
                         {injury.note}
                      </p>
                   </div>

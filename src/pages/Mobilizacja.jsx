@@ -13,7 +13,7 @@ const Mobilizacja = () => {
    return (
       <div className='max-w-4xl mx-auto px-4 py-10 bg-gray-50 dark:bg-gray-900 transition-colors duration-300 min-h-screen'>
          {/* Nagłówek */}
-         <h1 className='text-3xl font-bold mb-10 text-center text-gray-800 dark:text-gray-100'>
+         <h1 className='text-2xl sm:text-3xl font-bold mb-10 text-center text-gray-800 dark:text-gray-100'>
             🧘‍♀️ Zestaw Ćwiczeń Mobilizacyjnych
          </h1>
 
@@ -23,53 +23,55 @@ const Mobilizacja = () => {
                key={index}
                className='mb-10 border-b border-gray-200 dark:border-gray-700 pb-6'
             >
-               <h2 className='text-2xl font-semibold mb-4 text-emerald-700 dark:text-emerald-400'>
+               <h2 className='text-xl sm:text-2xl font-semibold mb-4 text-emerald-700 dark:text-emerald-400'>
                   {section.title}
                </h2>
 
-               <ol className='space-y-5'>
+               <ol className='flex flex-col gap-6'>
                   {section.exercises.map((exercise, i) => (
                      <li
                         key={i}
-                        className='p-5 rounded-2xl bg-white dark:bg-gray-800 border border-gray-100 dark:border-gray-700 shadow-sm dark:shadow-gray-800 hover:shadow-md dark:hover:shadow-gray-700 transition-all duration-300'
+                        className='rounded-2xl bg-white dark:bg-gray-800 border border-gray-100 dark:border-gray-700 shadow-sm dark:shadow-gray-800 hover:shadow-md dark:hover:shadow-gray-700 transition-all duration-300'
                      >
-                        <h3 className='text-lg font-semibold text-gray-800 dark:text-gray-100 mb-2'>
-                           {exercise.title}
-                        </h3>
+                        <div className='p-5 sm:p-6'>
+                           <h3 className='text-lg font-semibold text-gray-800 dark:text-gray-100 mb-2 text-left'>
+                              {exercise.title}
+                           </h3>
 
-                        <div className='space-y-1 text-gray-700 dark:text-gray-300'>
-                           {exercise.goal && (
-                              <p>
-                                 <strong className='text-gray-900 dark:text-gray-200'>
-                                    Cel:
-                                 </strong>{" "}
-                                 {exercise.goal}
-                              </p>
-                           )}
-                           {exercise.execution && (
-                              <p>
-                                 <strong className='text-gray-900 dark:text-gray-200'>
-                                    Jak wykonać:
-                                 </strong>{" "}
-                                 {exercise.execution}
-                              </p>
-                           )}
-                           {exercise.duration && (
-                              <p>
-                                 <strong className='text-gray-900 dark:text-gray-200'>
-                                    Czas:
-                                 </strong>{" "}
-                                 {exercise.duration}
-                              </p>
-                           )}
-                           {exercise.repetitions && (
-                              <p>
-                                 <strong className='text-gray-900 dark:text-gray-200'>
-                                    Powtórzenia:
-                                 </strong>{" "}
-                                 {exercise.repetitions}
-                              </p>
-                           )}
+                           <div className='text-gray-700 dark:text-gray-300 text-left'>
+                              {exercise.goal && (
+                                 <p>
+                                    <strong className='text-gray-900 dark:text-gray-200 text-left'>
+                                       Cel:
+                                    </strong>{" "}
+                                    {exercise.goal}
+                                 </p>
+                              )}
+                              {exercise.execution && (
+                                 <p>
+                                    <strong className='text-gray-900 dark:text-gray-200 text-left'>
+                                       Jak wykonać:
+                                    </strong>{" "}
+                                    {exercise.execution}
+                                 </p>
+                              )}
+                              {exercise.duration && (
+                                 <p>
+                                    <strong className='text-gray-900 dark:text-gray-200 text-left'>
+                                       Czas:
+                                    </strong>{" "}
+                                    {exercise.duration}
+                                 </p>
+                              )}
+                              {exercise.repetitions && (
+                                 <p>
+                                    <strong className='text-gray-900 dark:text-gray-200 text-left'>
+                                       Powtórzenia:
+                                    </strong>{" "}
+                                    {exercise.repetitions}
+                                 </p>
+                              )}
+                           </div>
                         </div>
                      </li>
                   ))}

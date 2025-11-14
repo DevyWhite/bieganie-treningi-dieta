@@ -85,7 +85,7 @@ img {
       text-align: justify;
    }
 
-   /* Listy — domyślnie bez kropek */
+   /* Listy - domyślnie bez kropek */
    ul,
    ol {
       @apply list-none pl-0 space-y-1;

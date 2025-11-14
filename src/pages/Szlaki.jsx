@@ -58,7 +58,7 @@ const Szlaki = () => {
                      }`}
                   >
                      <div className='px-6 pb-6 animate-fadeIn'>
-                        <p className='text-gray-600 dark:text-gray-300 mb-4'>
+                        <p className='text-gray-600 dark:text-gray-300 mb-4 text-left'>
                            {trail.description}
                         </p>
 
@@ -147,7 +147,7 @@ const StageContent = ({ stage, trailName }) => (
       )}
 
       {stage.stageDescription && (
-         <p className='text-gray-600 dark:text-gray-400 mb-4'>
+         <p className='text-gray-600 dark:text-gray-400 mb-4 text-left'>
             {stage.stageDescription}
          </p>
       )}

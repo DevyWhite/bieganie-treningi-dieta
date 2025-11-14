@@ -11,7 +11,7 @@ const MenuNawigacyjne = ({ tygodnie, ustawTydzien, aktywnyTydzien }) => {
                   key={index}
                   onClick={() => ustawTydzien(index)}
                   className={`
-                     px-2 py:2 sm:px-4 sm:py-2 rounded-lg font-medium 
+                     px-2 py-2 sm:px-4 sm:py-2 rounded-lg font-medium 
                      transition-all duration-200 ease-in-out
                      border
                      ${

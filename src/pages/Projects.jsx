@@ -7,7 +7,7 @@ const Projects = () => {
    usePageTitle("Projekty Biegowe");
    return (
       <section className='transition-colors duration-300'>
-         <h1 className='text-2xl md:text-3xl font-bold mb-6 text-gray-800 dark:text-gray-200'>
+         <h1 className='text-2xl md:text-3xl font-bold mb-6 text-gray-800 dark:text-gray-200 '>
             Projekty biegowe
          </h1>
          <div className='grid grid-cols-1 md:grid-cols-2 gap-6'>
@@ -25,7 +25,7 @@ const Projects = () => {
                      <h2 className='text-xl font-semibold mb-2 text-gray-800 dark:text-gray-200'>
                         {project.title}
                      </h2>
-                     <p className='text-gray-700 dark:text-gray-200 mb-2'>
+                     <p className='text-gray-700 dark:text-gray-200 mb-2 text-left'>
                         {project.shortDescription}
                      </p>
                      <p className='text-gray-500 dark:text-gray-400 text-sm mb-2'>

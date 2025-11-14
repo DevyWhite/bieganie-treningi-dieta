@@ -14,8 +14,8 @@ const Zdrowie = () => {
          </div>
 
          {/* Opis sekcji */}
-         <p className='text-gray-700 dark:text-gray-300 leading-relaxed text-lg'>
-            Bieganie to nie tylko kilometry i treningi — to też dbanie o ciało.
+         <p className='text-gray-700 dark:text-gray-300 leading-relaxed text-lg text-left'>
+            Bieganie to nie tylko kilometry i treningi - to też dbanie o ciało.
             Tu znajdziesz zestaw rzeczy, które warto mieć pod ręką w razie
             kontuzji, przetarć lub zwykłego zmęczenia po długim wybieganiu.
          </p>

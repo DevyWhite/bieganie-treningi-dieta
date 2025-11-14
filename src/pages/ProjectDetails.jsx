@@ -17,8 +17,8 @@ export default function ProjectDetails() {
    }
 
    return (
-      <article className='max-w-4xl mx-auto py-10 px-5 transition-colors duration-300'>
-         <h1 className='text-3xl font-bold text-emerald-700 mb-4'>
+      <article className='max-w-4xl mx-auto py-5 px-1 sm:py-10 sm:px-5 transition-colors duration-300'>
+         <h1 className='text-2xl sm:text-3xl font-bold text-emerald-700 mb-4'>
             {project.title}
          </h1>
          <p className='text-gray-500 dark:text-gray-400 mb-8'>
@@ -53,7 +53,7 @@ export default function ProjectDetails() {
                      );
                   case "text":
                      return (
-                        <p key={index} className='mb-4'>
+                        <p key={index} className='mb-4 text-left'>
                            {block.text}
                         </p>
                      );
@@ -111,7 +111,9 @@ export default function ProjectDetails() {
                </h2>
                <ul className='list-disc pl-5 space-y-1 text-gray-700 dark:text-gray-200'>
                   {project.highlights.map((h, i) => (
-                     <li key={i}>{h}</li>
+                     <li key={i} className='text-left'>
+                        {h}
+                     </li>
                   ))}
                </ul>
             </div>
@@ -125,7 +127,9 @@ export default function ProjectDetails() {
                </h2>
                <ul className='list-disc pl-5 space-y-1 text-gray-700 dark:text-gray-200'>
                   {project.tips.map((tip, i) => (
-                     <li key={i}>{tip}</li>
+                     <li key={i} className='text-left'>
+                        {tip}
+                     </li>
                   ))}
                </ul>
             </div>

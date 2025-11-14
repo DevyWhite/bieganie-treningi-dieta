@@ -47,7 +47,7 @@ const ZawodyBiegowe = () => {
                         {race.name}
                      </h2>
 
-                     <p className='text-gray-600 dark:text-gray-200 text-sm mb-4 leading-relaxed'>
+                     <p className='text-gray-600 dark:text-gray-200 text-sm mb-4 leading-relaxed text-left'>
                         {race.description}
                      </p>
 

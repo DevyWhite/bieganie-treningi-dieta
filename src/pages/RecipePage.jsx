@@ -39,7 +39,9 @@ const RecipePage = () => {
                </h3>
                <ul className='list-disc list-inside space-y-1 text-gray-700 dark:text-gray-300'>
                   {przepis.ingredients.map((ingredient, index) => (
-                     <li key={index}>{ingredient}</li>
+                     <li key={index} className='text-left'>
+                        {ingredient}
+                     </li>
                   ))}
                </ul>
             </div>
@@ -51,7 +53,9 @@ const RecipePage = () => {
                </h3>
                <div className='space-y-3 text-gray-700 dark:text-gray-300 leading-relaxed'>
                   {przepis.description.map((step, index) => (
-                     <p key={index}>{step}</p>
+                     <p key={index} className='text-left'>
+                        {step}
+                     </p>
                   ))}
                </div>
             </div>
