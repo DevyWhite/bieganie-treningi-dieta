@@ -14,5 +14,21 @@
       "excerpt": "Pobiegłbym... Ale to byłoby krótkie i nieodpowiedzialne.",
       "image": "/images/article-images/2/main.jpg",
       "content": "/data/articles/kontuzja.json"
+   },
+   {
+      "id": 3,
+      "title": "Jak oswoiłem swój żołądek i portfel?",
+      "author": "Dawid",
+      "excerpt": "Moja rewolucja od komercyjnych żeli do domowych batoników.",
+      "image": "/images/article-images/3/main.jpg",
+      "content": "/data/articles/home-fuel.json"
+   },
+   {
+      "id": 4,
+      "title": "Minimalizm biegacza",
+      "author": "Dawid",
+      "excerpt": "Nie chodzi o to, by mieć najmniej, ale by mieć to, co naprawdę działa",
+      "image": "/images/article-images/4/main.jpg",
+      "content": "/data/articles/runners-minimalism.json"
    }
 ]
