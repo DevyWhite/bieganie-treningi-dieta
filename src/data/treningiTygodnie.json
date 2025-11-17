@@ -3103,5 +3103,90 @@
          ],
          "stretching": "Rozciąganie pośladków, dwugłowych i łydek 3 x 20 sekund."
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Mobilizacja + lekkie core)",
+         "opis": "Dzień organizacyjny i rozluźniający — brak biegania.",
+         "cel": "Utrzymanie mobilności i przygotowanie do wejścia w dłuższe truchty w tym tygodniu.",
+         "aktywnosc": "Mobilizacja 15–20 min w domu.",
+         "cwiczenia": [
+            "Koci grzbiet (2 x 10)",
+            "Krążenia bioder (2 x 15)",
+            "Bird-dog (2 x 8 na stronę)",
+            "Plank (2 x 25 sekund)"
+         ],
+         "stretching": "Pośladki, zginacze bioder i tył uda — 3 x 20 sekund."
+      },
+      {
+         "dzien": "Wtorek (Marszobieg – dłuższe truchty)",
+         "opis": "Pierwsze dłuższe odcinki truchtu w proporcjach kontrolowanych.",
+         "cel": "Wydłużenie czasu pracy dwugłowego przy zachowaniu bezpieczeństwa.",
+         "aktywnosc": "Marsz 3 min / trucht 3 min — powtarzaj 6 razy (łącznie 36 minut). Podłoże miękkie.",
+         "cwiczenia": [
+            "Most biodrowy jednostronny (3 x 10)",
+            "Clamshell z gumą (3 x 15)",
+            "Wykrok statyczny (3 x 8 na stronę)",
+            "Stanie na jednej nodze z zamkniętymi oczami (3 x 25 sekund)"
+         ],
+         "stretching": "Tył uda, pośladki i biodra 3 x 20 sekund po treningu."
+      },
+      {
+         "dzien": "Środa (Mobilność + spacer)",
+         "opis": "Dzień regeneracyjny.",
+         "cel": "Utrzymanie krążenia i pełnego zakresu ruchu.",
+         "aktywnosc": "Spacer 4–6 km w terenie lub mieście.",
+         "cwiczenia": [
+            "Koci grzbiet (2 x 10)",
+            "Glute bridge (2 x 12)",
+            "Clamshell (2 x 12)"
+         ],
+         "stretching": "Pośladki i tylna taśma — 3 x 20 sekund."
+      },
+      {
+         "dzien": "Czwartek (Marszobieg – progres)",
+         "opis": "Najważniejszy akcent tygodnia — truchty wydłużone do 4–5 minut.",
+         "cel": "Sprawdzenie tolerancji na dłuższy ciągły ruch.",
+         "aktywnosc": "Marsz 3 min / trucht 4–5 min — powtarzaj 5 razy (35–40 minut). Miękkie podłoże.",
+         "cwiczenia": [
+            "Most biodrowy z zatrzymaniem 3 sek (3 x 10)",
+            "Wykrok boczny (3 x 8 na stronę)",
+            "Bird-dog (3 x 8 na stronę)",
+            "Plank (2 x 30 sekund)"
+         ],
+         "stretching": "Rozciąganie bioder, dwugłowych i łydek — 3 x 20 sekund."
+      },
+      {
+         "dzien": "Piątek (Regeneracja + lekka mobilność)",
+         "opis": "Odpoczynek układu nerwowego i przygotowanie do soboty.",
+         "cel": "Rozluźnienie mięśni i regeneracja.",
+         "aktywnosc": "Lekka mobilizacja 10–15 minut.",
+         "cwiczenia": [
+            "Krążenia bioder (2 x 15)",
+            "Glute bridge (2 x 12)",
+            "Delikatne wymachy nóg (2 x 10)"
+         ],
+         "stretching": "Tylko delikatne, jeśli czujesz napięcie."
+      },
+      {
+         "dzien": "Sobota (Marszobieg dłuższy – quasi-long)",
+         "opis": "Symulacja dłuższej jednostki, nadal bez biegu ciągłego.",
+         "cel": "Budowanie objętości i odporności tylnej taśmy.",
+         "aktywnosc": "60 minut marszobiegu: 3 min marsz / 4–5 min trucht.",
+         "cwiczenia": [
+            "Most biodrowy jednostronny (3 x 10)",
+            "Wykrok statyczny (3 x 10 na stronę)",
+            "Clamshell z gumą (3 x 15)"
+         ],
+         "stretching": "Pełne rozciąganie pośladków, dwugłowych i bioder 3 x 25 sekund."
+      },
+      {
+         "dzien": "Niedziela (Spacer regeneracyjny)",
+         "opis": "Luźne wyjście w teren.",
+         "cel": "Regeneracja po sobocie, poprawa krążenia.",
+         "aktywnosc": "Spacer 5–8 km w spokojnym tempie.",
+         "cwiczenia": ["Koci grzbiet (2 x 10)", "Bird-dog (2 x 8 na stronę)"],
+         "stretching": "Pośladki i tylna taśma — 3 x 20 sekund."
+      }
    ]
 ]
