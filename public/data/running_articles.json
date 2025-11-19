@@ -27,8 +27,16 @@
       "id": 4,
       "title": "Minimalizm biegacza",
       "author": "Dawid",
-      "excerpt": "Nie chodzi o to, by mieć najmniej, ale by mieć to, co naprawdę działa",
+      "excerpt": "Ile tak naprawdę potrzebujesz, żeby być szczęśliwym na szlaku?",
       "image": "/images/article-images/4/main.jpg",
       "content": "/data/articles/runners-minimalism.json"
+   },
+   {
+      "id": 5,
+      "title": "Mój pierwszy maraton górski",
+      "author": "Dawid",
+      "excerpt": "Plan vs. Rzeczywistość, czyli jak przegrana stała się najcenniejszą lekcją.",
+      "image": "/images/article-images/5/main.jpg",
+      "content": "/data/articles/first-mountain-marathon.json"
    }
 ]
