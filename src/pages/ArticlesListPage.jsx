@@ -33,6 +33,7 @@ const ArticlesListPage = () => {
                   key={article.id}
                   className='bg-white dark:bg-gray-800 shadow-sm dark:shadow-gray-700 rounded-xl overflow-hidden hover:shadow-md transition-all duration-300 flex flex-col'
                >
+                  {/* ArticlesList thumbnail image: optimized at ~400px width and fixed 192px height */}
                   {article.image && (
                      <div className='h-48 w-full overflow-hidden'>
                         <img

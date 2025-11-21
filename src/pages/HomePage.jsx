@@ -42,6 +42,7 @@ const HomePage = () => {
                         Autor: {article.author}
                      </p>
 
+                     {/* Homepage thumbnail image: optimized at ~400px width and fixed 192px height */}
                      {article.image && (
                         <div className='relative w-full h-48 overflow-hidden rounded-lg mb-4 group'>
                            <img

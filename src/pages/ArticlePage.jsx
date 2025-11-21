@@ -43,6 +43,7 @@ const ArticlePage = () => {
          </p>
 
          {/* Główne zdjęcie */}
+         {/* Main article image: optimized at ~1200px width, height capped at 400px */}
          {article.image && (
             <div className='mb-10 rounded-xl overflow-hidden shadow-md dark:shadow-gray-700'>
                <img
@@ -64,6 +65,7 @@ const ArticlePage = () => {
                      {section.title}
                   </h2>
 
+                  {/* Section image: optimized at ~1200px width, height adjusts automatically to aspect ratio */}
                   {section.image && (
                      <img
                         src={section.image}
