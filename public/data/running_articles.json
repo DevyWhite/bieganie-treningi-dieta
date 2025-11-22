@@ -38,5 +38,13 @@
       "excerpt": "Plan vs. Rzeczywistość, czyli jak przegrana stała się najcenniejszą lekcją.",
       "image": "/images/article-images/5/main.jpg",
       "content": "/data/articles/first-mountain-marathon.json"
+   },
+   {
+      "id": 6,
+      "title": "Nie tylko wilki. Moje spotkania z królami puszczy - od przerażenia do zachwytu",
+      "author": "Dawid",
+      "excerpt": "Od wilka udającego psa po rysia w śnieżnym puchu - jak bieganie po lesie nauczyło mnie szacunku do dzikich mieszkańców.",
+      "image": "/images/article-images/6/main.jpg",
+      "content": "/data/articles/forest-encounters.json"
    }
 ]
