@@ -3188,5 +3188,88 @@
          "cwiczenia": ["Koci grzbiet (2 x 10)", "Bird-dog (2 x 8 na stronę)"],
          "stretching": "Pośladki i tylna taśma — 3 x 20 sekund."
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Mobilność + lekkie core)",
+         "opis": "Podtrzymanie mobilności i przygotowanie do pierwszych treningów biegowych w tygodniu.",
+         "cel": "Utrzymanie elastyczności tyłu uda i stabilizacji biodra.",
+         "aktywnosc": "Krótki spacer 3–5 km.",
+         "cwiczenia": [
+            "Krążenia bioder (3 x 15 w każdą stronę)",
+            "Plank (3 x 30 sekund)",
+            "Most biodrowy (3 x 12)",
+            "Clamshell z gumą (3 x 15 na stronę)"
+         ],
+         "stretching": "Rozciąganie dwugłowego i pośladków 2 x 30 sekund na stronę."
+      },
+      {
+         "dzien": "Wtorek (Marszobieg 2/3)",
+         "opis": "Kontynuacja powrotu do biegania w bezpiecznej formie.",
+         "cel": "Wzrost obciążenia biegowego bez podrażnienia dwugłowego uda.",
+         "aktywnosc": "Marszobieg: 2 min truchtu + 3 min marszu, powtórz 6–7 razy (miękkie podłoże).",
+         "cwiczenia": [],
+         "stretching": "Rozciąganie tyłu uda, łydek i pośladków 5–7 minut."
+      },
+      {
+         "dzien": "Środa (Mobilność + pośladek)",
+         "opis": "Praca stabilizacyjna i mobilizacyjna w celu odciążenia tylnej taśmy.",
+         "cel": "Aktywacja pośladków i poprawa kontroli miednicy.",
+         "aktywnosc": "Spacer 4–6 km lub lekka sesja mobilności.",
+         "cwiczenia": [
+            "Most biodrowy jednostronny (3 x 10 na stronę)",
+            "Bird-dog (3 x 10 na stronę)",
+            "Wykrok boczny (3 x 8 na stronę)",
+            "Clamshell z gumą (3 x 15)"
+         ],
+         "stretching": "Rozciąganie pośladków i dwugłowych 2 x 30 sekund."
+      },
+      {
+         "dzien": "Czwartek (Marszobieg progresywny 3/2)",
+         "opis": "Delikatne zwiększenie czasu truchtu przy zachowaniu kontroli objawów.",
+         "cel": "Adaptacja do dłuższych odcinków biegowych.",
+         "aktywnosc": "Marszobieg: 3 min truchtu + 2 min marszu, powtórz 5–6 razy (miękkie podłoże).",
+         "cwiczenia": [],
+         "stretching": "Rozciąganie bioder, tyłu uda i łydek 5 minut."
+      },
+      {
+         "dzien": "Piątek (Regeneracja i mobilność)",
+         "opis": "Dzień na rozluźnienie i przygotowanie do sobotniego testu biegowego.",
+         "cel": "Zmniejszenie napięć w tylnych taśmach i dobra regeneracja przed testem.",
+         "aktywnosc": "Lekki spacer 30 minut.",
+         "cwiczenia": [
+            "Rolowanie dwugłowego lekkie (2–3 minuty)",
+            "Wznosy bioder (3 x 12)",
+            "Plank boczny (2 x 30 sekund na stronę)",
+            "Izometria dwugłowego (3 x 5 sekund)"
+         ],
+         "stretching": "Rozciąganie dwugłowego i łydek 2 x 30 sekund."
+      },
+      {
+         "dzien": "Sobota (Bieg ciągły — test)",
+         "opis": "Pierwszy kontrolowany bieg ciągły po etapie rehabilitacji.",
+         "cel": "Sprawdzenie reakcji dwugłowego na nieprzerywane obciążenie.",
+         "aktywnosc": "Bieg ciągły 6–7 minut w bardzo spokojnym tempie, następnie 8–10 minut marszu jako schłodzenie. Jeśli brak objawów i czujesz się dobrze — opcjonalna druga seria 6–7 minut.",
+         "bieg": "6–7 minut ciągłego biegu (tempo konwersacyjne), opcjonalnie powtórzyć raz po 8–10 min marszu.",
+         "rozgrzewka": "Marsz 5–8 min + wymachy nóg przód/tył (2 x 10) + krążenia bioder (1 x 10).",
+         "chlodzenie": "Marsz 8–10 minut, stopniowe obniżenie tętna.",
+         "cwiczenia": [
+            "Lekka mobilizacja bioder (1 x 10)",
+            "Delikatne rozciąganie tylnej taśmy po biegu (2 x 20 sekund)"
+         ],
+         "stretching": "Rozciąganie dwugłowego, pośladków i łydek 2 x 20–30 sekund."
+      },
+      {
+         "dzien": "Niedziela (Spacer regeneracyjny)",
+         "opis": "Spokojna aktywność terenowa i ocena odczuć po biegu.",
+         "cel": "Regeneracja tkanek i monitorowanie reakcji nogi przed kolejnym tygodniem.",
+         "aktywnosc": "Spacer terenowy 5–7 km, miękkie podłoże.",
+         "cwiczenia": [
+            "Bird-dog (3 x 10 na stronę)",
+            "Most biodrowy (3 x 12)",
+            "Clamshell z gumą (3 x 15)"
+         ],
+         "stretching": "Rozciąganie pośladków, dwugłowych i łydek 3 x 20–30 sekund."
+      }
    ]
 ]
