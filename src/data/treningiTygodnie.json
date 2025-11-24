@@ -2464,7 +2464,7 @@
          "cwiczenia": "Plank (3 x 30 sekund),\nWznosy bioder (2 x 12),\nRozciąganie tylnej taśmy (2 x 20 sekund na stronę)."
       },
       {
-         "dzien": "Wtorek (Bieg progowy – ciągiem)",
+         "dzien": "Wtorek (Bieg progowy - ciągiem)",
          "opis": "Trening tempa i wytrzymałości tempowej.",
          "cel": "Budowanie mocy progowej, praca nad oddechem i rytmem.",
          "rozgrzewka": "3 km spokojnego biegu + skipy i przebieżki (4 x 80 m).",
@@ -2505,7 +2505,7 @@
          "stretching": "Rozciąganie pośladków, dwugłowych i łydek."
       },
       {
-         "dzien": "Niedziela (Regeneracja – praca)",
+         "dzien": "Niedziela (Regeneracja - praca)",
          "opis": "Odpoczynek po longu.",
          "cel": "Pełna regeneracja mięśniowa.",
          "aktywnosc": "Spacer 4-6 km lub totalny odpoczynek (w zależności od tego, jak zmęczy praca).",
@@ -2521,11 +2521,11 @@
          "cwiczenia": "Plank (2 x 30 sekund),\nRozciąganie bioder i dwugłowych (2 x 20 sekund na stronę)."
       },
       {
-         "dzien": "Wtorek (Bieg progowy – odcinki)",
+         "dzien": "Wtorek (Bieg progowy - odcinki)",
          "opis": "Trening tempa i kontroli oddechu.",
          "cel": "Poprawa wytrzymałości tempowej.",
          "rozgrzewka": "3 km spokojnego biegu + 4 przebieżki po 80 m.",
-         "bieg": "4 x 2 km w tempie 4:30–4:45/km.\nPrzerwa: 2 min truchtu.",
+         "bieg": "4 x 2 km w tempie 4:30-4:45/km.\nPrzerwa: 2 min truchtu.",
          "chlodzenie": "2 km spokojnie.",
          "stretching": "Rozciąganie bioder, czworogłowych i łydek.",
          "cwiczenia": "Plank boczny (2 x 30 sekund na stronę),\nSkip A w miejscu (2 x 20 sekund)."
@@ -2541,7 +2541,7 @@
          "dzien": "Czwartek (Rower wyjazdowy)",
          "opis": "Trening wytrzymałości na rowerze.",
          "cel": "Budowanie ogólnej bazy tlenowej.",
-         "aktywnosc": "50 km rowerem w terenie, tempo spokojne–umiarkowane.",
+         "aktywnosc": "50 km rowerem w terenie, tempo spokojne-umiarkowane.",
          "stretching": "Rozciąganie czworogłowych i łydek po jeździe."
       },
       {
@@ -2555,14 +2555,14 @@
          "dzien": "Sobota (Rower powrót)",
          "opis": "Druga jazda rowerowa.",
          "cel": "Dłuższa jednostka wytrzymałościowa.",
-         "aktywnosc": "50 km rowerem, tempo spokojne–umiarkowane.",
+         "aktywnosc": "50 km rowerem, tempo spokojne-umiarkowane.",
          "stretching": "Rozciąganie bioder i pośladków po jeździe."
       },
       {
          "dzien": "Niedziela (Long run w terenie)",
          "opis": "Dłuższy bieg trailowy.",
          "cel": "Budowanie bazy wytrzymałościowej.",
-         "bieg": "22–26 km w terenie (tempo spokojne 5:45–6:15/km).\nPrzewyższenia: min. 400 m jeśli możliwe.",
+         "bieg": "22-26 km w terenie (tempo spokojne 5:45-6:15/km).\nPrzewyższenia: min. 400 m jeśli możliwe.",
          "stretching": "Rozciąganie pośladków, dwugłowych i łydek."
       }
    ],
@@ -2595,25 +2595,25 @@
       },
       {
          "dzien": "Czwartek (Odpoczynek / lekka aktywność)",
-         "opis": "Dzień przed ultra-longiem – pełny odpoczynek lub bardzo lekka aktywność.",
+         "opis": "Dzień przed ultra-longiem - pełny odpoczynek lub bardzo lekka aktywność.",
          "cel": "Zregenerować nogi i przygotować organizm do długiego biegu.",
-         "aktywnosc": "Opcja 1: Pełen odpoczynek.\nOpcja 2: Spacer 30–40 min w spokojnym tempie.",
+         "aktywnosc": "Opcja 1: Pełen odpoczynek.\nOpcja 2: Spacer 30-40 min w spokojnym tempie.",
          "stretching": "Delikatne rozciąganie mięśni dwugłowych, czworogłowych, pośladków i łydek.",
-         "cwiczenia": "Rolowanie 5–10 min (jeśli masz roller),\nOddechy przeponowe (3 x 1 minuta)."
+         "cwiczenia": "Rolowanie 5-10 min (jeśli masz roller),\nOddechy przeponowe (3 x 1 minuta)."
       },
       {
-         "dzien": "Piątek (Projekt biegowy – Centralny Szlak Roztocza)",
+         "dzien": "Piątek (Projekt biegowy - Centralny Szlak Roztocza)",
          "opis": "Bieg ultra-long ok. 54 km",
          "cel": "Dokończenie projektu biegowego i rozwój wytrzymałości ekstremalnej.",
          "bieg": "Dystans: ok. 54 km w terenie.\nTempo: kontrolowane, spokojne, zgodnie z odczuciami.\nPriorytet: utrzymanie energii i nawodnienia.",
-         "stretching": "Po biegu – pełna sesja rozciągania (dwugłowe, czworogłowe, łydki, pośladki, biodra).",
-         "cwiczenia": "Rolowanie całego ciała (10–15 min),\nPlank lekki (2 x 20 sekund) – tylko jeśli nie czujesz zmęczenia."
+         "stretching": "Po biegu - pełna sesja rozciągania (dwugłowe, czworogłowe, łydki, pośladki, biodra).",
+         "cwiczenia": "Rolowanie całego ciała (10-15 min),\nPlank lekki (2 x 20 sekund) - tylko jeśli nie czujesz zmęczenia."
       },
       {
          "dzien": "Sobota (Regeneracja aktywna)",
          "opis": "Odpoczynek po ultra-longu.",
          "cel": "Ułatwić regenerację mięśni i układu nerwowego.",
-         "aktywnosc": "Opcja 1: Spacer 5–6 km w spokojnym tempie.\nOpcja 2: Bardzo lekki rower (do 40 min, płasko).",
+         "aktywnosc": "Opcja 1: Spacer 5-6 km w spokojnym tempie.\nOpcja 2: Bardzo lekki rower (do 40 min, płasko).",
          "stretching": "Delikatne rozciąganie bioder, pośladków i dwugłowych.",
          "cwiczenia": "Rolowanie nóg (10 min),\nĆwiczenia oddechowe (3 x 1 minuta)."
       },
@@ -2621,7 +2621,7 @@
          "dzien": "Niedziela (Opcjonalny trucht / regeneracja)",
          "opis": "Lekkie rozruszanie po ciężkim wysiłku.",
          "cel": "Przywrócić lekkość nóg i poprawić krążenie.",
-         "bieg": "Opcja 1: 30–40 min bardzo spokojnego truchtu (jeśli czujesz się dobrze).\nOpcja 2: Spacer 6–8 km lub rower rekreacyjny do 60 min.",
+         "bieg": "Opcja 1: 30-40 min bardzo spokojnego truchtu (jeśli czujesz się dobrze).\nOpcja 2: Spacer 6-8 km lub rower rekreacyjny do 60 min.",
          "stretching": "Pełne rozciąganie całego ciała po aktywności.",
          "cwiczenia": "Mostek biodrowy (2 x 12),\nWznosy nóg w bok (2 x 10 na stronę),\nPlank (2 x 20 sekund)."
       }
@@ -2647,16 +2647,16 @@
          "dzien": "Środa (Regeneracja aktywna)",
          "opis": "Rower lub spacer.",
          "cel": "Odciążenie nóg i regeneracja układu nerwowego.",
-         "aktywnosc": "Opcja 1: Rower 45–60 min spokojnym tempem.\nOpcja 2: Spacer 6–8 km.",
+         "aktywnosc": "Opcja 1: Rower 45-60 min spokojnym tempem.\nOpcja 2: Spacer 6-8 km.",
          "stretching": "Delikatne rozciąganie całego ciała.",
          "cwiczenia": "Wznosy nóg w bok (2 x 10 na stronę),\nKrzesełko przy ścianie (2 x 20 sekund)."
       },
       {
-         "dzien": "Czwartek (Bieg progowy – ciągły, lekki)",
+         "dzien": "Czwartek (Bieg progowy - ciągły, lekki)",
          "opis": "Delikatny akcent tempowy, żeby pobudzić organizm.",
          "cel": "Utrzymanie kontaktu z tempem progowym, ale bez przeciążenia.",
          "rozgrzewka": "2 km spokojnego biegu + skipy A, wymachy.",
-         "bieg": "4–5 km w tempie ok. 4:40–4:50/km (komfortowe odczucie).",
+         "bieg": "4-5 km w tempie ok. 4:40-4:50/km (komfortowe odczucie).",
          "chlodzenie": "2 km spokojnie.",
          "stretching": "Rozciąganie bioder, czworogłowych i łydek.",
          "cwiczenia": "Plank boczny (2 x 30 sekund na stronę)."
@@ -2665,12 +2665,12 @@
          "dzien": "Piątek (Regeneracja aktywna)",
          "opis": "Lekkie poruszenie nóg.",
          "cel": "Odpoczynek po akcentach i przygotowanie do weekendu.",
-         "aktywnosc": "Spacer 5–6 km lub rower 30–40 minut spokojnie.",
+         "aktywnosc": "Spacer 5-6 km lub rower 30-40 minut spokojnie.",
          "stretching": "Rozciąganie tylnej taśmy (dwugłowe, pośladki).",
-         "cwiczenia": "Rolowanie nóg (5–10 minut)."
+         "cwiczenia": "Rolowanie nóg (5-10 minut)."
       },
       {
-         "dzien": "Sobota (Bieg w terenie – fartlek lekki)",
+         "dzien": "Sobota (Bieg w terenie - fartlek lekki)",
          "opis": "Zmiany tempa na miękkim podłożu.",
          "cel": "Pobudzenie nóg i poprawa dynamiki.",
          "rozgrzewka": "2 km spokojnego biegu + skipy A.",
@@ -2683,7 +2683,7 @@
          "dzien": "Niedziela (Long easy run)",
          "opis": "Spokojny dłuższy bieg.",
          "cel": "Stopniowy powrót do objętości.",
-         "bieg": "16–20 km w spokojnym tempie (ok. 5:45–6:15/km), bez ciśnienia.",
+         "bieg": "16-20 km w spokojnym tempie (ok. 5:45-6:15/km), bez ciśnienia.",
          "stretching": "Rozciąganie całego ciała po biegu.",
          "cwiczenia": "Plank (3 x 20 sekund),\nWznosy nóg w bok (2 x 10 na stronę)."
       }
@@ -2697,12 +2697,12 @@
          "cwiczenia": "Plank (3 x 30 sekund),\nMostek biodrowy (2 x 12),\nUnoszenie nóg w bok (2 x 10 na stronę)"
       },
       {
-         "dzien": "Wtorek (Regeneracja – przesunięcie treningu)",
-         "opis": "Zmęczenie dwugłowego i uda – odpuszczamy bieg progowy.",
+         "dzien": "Wtorek (Regeneracja - przesunięcie treningu)",
+         "opis": "Zmęczenie dwugłowego i uda - odpuszczamy bieg progowy.",
          "cel": "Regeneracja mięśniowa i odciążenie nóg.",
          "aktywnosc": "Spacer 5-6 km lub rower lajtowy 40 minut.",
          "stretching": "Rolowanie dwugłowych i pośladków, rozciąganie tyłu uda (3 x 30 sekund na nogę).",
-         "cwiczenia": "Ćwiczenia mobilności bioder (krążenia – 2 x 8/strona),\nDynamiczny stretching dwugłowych (2 x 8 powtórzeń)."
+         "cwiczenia": "Ćwiczenia mobilności bioder (krążenia - 2 x 8/strona),\nDynamiczny stretching dwugłowych (2 x 8 powtórzeń)."
       },
       {
          "dzien": "Środa (Core + mobilność)",
@@ -2712,11 +2712,11 @@
          "cwiczenia": "Plank boczny (2 x 30 sekund/strona),\nBird-dog (3 x 10 na stronę),\nDead bug (3 x 10 na stronę),\nStretching dwugłowych i przywodzicieli (3 x 20 sekund/pozycja)."
       },
       {
-         "dzien": "Czwartek (Bieg progowy – ciągły)",
+         "dzien": "Czwartek (Bieg progowy - ciągły)",
          "opis": "Trening tempa i wytrzymałości.",
          "cel": "Poprawa wytrzymałości tempowej i ekonomii biegu.",
          "rozgrzewka": "3 km spokojnego biegu + skip A (2 x 20 m), krążenia bioder.",
-         "bieg": "6–8 km w tempie 4:40–4:50/km.",
+         "bieg": "6-8 km w tempie 4:40-4:50/km.",
          "chlodzenie": "2 km spokojnie.",
          "stretching": "Rozciąganie bioder, czworogłowych i łydek (3 x 20 sekund/mięsień).",
          "cwiczenia": "Wznosy bioder (2 x 12),\nUnoszenie kolan w miejscu (2 x 20),\nPlank (2 x 30 sekund)."
@@ -2726,23 +2726,23 @@
          "opis": "Spokojna aktywność i ćwiczenia odciążające.",
          "cel": "Utrzymanie aktywności bez obciążania nóg.",
          "aktywnosc": "Spacer 5 km lub rower do 15 km w bardzo spokojnym tempie.",
-         "cwiczenia": "Rozciąganie całego tyłu ciała (dwugłowe, pośladki, plecy – po 3 x 20 sekund),\nKoci grzbiet (3 x 6 powtórzeń),\nRotacje tułowia w klęku podpartym (2 x 10 na stronę)."
+         "cwiczenia": "Rozciąganie całego tyłu ciała (dwugłowe, pośladki, plecy - po 3 x 20 sekund),\nKoci grzbiet (3 x 6 powtórzeń),\nRotacje tułowia w klęku podpartym (2 x 10 na stronę)."
       },
       {
-         "dzien": "Sobota (Siła biegowa – podbiegi)",
+         "dzien": "Sobota (Siła biegowa - podbiegi)",
          "opis": "Budowanie siły i dynamiki, ale w wersji skróconej.",
          "cel": "Rozwój siły biegowej bez przeciążania mięśni.",
          "rozgrzewka": "2 km spokojnego biegu + skipy A i C (2 x 20 m).",
-         "bieg": "6 x 1 minuta podbieg (nachylenie 6–8%).\nPrzerwa: spokojny zbieg + 1 minuta odpoczynku.",
+         "bieg": "6 x 1 minuta podbieg (nachylenie 6-8%).\nPrzerwa: spokojny zbieg + 1 minuta odpoczynku.",
          "chlodzenie": "2 km spokojnie.",
          "stretching": "Rozciąganie pośladków, łydek i dwugłowych (3 x 20 sekund/mięsień).",
          "cwiczenia": "Wykroki (2 x 10/strona),\nPlank boczny (2 x 30 sekund/strona)."
       },
       {
-         "dzien": "Niedziela (Long run w terenie – skrócony jeśli zmęczenie zostanie)",
+         "dzien": "Niedziela (Long run w terenie - skrócony jeśli zmęczenie zostanie)",
          "opis": "Dłuższy spokojny bieg.",
          "cel": "Budowanie wytrzymałości i adaptacja do biegania w terenie.",
-         "bieg": "Dystans: 18–22 km w terenie, tempo spokojne 5:45–6:15/km.\nJeśli czujesz duże zmęczenie dwugłowego – skróć do 16 km.",
+         "bieg": "Dystans: 18-22 km w terenie, tempo spokojne 5:45-6:15/km.\nJeśli czujesz duże zmęczenie dwugłowego - skróć do 16 km.",
          "stretching": "Rozciąganie pośladków, dwugłowych i czworogłowych (3 x 25 sekund/mięsień).",
          "cwiczenia": "Mostek biodrowy (2 x 12),\nWznosy nóg w bok (2 x 10/strona)."
       }
@@ -2751,23 +2751,23 @@
       {
          "dzien": "Poniedziałek (Regeneracja i mobilizacja)",
          "opis": "Odpoczynek od biegania, praca nad stabilizacją kolana. \nSkupienie na regeneracji i odciążeniu kolan.",
-         "cwiczenia": "Mostek biodrowy – 3 x 15 \nClamshell (muszelka) – 3 x 12 na stronę \nWznosy nogi w bok w leżeniu – 2 x 12 na stronę \nStretching tylnej taśmy – 3 x 30 sek na nogę \nRozciąganie IT band – 3 x 30 sek \nRozciąganie czworogłowego – 3 x 30 sek na nogę \nPlank – 3 x 30 sek \nPlank boczny – 2 x 25 sek na stronę"
+         "cwiczenia": "Mostek biodrowy - 3 x 15 \nClamshell (muszelka) - 3 x 12 na stronę \nWznosy nogi w bok w leżeniu - 2 x 12 na stronę \nStretching tylnej taśmy - 3 x 30 sek na nogę \nRozciąganie IT band - 3 x 30 sek \nRozciąganie czworogłowego - 3 x 30 sek na nogę \nPlank - 3 x 30 sek \nPlank boczny - 2 x 25 sek na stronę"
       },
       {
          "dzien": "Wtorek (Stabilizacja i mobilność)",
          "opis": "Kontynuacja ćwiczeń wspomagających kolana. \nLekka sesja bez obciążania stawu kolanowego.",
-         "cwiczenia": "Mostek biodrowy – 3 x 15 \nClamshell – 3 x 12 na stronę \nRozciąganie tylnej taśmy – 3 x 30 sek \nStretching bioder i pośladków – 3 x 30 sek \nPlank boczny – 2 x 25 sek na stronę"
+         "cwiczenia": "Mostek biodrowy - 3 x 15 \nClamshell - 3 x 12 na stronę \nRozciąganie tylnej taśmy - 3 x 30 sek \nStretching bioder i pośladków - 3 x 30 sek \nPlank boczny - 2 x 25 sek na stronę"
       },
       {
          "dzien": "Środa (Mobilizacja + core)",
          "opis": "Regeneracja aktywna z naciskiem na korpus.",
          "aktywnosc": "Spacer 5-7 km w spokojnym tempie.",
-         "cwiczenia": "Plank – 3 x 30 sek \nBird dog – 3 x 10 na stronę \nStretching bioder, dwugłowych i łydek – 3 x 30 sek"
+         "cwiczenia": "Plank - 3 x 30 sek \nBird dog - 3 x 10 na stronę \nStretching bioder, dwugłowych i łydek - 3 x 30 sek"
       },
       {
          "dzien": "Czwartek (Delikatna siła + mobilność)",
          "opis": "Utrzymanie aktywacji mięśni stabilizujących bez przeciążenia.",
-         "cwiczenia": "Wznosy bioder – 3 x 15 \nWykroki w miejscu – 2 x 8 na stronę (jeśli brak bólu) \nClamshell – 3 x 12 na stronę \nRozciąganie IT band i dwugłowych – 3 x 30 sek"
+         "cwiczenia": "Wznosy bioder - 3 x 15 \nWykroki w miejscu - 2 x 8 na stronę (jeśli brak bólu) \nClamshell - 3 x 12 na stronę \nRozciąganie IT band i dwugłowych - 3 x 30 sek"
       },
       {
          "dzien": "Piątek (Regeneracja)",
@@ -2777,7 +2777,7 @@
       {
          "dzien": "Sobota (Stabilizacja + core)",
          "opis": "Lekka sesja wzmacniająca.",
-         "cwiczenia": "Mostek biodrowy – 3 x 15 \nPlank – 3 x 30 sek \nSide plank – 2 x 25 sek na stronę \nStretching czworogłowych i bioder – 3 x 30 sek"
+         "cwiczenia": "Mostek biodrowy - 3 x 15 \nPlank - 3 x 30 sek \nSide plank - 2 x 25 sek na stronę \nStretching czworogłowych i bioder - 3 x 30 sek"
       },
       {
          "dzien": "Niedziela (Regeneracja)",
@@ -2790,25 +2790,25 @@
       {
          "dzien": "Poniedziałek (Regeneracja + mobilność)",
          "opis": "Odpoczynek i rozluźnienie po ostatnich tygodniach. \nZredukować napięcia w nogach i wspomóc regenerację kolana.",
-         "aktywnosc": "Spacer 3–5 km w spokojnym tempie lub 30 minut bardzo lekkiego roweru stacjonarnego (jeśli masz dostęp).",
-         "cwiczenia": "Koci grzbiet (3 x 10 powtórzeń) \nKrążenia bioder (2 x 10 na stronę) \nStretching tylnej taśmy nóg – 3 x 30 sekund na nogę \nPozycja gołębia (2 x 30 sekund na stronę)"
+         "aktywnosc": "Spacer 3-5 km w spokojnym tempie lub 30 minut bardzo lekkiego roweru stacjonarnego (jeśli masz dostęp).",
+         "cwiczenia": "Koci grzbiet (3 x 10 powtórzeń) \nKrążenia bioder (2 x 10 na stronę) \nStretching tylnej taśmy nóg - 3 x 30 sekund na nogę \nPozycja gołębia (2 x 30 sekund na stronę)"
       },
       {
          "dzien": "Wtorek (Stabilizacja i mobilność kolana)",
          "opis": "Delikatne wzmacnianie i praca nad stabilnością stawu kolanowego. \nPoprawić równowagę mięśniową i elastyczność wokół kolana.",
          "aktywnosc": "Ćwiczenia w domu, spokojne tempo, pełna kontrola ruchu.",
-         "cwiczenia": "Wznosy bioder (3 x 12 powtórzeń) \nClamshell (muszle) – 3 x 15 na stronę \nMostek na jednej nodze (2 x 8 na stronę) \nUnoszenie nóg w leżeniu bokiem (2 x 10 na stronę) \nRolowanie pośladków i dwugłowych (jeśli masz wałek) – 3–5 minut"
+         "cwiczenia": "Wznosy bioder (3 x 12 powtórzeń) \nClamshell (muszle) - 3 x 15 na stronę \nMostek na jednej nodze (2 x 8 na stronę) \nUnoszenie nóg w leżeniu bokiem (2 x 10 na stronę) \nRolowanie pośladków i dwugłowych (jeśli masz wałek) - 3-5 minut"
       },
       {
          "dzien": "Środa (Stretching całego ciała)",
          "opis": "Skupienie na rozciąganiu i przywracaniu pełnego zakresu ruchu. \nZwiększyć elastyczność i poprawić regenerację mięśniową.",
-         "aktywnosc": "Krótka sesja stretchingu lub jogi – 25–30 minut.",
-         "cwiczenia": "Pozycja dziecka – 2 x 30 sekund \nSkłon w siadzie prostym – 3 x 30 sekund \nRozciąganie czworogłowych – 2 x 30 sekund na stronę \nPozycja gołębia – 2 x 30 sekund na stronę \nRozciąganie łydek – 2 x 30 sekund na stronę"
+         "aktywnosc": "Krótka sesja stretchingu lub jogi - 25-30 minut.",
+         "cwiczenia": "Pozycja dziecka - 2 x 30 sekund \nSkłon w siadzie prostym - 3 x 30 sekund \nRozciąganie czworogłowych - 2 x 30 sekund na stronę \nPozycja gołębia - 2 x 30 sekund na stronę \nRozciąganie łydek - 2 x 30 sekund na stronę"
       },
       {
          "dzien": "Czwartek (Lekki bieg lub spacer)",
-         "opis": "Pierwszy powrót do biegania – tylko jeśli czujesz się w pełni zdrowy. \nSprawdzić reakcję organizmu i kolana na lekki wysiłek.",
-         "bieg": "5–7 km w tempie easy (ok. 6:00–6:30/km). Jeśli nie czujesz się pewnie, zrób 40–60 minut spokojnego marszu.",
+         "opis": "Pierwszy powrót do biegania - tylko jeśli czujesz się w pełni zdrowy. \nSprawdzić reakcję organizmu i kolana na lekki wysiłek.",
+         "bieg": "5-7 km w tempie easy (ok. 6:00-6:30/km). Jeśli nie czujesz się pewnie, zrób 40-60 minut spokojnego marszu.",
          "stretching": "Po biegu: rozciąganie dwugłowych, pośladków i łydek (3 x 30 sekund na grupę).",
          "cwiczenia": ""
       },
@@ -2820,13 +2820,13 @@
       {
          "dzien": "Sobota (Ruch i regeneracja)",
          "opis": "Aktywność swobodna i regeneracyjna. \nUtrzymać delikatny ruch i wspomóc regenerację.",
-         "aktywnosc": "Spacer 5–7 km, lekkie rozciąganie po powrocie.",
-         "cwiczenia": "Koci grzbiet (3 x 10) \nKrążenia bioder (2 x 10) \nStretching łydek i pośladków – 2 x 30 sekund"
+         "aktywnosc": "Spacer 5-7 km, lekkie rozciąganie po powrocie.",
+         "cwiczenia": "Koci grzbiet (3 x 10) \nKrążenia bioder (2 x 10) \nStretching łydek i pośladków - 2 x 30 sekund"
       },
       {
          "dzien": "Niedziela (Odpoczynek lub lekki ruch)",
-         "opis": "Pełna regeneracja lub bardzo lekki ruch – zależnie od samopoczucia. \nPozwolić organizmowi w pełni się zregenerować.",
-         "aktywnosc": "Spacer 3–5 km lub spokojny stretching całego ciała 20 minut.",
+         "opis": "Pełna regeneracja lub bardzo lekki ruch - zależnie od samopoczucia. \nPozwolić organizmowi w pełni się zregenerować.",
+         "aktywnosc": "Spacer 3-5 km lub spokojny stretching całego ciała 20 minut.",
          "cwiczenia": ""
       }
    ],
@@ -2835,8 +2835,8 @@
          "dzien": "Poniedziałek (Regeneracja i mobilność)",
          "opis": "Lekki powrót do ruchu po przeziębieniu.",
          "cel": "Poprawa krążenia i rozruszanie ciała bez przeciążania dwugłowego uda.",
-         "aktywnosc": "Spacer 4–6 km lub bardzo lekki rower 30–40 minut (niskie tętno).",
-         "cwiczenia": "Krążenia bioder (3 x 15 w każdą stronę),\nUnoszenie kolan w miejscu – powoli (2 x 10 na stronę),\nWznosy bioder (3 x 12 powtórzeń),\nRolowanie tylnej taśmy (roler lub butelka, 3–5 minut)",
+         "aktywnosc": "Spacer 4-6 km lub bardzo lekki rower 30-40 minut (niskie tętno).",
+         "cwiczenia": "Krążenia bioder (3 x 15 w każdą stronę),\nUnoszenie kolan w miejscu - powoli (2 x 10 na stronę),\nWznosy bioder (3 x 12 powtórzeń),\nRolowanie tylnej taśmy (roler lub butelka, 3-5 minut)",
          "stretching": "Rozciąganie dwugłowego i pośladków: 3 serie po 30 sekund na nogę."
       },
       {
@@ -2849,8 +2849,8 @@
          "dzien": "Środa (Aktywny odpoczynek)",
          "opis": "Spokojna aktywność w celu poprawy krążenia i regeneracji.",
          "cel": "Utrzymanie lekkiego ruchu bez stresu treningowego.",
-         "aktywnosc": "Spacer 5–7 km lub lekki rower 45 minut.",
-         "cwiczenia": "Ćwiczenia oddechowe (5–10 minut, spokojne głębokie wdechy przez nos),\nMobilizacja pleców: koci grzbiet (3 x 10 powtórzeń),\nKrążenia bioder (2 x 10)."
+         "aktywnosc": "Spacer 5-7 km lub lekki rower 45 minut.",
+         "cwiczenia": "Ćwiczenia oddechowe (5-10 minut, spokojne głębokie wdechy przez nos),\nMobilizacja pleców: koci grzbiet (3 x 10 powtórzeń),\nKrążenia bioder (2 x 10)."
       },
       {
          "dzien": "Czwartek (Stabilizacja + pośladki)",
@@ -2863,14 +2863,14 @@
          "dzien": "Piątek (Mobilność i rolowanie)",
          "opis": "Rozluźnienie pośladków i dwugłowych, przygotowanie do weekendu.",
          "cel": "Zwiększenie mobilności bioder i rozluźnienie tylnej taśmy.",
-         "aktywnosc": "Spacer 5 km lub lekka joga/mobilność 20–30 minut.",
-         "cwiczenia": "Wymachy nóg w przód i bok (2 x 10 na stronę),\nKrążenia bioder (3 x 10),\nRolowanie tylnej taśmy (3–5 minut),\nĆwiczenia oddechowe (5 minut, spokojne wdechy przez nos i długie wydechy)."
+         "aktywnosc": "Spacer 5 km lub lekka joga/mobilność 20-30 minut.",
+         "cwiczenia": "Wymachy nóg w przód i bok (2 x 10 na stronę),\nKrążenia bioder (3 x 10),\nRolowanie tylnej taśmy (3-5 minut),\nĆwiczenia oddechowe (5 minut, spokojne wdechy przez nos i długie wydechy)."
       },
       {
          "dzien": "Sobota (Lekka aktywność tlenowa)",
          "opis": "Delikatne ruszenie się, bez przeciążenia nóg.",
          "cel": "Poprawa samopoczucia i krążenia bez intensywnego wysiłku.",
-         "aktywnosc": "Rower 40–60 minut w strefie niskiego tętna lub szybki marsz 6–8 km.",
+         "aktywnosc": "Rower 40-60 minut w strefie niskiego tętna lub szybki marsz 6-8 km.",
          "cwiczenia": "Po aktywności 10 minut rolowania nóg,\nPlank (2 x 30 sekund),\nWznosy bioder (2 x 12).",
          "stretching": "Rozciąganie pośladków, dwugłowych i łydek (3 serie po 30 sek)."
       },
@@ -2886,38 +2886,38 @@
          "dzien": "Poniedziałek (Ciepło + mobilność)",
          "opis": "Początek tygodnia z naciskiem na poprawę ukrwienia i delikatne uruchomienie uda.",
          "cel": "Zwiększenie krążenia w mięśniu dwugłowym uda i rozluźnienie tylnej taśmy.",
-         "aktywnosc": "Ciepły okład lub plaster rozgrzewający na tylne udo przez 6–8h (unikać bezpośredniego kontaktu z ścięgnem pod kolanem).",
+         "aktywnosc": "Ciepły okład lub plaster rozgrzewający na tylne udo przez 6-8h (unikać bezpośredniego kontaktu z ścięgnem pod kolanem).",
          "cwiczenia": "Krążenia bioder (3 x 15 w każdą stronę),\nKoci grzbiet (3 x 10 powtórzeń),\nUnoszenie nóg w leżeniu tyłem (2 x 10 powoli),\nIzometria dwugłowego: w leżeniu na brzuchu dociśnij piętę do podłoża na 5 sekund, 5 powtórzeń na nogę.",
-         "stretching": "Bardzo delikatne rozciąganie dwugłowego – 3 serie po 20 sek, bez bólu."
+         "stretching": "Bardzo delikatne rozciąganie dwugłowego - 3 serie po 20 sek, bez bólu."
       },
       {
          "dzien": "Wtorek (Core + aktywacja pośladków)",
          "opis": "Wzmocnienie mięśni głębokich bez obciążania dwugłowego uda.",
          "cel": "Poprawa stabilizacji miednicy i odciążenie tylnej taśmy.",
          "cwiczenia": "Plank (3 x 30 sekund),\nBird-dog (3 x 10 na stronę),\nWznosy bioder (3 x 12, powoli w górę i dół),\nClamshell z gumą mini-band (3 x 10 na stronę),\nDead Bug (3 x 8 powtórzeń).",
-         "stretching": "Pośladki, biodra i dolny grzbiet – 3 serie po 20–30 sekund."
+         "stretching": "Pośladki, biodra i dolny grzbiet - 3 serie po 20-30 sekund."
       },
       {
          "dzien": "Środa (Mobilność i rolowanie)",
          "opis": "Aktywny odpoczynek z naciskiem na mobilizację tkanek i krążenie.",
          "cel": "Utrzymanie elastyczności i poprawa regeneracji.",
-         "aktywnosc": "Spacer 4–6 km w spokojnym tempie.",
-         "cwiczenia": "Rolowanie dwugłowego uda (2–3 min, średni nacisk),\nRolowanie pośladków (2 min na stronę),\nKoci grzbiet i krążenia bioder (2 x 10).",
-         "stretching": "Tył uda i pośladki po rolowaniu – delikatnie, 3 x 20 sek."
+         "aktywnosc": "Spacer 4-6 km w spokojnym tempie.",
+         "cwiczenia": "Rolowanie dwugłowego uda (2-3 min, średni nacisk),\nRolowanie pośladków (2 min na stronę),\nKoci grzbiet i krążenia bioder (2 x 10).",
+         "stretching": "Tył uda i pośladki po rolowaniu - delikatnie, 3 x 20 sek."
       },
       {
          "dzien": "Czwartek (Izometria + lekkie wzmacnianie)",
          "opis": "Wzmacnianie mięśni uda i pośladków bez bólu.",
          "cel": "Przywrócenie siły izometrycznej i elastyczności mięśnia dwugłowego.",
          "cwiczenia": "Izometria dwugłowego: pięta dociskana do podłoża (3 x 6 powtórzeń po 5 sekund),\nMostek biodrowy (3 x 12),\nWznosy bioder na jednej nodze (2 x 8, jeśli bez bólu),\nPlank boczny (2 x 30 sek na stronę).",
-         "stretching": "Pośladki i tylna taśma 3 x 20 sek,\nCiepły okład po ćwiczeniach przez 15–20 min."
+         "stretching": "Pośladki i tylna taśma 3 x 20 sek,\nCiepły okład po ćwiczeniach przez 15-20 min."
       },
       {
          "dzien": "Piątek (Mobilność + ciepło)",
          "opis": "Dzień regeneracyjny i rozluźniający.",
          "cel": "Zwiększenie przepływu krwi i rozluźnienie mięśnia.",
-         "aktywnosc": "Ciepły okład lub plaster rozgrzewający na tylne udo przez 6–8h.",
-         "cwiczenia": "Lekka mobilizacja bioder (3 x 10),\nKoci grzbiet (3 x 10),\nRolowanie dwugłowego i pośladków (3–4 min).",
+         "aktywnosc": "Ciepły okład lub plaster rozgrzewający na tylne udo przez 6-8h.",
+         "cwiczenia": "Lekka mobilizacja bioder (3 x 10),\nKoci grzbiet (3 x 10),\nRolowanie dwugłowego i pośladków (3-4 min).",
          "stretching": "Delikatne rozciąganie tylnej taśmy, bez bólu."
       },
       {
@@ -2931,8 +2931,8 @@
          "dzien": "Niedziela (Regeneracja i ocena postępów)",
          "opis": "Dzień odpoczynku i obserwacji reakcji uda.",
          "cel": "Ocena, czy można stopniowo wracać do lekkiej aktywności w przyszłym tygodniu.",
-         "aktywnosc": "Spacer 5–6 km, tempo konwersacyjne.",
-         "cwiczenia": "Ćwiczenia oddechowe (5 minut),\nRolowanie tyłu uda (2–3 min, lekki nacisk).",
+         "aktywnosc": "Spacer 5-6 km, tempo konwersacyjne.",
+         "cwiczenia": "Ćwiczenia oddechowe (5 minut),\nRolowanie tyłu uda (2-3 min, lekki nacisk).",
          "stretching": "Delikatne rozciąganie całych nóg i pośladków."
       }
    ],
@@ -2955,7 +2955,7 @@
          "dzien": "Wtorek (Mobilność + spacer)",
          "opis": "Utrzymanie ruchu poprzez spacer i lekka mobilizacja bioder oraz pośladków.",
          "cel": "Poprawa krążenia, mobilności i regeneracji mięśni uda.",
-         "aktywnosc": "Spacer terenowy 40–60 minut w spokojnym tempie.",
+         "aktywnosc": "Spacer terenowy 40-60 minut w spokojnym tempie.",
          "cwiczenia": [
             "Krążenia bioder (3 x 15)",
             "Clamshell (3 x 15)",
@@ -2969,29 +2969,29 @@
          "cel": "Zwiększenie odporności mięśnia dwugłowego na wydłużanie pod napięciem.",
          "aktywnosc": "Rozgrzewka: marsz + glute bridge (10 min).",
          "cwiczenia": [
-            "Hamstring slide (3 x 6) lub Nordic hamstring asystowany (2 x 4–5)",
+            "Hamstring slide (3 x 6) lub Nordic hamstring asystowany (2 x 4-5)",
             "Deadlift z gumą lub lekkim ciężarem (3 x 8)",
             "Most biodrowy z zatrzymaniem na górze 3 sekundy (3 x 10)",
             "Bird-dog (3 x 8)",
             "Side plank (2 x 20 sekund na stronę)"
          ],
-         "stretching": "Rozciąganie tylnej taśmy 3 x 20 sekund, lekkie rolowanie 2–3 minuty."
+         "stretching": "Rozciąganie tylnej taśmy 3 x 20 sekund, lekkie rolowanie 2-3 minuty."
       },
       {
          "dzien": "Czwartek (Regeneracja aktywna)",
          "opis": "Dzień skupiony na regeneracji i utrzymaniu elastyczności mięśni.",
          "cel": "Zwiększenie przepływu krwi i redukcja napięcia mięśniowego.",
-         "aktywnosc": "Spokojny spacer lub basen 30–45 minut.",
+         "aktywnosc": "Spokojny spacer lub basen 30-45 minut.",
          "cwiczenia": "Lekka mobilność bioder i grzbietu 10 minut.",
-         "stretching": "Rozciąganie całego ciała 10–15 minut, kąpiel ciepła lub plaster rozgrzewający wieczorem."
+         "stretching": "Rozciąganie całego ciała 10-15 minut, kąpiel ciepła lub plaster rozgrzewający wieczorem."
       },
       {
          "dzien": "Piątek (Odpoczynek pełny)",
          "opis": "Dzień bez treningu, tylko rutynowa mobilizacja bioder.",
          "cel": "Regeneracja układu mięśniowego i nerwowego.",
          "aktywnosc": "Brak treningu.",
-         "cwiczenia": "Mobilizacja bioder 5–10 minut (krążenia, delikatne ruchy).",
-         "stretching": "Brak obowiązkowy – tylko jeśli czujesz sztywność (3 x 20 sekund)."
+         "cwiczenia": "Mobilizacja bioder 5-10 minut (krążenia, delikatne ruchy).",
+         "stretching": "Brak obowiązkowy - tylko jeśli czujesz sztywność (3 x 20 sekund)."
       },
       {
          "dzien": "Sobota (Propriocepcja + pośladki)",
@@ -3010,17 +3010,17 @@
          "dzien": "Niedziela (Luźny terenowy spacer)",
          "opis": "Spokojna aktywność w terenie leśnym dla poprawy krążenia i stabilizacji.",
          "cel": "Zwiększenie tolerancji na wysiłek bez bólu, przygotowanie do kolejnego etapu.",
-         "aktywnosc": "Spacer terenowy 5–8 km w lekkim terenie, opcjonalnie z lekkim plecakiem (2–3 kg).",
-         "cwiczenia": "Brak dodatkowych ćwiczeń – tylko rozciąganie po spacerze.",
+         "aktywnosc": "Spacer terenowy 5-8 km w lekkim terenie, opcjonalnie z lekkim plecakiem (2-3 kg).",
+         "cwiczenia": "Brak dodatkowych ćwiczeń - tylko rozciąganie po spacerze.",
          "stretching": "Rozciąganie pośladków, dwugłowych i łydek 3 x 20 sekund."
       }
    ],
    [
       {
-         "dzien": "Poniedziałek (Marszobieg – start)",
+         "dzien": "Poniedziałek (Marszobieg - start)",
          "opis": "Wprowadzenie lekkiego truchtu po miękkim terenie przy jednoczesnym utrzymaniu marszu.",
          "cel": "Przyzwyczajenie mięśnia dwugłowego do pracy w wydłużeniu i przygotowanie do biegu.",
-         "aktywnosc": "Marsz 3–5 minut / trucht 1–2 minuty, powtarzaj przez 25–30 minut na miękkim terenie (las, ścieżki leśne).",
+         "aktywnosc": "Marsz 3-5 minut / trucht 1-2 minuty, powtarzaj przez 25-30 minut na miękkim terenie (las, ścieżki leśne).",
          "cwiczenia": [
             "Most biodrowy jednostronny (3 x 10)",
             "Clamshell z gumą (3 x 15)",
@@ -3033,7 +3033,7 @@
          "dzien": "Wtorek (Regeneracja aktywna)",
          "opis": "Spacer terenowy dla poprawy krążenia i odciążenia mięśnia dwugłowego.",
          "cel": "Utrzymanie mobilności i przepływu krwi, regeneracja po poniedziałkowym marszobiegu.",
-         "aktywnosc": "Spacer 5–7 km po lekkim terenie, spokojnym tempem.",
+         "aktywnosc": "Spacer 5-7 km po lekkim terenie, spokojnym tempem.",
          "cwiczenia": [
             "Krążenia bioder (3 x 15)",
             "Glute bridge (2 x 12)",
@@ -3042,10 +3042,10 @@
          "stretching": "Rozciąganie bioder i pośladków 3 x 20 sekund."
       },
       {
-         "dzien": "Środa (Marszobieg – kontrola obciążenia)",
-         "opis": "Stopniowe zwiększenie czasu truchtu w proporcji 3–4 min marszu / 2 min truchtu.",
+         "dzien": "Środa (Marszobieg - kontrola obciążenia)",
+         "opis": "Stopniowe zwiększenie czasu truchtu w proporcji 3-4 min marszu / 2 min truchtu.",
          "cel": "Budowanie tolerancji na obciążenie mięśnia przy zachowaniu kontroli i bezpieczeństwa.",
-         "aktywnosc": "Całkowity czas: 30–35 minut, miękki teren.",
+         "aktywnosc": "Całkowity czas: 30-35 minut, miękki teren.",
          "cwiczenia": [
             "Most biodrowy z zatrzymaniem 3 s (3 x 10)",
             "Wykrok statyczny (3 x 10 na stronę)",
@@ -3059,7 +3059,7 @@
          "dzien": "Czwartek (Spacer regeneracyjny + mobilność)",
          "opis": "Delikatna aktywność w celu regeneracji po marszobiegu i utrzymania mobilności.",
          "cel": "Rozluźnienie mięśni, poprawa krążenia i przygotowanie do kolejnego treningu.",
-         "aktywnosc": "Spacer 5–6 km po lekkim terenie lub w parku.",
+         "aktywnosc": "Spacer 5-6 km po lekkim terenie lub w parku.",
          "cwiczenia": [
             "Krążenia bioder (3 x 15)",
             "Clamshell (3 x 12)",
@@ -3071,18 +3071,18 @@
          "dzien": "Piątek (Odpoczynek pełny)",
          "opis": "Dzień regeneracji z minimalną aktywnością, tylko lekkie mobilizacje.",
          "cel": "Odpoczynek mięśni, regeneracja układu nerwowego.",
-         "aktywnosc": "Brak aktywności biegowej, tylko rutynowa mobilizacja bioder 5–10 minut.",
+         "aktywnosc": "Brak aktywności biegowej, tylko rutynowa mobilizacja bioder 5-10 minut.",
          "cwiczenia": [
             "Delikatne krążenia bioder (2 x 10)",
             "Rozciąganie pośladków i tylnej taśmy 2 x 20 sekund"
          ],
-         "stretching": "Tylko jeśli odczuwasz sztywność 2–3 x 20 sekund."
+         "stretching": "Tylko jeśli odczuwasz sztywność 2-3 x 20 sekund."
       },
       {
-         "dzien": "Sobota (Marszobieg – wydłużenie)",
-         "opis": "Dłuższa sesja marszobiegowa z proporcją 3–4 min marszu / 2–3 min truchtu, miękki teren.",
+         "dzien": "Sobota (Marszobieg - wydłużenie)",
+         "opis": "Dłuższa sesja marszobiegowa z proporcją 3-4 min marszu / 2-3 min truchtu, miękki teren.",
          "cel": "Stopniowe przyzwyczajanie mięśnia do dłuższego wysiłku.",
-         "aktywnosc": "Całkowity czas 35–40 minut, tempo spokojne, podłoże miękkie.",
+         "aktywnosc": "Całkowity czas 35-40 minut, tempo spokojne, podłoże miękkie.",
          "cwiczenia": [
             "Most biodrowy jednostronny (3 x 10)",
             "Wykrok boczny (3 x 8 na stronę)",
@@ -3095,7 +3095,7 @@
          "dzien": "Niedziela (Spacer regeneracyjny + kontrola odczuć)",
          "opis": "Luźny spacer w terenie, opcjonalnie lekkie wzniesienia dla lekkiej pracy ekscentrycznej.",
          "cel": "Regeneracja, kontrola ewentualnego dyskomfortu, przygotowanie do tygodnia 4.",
-         "aktywnosc": "Spacer 5–8 km w lekkim tempie, miękkie podłoże.",
+         "aktywnosc": "Spacer 5-8 km w lekkim tempie, miękkie podłoże.",
          "cwiczenia": [
             "Krążenia bioder (3 x 15)",
             "Glute bridge (2 x 12)",
@@ -3109,7 +3109,7 @@
          "dzien": "Poniedziałek (Mobilizacja + lekkie core)",
          "opis": "Dzień organizacyjny i rozluźniający — brak biegania.",
          "cel": "Utrzymanie mobilności i przygotowanie do wejścia w dłuższe truchty w tym tygodniu.",
-         "aktywnosc": "Mobilizacja 15–20 min w domu.",
+         "aktywnosc": "Mobilizacja 15-20 min w domu.",
          "cwiczenia": [
             "Koci grzbiet (2 x 10)",
             "Krążenia bioder (2 x 15)",
@@ -3119,7 +3119,7 @@
          "stretching": "Pośladki, zginacze bioder i tył uda — 3 x 20 sekund."
       },
       {
-         "dzien": "Wtorek (Marszobieg – dłuższe truchty)",
+         "dzien": "Wtorek (Marszobieg - dłuższe truchty)",
          "opis": "Pierwsze dłuższe odcinki truchtu w proporcjach kontrolowanych.",
          "cel": "Wydłużenie czasu pracy dwugłowego przy zachowaniu bezpieczeństwa.",
          "aktywnosc": "Marsz 3 min / trucht 3 min — powtarzaj 6 razy (łącznie 36 minut). Podłoże miękkie.",
@@ -3135,7 +3135,7 @@
          "dzien": "Środa (Mobilność + spacer)",
          "opis": "Dzień regeneracyjny.",
          "cel": "Utrzymanie krążenia i pełnego zakresu ruchu.",
-         "aktywnosc": "Spacer 4–6 km w terenie lub mieście.",
+         "aktywnosc": "Spacer 4-6 km w terenie lub mieście.",
          "cwiczenia": [
             "Koci grzbiet (2 x 10)",
             "Glute bridge (2 x 12)",
@@ -3144,10 +3144,10 @@
          "stretching": "Pośladki i tylna taśma — 3 x 20 sekund."
       },
       {
-         "dzien": "Czwartek (Marszobieg – progres)",
-         "opis": "Najważniejszy akcent tygodnia — truchty wydłużone do 4–5 minut.",
+         "dzien": "Czwartek (Marszobieg - progres)",
+         "opis": "Najważniejszy akcent tygodnia — truchty wydłużone do 4-5 minut.",
          "cel": "Sprawdzenie tolerancji na dłuższy ciągły ruch.",
-         "aktywnosc": "Marsz 3 min / trucht 4–5 min — powtarzaj 5 razy (35–40 minut). Miękkie podłoże.",
+         "aktywnosc": "Marsz 3 min / trucht 4-5 min — powtarzaj 5 razy (35-40 minut). Miękkie podłoże.",
          "cwiczenia": [
             "Most biodrowy z zatrzymaniem 3 sek (3 x 10)",
             "Wykrok boczny (3 x 8 na stronę)",
@@ -3160,7 +3160,7 @@
          "dzien": "Piątek (Regeneracja + lekka mobilność)",
          "opis": "Odpoczynek układu nerwowego i przygotowanie do soboty.",
          "cel": "Rozluźnienie mięśni i regeneracja.",
-         "aktywnosc": "Lekka mobilizacja 10–15 minut.",
+         "aktywnosc": "Lekka mobilizacja 10-15 minut.",
          "cwiczenia": [
             "Krążenia bioder (2 x 15)",
             "Glute bridge (2 x 12)",
@@ -3169,10 +3169,10 @@
          "stretching": "Tylko delikatne, jeśli czujesz napięcie."
       },
       {
-         "dzien": "Sobota (Marszobieg dłuższy – quasi-long)",
+         "dzien": "Sobota (Marszobieg dłuższy - quasi-long)",
          "opis": "Symulacja dłuższej jednostki, nadal bez biegu ciągłego.",
          "cel": "Budowanie objętości i odporności tylnej taśmy.",
-         "aktywnosc": "60 minut marszobiegu: 3 min marsz / 4–5 min trucht.",
+         "aktywnosc": "60 minut marszobiegu: 3 min marsz / 4-5 min trucht.",
          "cwiczenia": [
             "Most biodrowy jednostronny (3 x 10)",
             "Wykrok statyczny (3 x 10 na stronę)",
@@ -3184,7 +3184,7 @@
          "dzien": "Niedziela (Spacer regeneracyjny)",
          "opis": "Luźne wyjście w teren.",
          "cel": "Regeneracja po sobocie, poprawa krążenia.",
-         "aktywnosc": "Spacer 5–8 km w spokojnym tempie.",
+         "aktywnosc": "Spacer 5-8 km w spokojnym tempie.",
          "cwiczenia": ["Koci grzbiet (2 x 10)", "Bird-dog (2 x 8 na stronę)"],
          "stretching": "Pośladki i tylna taśma — 3 x 20 sekund."
       }
@@ -3194,7 +3194,7 @@
          "dzien": "Poniedziałek (Mobilność + lekkie core)",
          "opis": "Podtrzymanie mobilności i przygotowanie do pierwszych treningów biegowych w tygodniu.",
          "cel": "Utrzymanie elastyczności tyłu uda i stabilizacji biodra.",
-         "aktywnosc": "Krótki spacer 3–5 km.",
+         "aktywnosc": "Krótki spacer 3-5 km.",
          "cwiczenia": [
             "Krążenia bioder (3 x 15 w każdą stronę)",
             "Plank (3 x 30 sekund)",
@@ -3207,15 +3207,15 @@
          "dzien": "Wtorek (Marszobieg 2/3)",
          "opis": "Kontynuacja powrotu do biegania w bezpiecznej formie.",
          "cel": "Wzrost obciążenia biegowego bez podrażnienia dwugłowego uda.",
-         "aktywnosc": "Marszobieg: 2 min truchtu + 3 min marszu, powtórz 6–7 razy (miękkie podłoże).",
+         "aktywnosc": "Marszobieg: 2 min truchtu + 3 min marszu, powtórz 6-7 razy (miękkie podłoże).",
          "cwiczenia": [],
-         "stretching": "Rozciąganie tyłu uda, łydek i pośladków 5–7 minut."
+         "stretching": "Rozciąganie tyłu uda, łydek i pośladków 5-7 minut."
       },
       {
          "dzien": "Środa (Mobilność + pośladek)",
          "opis": "Praca stabilizacyjna i mobilizacyjna w celu odciążenia tylnej taśmy.",
          "cel": "Aktywacja pośladków i poprawa kontroli miednicy.",
-         "aktywnosc": "Spacer 4–6 km lub lekka sesja mobilności.",
+         "aktywnosc": "Spacer 4-6 km lub lekka sesja mobilności.",
          "cwiczenia": [
             "Most biodrowy jednostronny (3 x 10 na stronę)",
             "Bird-dog (3 x 10 na stronę)",
@@ -3228,7 +3228,7 @@
          "dzien": "Czwartek (Marszobieg progresywny 3/2)",
          "opis": "Delikatne zwiększenie czasu truchtu przy zachowaniu kontroli objawów.",
          "cel": "Adaptacja do dłuższych odcinków biegowych.",
-         "aktywnosc": "Marszobieg: 3 min truchtu + 2 min marszu, powtórz 5–6 razy (miękkie podłoże).",
+         "aktywnosc": "Marszobieg: 3 min truchtu + 2 min marszu, powtórz 5-6 razy (miękkie podłoże).",
          "cwiczenia": [],
          "stretching": "Rozciąganie bioder, tyłu uda i łydek 5 minut."
       },
@@ -3238,7 +3238,7 @@
          "cel": "Zmniejszenie napięć w tylnych taśmach i dobra regeneracja przed testem.",
          "aktywnosc": "Lekki spacer 30 minut.",
          "cwiczenia": [
-            "Rolowanie dwugłowego lekkie (2–3 minuty)",
+            "Rolowanie dwugłowego lekkie (2-3 minuty)",
             "Wznosy bioder (3 x 12)",
             "Plank boczny (2 x 30 sekund na stronę)",
             "Izometria dwugłowego (3 x 5 sekund)"
@@ -3249,27 +3249,27 @@
          "dzien": "Sobota (Bieg ciągły — test)",
          "opis": "Pierwszy kontrolowany bieg ciągły po etapie rehabilitacji.",
          "cel": "Sprawdzenie reakcji dwugłowego na nieprzerywane obciążenie.",
-         "aktywnosc": "Bieg ciągły 6–7 minut w bardzo spokojnym tempie, następnie 8–10 minut marszu jako schłodzenie. Jeśli brak objawów i czujesz się dobrze — opcjonalna druga seria 6–7 minut.",
-         "bieg": "6–7 minut ciągłego biegu (tempo konwersacyjne), opcjonalnie powtórzyć raz po 8–10 min marszu.",
-         "rozgrzewka": "Marsz 5–8 min + wymachy nóg przód/tył (2 x 10) + krążenia bioder (1 x 10).",
-         "chlodzenie": "Marsz 8–10 minut, stopniowe obniżenie tętna.",
+         "aktywnosc": "Bieg ciągły 6-7 minut w bardzo spokojnym tempie, następnie 8-10 minut marszu jako schłodzenie. Jeśli brak objawów i czujesz się dobrze — opcjonalna druga seria 6-7 minut.",
+         "bieg": "6-7 minut ciągłego biegu (tempo konwersacyjne), opcjonalnie powtórzyć raz po 8-10 min marszu.",
+         "rozgrzewka": "Marsz 5-8 min + wymachy nóg przód/tył (2 x 10) + krążenia bioder (1 x 10).",
+         "chlodzenie": "Marsz 8-10 minut, stopniowe obniżenie tętna.",
          "cwiczenia": [
             "Lekka mobilizacja bioder (1 x 10)",
             "Delikatne rozciąganie tylnej taśmy po biegu (2 x 20 sekund)"
          ],
-         "stretching": "Rozciąganie dwugłowego, pośladków i łydek 2 x 20–30 sekund."
+         "stretching": "Rozciąganie dwugłowego, pośladków i łydek 2 x 20-30 sekund."
       },
       {
          "dzien": "Niedziela (Spacer regeneracyjny)",
          "opis": "Spokojna aktywność terenowa i ocena odczuć po biegu.",
          "cel": "Regeneracja tkanek i monitorowanie reakcji nogi przed kolejnym tygodniem.",
-         "aktywnosc": "Spacer terenowy 5–7 km, miękkie podłoże.",
+         "aktywnosc": "Spacer terenowy 5-7 km, miękkie podłoże.",
          "cwiczenia": [
             "Bird-dog (3 x 10 na stronę)",
             "Most biodrowy (3 x 12)",
             "Clamshell z gumą (3 x 15)"
          ],
-         "stretching": "Rozciąganie pośladków, dwugłowych i łydek 3 x 20–30 sekund."
+         "stretching": "Rozciąganie pośladków, dwugłowych i łydek 3 x 20-30 sekund."
       }
    ]
 ]
