@@ -46,5 +46,13 @@
       "excerpt": "Od wilka udającego psa po rysia w śnieżnym puchu - jak bieganie po lesie nauczyło mnie szacunku do dzikich mieszkańców.",
       "image": "/images/article-images/6/main.jpg",
       "content": "/data/articles/forest-encounters.json"
+   },
+   {
+      "id": 7,
+      "title": "Asfaltowe fundamenty, trailowe szczyty. Dlaczego prawdziwy trailowiec nie boi się twardej nawierzchni?",
+      "author": "Dawid",
+      "excerpt": "Jak mądrze łączyć trening na asfalcie z biegami w terenie, by budować formę, unikać kontuzji i czerpać radość z obu światów.",
+      "image": "/images/article-images/7/main.jpg",
+      "content": "/data/articles/road-trail-mix.json"
    }
 ]
