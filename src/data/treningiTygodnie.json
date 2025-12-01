@@ -3271,5 +3271,87 @@
          ],
          "stretching": "Rozciąganie pośladków, dwugłowych i łydek 3 x 20-30 sekund."
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja)",
+         "opis": "Lekki dzień po tygodniu biegowym.",
+         "cel": "Rozluźnienie mięśnia dwugłowego, regeneracja.",
+         "aktywnosc": "Spacer 3-5 km w spokojnym tempie.",
+         "cwiczenia": [
+            "Mobilizacja bioder (2 x 10)",
+            "Koci grzbiet (2 x 10)",
+            "Rozciąganie dwugłowego (3 x 20 sekund)",
+            "Rolowanie tylnej taśmy (3-4 minuty)"
+         ]
+      },
+      {
+         "dzien": "Wtorek (Marszobieg progresywny 2.0)",
+         "opis": "Wydłużenie biegu przy zachowaniu bezpieczeństwa.",
+         "cel": "Budowa tolerancji biegu ciągłego bez bólu.",
+         "aktywnosc": "2 serie: Bieg 10-12 min + marsz 5-6 min",
+         "cwiczenia": [
+            "Most biodrowy jednostronny (3 x 12)",
+            "Clamshell z gumą (3 x 15)",
+            "Wznosy bioder (3 x 15)",
+            "Bird-dog (3 x 10 na stronę)"
+         ],
+         "stretching": "Rozciąganie dwugłowego i pośladków (3 x 25 sek)."
+      },
+      {
+         "dzien": "Środa (Mobilność + lekka siła)",
+         "opis": "Wzmocnienie stabilizacji i kontrola biodra.",
+         "cel": "Poprawa pracy pośladka i redukcja napięcia dwugłowego.",
+         "aktywnosc": "Spacer 4-6 km.",
+         "cwiczenia": [
+            "Martwy robak (Dead Bug, 3 x 10)",
+            "Most biodrowy (2 x 15)",
+            "Wykrok boczny (3 x 8 na stronę)",
+            "Stanie na jednej nodze oczy zamknięte (3 x 20 sekund na stronę)"
+         ]
+      },
+      {
+         "dzien": "Czwartek (Bieg ciągły testowy)",
+         "opis": "Pierwsza próba dłuższego biegu.",
+         "cel": "Sprawdzenie reakcji mięśnia przy ciągłym obciążeniu.",
+         "aktywnosc": "Bieg ciągły 15-18 minut w tempie bardzo spokojnym.",
+         "cwiczenia": [
+            "Clamshell z gumą (3 x 15)",
+            "Glute kickback (3 x 12 na stronę)",
+            "Wznosy bioder (3 x 15)"
+         ],
+         "stretching": "Rolowanie tylnej taśmy 3 min."
+      },
+      {
+         "dzien": "Piątek (Regeneracja)",
+         "opis": "Odpoczynek po teście biegowym.",
+         "cel": "Regeneracja pasywna.",
+         "aktywnosc": "Spacer 3-4 km lub całkowity odpoczynek.",
+         "cwiczenia": [
+            "Mobilizacja bioder (2 x 10)",
+            "Delikatne rozciąganie dwugłowego (3 x 20 sekund)"
+         ]
+      },
+      {
+         "dzien": "Sobota (Marszobieg lub bieg ciągły)",
+         "opis": "W zależności od reakcji na czwartkowy bieg.",
+         "cel": "Przejście w dłuższe biegi.",
+         "aktywnosc": "Jeśli czwartek był bez bólu: bieg ciągły 20-22 min.\nJeśli pojawił się dyskomfort: marszobieg 10 min bieg + 5 min marsz (2 serie).",
+         "cwiczenia": [
+            "Most biodrowy jednostronny (3 x 12)",
+            "Wznosy bioder (2 x 15)"
+         ]
+      },
+      {
+         "dzien": "Niedziela (Lekki spacer)",
+         "opis": "Regeneracja po tygodniu.",
+         "cel": "Odciążenie układu nerwowo-mięśniowego.",
+         "aktywnosc": "Spacer 4-6 km.",
+         "cwiczenia": [
+            "Koci grzbiet (2 x 10)",
+            "Rolowanie dwugłowego (3 min)",
+            "Rozciąganie pośladków (2 x 25 sek)"
+         ]
+      }
    ]
 ]
