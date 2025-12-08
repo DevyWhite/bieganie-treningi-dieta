@@ -3353,5 +3353,87 @@
             "Rozciąganie pośladków (2 x 25 sek)"
          ]
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja + mobilizacja)",
+         "opis": "Po weekendzie spokojne wejście w tydzień, praca nad przyczepem ścięgna i pośladkami.",
+         "cel": "Zmniejszenie sztywności, przygotowanie do wtorkowego biegu.",
+         "stretching": "Delikatne rozciąganie pośladków i dwugłowego (kolano lekko ugięte), 3×30 sekund.",
+         "cwiczenia": [
+            "Most biodrowy (3 x 12)",
+            "Clamshell z gumą (3 x 15 na stronę)",
+            "Dead Bug (3 x 10)",
+            "Nordic hamstring partial - bardzo płytki zakres (2 x 4)",
+            "Stanie na jednej nodze oczy zamknięte (2 x 30 sekund na stronę)"
+         ]
+      },
+      {
+         "dzien": "Wtorek (Bieg ciągły)",
+         "opis": "Pierwszy bieg tygodnia - spokojny, równy, w miękkim terenie.",
+         "cel": "Budowanie ciągłości biegu i adaptacja ścięgna do obciążenia dynamicznego.",
+         "rozgrzewka": "6 minut marszu + 5 minut truchtu + mobilizacja bioder.",
+         "bieg": "Bieg ciągły 25 minut w tempie komfortowym (nic na siłę).",
+         "chlodzenie": "5 minut marszu.",
+         "stretching": "Biodra, pośladki, łydki 3×30 sekund.",
+         "cwiczenia": []
+      },
+      {
+         "dzien": "Środa (Mobilność + core)",
+         "opis": "Dzień bez biegania, ale z podtrzymaniem stabilizacji.",
+         "cel": "Utrzymanie pracy rdzenia i bioder bez obciążenia ścięgna.",
+         "stretching": "Mobilizacja bioder i odcinka lędźwiowego 5-7 minut.",
+         "cwiczenia": [
+            "Plank (3 x 30 sekund)",
+            "Plank boczny (2 x 30 sekund na stronę)",
+            "Glute bridge single leg (2 x 8 na stronę)",
+            "Koci grzbiet (3 x 10)",
+            "Rozciąganie dwugłowego z ugiętym kolanem (3 x 30 sekund)"
+         ]
+      },
+      {
+         "dzien": "Czwartek (Bieg spokojny — teren)",
+         "opis": "Spokojny bieg terenowy, bez zmian tempa.",
+         "cel": "Budowanie bazy i adaptacja nogi do dłuższego truchtu.",
+         "rozgrzewka": "5 minut marszu + 5 minut lekkiego truchtu.",
+         "bieg": "20-25 minut spokojnego biegu w lesie lub na miękkim.",
+         "chlodzenie": "5 minut marszu.",
+         "stretching": "Pośladki, łydki, dwugłowy 3×30 sekund.",
+         "cwiczenia": []
+      },
+      {
+         "dzien": "Piątek (Regeneracja + mobilność)",
+         "opis": "Luźniejszy dzień, ładowanie baterii.",
+         "cel": "Regeneracja przed weekendowym biegiem.",
+         "stretching": "Full body mobility 10 minut.",
+         "cwiczenia": [
+            "Clamshell (3 x 15)",
+            "Wznosy bioder (2 x 12)",
+            "Ćwiczenia oddechowe (5 minut)",
+            "Rozluźnianie łydek i dwugłowego rollerem (2 minuty)"
+         ]
+      },
+      {
+         "dzien": "Sobota (Bieg ciągły — wydłużenie)",
+         "opis": "Główna jednostka tygodnia — najdłuższy, ale spokojny bieg.",
+         "cel": "Powolne wracanie do dłuższych ciągłych wysiłków.",
+         "rozgrzewka": "5 minut marszu + 5 minut lekkiego truchtu.",
+         "bieg": "28-30 minut spokojnego ciągłego tempa.",
+         "chlodzenie": "5-7 minut marszu.",
+         "stretching": "Pośladki i dwugłowy 3×30 sekund.",
+         "cwiczenia": []
+      },
+      {
+         "dzien": "Niedziela (Spacer regeneracyjny + delikatne wzmacnianie)",
+         "opis": "Lekkie ruszenie nóg, redukcja sztywności po sobotnim biegu.",
+         "cel": "Regeneracja ścięgna i poprawa ukrwienia.",
+         "aktywnosc": "Spacer 4-6 km w terenie.",
+         "stretching": "Łydki, pośladki, biodra — 5 minut po spacerze.",
+         "cwiczenia": [
+            "Bird-dog (3 x 10 na stronę)",
+            "Glute bridge (2 x 15)",
+            "Lekki masaż okolicy przyczepu (1 minuta)"
+         ]
+      }
    ]
 ]
