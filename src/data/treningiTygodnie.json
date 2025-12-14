@@ -3432,5 +3432,78 @@
          "cwiczenia": [],
          "stretching": "10 minut spokojnego rozciągania po biegu."
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja + mobilność)",
+         "opis": "Rozluźnienie po weekendzie i przygotowanie do tygodnia.",
+         "cel": "Zmniejszenie sztywności i poprawa mobilności tylnej taśmy.",
+         "aktywnosc": "Spacer 20-40 minut.",
+         "cwiczenia": [
+            "Mobilizacja bioder (3 x 10)",
+            "Bird-dog (3 x 10 na stronę)",
+            "Plank (3 x 30 sekund)",
+            "Most biodrowy jednostronny (2 x 12 na stronę)"
+         ],
+         "stretching": "Delikatne rozciąganie dwugłowych, łydek i pośladków 5-8 minut."
+      },
+      {
+         "dzien": "Wtorek (Bieg spokojny)",
+         "opis": "Pierwszy bieg tygodnia w równym, komfortowym tempie.",
+         "cel": "Budowanie ciągłości biegu bez przeciążania przyczepu.",
+         "aktywnosc": "Bieg 30-35 minut, tempo konwersacyjne.",
+         "cwiczenia": [],
+         "stretching": "Rozciąganie po biegu: łydki, pośladki, tył uda 6-8 minut."
+      },
+      {
+         "dzien": "Środa (Stabilizacja + pośladki)",
+         "opis": "Wzmocnienie bioder i kontroli kolana.",
+         "cel": "Odciążenie przyczepu dwugłowego poprzez lepszą stabilizację.",
+         "aktywnosc": "Trening wzmacniający.",
+         "cwiczenia": [
+            "Clamshell z gumą (3 x 15 na stronę)",
+            "Side-walk z gumą (3 x 20 kroków)",
+            "Most biodrowy jednostronny (3 x 10 na stronę)",
+            "Stanie na jednej nodze z zamkniętymi oczami (3 x 30 sekund na stronę)",
+            "Bird-dog (3 x 10 na stronę)"
+         ],
+         "stretching": "Lekkie rozciąganie pośladków i łydek 5 minut."
+      },
+      {
+         "dzien": "Czwartek (Bieg spokojny)",
+         "opis": "Drugi bieg ciągły w tygodniu.",
+         "cel": "Utrwalenie tolerancji na obciążenie biegowe.",
+         "aktywnosc": "Bieg 35 minut, równo i spokojnie.",
+         "cwiczenia": [],
+         "stretching": "Rozciąganie po biegu 6-8 minut."
+      },
+      {
+         "dzien": "Piątek (Mobilność + core)",
+         "opis": "Lekki dzień regeneracyjny.",
+         "cel": "Zmniejszenie napięć i podtrzymanie stabilizacji.",
+         "aktywnosc": "Spacer 20-30 minut.",
+         "cwiczenia": [
+            "Plank (3 x 40 sekund)",
+            "Plank boczny (2 x 30 sekund na stronę)",
+            "Mobilizacja bioder (3 x 10)"
+         ],
+         "stretching": "Rozciąganie łydki i tylnej taśmy 5-7 minut."
+      },
+      {
+         "dzien": "Sobota (Odpoczynek aktywny)",
+         "opis": "Pełna regeneracja przed dłuższym biegiem.",
+         "cel": "Świeżość nóg.",
+         "aktywnosc": "Lekki spacer lub całkowity odpoczynek.",
+         "cwiczenia": [],
+         "stretching": "Opcjonalnie 5 minut lekkiego rozciągania."
+      },
+      {
+         "dzien": "Niedziela (Bieg spokojny - dłuższy)",
+         "opis": "Najdłuższy bieg tygodnia.",
+         "cel": "Budowanie wytrzymałości przy zachowaniu kontroli objawów.",
+         "aktywnosc": "Bieg 40-45 minut, najlepiej miękkie podłoże.",
+         "cwiczenia": [],
+         "stretching": "Dokładne rozciąganie 8-10 minut."
+      }
    ]
 ]
