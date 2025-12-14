@@ -3453,6 +3453,8 @@
          "cel": "Budowanie ciągłości biegu bez przeciążania przyczepu.",
          "aktywnosc": "Bieg 30-35 minut, tempo konwersacyjne.",
          "cwiczenia": [],
+         "rozgrzewka": "Marsz 5-8 minut + wymachy nóg przód/tył (2 x 10 na stronę) + wymachy nóg bokiem (1 x 10) + krążenia bioder (1 x 10) + krążenia kolan (1 x 10).",
+         "chlodzenie": "Marsz 8-10 minut + lekkie rozciąganie łydek, pośladków i tyłu uda (z ugiętym kolanem).",
          "stretching": "Rozciąganie po biegu: łydki, pośladki, tył uda 6-8 minut."
       },
       {
@@ -3475,6 +3477,8 @@
          "cel": "Utrwalenie tolerancji na obciążenie biegowe.",
          "aktywnosc": "Bieg 35 minut, równo i spokojnie.",
          "cwiczenia": [],
+         "rozgrzewka": "Marsz 5-8 minut + wymachy nóg przód/tył (2 x 10 na stronę) + wymachy nóg bokiem (1 x 10) + krążenia bioder (1 x 10) + krążenia kolan (1 x 10).",
+         "chlodzenie": "Marsz 8-10 minut + lekkie rozciąganie łydek, pośladków i tyłu uda (z ugiętym kolanem).",
          "stretching": "Rozciąganie po biegu 6-8 minut."
       },
       {
@@ -3503,6 +3507,8 @@
          "cel": "Budowanie wytrzymałości przy zachowaniu kontroli objawów.",
          "aktywnosc": "Bieg 40-45 minut, najlepiej miękkie podłoże.",
          "cwiczenia": [],
+         "rozgrzewka": "Marsz 5-8 minut + wymachy nóg przód/tył (2 x 10 na stronę) + wymachy nóg bokiem (1 x 10) + krążenia bioder (1 x 10) + krążenia kolan (1 x 10).",
+         "chlodzenie": "Marsz 8-10 minut + lekkie rozciąganie łydek, pośladków i tyłu uda (z ugiętym kolanem).",
          "stretching": "Dokładne rozciąganie 8-10 minut."
       }
    ]
