@@ -23,6 +23,8 @@ const DrzewkoDni = ({ dni }) => {
    const renderCwiczenia = (cwiczenia) => {
       if (!cwiczenia) return null;
 
+      if (Array.isArray(cwiczenia) && cwiczenia.length === 0) return null;
+
       if (Array.isArray(cwiczenia)) {
          return (
             <ul className='list-disc list-inside space-y-1'>
@@ -119,7 +121,10 @@ const DrzewkoDni = ({ dni }) => {
                               {renderWithNewLines(dzien.stretching)}
                            </p>
                         )}
-                        {dzien.cwiczenia && (
+                        {((Array.isArray(dzien.cwiczenia) &&
+                           dzien.cwiczenia.length > 0) ||
+                           (typeof dzien.cwiczenia === "string" &&
+                              dzien.cwiczenia.trim() !== "")) && (
                            <div>
                               <strong>Ćwiczenia:</strong>{" "}
                               {renderCwiczenia(dzien.cwiczenia)}
