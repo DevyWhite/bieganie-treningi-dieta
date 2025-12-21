@@ -3208,7 +3208,7 @@
          "opis": "Kontynuacja powrotu do biegania w bezpiecznej formie.",
          "cel": "Wzrost obciążenia biegowego bez podrażnienia dwugłowego uda.",
          "aktywnosc": "Marszobieg: 2 min truchtu + 3 min marszu, powtórz 6-7 razy (miękkie podłoże).",
-         "cwiczenia": [],
+
          "stretching": "Rozciąganie tyłu uda, łydek i pośladków 5-7 minut."
       },
       {
@@ -3229,7 +3229,7 @@
          "opis": "Delikatne zwiększenie czasu truchtu przy zachowaniu kontroli objawów.",
          "cel": "Adaptacja do dłuższych odcinków biegowych.",
          "aktywnosc": "Marszobieg: 3 min truchtu + 2 min marszu, powtórz 5-6 razy (miękkie podłoże).",
-         "cwiczenia": [],
+
          "stretching": "Rozciąganie bioder, tyłu uda i łydek 5 minut."
       },
       {
@@ -3388,7 +3388,7 @@
          "opis": "Pierwszy bieg tygodnia — luz, równy rytm.",
          "cel": "Adaptacja do dłuższego ciągłego biegu, bez przeciążeń.",
          "aktywnosc": "Bieg 30 minut spokojnym tempem.",
-         "cwiczenia": [],
+
          "stretching": "Mobilizacja bioder + delikatne rozciąganie po biegu (5 min)."
       },
       {
@@ -3410,7 +3410,7 @@
          "opis": "Drugi bieg w tygodniu — równie spokojny jak środowy.",
          "cel": "Budowanie tolerancji na obciążenie bez prowokowania bólu.",
          "aktywnosc": "Bieg 25-30 minut, swobodnym tempem.",
-         "cwiczenia": [],
+
          "stretching": "5-8 minut rozciągania po biegu."
       },
       {
@@ -3429,7 +3429,6 @@
          "opis": "Najważniejszy bieg tygodnia.",
          "cel": "Spokojne pokonanie czasu biegu w terenie bez bólu uda.",
          "aktywnosc": "Bieg terenowy 25-30 minut (las, miękkie podłoże).",
-         "cwiczenia": [],
          "stretching": "10 minut spokojnego rozciągania po biegu."
       }
    ],
@@ -3452,7 +3451,6 @@
          "opis": "Pierwszy bieg tygodnia w równym, komfortowym tempie.",
          "cel": "Budowanie ciągłości biegu bez przeciążania przyczepu.",
          "aktywnosc": "Bieg 30-35 minut, tempo konwersacyjne.",
-         "cwiczenia": [],
          "rozgrzewka": "Marsz 5-8 minut + wymachy nóg przód/tył (2 x 10 na stronę) + wymachy nóg bokiem (1 x 10) + krążenia bioder (1 x 10) + krążenia kolan (1 x 10).",
          "chlodzenie": "Marsz 8-10 minut + lekkie rozciąganie łydek, pośladków i tyłu uda (z ugiętym kolanem).",
          "stretching": "Rozciąganie po biegu: łydki, pośladki, tył uda 6-8 minut."
@@ -3476,7 +3474,6 @@
          "opis": "Drugi bieg ciągły w tygodniu.",
          "cel": "Utrwalenie tolerancji na obciążenie biegowe.",
          "aktywnosc": "Bieg 35 minut, równo i spokojnie.",
-         "cwiczenia": [],
          "rozgrzewka": "Marsz 5-8 minut + wymachy nóg przód/tył (2 x 10 na stronę) + wymachy nóg bokiem (1 x 10) + krążenia bioder (1 x 10) + krążenia kolan (1 x 10).",
          "chlodzenie": "Marsz 8-10 minut + lekkie rozciąganie łydek, pośladków i tyłu uda (z ugiętym kolanem).",
          "stretching": "Rozciąganie po biegu 6-8 minut."
@@ -3494,22 +3491,112 @@
          "stretching": "Rozciąganie łydki i tylnej taśmy 5-7 minut."
       },
       {
-         "dzien": "Sobota (Odpoczynek aktywny)",
-         "opis": "Pełna regeneracja przed dłuższym biegiem.",
-         "cel": "Świeżość nóg.",
-         "aktywnosc": "Lekki spacer lub całkowity odpoczynek.",
-         "cwiczenia": [],
-         "stretching": "Opcjonalnie 5 minut lekkiego rozciągania."
-      },
-      {
-         "dzien": "Niedziela (Bieg spokojny - dłuższy)",
+         "dzien": "Sobota (Bieg spokojny - dłuższy)",
          "opis": "Najdłuższy bieg tygodnia.",
          "cel": "Budowanie wytrzymałości przy zachowaniu kontroli objawów.",
          "aktywnosc": "Bieg 40-45 minut, najlepiej miękkie podłoże.",
-         "cwiczenia": [],
          "rozgrzewka": "Marsz 5-8 minut + wymachy nóg przód/tył (2 x 10 na stronę) + wymachy nóg bokiem (1 x 10) + krążenia bioder (1 x 10) + krążenia kolan (1 x 10).",
          "chlodzenie": "Marsz 8-10 minut + lekkie rozciąganie łydek, pośladków i tyłu uda (z ugiętym kolanem).",
          "stretching": "Dokładne rozciąganie 8-10 minut."
+      },
+      {
+         "dzien": "Niedziela (Regeneracja + ćwiczenia)",
+         "opis": "Regeneracja po sobotnim biegu, lekkie wzmocnienie i mobilność.",
+         "cel": "Utrzymanie adaptacji mięśniowej, wsparcie dwugłowego i łydek bez obciążania biegowego.",
+         "aktywnosc": "Spacer 3-4 km w ciągu dnia (luźne tempo).",
+         "cwiczenia": [
+            "Mobilizacja bioder (3 x 10)",
+            "Bird-dog (3 x 10 na stronę)",
+            "Most biodrowy jednostronny (2 x 12 na stronę)",
+            "Plank (3 x 30 sekund)",
+            "Wspięcia na palce obunóż - wolno (3 x 12)",
+            "Mobilizacja stawu skokowego (2 x 10 na stronę)"
+         ],
+         "stretching": "Delikatne rozciąganie łydek, pośladków i tyłu uda (z ugiętym kolanem) 8-10 minut."
+      }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Bieg spokojny)",
+         "opis": "Spokojny bieg wprowadzający w tydzień.",
+         "cel": "Budowanie objętości i rytmu bez przeciążania.",
+         "rozgrzewka": "Marsz 5-8 minut + wymachy nóg przód/tył (2 x 10) + wymachy nóg bokiem (1 x 10) + krążenia bioder (1 x 10) + krążenia kolan (1 x 10).",
+         "bieg": "Dystans: 7-8 km, tempo 6:20-6:40/km.",
+         "chlodzenie": "Marsz 8-10 minut + lekkie rozciąganie łydek, pośladków i tyłu uda.",
+         "stretching": "Delikatne rozciąganie 5-8 minut.",
+         "cwiczenia": []
+      },
+      {
+         "dzien": "Wtorek (Stabilizacja + łydka)",
+         "opis": "Trening wzmacniający i prewencja przeciążeń.",
+         "cel": "Stabilizacja bioder, odciążenie kolana i łydki.",
+         "aktywnosc": "Spacer 20-30 minut.",
+         "cwiczenia": [
+            "Clamshell z gumą (3 x 15 na stronę)",
+            "Most biodrowy jednostronny (3 x 10 na stronę)",
+            "Bird-dog (3 x 10 na stronę)",
+            "Plank (3 x 40 sekund)",
+            "Wspięcia na palce obunóż - wolno (3 x 12)",
+            "Mobilizacja stawu skokowego (2 x 10 na stronę)"
+         ],
+         "stretching": "Rozciąganie łydek i pośladków 5-7 minut."
+      },
+      {
+         "dzien": "Środa (Bieg z akcentem - zmiany tempa)",
+         "opis": "Pierwszy akcent po kontuzji - kontrolowana zmiana tempa.",
+         "cel": "Pobudzenie układu nerwowego i ekonomii biegu.",
+         "rozgrzewka": "Marsz 5-8 minut + wymachy nóg przód/tył (2 x 10) + krążenia bioder (1 x 10) + krążenia kolan (1 x 10).",
+         "bieg": "Całość ok. 9-10 km: 3 km spokojnie (6:30/km) + 5 x (1 km w tempie 5:30-5:40/km + 500 m luźno 6:40-7:00/km) + 1-2 km spokojnie.",
+         "chlodzenie": "Marsz 8-10 minut + lekkie rozciąganie.",
+         "stretching": "Rozciąganie 6-8 minut.",
+         "cwiczenia": []
+      },
+      {
+         "dzien": "Czwartek (Regeneracja + core)",
+         "opis": "Lekki dzień po akcencie.",
+         "cel": "Regeneracja i utrzymanie stabilizacji.",
+         "aktywnosc": "Spacer 30-40 minut.",
+         "cwiczenia": [
+            "Mobilizacja bioder (3 x 10)",
+            "Bird-dog (3 x 10 na stronę)",
+            "Plank boczny (2 x 30 sekund na stronę)",
+            "Wspięcia na palce jednonóż (2 x 10 na stronę)"
+         ],
+         "stretching": "Rozciąganie łydek i tylnej taśmy 5-7 minut."
+      },
+      {
+         "dzien": "Piątek (Mobilność)",
+         "opis": "Pełna regeneracja przed weekendem.",
+         "cel": "Zmniejszenie sztywności mięśni.",
+         "aktywnosc": "Spacer 20-30 minut lub lekka mobilność.",
+         "cwiczenia": [
+            "Mobilizacja bioder (2 x 10)",
+            "Mobilizacja stawu skokowego (2 x 10 na stronę)"
+         ],
+         "stretching": "Lekkie rozciąganie 5 minut."
+      },
+      {
+         "dzien": "Sobota (Bieg spokojny - dłuższy)",
+         "opis": "Budowanie wytrzymałości tlenowej.",
+         "cel": "Stopniowe wydłużanie dystansu.",
+         "rozgrzewka": "Marsz 5-8 minut + wymachy nóg przód/tył (2 x 10) + krążenia bioder (1 x 10).",
+         "bieg": "Dystans: 11-13 km, tempo 6:20-6:45/km.",
+         "chlodzenie": "Marsz 8-10 minut.",
+         "stretching": "Rozciąganie 8-10 minut.",
+         "cwiczenia": []
+      },
+      {
+         "dzien": "Niedziela (Ćwiczenia + regeneracja)",
+         "opis": "Zamknięcie tygodnia bez biegania.",
+         "cel": "Regeneracja i przygotowanie do kolejnego tygodnia.",
+         "aktywnosc": "Lekki spacer 20-30 minut.",
+         "cwiczenia": [
+            "Most biodrowy jednostronny (2 x 12 na stronę)",
+            "Bird-dog (3 x 10 na stronę)",
+            "Mobilizacja bioder (2 x 10)",
+            "Wspięcia na palce obunóż - wolno (3 x 12)"
+         ],
+         "stretching": "Rozciąganie pośladków, łydek i tyłu uda 8 minut."
       }
    ]
 ]
