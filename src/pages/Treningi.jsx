@@ -6,7 +6,9 @@ import treningiTygodnie from "../data/treningiTygodnie.json";
 
 const Treningi = () => {
    usePageTitle("Plan treningowy");
-   const [aktywnyTydzien, ustawAktywnyTydzien] = useState(0);
+   const [aktywnyTydzien, ustawAktywnyTydzien] = useState(
+      treningiTygodnie.length - 1
+   );
 
    return (
       <div className='min-h-screen bg-gray-50 dark:bg-gray-900 transition-colors duration-300 px-1 py-5 sm:py-10 sm:px-4 flex flex-col items-center'>
