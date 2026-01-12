@@ -3765,5 +3765,87 @@
          ],
          "stretching": "Luźne rozciąganie 8-10 minut."
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek",
+         "opis": "Regeneracja aktywna po mocnym weekendzie.",
+         "cel": "Rozluźnienie łydek, Achillesa i układu nerwowego bez obciążenia biegowego.",
+         "aktywnosc": "Lekki spacer 25-40 minut.",
+         "cwiczenia": [
+            "Most biodrowy obunóż (3 x 15)",
+            "Bird-dog (3 x 10 na stronę)",
+            "Stanie na jednej nodze na miękkim podłożu (3 x 30 sekund na stronę)",
+            "Wspięcia na palce obunóż - wolno (3 x 15)"
+         ],
+         "stretching": "Delikatne rozciąganie 8-10 minut."
+      },
+      {
+         "dzien": "Wtorek (Bieg spokojny)",
+         "opis": "Spokojny bieg tlenowy.",
+         "cel": "Budowanie objętości i ekonomii biegu.",
+         "rozgrzewka": "Marsz 5-8 minut + wymachy nóg przód/tył (2 x 10) + krążenia bioder (1 x 10).",
+         "bieg": "Dystans: 10-11 km, tempo 6:00-6:25/km.",
+         "chlodzenie": "Marsz 8-10 minut.",
+         "stretching": "Rozciąganie 8-10 minut."
+      },
+      {
+         "dzien": "Środa",
+         "opis": "Ćwiczenia wzmacniające + stabilizacja.",
+         "cel": "Wzmocnienie bioder, łydek i stawu skokowego.",
+         "aktywnosc": "Lekki spacer 20-30 minut.",
+         "cwiczenia": [
+            "Przysiad do krzesła (3 x 10)",
+            "Wykrok w tył (3 x 8 na stronę)",
+            "Plank (3 x 35-45 sekund)",
+            "Unoszenie bioder jednonóż (2 x 12 na stronę)",
+            "Krążenia stopy w stawie skokowym - siedząc (2 x 15 w każdą stronę na nogę)"
+         ],
+         "stretching": "Rozciąganie 8-10 minut."
+      },
+      {
+         "dzien": "Czwartek (Fartlek)",
+         "opis": "Bieg z kontrolowaną zmianą tempa.",
+         "cel": "Pobudzenie układu nerwowego bez przeciążania.",
+         "rozgrzewka": "Marsz 5-8 minut + wymachy nóg przód/tył (2 x 10) + krążenia bioder (1 x 10).",
+         "fartlek": "5 x (3 min w tempie 4:50-5:00/km + 3 min w tempie 6:20-6:40/km).",
+         "bieg": "Całość ok. 10-11 km razem z rozgrzewką i schłodzeniem.",
+         "chlodzenie": "Marsz 8-10 minut.",
+         "stretching": "Rozciąganie 10 minut."
+      },
+      {
+         "dzien": "Piątek",
+         "opis": "Regeneracja aktywna.",
+         "cel": "Rozluźnienie nóg po akcencie.",
+         "aktywnosc": "Lekki spacer 30-45 minut.",
+         "cwiczenia": [
+            "Bird-dog (3 x 10 na stronę)",
+            "Most biodrowy obunóż (3 x 15)",
+            "Stanie na jednej nodze - oczy zamknięte (3 x 20 sekund na stronę)",
+            "Wspięcia na palce jednonóż - wolno (3 x 10 na stronę)"
+         ],
+         "stretching": "Delikatne rozciąganie 8-10 minut."
+      },
+      {
+         "dzien": "Sobota (Bieg spokojny - dłuższy)",
+         "opis": "Dłuższy bieg w terenie.",
+         "cel": "Budowanie wytrzymałości pod projekty 50-60 km.",
+         "rozgrzewka": "Marsz 5-8 minut + wymachy nóg przód/tył (2 x 10).",
+         "bieg": "Dystans: 18-20 km, tempo 6:10-6:40/km.",
+         "chlodzenie": "Marsz 8-10 minut.",
+         "stretching": "Rozciąganie 10-12 minut."
+      },
+      {
+         "dzien": "Niedziela",
+         "opis": "Regeneracja + lekka stabilizacja.",
+         "cel": "Odnowa po long runie.",
+         "aktywnosc": "Lekki spacer 30-50 minut.",
+         "cwiczenia": [
+            "Clamshell bez gumy (2 x 15 na stronę)",
+            "Plank bokiem (2 x 25-30 sekund na stronę)",
+            "Krążenia stopy w stawie skokowym - stojąc (2 x 15 na stronę)"
+         ],
+         "stretching": "Luźne rozciąganie 8-10 minut."
+      }
    ]
 ]
