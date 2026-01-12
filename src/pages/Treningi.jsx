@@ -14,7 +14,7 @@ const Treningi = () => {
       <div className='min-h-screen bg-gray-50 dark:bg-gray-900 transition-colors duration-300 px-1 py-5 sm:py-10 sm:px-4 flex flex-col items-center'>
          {/* Nagłówek */}
          <h1 className='text-2xl sm:text-3xl font-bold text-gray-800 dark:text-gray-100 mb-8 text-center'>
-            🏋️‍♂️ Plan treningowy – Tydzień {aktywnyTydzien + 1}
+            🏋️‍♂️ Plan treningowy - Tydzień {aktywnyTydzien + 1}
          </h1>
 
          {/* Nawigacja między tygodniami */}

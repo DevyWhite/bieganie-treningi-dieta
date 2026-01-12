@@ -16,7 +16,7 @@ export default function About() {
             <span className='font-semibold text-emerald-700 dark:text-emerald-400'>
                Devy
             </span>
-            <span className='font-semibold'>TrailTales</span> – biegającego
+            <span className='font-semibold'>TrailTales</span> - biegającego
             programistę, który tak samo chętnie zagląda w las, jak w kod.
          </p>
 

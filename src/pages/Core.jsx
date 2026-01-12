@@ -62,13 +62,13 @@ const Core = () => {
             Sugerowany Układ Treningu Core
          </h2>
          <ul className='list-disc list-inside space-y-2 text-gray-700 dark:text-gray-200 leading-relaxed'>
-            <li>Plank – 30-60 sekund.</li>
-            <li>Side Plank – 30-45 sekund na każdą stronę.</li>
-            <li>Russian Twists – 20-30 powtórzeń.</li>
-            <li>Dead Bug – 10-12 powtórzeń na stronę.</li>
-            <li>Bird Dog – 10-12 powtórzeń na stronę.</li>
-            <li>Leg Raises – 10-15 powtórzeń.</li>
-            <li>Mountain Climbers – 30 sekund lub 20-30 powtórzeń.</li>
+            <li>Plank - 30-60 sekund.</li>
+            <li>Side Plank - 30-45 sekund na każdą stronę.</li>
+            <li>Russian Twists - 20-30 powtórzeń.</li>
+            <li>Dead Bug - 10-12 powtórzeń na stronę.</li>
+            <li>Bird Dog - 10-12 powtórzeń na stronę.</li>
+            <li>Leg Raises - 10-15 powtórzeń.</li>
+            <li>Mountain Climbers - 30 sekund lub 20-30 powtórzeń.</li>
          </ul>
       </div>
    );
