@@ -4147,36 +4147,121 @@
       },
       {
          "dzien": "Piątek",
-         "opis": "Regeneracja + lekka aktywacja.",
-         "cel": "Rozluźnienie po progu.",
-         "aktywnosc": "Lekki spacer 30-40 minut.",
+         "opis": "Aktywacja + stabilizacja przed aktywnym weekendem.",
+         "cel": "Podtrzymanie siły i kontroli bez zmęczenia.",
+         "aktywnosc": "Krótki spacer 15-20 minut (opcjonalnie).",
          "cwiczenia": [
+            "Most biodrowy jednonóż (3 x 10 na stronę)",
             "Bird-dog (3 x 10 na stronę)",
-            "Most biodrowy jednonóż (2 x 12 na stronę)",
-            "Stanie na jednej nodze - oczy zamknięte (3 x 20 sekund na stronę)"
+            "Stanie na jednej nodze na poduszce sensomotorycznej (3 x 30 sekund na stronę)",
+            "Wspięcia na palce jednonóż (3 x 10 na stronę)"
          ],
-         "stretching": "Delikatne rozciąganie 8-10 minut."
+         "stretching": "Delikatne rozciąganie 6-8 minut."
       },
       {
-         "dzien": "Sobota (Long run)",
-         "opis": "Długi bieg w terenie.",
-         "cel": "Adaptacja pod wysiłek długotrwały.",
-         "rozgrzewka": "Marsz 5-8 minut + lekkie wymachy nóg (1 x 10).",
-         "bieg": "Dystans: 18-20 km, tempo 6:00-6:30/km.",
-         "chlodzenie": "Marsz 8-10 minut.",
-         "stretching": "Rozciąganie 10 minut."
+         "dzien": "Sobota",
+         "opis": "Aktywny dzień w terenie (organizacja biegu).",
+         "cel": "Naturalna objętość tlenowa poprzez marsz i pracę w terenie.",
+         "aktywnosc": "Marsz w terenie według potrzeb dnia.",
+         "cwiczenia": [
+            "Krążenia bioder (2 x 10)",
+            "Krążenia stawu skokowego (2 x 10 na stronę)",
+            "Plank (2 x 30 sekund)"
+         ],
+         "stretching": "Wieczorem 8-10 minut mobilizacji łydek i bioder."
       },
       {
          "dzien": "Niedziela",
-         "opis": "Regeneracja + stabilizacja.",
-         "cel": "Przygotowanie do kolejnego tygodnia.",
-         "aktywnosc": "Lekki spacer 20-40 minut.",
+         "opis": "Lekka aktywność + regeneracja.",
+         "cel": "Utrzymanie ruchu bez przeciążania.",
+         "aktywnosc": "Marsz w terenie lub bardzo lekki trucht 5-8 km (jeśli będzie możliwość).",
          "cwiczenia": [
             "Clamshell (2 x 15 na stronę)",
-            "Plank bokiem (2 x 30 sekund na stronę)",
-            "Stanie na jednej nodze na poduszce sensomotorycznej (2 x 30 sekund na stronę)"
+            "Bird-dog (2 x 10 na stronę)",
+            "Stanie na jednej nodze - oczy zamknięte (2 x 20 sekund na stronę)"
          ],
          "stretching": "Luźne rozciąganie 8-10 minut."
+      }
+   ],
+   [
+      {
+         "dzien": "Poniedzialek (Easy run + stabilizacja)",
+         "cel": "Spokojne rozruszanie po weekendzie i podtrzymanie rytmu biegowego.",
+         "bieg": "8 km 6:00-6:10/km",
+         "rozgrzewka": "5-7 min mobilizacji bioder, skokowego, kolan + lekki trucht",
+         "chlodzenie": "5 min marszu + lekkie rozciaganie lydki i tyl uda",
+         "cwiczenia": [
+            "Wspiecia na palce jednonoz 3x12 na strone",
+            "Stanie na jednej nodze na poduszce 3x30s na strone",
+            "Plank 3x40s"
+         ]
+      },
+      {
+         "dzien": "Wtorek (Sila + stabilizacja)",
+         "cel": "Wzmocnienie dwuglowego, bioder i stabilizacji stawu skokowego.",
+         "cwiczenia": [
+            "Most biodrowy jednonoz 4x10 na strone",
+            "Martwy ciag jednonoz 3x8 na strone",
+            "Clamshell 3x15 na strone",
+            "Bird-dog 3x10 na strone",
+            "Wspiecia na palce obunoz wolno 3x15"
+         ],
+         "stretching": "8-10 min: lydki, tyl uda, posladki"
+      },
+      {
+         "dzien": "Sroda (Progowy)",
+         "cel": "Bodzc progowy pod ultra i praca nad ekonomia biegu.",
+         "bieg": "2 km 6:00/km + 5 km 4:55-5:00/km + 3 km 6:00/km",
+         "rozgrzewka": "2 km bardzo lekko + mobilizacja biodra/skokowy",
+         "chlodzenie": "1-2 km trucht + 5 min marszu",
+         "cwiczenia": [
+            "Plank bokiem 3x30s na strone",
+            "Stanie na jednej nodze oczy zamkniete 2x20s na strone"
+         ]
+      },
+      {
+         "dzien": "Czwartek (Sila biegowa lekka)",
+         "cel": "Lekka sila biegowa i kontrola ruchu bez zmeczenia CNS.",
+         "cwiczenia": [
+            "Step-up 3x10 na strone",
+            "Wykroki chodzone 3x8 na strone",
+            "Most biodrowy klasyczny 3x12",
+            "Wspiecia na palce jednonoz 3x12 na strone",
+            "Poduszka sensomotoryczna 3x30s na strone"
+         ],
+         "stretching": "8 min rolowania lydki i tylu uda"
+      },
+      {
+         "dzien": "Piatek (Easy run)",
+         "cel": "Spokojne km przed longiem, bez narastania zmeczenia.",
+         "bieg": "9-10 km 5:50-6:00/km",
+         "rozgrzewka": "5 min mobilizacji + 1 km bardzo lekko",
+         "chlodzenie": "5-8 min spokojnego marszu",
+         "cwiczenia": [
+            "Bird-dog 2x10 na strone",
+            "Clamshell 2x15 na strone",
+            "Plank 2x40s"
+         ]
+      },
+      {
+         "dzien": "Sobota (Aktywacja)",
+         "cel": "Aktywacja i przygotowanie ukladu nerwowego przed longiem.",
+         "cwiczenia": [
+            "Martwy ciag jednonoz 3x8 na strone",
+            "Wykroki w tyl 3x8 na strone",
+            "Most biodrowy jednonoz 3x10 na strone",
+            "Wspiecia na palce wolno 3x15",
+            "Poduszka sensomotoryczna oczy zamkniete 2x20s na strone"
+         ],
+         "stretching": "10 min mobilizacji bioder i stawu skokowego"
+      },
+      {
+         "dzien": "Niedziela (Long run)",
+         "cel": "Budowanie wytrzymalosci tlenowej pod ultra.",
+         "bieg": "18-20 km 5:55-6:10/km",
+         "rozgrzewka": "1-2 km bardzo lekko",
+         "chlodzenie": "5-10 min marszu + rozciaganie dwuglowego i lydki",
+         "stretching": "Dwuglowy i lydki 3x30s na strone"
       }
    ]
 ]
