@@ -4263,5 +4263,83 @@
          "chlodzenie": "5-10 min marszu + rozciaganie dwuglowego i lydki",
          "stretching": "Dwuglowy i lydki 3x30s na strone"
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja + Siła)",
+         "cel": "Regeneracja po longu, wzmocnienie dwugłowego i stabilizacji skokowego.",
+         "cwiczenia": [
+            "Most biodrowy jednonóż 4x8 na stronę",
+            "Martwy ciąg rumuński jednonóż 3x8 na stronę",
+            "Plank bokiem 3x35s na stronę",
+            "Stanie na jednej nodze oczy zamknięte 3x25s na stronę",
+            "Wspięcia na palce powolne 3x12"
+         ]
+      },
+      {
+         "dzien": "Wtorek (Tlen + Przebieżki)",
+         "cel": "Budowa bazy tlenowej i ekonomii biegu.",
+         "rozgrzewka": "2 km bardzo lekko 6:15-6:30/km + mobilizacja biodro/skokowy",
+         "bieg": "8-10 km w tempie 6:00-6:20/km + 5x80 m przebieżki (80% mocy, przerwa marsz)",
+         "chlodzenie": "1 km trucht + 5 min marszu",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Deska klasyczna 3x40s"
+         ]
+      },
+      {
+         "dzien": "Środa (Stabilizacja + Mobilność)",
+         "cel": "Utrzymanie sprawności i wsparcie regeneracji.",
+         "cwiczenia": [
+            "Przysiad bułgarski 3x8 na stronę",
+            "Most biodrowy obunóż 3x12",
+            "Plank bokiem 3x30s na stronę",
+            "Stanie na poduszce sensomotorycznej 3x30s na stronę",
+            "Mobilizacja biodra i łydki 5-7 min"
+         ]
+      },
+      {
+         "dzien": "Czwartek (Bieg Progowy)",
+         "cel": "Wydłużenie bodźca progowego pod ultra i poprawa trwałości tempa.",
+         "rozgrzewka": "2 km bardzo lekko 6:15-6:30/km + 3x80 m przebieżki",
+         "bieg": "2 km w tempie ok. 6:00/km + 6 km ciągiem 4:55-5:00/km + 2 km w tempie 6:00/km",
+         "chlodzenie": "1-2 km bardzo lekko + 5 min marszu",
+         "cwiczenia": [
+            "Plank bokiem 3x35s na stronę",
+            "Stanie na jednej nodze oczy zamknięte 2x25s na stronę"
+         ]
+      },
+      {
+         "dzien": "Piątek (Siła Biegowa Lekka)",
+         "cel": "Wzmocnienie łańcucha tylnego i stabilizacji bez dużego zmęczenia.",
+         "cwiczenia": [
+            "Martwy ciąg rumuński jednonóż 3x8 na stronę",
+            "Wykroki chodzone 3x10 na stronę",
+            "Wspięcia na palce 3x15",
+            "Plank klasyczny 3x45s"
+         ]
+      },
+      {
+         "dzien": "Sobota (Tlen Spokojny)",
+         "cel": "Podtrzymanie objętości i przygotowanie pod long.",
+         "rozgrzewka": "1-2 km bardzo lekko",
+         "bieg": "10-12 km w tempie 6:05-6:20/km",
+         "chlodzenie": "5 min marszu",
+         "cwiczenia": [
+            "Clamshell 3x12 na stronę",
+            "Stanie na poduszce sensomotorycznej 3x30s na stronę"
+         ]
+      },
+      {
+         "dzien": "Niedziela (Long 22 km)",
+         "cel": "Wydłużenie czasu pracy w tlenie i budowa odporności mechanicznej.",
+         "rozgrzewka": "1-2 km bardzo lekko",
+         "bieg": "22 km w tempie 6:05-6:20/km (równo, bez finiszu)",
+         "chlodzenie": "5-8 min marszu",
+         "cwiczenia": [
+            "Plank bokiem 2x30s na stronę",
+            "Delikatne rolowanie łydki i dwugłowego 5 min"
+         ]
+      }
    ]
 ]
