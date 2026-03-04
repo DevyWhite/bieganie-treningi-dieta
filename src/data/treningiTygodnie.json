@@ -4341,5 +4341,89 @@
             "Delikatne rolowanie łydki i dwugłowego 5 min"
          ]
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja + Stabilizacja)",
+         "cel": "Rozruszanie po longu, wzmocnienie stawu skokowego i tylnego łańcucha.",
+         "cwiczenia": [
+            "Spacer regeneracyjny 20-40 min",
+            "Most biodrowy jednonóż 3x10 na stronę",
+            "RDL jednonóż 3x8 na stronę",
+            "Plank bokiem 3x35s na stronę",
+            "Stanie na jednej nodze oczy zamknięte 3x25s na stronę",
+            "Wspięcia na palce powolne 3x15"
+         ]
+      },
+      {
+         "dzien": "Wtorek (Bieg Tlenowy + Przebieżki)",
+         "cel": "Budowa bazy tlenowej i ekonomii kroku biegowego.",
+         "rozgrzewka": "2 km bardzo lekko 6:10-6:30/km + krążenia bioder i skokowego",
+         "bieg": "9-11 km w tempie 5:55-6:15/km + 5x80 m przebieżki (80% mocy, powrót marszem)",
+         "chlodzenie": "1 km trucht + 5 min marszu",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Deska klasyczna 3x45s"
+         ]
+      },
+      {
+         "dzien": "Środa (Siła + Stabilizacja)",
+         "cel": "Wzmocnienie nóg i stabilizacji biodra oraz skokowego.",
+         "cwiczenia": [
+            "Przysiad bułgarski 3x8 na stronę",
+            "Most biodrowy obunóż 3x12",
+            "RDL jednonóż 3x8 na stronę",
+            "Plank bokiem 3x35s na stronę",
+            "Stanie na poduszce sensomotorycznej 3x35s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę",
+            "Krążenia stawu skokowego w powietrzu 2x10 w każdą stronę na nogę",
+            "Wspięcia na palce powolne 2x15"
+         ]
+      },
+      {
+         "dzien": "Czwartek (Bieg Progowy)",
+         "cel": "Wydłużenie pracy w tempie progowym pod projekty ultra.",
+         "rozgrzewka": "2 km bardzo lekko 6:10-6:30/km + 3x80 m przebieżki",
+         "bieg": "2 km 6:00/km + 6 km ciągiem 4:50-4:55/km + 2 km 6:00/km",
+         "chlodzenie": "1-2 km bardzo lekko + 5 min marszu",
+         "cwiczenia": [
+            "Plank bokiem 3x35s na stronę",
+            "Stanie na jednej nodze oczy zamknięte 2x30s na stronę"
+         ]
+      },
+      {
+         "dzien": "Piątek (Siła Biegowa Lekka)",
+         "cel": "Podtrzymanie siły nóg bez zmęczenia przed weekendowym bieganiem.",
+         "cwiczenia": [
+            "Wykroki chodzone 3x10 na stronę",
+            "RDL jednonóż 3x8 na stronę",
+            "Wspięcia na palce 3x15",
+            "Plank klasyczny 3x45s",
+            "Mobilizacja biodra 3 min"
+         ]
+      },
+      {
+         "dzien": "Sobota (Tlen Spokojny)",
+         "cel": "Podtrzymanie objętości i przygotowanie nóg pod long.",
+         "rozgrzewka": "1-2 km bardzo lekko",
+         "bieg": "10-12 km w tempie 5:55-6:15/km",
+         "chlodzenie": "5 min marszu",
+         "cwiczenia": [
+            "Clamshell 3x12 na stronę",
+            "Stanie na poduszce sensomotorycznej 3x35s na stronę"
+         ]
+      },
+      {
+         "dzien": "Niedziela (Long Run)",
+         "cel": "Budowa wytrzymałości pod projekty 50-60 km.",
+         "rozgrzewka": "1-2 km bardzo lekko",
+         "bieg": "22 km w tempie 5:55-6:15/km (równo, bez przyspieszania końcówki)",
+         "chlodzenie": "5-8 min marszu",
+         "cwiczenia": [
+            "Plank bokiem 2x30s na stronę",
+            "Delikatne rolowanie łydki i dwugłowego 5 min"
+         ]
+      }
    ]
 ]
