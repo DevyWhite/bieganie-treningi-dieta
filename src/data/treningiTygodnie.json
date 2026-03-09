@@ -4428,5 +4428,82 @@
             "Delikatne rolowanie łydki i dwugłowego 5 min"
          ]
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja + Stabilizacja)",
+         "cel": "Rozruszanie nóg po longu i zmniejszenie napięcia łydki oraz Achillesa.",
+         "cwiczenia": [
+            "Spacer 25-40 min",
+            "Most biodrowy jednonóż 3x10 na stronę",
+            "RDL jednonóż 3x8 na stronę",
+            "Plank bokiem 3x35s na stronę",
+            "Wspięcia na palce powolne 3x15",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę"
+         ]
+      },
+      {
+         "dzien": "Wtorek (Tlen + Przebieżki)",
+         "cel": "Spokojna objętość i podtrzymanie ekonomii biegu.",
+         "rozgrzewka": "2 km bardzo lekko 6:10-6:30/km + krążenia bioder w staniu 2x10 w każdą stronę + wymachy nogi przód-tył 2x10 na stronę",
+         "bieg": "10 km w tempie 5:50-6:10/km + 5x80 m przebieżki (80% mocy, przerwa marsz)",
+         "chlodzenie": "1 km trucht + 5 min marszu",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Deska klasyczna 3x40s"
+         ]
+      },
+      {
+         "dzien": "Środa (Siła + Stabilizacja)",
+         "cel": "Wzmocnienie dwugłowego, biodra i stabilizacji pod bieg.",
+         "cwiczenia": [
+            "Przysiad bułgarski 3x8 na stronę",
+            "Most biodrowy obunóż 3x12",
+            "RDL jednonóż 3x8 na stronę",
+            "Uginanie nogi na ręczniku w leżeniu 3x10",
+            "Plank klasyczny 3x45s",
+            "Stanie na jednej nodze oczy zamknięte 3x30s na stronę",
+            "Krążenia bioder w staniu 2x10 w każdą stronę"
+         ]
+      },
+      {
+         "dzien": "Czwartek (Bieg Progowy)",
+         "cel": "Podtrzymanie bodźca progowego bez nadmiernego zmęczenia przed długim marszem.",
+         "rozgrzewka": "2 km bardzo lekko 6:15-6:30/km + 3x80 m przebieżki",
+         "bieg": "2 km w tempie ok. 6:00/km + 5 km ciągiem 4:40-4:45/km + 2 km w tempie 6:00/km",
+         "chlodzenie": "1-2 km bardzo lekko + 5 min marszu",
+         "cwiczenia": [
+            "Plank bokiem 3x35s na stronę",
+            "Stanie na jednej nodze oczy zamknięte 2x25s na stronę"
+         ]
+      },
+      {
+         "dzien": "Piątek (Ekstremalna Droga Krzyżowa)",
+         "cel": "Długi wysiłek tlenowy w marszu i budowa odporności mechanicznej.",
+         "aktywnosc": "Marsz 40-50 km w tempie komfortowym"
+      },
+      {
+         "dzien": "Sobota (Regeneracja)",
+         "cel": "Odbudowa po długim marszu i zmniejszenie napięcia łydki.",
+         "cwiczenia": [
+            "Spacer 20-30 min bardzo lekko",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę",
+            "Krążenia stawu skokowego w powietrzu 2x10 w każdą stronę na nogę",
+            "Plank bokiem 2x30s na stronę"
+         ]
+      },
+      {
+         "dzien": "Niedziela (Bieg Regeneracyjny)",
+         "cel": "Rozruszanie nóg po EDK i przywrócenie rytmu biegowego.",
+         "rozgrzewka": "1 km bardzo lekko + krążenia bioder 2x10",
+         "bieg": "8-10 km w tempie 6:00-6:20/km",
+         "chlodzenie": "5-8 min marszu",
+         "cwiczenia": [
+            "Clamshell 3x12 na stronę",
+            "Stanie na poduszce sensomotorycznej 3x30s na stronę"
+         ]
+      }
    ]
 ]
