@@ -4505,5 +4505,85 @@
             "Stanie na poduszce sensomotorycznej 3x30s na stronę"
          ]
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja + Stabilizacja)",
+         "cel": "Rozruszanie nóg po weekendzie i poprawa stabilizacji stawu skokowego.",
+         "cwiczenia": [
+            "Most biodrowy jednonóż 3x10 na stronę",
+            "RDL jednonóż 3x8 na stronę",
+            "Plank bokiem 3x35s na stronę",
+            "Stanie na poduszce sensomotorycznej 3x35s na stronę",
+            "Wspięcia na palce powolne 3x15",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę"
+         ]
+      },
+      {
+         "dzien": "Wtorek (Bieg Tlenowy)",
+         "cel": "Budowa bazy tlenowej i lekkie rozruszanie nóg.",
+         "rozgrzewka": "2 km bardzo lekko 6:15-6:30/km",
+         "bieg": "8-10 km w tempie 6:00-6:20/km",
+         "chlodzenie": "1 km trucht + 5 min marszu",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Deska klasyczna 3x40s"
+         ]
+      },
+      {
+         "dzien": "Środa (Siła Biegowa)",
+         "cel": "Wzmocnienie czworogłowego, dwugłowego i stabilizacji biodra.",
+         "cwiczenia": [
+            "Przysiad bułgarski 3x8 na stronę",
+            "Most biodrowy jednonóż 3x8 na stronę",
+            "RDL jednonóż 3x8 na stronę",
+            "Plank bokiem 3x35s na stronę",
+            "Krążenia stawu skokowego w powietrzu 2x12 na stronę"
+         ]
+      },
+      {
+         "dzien": "Czwartek (Bieg Progowy)",
+         "cel": "Utrzymanie bodźca progowego bez nadmiernego zmęczenia.",
+         "rozgrzewka": "2 km bardzo lekko 6:15-6:30/km + 3x80 m przebieżki",
+         "bieg": "2 km 6:00/km + 5 km 4:45-4:55/km + 2 km 6:00/km",
+         "chlodzenie": "1-2 km bardzo lekko + 5 min marszu",
+         "cwiczenia": [
+            "Plank bokiem 3x35s na stronę",
+            "Stanie na jednej nodze oczy zamknięte 3x25s na stronę"
+         ]
+      },
+      {
+         "dzien": "Piątek (Stabilizacja + Mobilność)",
+         "cel": "Odciążenie nóg przed weekendem i poprawa zakresów ruchu.",
+         "cwiczenia": [
+            "Most biodrowy obunóż 3x12",
+            "Clamshell z gumą 3x12 na stronę",
+            "Stanie na poduszce sensomotorycznej 3x30s na stronę",
+            "Wspięcia na palce powolne 3x15",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę"
+         ]
+      },
+      {
+         "dzien": "Sobota (Bieg Tlenowy)",
+         "cel": "Podtrzymanie objętości i przygotowanie pod long run.",
+         "rozgrzewka": "1-2 km bardzo lekko",
+         "bieg": "10-12 km w tempie 6:00-6:20/km",
+         "chlodzenie": "5 min marszu",
+         "cwiczenia": ["Clamshell 3x12 na stronę", "Plank klasyczny 3x40s"]
+      },
+      {
+         "dzien": "Niedziela (Long Run)",
+         "cel": "Budowa wytrzymałości tlenowej i odporności mięśniowej.",
+         "rozgrzewka": "1-2 km bardzo lekko",
+         "bieg": "22 km w tempie 6:00-6:15/km",
+         "chlodzenie": "5-8 min marszu",
+         "cwiczenia": [
+            "Plank bokiem 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę"
+         ]
+      }
    ]
 ]
