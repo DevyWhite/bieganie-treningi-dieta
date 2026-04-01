@@ -3107,7 +3107,7 @@
    [
       {
          "dzien": "Poniedziałek (Mobilizacja + lekkie core)",
-         "opis": "Dzień organizacyjny i rozluźniający — brak biegania.",
+         "opis": "Dzień organizacyjny i rozluźniający - brak biegania.",
          "cel": "Utrzymanie mobilności i przygotowanie do wejścia w dłuższe truchty w tym tygodniu.",
          "aktywnosc": "Mobilizacja 15-20 min w domu.",
          "cwiczenia": [
@@ -3116,13 +3116,13 @@
             "Bird-dog (2 x 8 na stronę)",
             "Plank (2 x 25 sekund)"
          ],
-         "stretching": "Pośladki, zginacze bioder i tył uda — 3 x 20 sekund."
+         "stretching": "Pośladki, zginacze bioder i tył uda - 3 x 20 sekund."
       },
       {
          "dzien": "Wtorek (Marszobieg - dłuższe truchty)",
          "opis": "Pierwsze dłuższe odcinki truchtu w proporcjach kontrolowanych.",
          "cel": "Wydłużenie czasu pracy dwugłowego przy zachowaniu bezpieczeństwa.",
-         "aktywnosc": "Marsz 3 min / trucht 3 min — powtarzaj 6 razy (łącznie 36 minut). Podłoże miękkie.",
+         "aktywnosc": "Marsz 3 min / trucht 3 min - powtarzaj 6 razy (łącznie 36 minut). Podłoże miękkie.",
          "cwiczenia": [
             "Most biodrowy jednostronny (3 x 10)",
             "Clamshell z gumą (3 x 15)",
@@ -3141,20 +3141,20 @@
             "Glute bridge (2 x 12)",
             "Clamshell (2 x 12)"
          ],
-         "stretching": "Pośladki i tylna taśma — 3 x 20 sekund."
+         "stretching": "Pośladki i tylna taśma - 3 x 20 sekund."
       },
       {
          "dzien": "Czwartek (Marszobieg - progres)",
-         "opis": "Najważniejszy akcent tygodnia — truchty wydłużone do 4-5 minut.",
+         "opis": "Najważniejszy akcent tygodnia - truchty wydłużone do 4-5 minut.",
          "cel": "Sprawdzenie tolerancji na dłuższy ciągły ruch.",
-         "aktywnosc": "Marsz 3 min / trucht 4-5 min — powtarzaj 5 razy (35-40 minut). Miękkie podłoże.",
+         "aktywnosc": "Marsz 3 min / trucht 4-5 min - powtarzaj 5 razy (35-40 minut). Miękkie podłoże.",
          "cwiczenia": [
             "Most biodrowy z zatrzymaniem 3 sek (3 x 10)",
             "Wykrok boczny (3 x 8 na stronę)",
             "Bird-dog (3 x 8 na stronę)",
             "Plank (2 x 30 sekund)"
          ],
-         "stretching": "Rozciąganie bioder, dwugłowych i łydek — 3 x 20 sekund."
+         "stretching": "Rozciąganie bioder, dwugłowych i łydek - 3 x 20 sekund."
       },
       {
          "dzien": "Piątek (Regeneracja + lekka mobilność)",
@@ -3186,7 +3186,7 @@
          "cel": "Regeneracja po sobocie, poprawa krążenia.",
          "aktywnosc": "Spacer 5-8 km w spokojnym tempie.",
          "cwiczenia": ["Koci grzbiet (2 x 10)", "Bird-dog (2 x 8 na stronę)"],
-         "stretching": "Pośladki i tylna taśma — 3 x 20 sekund."
+         "stretching": "Pośladki i tylna taśma - 3 x 20 sekund."
       }
    ],
    [
@@ -3246,10 +3246,10 @@
          "stretching": "Rozciąganie dwugłowego i łydek 2 x 30 sekund."
       },
       {
-         "dzien": "Sobota (Bieg ciągły — test)",
+         "dzien": "Sobota (Bieg ciągły - test)",
          "opis": "Pierwszy kontrolowany bieg ciągły po etapie rehabilitacji.",
          "cel": "Sprawdzenie reakcji dwugłowego na nieprzerywane obciążenie.",
-         "aktywnosc": "Bieg ciągły 6-7 minut w bardzo spokojnym tempie, następnie 8-10 minut marszu jako schłodzenie. Jeśli brak objawów i czujesz się dobrze — opcjonalna druga seria 6-7 minut.",
+         "aktywnosc": "Bieg ciągły 6-7 minut w bardzo spokojnym tempie, następnie 8-10 minut marszu jako schłodzenie. Jeśli brak objawów i czujesz się dobrze - opcjonalna druga seria 6-7 minut.",
          "bieg": "6-7 minut ciągłego biegu (tempo konwersacyjne), opcjonalnie powtórzyć raz po 8-10 min marszu.",
          "rozgrzewka": "Marsz 5-8 min + wymachy nóg przód/tył (2 x 10) + krążenia bioder (1 x 10).",
          "chlodzenie": "Marsz 8-10 minut, stopniowe obniżenie tętna.",
@@ -3385,7 +3385,7 @@
       },
       {
          "dzien": "Środa (Bieg ciągły)",
-         "opis": "Pierwszy bieg tygodnia — luz, równy rytm.",
+         "opis": "Pierwszy bieg tygodnia - luz, równy rytm.",
          "cel": "Adaptacja do dłuższego ciągłego biegu, bez przeciążeń.",
          "aktywnosc": "Bieg 30 minut spokojnym tempem.",
 
@@ -3407,7 +3407,7 @@
       },
       {
          "dzien": "Piątek (Bieg ciągły)",
-         "opis": "Drugi bieg w tygodniu — równie spokojny jak środowy.",
+         "opis": "Drugi bieg w tygodniu - równie spokojny jak środowy.",
          "cel": "Budowanie tolerancji na obciążenie bez prowokowania bólu.",
          "aktywnosc": "Bieg 25-30 minut, swobodnym tempem.",
 
@@ -4667,6 +4667,95 @@
          "cwiczenia": [
             "Plank bokiem 2x30s na stronę",
             "Delikatne rolowanie łydki i dwugłowego 5 min"
+         ]
+      }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja + Stabilizacja)",
+         "cel": "Zmniejszenie napięcia łydki i okolicy piszczeli oraz utrzymanie stabilizacji biodra.",
+         "cwiczenia": [
+            "Most biodrowy jednonóż 3x8 na stronę",
+            "RDL jednonóż 3x8 na stronę",
+            "Plank bokiem 3x30s na stronę",
+            "Stanie na jednej nodze oczy zamknięte 3x25s na stronę",
+            "Wspięcia na palce powolne 3x12 (1 sek w górę, 3 sek w dół)",
+            "Krążenia stawu skokowego w powietrzu 2x10 w każdą stronę na nogę",
+            "Delikatne rolowanie łydki 3-4 min"
+         ]
+      },
+      {
+         "dzien": "Wtorek (Regeneracja + Stabilizacja)",
+         "cel": "Zmniejszenie napięcia łydki i okolicy piszczeli oraz utrzymanie stabilizacji biodra.",
+         "aktywnosc": "5-6 km spaceru.",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Deska 3x40s",
+            "Stanie na jednej nodze oczy zamknięte 3×25 s",
+            "Rozciąganie łydki (proste kolano) 2×30 s",
+            "Rozciąganie łydki (ugięte kolano) 2×30 s",
+            "Tibialis raise przy ścianie 3×15"
+         ]
+      },
+      {
+         "dzien": "Środa (Siła Biegowa - zmodyfikowana)",
+         "cel": "Utrzymanie siły biodra i łydki. \nOdpuszczam bułgarskie ze względu na piszczel - wolę nie ryzykować i dać jej jeszcze jeden dzień spokoju.",
+         "cwiczenia": [
+            "Most biodrowy jednonóż 3x8 na stronę",
+            "RDL jednonóż 3x8 na stronę",
+            "Plank bokiem 3x30s na stronę",
+            "Stanie na poduszce sensomotorycznej 3x30s na stronę",
+            "Wspięcia na palce powolne 3x12 (1s góra, 3s dół)",
+            "Tibialis raise przy ścianie 3x15"
+         ]
+      },
+      {
+         "dzien": "Czwartek (Test Biegowy)",
+         "cel": "Sprawdzam jak piszczel reaguje na spokojny trucht. Jeśli cokolwiek poczuję wzdłuż kości - kończę bez żalu i wracam do domu.",
+         "rozgrzewka": "5 min marszu, stopniowe przejście w bardzo lekki trucht",
+         "bieg": "20-25 min w tempie 6:30-6:45/km - słucham nogi, nie zegarka",
+         "chlodzenie": "5 min marszu + rozciąganie łydki przy ścianie 2x30s (proste i ugięte kolano)",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Deska klasyczna 3x35s",
+            "Tibialis raise przy ścianie 3x15"
+         ]
+      },
+      {
+         "dzien": "Piątek (Mobilność + Regeneracja)",
+         "cel": "Regeneracja po teście z czwartku. Oceniam jak piszczel zniosła bieg i decyduję o weekendzie.",
+         "cwiczenia": [
+            "Krążenia stawu skokowego w powietrzu 2x10 w każdą stronę na nogę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę",
+            "Clamshell z gumą 3x12 na stronę",
+            "Stanie na jednej nodze oczy zamknięte 3x25s na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Delikatne rolowanie łydki 4-5 min"
+         ]
+      },
+      {
+         "dzien": "Sobota (Bieg Tlenowy - warunkowy)",
+         "cel": "Tylko jeśli czwartek przeszedł bez bólu i piątek nie przyniósł żadnych sygnałów z piszczeli. Krótko, spokojnie, bez ambicji.",
+         "rozgrzewka": "1-2 km bardzo lekko 6:20-6:30/km",
+         "bieg": "6-8 km w tempie 6:00-6:20/km - jeśli cokolwiek czuję w piszczeli, skracam do 4-5 km lub odpuszczam całkowicie",
+         "chlodzenie": "5 min marszu",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Stanie na poduszce sensomotorycznej 3x30s na stronę",
+            "Tibialis raise przy ścianie 3x15"
+         ]
+      },
+      {
+         "dzien": "Niedziela (Wielkanocna Regeneracja)",
+         "cel": "Odpoczynek. Święta to dobry moment żeby dać ciału pauzę - i nie czuć się z tym źle.",
+         "aktywnosc": "5-10 km spaceru.",
+         "cwiczenia": [
+            "Plank bokiem 2x30s na stronę",
+            "Delikatne rolowanie łydki 3 min",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę",
+            "Tibialis raise przy ścianie 3x15"
          ]
       }
    ]
