@@ -4961,5 +4961,109 @@
             "Delikatne rolowanie łydki 3-4 min"
          ]
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Bieg Tlenowy - teren)",
+         "cel": "Otwieracz tygodnia po lesie. Spokojne tempo, kadencja, miękki krok - wchodzę w tydzień bez pośpiechu.",
+         "rozgrzewka": "1 km bardzo lekko, stopniowe rozruszanie",
+         "bieg": "10-12 km po terenie w tempie 5:50-6:15/km",
+         "chlodzenie": "5 min marszu + rozciąganie łydki 2x25s na stronę",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Plank bokiem 3x40s na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Stanie na jednej nodze oczy zamknięte 2x25s na stronę"
+         ]
+      },
+      {
+         "dzien": "Wtorek (Siła Biegowa)",
+         "cel": "Siła i stabilizacja - fundament który trzyma mnie zdrowym na długich dystansach.",
+         "cwiczenia": [
+            "Przysiad bułgarski 3x8 na stronę",
+            "Most biodrowy jednonóż 3x8 na stronę",
+            "RDL jednonóż 3x8 na stronę",
+            "Wspięcia na palce powolne 3x12 (1s góra, 3s dół)",
+            "Tibialis raise przy ścianie 3x15",
+            "Plank bokiem 3x40s na stronę",
+            "Deska klasyczna 3x45s",
+            "Dead bug 3x10 na stronę - powolne tempo, kontrola oddechu",
+            "Stanie na poduszce sensomotorycznej 3x30s na stronę",
+            "Rozciąganie biodra w wykroku 2x35s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x35s na stronę",
+            "Rolowanie łydki 3-4 min"
+         ]
+      },
+      {
+         "dzien": "Środa (Mobilność + Regeneracja / Rower)",
+         "cel": "Aktywna regeneracja. Jeśli pogoda dopisuje - rower jako przyjemne odciążenie nóg. Jeśli nie - mobilność i rozciąganie.",
+         "cwiczenia": [
+            "Dead bug 3x10 na stronę",
+            "Plank bokiem 3x40s na stronę",
+            "Deska klasyczna 3x45s",
+            "Rozciąganie biodra w wykroku 2x35s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x35s na stronę",
+            "Krążenia biodra w podporze 2x10 na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę",
+            "Krążenia stawu skokowego w powietrzu 2x10 w każdą stronę na nogę",
+            "Tibialis raise przy ścianie 3x15",
+            "Rolowanie łydki 4-5 min"
+         ]
+      },
+      {
+         "dzien": "Czwartek (Bieg Tlenowy - teren)",
+         "cel": "Główny bieg środka tygodnia. Trochę więcej kilometrów niż poniedziałek - buduję objętość spokojnie i z głową.",
+         "rozgrzewka": "1 km bardzo lekko",
+         "bieg": "13-15 km po lesie w tempie 5:50-6:15/km",
+         "chlodzenie": "5 min marszu + rozciąganie łydki 2x25s na stronę",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Deska klasyczna 3x45s",
+            "Tibialis raise przy ścianie 3x15",
+            "Dead bug 3x8 na stronę"
+         ]
+      },
+      {
+         "dzien": "Piątek (Stabilizacja + Mobilność / Rower)",
+         "cel": "Regeneracja przed longiem. Jeśli pogoda dobra - rower. Jeśli nie - spokojne ćwiczenia i rozciąganie. Jutro długo.",
+         "cwiczenia": [
+            "Most biodrowy jednonóż 3x8 na stronę",
+            "Clamshell z gumą 3x12 na stronę",
+            "Plank bokiem 3x40s na stronę",
+            "Stanie na jednej nodze oczy zamknięte 3x25s na stronę",
+            "Rozciąganie biodra w wykroku 2x35s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x35s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Rolowanie łydki 4-5 min"
+         ]
+      },
+      {
+         "dzien": "Sobota (Long Run - teren)",
+         "cel": "Najważniejszy bieg tygodnia. Utrzymuję długość z poprzedniego tygodnia - nie zwiększam, daję ciału czas na adaptację po 22 km.",
+         "rozgrzewka": "1-2 km bardzo lekko",
+         "bieg": "20-22 km po terenie w tempie 5:45-6:15/km - teren dyktuje tempo, nie zegarek",
+         "chlodzenie": "5-10 min marszu",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Stanie na poduszce sensomotorycznej 3x30s na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Rozciąganie łydki przy ścianie 2x30s na stronę",
+            "Rolowanie łydki 4-5 min"
+         ]
+      },
+      {
+         "dzien": "Niedziela (Aktywna Regeneracja)",
+         "cel": "Odpoczynek po longu. Spacer, rolowanie, może rower jeśli nogi same proszą. Nie zmuszam się do niczego.",
+         "cwiczenia": [
+            "Plank bokiem 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie 2x25s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x30s na stronę",
+            "Tibialis raise przy ścianie 2x15",
+            "Delikatne rolowanie łydki 3-4 min"
+         ]
+      }
    ]
 ]
