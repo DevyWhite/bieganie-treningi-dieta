@@ -5277,5 +5277,103 @@
             "Delikatne rolowanie łydki 3-4 min"
          ]
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja + Stabilizacja)",
+         "cel": "Aktywna regeneracja - dziś odpoczywam od biegania i ładuję baterie przed nowym układem tygodnia.",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Most biodrowy jednonóż 3x8 na stronę",
+            "Uniesienie bioder w leżeniu bokiem 3x12 na stronę",
+            "Deska klasyczna 3x45s",
+            "Dead bug 3x10 na stronę - powolne tempo, kontrola oddechu",
+            "Stanie na jednej nodze oczy zamknięte 3x25s na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Rozciąganie biodra w wykroku 2x35s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x35s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę",
+            "Krążenia stawu skokowego w powietrzu 2x10 w każdą stronę na nogę",
+            "Delikatne rolowanie łydki 4-5 min"
+         ]
+      },
+      {
+         "dzien": "Wtorek (Bieg Tlenowy - teren)",
+         "cel": "Dłuższy bieg środka tygodnia. Szukam ziemnych ścieżek, unikam szutru - staw skokowy działa lepiej na miękkiej nawierzchni.",
+         "rozgrzewka": "1 km bardzo lekko, stopniowe rozruszanie",
+         "bieg": "14-16 km po terenie w tempie 5:50-6:10/km",
+         "chlodzenie": "5 min marszu + rozciąganie łydki 2x25s na stronę",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Uniesienie bioder w leżeniu bokiem 3x12 na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Stanie na jednej nodze oczy zamknięte 2x25s na stronę"
+         ]
+      },
+      {
+         "dzien": "Środa (Siła Biegowa / Rower)",
+         "cel": "Siła i stabilizacja - jutro krótko a pojutrze long, więc dziś solidna praca ale bez przesady. Rower jako bonus jeśli pogoda pozwala.",
+         "cwiczenia": [
+            "Przysiad bułgarski 3x8 na stronę",
+            "Most biodrowy jednonóż 3x8 na stronę",
+            "RDL jednonóż 3x8 na stronę",
+            "Wspięcia na palce powolne 3x12 (1s góra, 3s dół)",
+            "Tibialis raise przy ścianie 3x15",
+            "Uniesienie bioder w leżeniu bokiem 3x12 na stronę",
+            "Deska klasyczna 3x45s",
+            "Dead bug 3x10 na stronę",
+            "Stanie na poduszce sensomotorycznej 3x30s na stronę",
+            "Rozciąganie biodra w wykroku 2x35s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x35s na stronę",
+            "Rolowanie łydki 3-4 min"
+         ]
+      },
+      {
+         "dzien": "Czwartek (Krótki Bieg Tlenowy - teren)",
+         "cel": "Krótko i spokojnie - jutro long więc dziś tylko podtrzymuję rytm biegania. Nogi mają być świeże na piątek.",
+         "rozgrzewka": "1 km bardzo lekko",
+         "bieg": "7-8 km po lesie w tempie 6:00-6:20/km - zero ambicji tempa, nogi pracują oszczędnie",
+         "chlodzenie": "5 min marszu + rozciąganie łydki 2x25s na stronę",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Stanie na jednej nodze oczy zamknięte 2x25s na stronę"
+         ]
+      },
+      {
+         "dzien": "Piątek (Long Run - teren)",
+         "cel": "Long tygodnia - przesunięty na piątek żeby sobota była wolna.",
+         "rozgrzewka": "1-2 km bardzo lekko",
+         "bieg": "20-22 km po terenie w tempie 5:50-6:20/km - unikam szutru, ziemne ścieżki priorytet, obserwuję staw skokowy",
+         "chlodzenie": "5-10 min marszu",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Stanie na poduszce sensomotorycznej 3x30s na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Rozciąganie łydki przy ścianie 2x30s na stronę",
+            "Rolowanie łydki 4-5 min"
+         ]
+      },
+      {
+         "dzien": "Sobota (Free!)",
+         "cel": "Dziś odpoczywam. To też jest część regeneracji",
+         "cwiczenia": [
+            "Rozciąganie łydki przy ścianie 2x25s na stronę",
+            "Delikatne rolowanie łydki 3 min"
+         ]
+      },
+      {
+         "dzien": "Niedziela (Aktywna Regeneracja)",
+         "cel": "Spokojnie po longu. Spacer, rolowanie, rower jeśli nogi chętne - bez presji.",
+         "cwiczenia": [
+            "Uniesienie bioder w leżeniu bokiem 2x12 na stronę",
+            "Dead bug 3x10 na stronę",
+            "Rozciąganie łydki przy ścianie 2x25s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x30s na stronę",
+            "Tibialis raise przy ścianie 2x15",
+            "Delikatne rolowanie łydki 3-4 min"
+         ]
+      }
    ]
 ]
