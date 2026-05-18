@@ -5285,7 +5285,7 @@
          "cwiczenia": [
             "Clamshell z gumą 3x12 na stronę",
             "Most biodrowy jednonóż 3x8 na stronę",
-            "Uniesienie bioder w leżeniu bokiem 3x12 na stronę",
+            "Plank bokiem 3x40s na stronę",
             "Deska klasyczna 3x45s",
             "Dead bug 3x10 na stronę - powolne tempo, kontrola oddechu",
             "Stanie na jednej nodze oczy zamknięte 3x25s na stronę",
@@ -5306,7 +5306,7 @@
          "chlodzenie": "5 min marszu + rozciąganie łydki 2x25s na stronę",
          "cwiczenia": [
             "Clamshell z gumą 3x12 na stronę",
-            "Uniesienie bioder w leżeniu bokiem 3x12 na stronę",
+            "Plank bokiem 3x40s na stronę",
             "Tibialis raise przy ścianie 3x15",
             "Stanie na jednej nodze oczy zamknięte 2x25s na stronę"
          ]
@@ -5320,7 +5320,7 @@
             "RDL jednonóż 3x8 na stronę",
             "Wspięcia na palce powolne 3x12 (1s góra, 3s dół)",
             "Tibialis raise przy ścianie 3x15",
-            "Uniesienie bioder w leżeniu bokiem 3x12 na stronę",
+            "Plank bokiem 3x40s na stronę",
             "Deska klasyczna 3x45s",
             "Dead bug 3x10 na stronę",
             "Stanie na poduszce sensomotorycznej 3x30s na stronę",
@@ -5373,6 +5373,105 @@
             "Rozciąganie pasma IT (pozycja leżąca) 2x30s na stronę",
             "Tibialis raise przy ścianie 2x15",
             "Delikatne rolowanie łydki 3-4 min"
+         ]
+      }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Krótki Bieg + Stabilizacja)",
+         "cel": "Krótkie rozruszanie nóg po weekendzie.",
+         "rozgrzewka": "1 km bardzo lekko",
+         "bieg": "6-7 km po terenie w tempie 6:00-6:20/km - spokojnie, bez ambicji",
+         "chlodzenie": "5 min marszu + rozciąganie łydki 2x25s na stronę",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Most biodrowy jednonóż 3x8 na stronę",
+            "Plank bokiem 3x40s na stronę",
+            "Deska klasyczna 3x45s",
+            "Tibialis raise przy ścianie 3x15",
+            "Stanie na jednej nodze oczy zamknięte 2x25s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę",
+            "Delikatne rolowanie łydki 3-4 min"
+         ]
+      },
+      {
+         "dzien": "Wtorek (Mobilność + Siła)",
+         "cel": "Zero biegania - aktywuję mięśnie i dbam o mobilność. Nogi mają być coraz świeższe.",
+         "cwiczenia": [
+            "Przysiad bułgarski 3x8 na stronę",
+            "RDL jednonóż 3x8 na stronę",
+            "Most biodrowy jednonóż 3x8 na stronę",
+            "Wspięcia na palce powolne 3x12 (1s góra, 3s dół)",
+            "Tibialis raise przy ścianie 3x15",
+            "Dead bug 3x10 na stronę - powolne tempo",
+            "Plank bokiem 3x40s na stronę",
+            "Deska klasyczna 3x45s",
+            "Stanie na poduszce sensomotorycznej 3x30s na stronę",
+            "Rozciąganie biodra w wykroku 2x35s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x35s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę",
+            "Krążenia stawu skokowego w powietrzu 2x10 w każdą stronę na nogę",
+            "Rolowanie łydki 4-5 min"
+         ]
+      },
+      {
+         "dzien": "Środa (Aktywacja + Mobilność)",
+         "cel": "Ostatni dzień przed projektem. Tylko delikatna aktywacja i rozciąganie - nogi mają być jutro jak sprężyny.",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Most biodrowy jednonóż 2x8 na stronę",
+            "Tibialis raise przy ścianie 2x15",
+            "Stanie na jednej nodze oczy zamknięte 2x25s na stronę",
+            "Rozciąganie biodra w wykroku 2x35s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x35s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę",
+            "Krążenia stawu skokowego w powietrzu 2x10 w każdą stronę na nogę",
+            "Delikatne rolowanie łydki 3-4 min"
+         ]
+      },
+      {
+         "dzien": "Czwartek (Szlak Lasów Podlubelskich)",
+         "cel": "Projekt czas start!",
+         "rozgrzewka": "Pierwsze 3-4 km bardzo spokojnie - nogi same się rozgrzeją",
+         "bieg": "55 km - Szlak Lasów Podlubelskich",
+         "chlodzenie": "Marsz na ostatnim kilometrze + rozciąganie łydki przy ścianie.",
+         "cwiczenia": []
+      },
+      {
+         "dzien": "Piątek (Zgon 🤣)",
+         "cel": "Pełny odpoczynek - leżę, jem, nawadniam się i pozwalam ciału zacząć regenerację. Nic na siłę.",
+         "cwiczenia": [
+            "Delikatne rolowanie łydki 5 min jeśli w ogóle mam siłę wziąć roller 😂",
+            "Rozciąganie łydki przy ścianie 2x25s na stronę - tylko jeśli nogi na to pozwalają"
+         ]
+      },
+      {
+         "dzien": "Sobota (Spacer + Delikatne Ćwiczenia)",
+         "cel": "Pierwsze wyjście po wielkim biegu. Spacer to najlepsza regeneracja aktywna - nogi kręcą bez uderzania.",
+         "cwiczenia": [
+            "Clamshell z gumą 2x12 na stronę",
+            "Rozciąganie biodra w wykroku 2x30s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie 2x25s na stronę",
+            "Tibialis raise przy ścianie 2x15",
+            "Delikatne rolowanie łydki 4-5 min"
+         ]
+      },
+      {
+         "dzien": "Niedziela (Bardzo Lekkie Rozruszanie)",
+         "cel": "Bardzo krótko i bardzo spokojnie. Sprawdzam jak nogi reagują.",
+         "rozgrzewka": "5 min marszu",
+         "bieg": "4-5 km w tempie 6:20-6:40/km - jeśli nogi protestują to skracam do 3 km lub zamieniam na spacer bez żalu",
+         "chlodzenie": "5 min marszu + rozciąganie łydki 2x25s na stronę",
+         "cwiczenia": [
+            "Most biodrowy jednonóż 2x8 na stronę",
+            "Dead bug 2x8 na stronę",
+            "Tibialis raise przy ścianie 2x15",
+            "Rozciąganie łydki przy ścianie 2x25s na stronę",
+            "Rolowanie łydki 3-4 min"
          ]
       }
    ]
