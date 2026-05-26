@@ -54,5 +54,13 @@
       "excerpt": "Jak mądrze łączyć trening na asfalcie z biegami w terenie, by budować formę, unikać kontuzji i czerpać radość z obu światów.",
       "image": "/images/article-images/7/main.jpg",
       "content": "/data/articles/road-trail-mix.json"
+   },
+   {
+      "id": 8,
+      "title": "Szlakiem lasów podlubelskich. 55 km solo z pociągu na pociąg.",
+      "author": "Dawid",
+      "excerpt": "Postanowiłem zmierzyć się z oficjalnym szlakiem PTTK Lublin. Znałem długość, profil i przebieg. Ale czy teoria pokryła się z praktyką?",
+      "image": "/images/article-images/8/main.jpg",
+      "content": "/data/articles/lublin-trail-run.json"
    }
 ]
