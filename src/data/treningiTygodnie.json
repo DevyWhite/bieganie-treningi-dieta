@@ -5572,5 +5572,108 @@
             "Delikatne rolowanie łydki 3 min"
          ]
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja + Stabilizacja)",
+         "cel": "Odrabiam zaległy sen i odpoczynek po festiwalowym weekendzie. Ćwiczenia spokojnie - ciało jeszcze się regeneruje.",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Most biodrowy jednonóż 3x8 na stronę",
+            "Plank bokiem 3x35s na stronę - wraca do planu",
+            "Deska klasyczna 3x45s",
+            "Dead bug 3x10 na stronę - powolne tempo, kontrola oddechu",
+            "Stanie na jednej nodze oczy zamknięte 3x25s na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Rozciąganie biodra w wykroku 2x35s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x35s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę",
+            "Krążenia stawu skokowego w powietrzu 2x10 w każdą stronę na nogę",
+            "Delikatne rolowanie łydki 4-5 min"
+         ]
+      },
+      {
+         "dzien": "Wtorek (Bieg Tlenowy - teren)",
+         "cel": "Pierwszy bieg po festiwalowym weekendzie. Sprawdzam jak nogi wróciły do rytmu i obserwuję bok piszczeli prawej nogi.",
+         "rozgrzewka": "1 km bardzo lekko, stopniowe rozruszanie",
+         "bieg": "11-12 km po terenie w tempie 5:50-6:15/km",
+         "chlodzenie": "5 min marszu + rozciąganie łydki 2x25s na stronę",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Plank bokiem 3x35s na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Stanie na jednej nodze oczy zamknięte 2x25s na stronę"
+         ]
+      },
+      {
+         "dzien": "Środa (Siła Biegowa)",
+         "cel": "Siła biodra, pośladków i łydki. Pełny zestaw siłowy.",
+         "cwiczenia": [
+            "Przysiad bułgarski 3x8 na stronę",
+            "Most biodrowy jednonóż 3x8 na stronę",
+            "RDL jednonóż 3x8 na stronę",
+            "Wspięcia na palce powolne 3x12 (1s góra, 3s dół)",
+            "Tibialis raise przy ścianie 3x15",
+            "Plank bokiem 3x40s na stronę",
+            "Deska klasyczna 3x45s",
+            "Dead bug 3x10 na stronę",
+            "Stanie na poduszce sensomotorycznej 3x30s na stronę",
+            "Rozciąganie biodra w wykroku 2x35s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x35s na stronę",
+            "Rolowanie łydki 3-4 min"
+         ]
+      },
+      {
+         "dzien": "Czwartek (Bieg Tlenowy - teren)",
+         "cel": "Drugi bieg tygodnia. Trochę dłużej niż wtorek - buduję rytm przed sobotnim longiem.",
+         "rozgrzewka": "1 km bardzo lekko",
+         "bieg": "13-14 km po lesie w tempie 5:50-6:10/km",
+         "chlodzenie": "5 min marszu + rozciąganie łydki 2x25s na stronę",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Plank bokiem 3x35s na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Dead bug 3x8 na stronę"
+         ]
+      },
+      {
+         "dzien": "Piątek (Mobilność + Regeneracja)",
+         "cel": "Regeneracja przed longiem. Jutro długo więc dziś tylko rozciąganie i mobilność - nogi mają być świeże.",
+         "cwiczenia": [
+            "Dead bug 3x10 na stronę",
+            "Plank bokiem 3x40s na stronę",
+            "Deska klasyczna 3x45s",
+            "Krążenia biodra w podporze 2x10 na stronę",
+            "Rozciąganie biodra w wykroku 2x35s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x35s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Rolowanie łydki 4-5 min"
+         ]
+      },
+      {
+         "dzien": "Sobota (Long Run - teren)",
+         "cel": "Long. Spokojnie i z radością - dziś bez presji.",
+         "rozgrzewka": "1-2 km bardzo lekko",
+         "bieg": "18-20 km po terenie w tempie 5:50-6:20/km - obserwuję bok piszczeli, jeśli coś sygnalizuje to skracam",
+         "chlodzenie": "5-10 min marszu",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Plank bokiem 3x35s na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Rozciąganie łydki przy ścianie 2x30s na stronę",
+            "Rolowanie łydki 4-5 min"
+         ]
+      },
+      {
+         "dzien": "Niedziela (Regeneracja)",
+         "cel": "Dziś free.",
+         "cwiczenia": [
+            "Rozciąganie łydki przy ścianie 2x25s na stronę jeśli znajdę chwilę",
+            "Tibialis raise przy ścianie 2x15"
+         ]
+      }
    ]
 ]
