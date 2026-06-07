@@ -5675,5 +5675,97 @@
             "Tibialis raise przy ścianie 2x15"
          ]
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Przylot - Odpoczynek)",
+         "cel": "Pierwszy dzień na Malcie - aklimatyzacja, transfer, rozpakowywanie. Zero biegania, nogi odpoczywają po podróży.",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę - wieczorem jeśli mam energię",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x25s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x25s na stronę",
+            "Tibialis raise przy ścianie 2x15"
+         ]
+      },
+      {
+         "dzien": "Wtorek (Lekki Bieg Tlenowy - Malta)",
+         "cel": "Pierwszy bieg na Malcie - krótko i spokojnie. Sprawdzam jak reaguję na upał i nawierzchnię. Wychodzę o 7:00 zanim słońce uderzy z pełną mocą.",
+         "rozgrzewka": "1 km bardzo lekko, stopniowe rozruszanie",
+         "bieg": "8-9 km w tempie 6:10-6:30/km - tempo drugorzędne, liczy się reakcja ciała na upał i nawierzchnię",
+         "chlodzenie": "5 min marszu + rozciąganie łydki 2x25s na stronę",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Plank bokiem 3x35s na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Stanie na jednej nodze oczy zamknięte 2x25s na stronę"
+         ]
+      },
+      {
+         "dzien": "Środa (Aktywny Odpoczynek - Zwiedzanie)",
+         "cel": "Odpoczynek od biegania - Malta ma co zwiedzać. Chodzę ile chcę, nie liczę kroków i cieszę się wyspą z żoną.",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Most biodrowy jednonóż 3x8 na stronę",
+            "Plank bokiem 3x35s na stronę",
+            "Deska klasyczna 3x40s",
+            "Dead bug 3x10 na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Rozciąganie biodra w wykroku 2x30s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x25s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x25s na stronę"
+         ]
+      },
+      {
+         "dzien": "Czwartek (Bieg Tlenowy - Malta)",
+         "cel": "Drugi bieg na wyspie - trochę dłużej niż wtorek. Wychodzę o 7:00, piję więcej niż mi się wydaje że potrzebuję.",
+         "rozgrzewka": "1 km bardzo lekko",
+         "bieg": "10-11 km w tempie 6:00-6:20/km - jeśli upał daje w kość to skracam bez żalu",
+         "chlodzenie": "5 min marszu + rozciąganie łydki 2x25s na stronę",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Plank bokiem 3x35s na stronę",
+            "Dead bug 3x8 na stronę",
+            "Tibialis raise przy ścianie 3x15"
+         ]
+      },
+      {
+         "dzien": "Piątek (Transfer na Gozo + Regeneracja)",
+         "cel": "Dziś przeprawa na Gozo i rozkładanie się w nowym miejscu. Nogi odpoczywają - jutro długo po wybrzeżu.",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Most biodrowy jednonóż 3x8 na stronę",
+            "Plank bokiem 3x35s na stronę",
+            "Deska klasyczna 3x40s",
+            "Tibialis raise przy ścianie 3x15",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x25s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x25s na stronę",
+            "Rozciąganie biodra w wykroku 2x30s na stronę",
+            "Krążenia stawu skokowego w powietrzu 2x10 w każdą stronę na nogę"
+         ]
+      },
+      {
+         "dzien": "Sobota (Gozo Coastal Walk - Long Run)",
+         "cel": "Główny bieg wakacji - Gozo Coastal Walk. Wychodzę o 7:00, biegnę ile nogi i słońce pozwalają. Cel 20 km ale trasa sama podyktuje ile dziś.",
+         "rozgrzewka": "1-2 km bardzo lekko po nadmorskich ścieżkach",
+         "bieg": "16-20 km wzdłuż wybrzeża Gozo - tempo schodzi na drugi plan, liczą się widoki i dobra zabawa. Przy upale powyżej 28 stopni skracam do 14-16 km bez dyskusji",
+         "chlodzenie": "5-10 min marszu + rozciąganie łydki 2x25s na stronę",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Rozciąganie łydki przy ścianie 2x25s na stronę"
+         ]
+      },
+      {
+         "dzien": "Niedziela (Regeneracja - Gozo)",
+         "cel": "Ostatni dzień na Gozo. Odpoczywam po długim biegu, zwiedzam z żoną i cieszę się wyspą. Bieganie odpada.",
+         "cwiczenia": [
+            "Clamshell z gumą 2x12 na stronę",
+            "Plank bokiem 2x30s na stronę",
+            "Tibialis raise przy ścianie 2x15",
+            "Rozciąganie łydki przy ścianie 2x25s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x25s na stronę"
+         ]
+      }
    ]
 ]
