@@ -5973,5 +5973,98 @@
             "Delikatne rolowanie łydki 3-4 min"
          ]
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Odpoczynek - Regeneracja)",
+         "cel": "Zasłużony odpoczynek po Turbaczu i jagodowym tygodniu. Śpię ile potrzebuję i nie robię nic na siłę.",
+         "cwiczenia": []
+      },
+      {
+         "dzien": "Wtorek (Bieg Tlenowy - teren)",
+         "cel": "Pierwszy bieg po tygodniu bez biegania. Spokojnie - sprawdzam jak nogi wróciły do rytmu.",
+         "rozgrzewka": "1 km bardzo lekko",
+         "bieg": "10-11 km po terenie w tempie 5:55-6:15/km",
+         "chlodzenie": "5 min marszu + rozciąganie łydki 2x25s na stronę",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Plank bokiem 3x35s na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Stanie na jednej nodze oczy zamknięte 2x25s na stronę"
+         ]
+      },
+      {
+         "dzien": "Środa (Siła Biegowa)",
+         "cel": "Wracam do pełnego zestawu siłowego po przerwie. Solidna praca ale bez przeciążania nóg.",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Most biodrowy jednonóż 3x8 na stronę",
+            "RDL jednonóż 3x8 na stronę",
+            "Przysiad bułgarski 3x8 na stronę",
+            "Wspięcia na palce powolne 3x12 (1s góra, 3s dół)",
+            "Tibialis raise przy ścianie 3x15",
+            "Plank bokiem 3x40s na stronę",
+            "Deska klasyczna 3x45s",
+            "Dead bug 3x10 na stronę",
+            "Stanie na poduszce sensomotorycznej 3x30s na stronę",
+            "Rozciąganie biodra w wykroku 2x35s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x35s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rolowanie łydki 3-4 min"
+         ]
+      },
+      {
+         "dzien": "Czwartek (Bieg Tlenowy - teren)",
+         "cel": "Drugi bieg tygodnia. Trochę dłużej niż wtorek - buduję rytm przed sobotnim longiem.",
+         "rozgrzewka": "1 km bardzo lekko",
+         "bieg": "13-14 km po lesie w tempie 5:50-6:10/km",
+         "chlodzenie": "5 min marszu + rozciąganie łydki 2x25s na stronę",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Plank bokiem 3x35s na stronę",
+            "Dead bug 3x8 na stronę",
+            "Tibialis raise przy ścianie 3x15"
+         ]
+      },
+      {
+         "dzien": "Piątek (Mobilność + Regeneracja)",
+         "cel": "Regeneracja przed longiem. Jutro długo a wieczorem Rzym - dziś nogi odpoczywają.",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Dead bug 3x10 na stronę",
+            "Plank bokiem 3x40s na stronę",
+            "Deska klasyczna 3x45s",
+            "Krążenia biodra w podporze 2x10 na stronę",
+            "Rozciąganie biodra w wykroku 2x35s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x35s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Rolowanie łydki 4-5 min"
+         ]
+      },
+      {
+         "dzien": "Sobota (Long Run - teren + Rzym wieczorem)",
+         "cel": "Long przed wylotem - rano biegnę, wieczorem Rzym.",
+         "rozgrzewka": "1-2 km bardzo lekko",
+         "bieg": "20-22 km po terenie w tempie 5:50-6:20/km",
+         "chlodzenie": "5-10 min marszu + rozciąganie łydki 2x25s na stronę",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Plank bokiem 3x35s na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Rozciąganie łydki przy ścianie 2x30s na stronę",
+            "Rolowanie łydki 4-5 min"
+         ]
+      },
+      {
+         "dzien": "Niedziela (Rzym - Zwiedzanie)",
+         "cel": "Pierwszy pełny dzień w Rzymie z rodziną. Chodzę ile się da, cieszę się miastem - nogi odpoczywają od biegania.",
+         "cwiczenia": [
+            "Rozciąganie łydki przy ścianie 2x25s na stronę wieczorem",
+            "Tibialis raise przy ścianie 2x15",
+            "Delikatne rolowanie łydki 3 min jeśli mam roller"
+         ]
+      }
    ]
 ]
