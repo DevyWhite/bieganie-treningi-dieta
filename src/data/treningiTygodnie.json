@@ -2339,7 +2339,7 @@
       {
          "dzien": "Poniedziałek (Regeneracja)",
          "opis": "Aktywna regeneracja po weekendzie",
-         "cel": "Odpoczynek po treningach jakościowych i zbieraniu jagód.",
+         "cel": "Odpoczynek po treningach jakościowych i pracy.",
          "aktywnosc": "Lekki rower 45-60 minut (dystans 15-25 km, bez mocnych podjazdów) lub spacer 6-8 km.",
          "cwiczenia": "Plank (3 x 30 sekund),\nWznosy bioder (2 x 15 powtórzeń),\nUnoszenie nóg w bok (2 x 10 na stronę)"
       },
@@ -2399,7 +2399,7 @@
       {
          "dzien": "Poniedziałek (Regeneracja)",
          "opis": "Aktywna regeneracja po weekendzie",
-         "cel": "Odpoczynek po wcześniejszych treningach i zbieraniu jagód.",
+         "cel": "Odpoczynek po wcześniejszych treningach i pracy.",
          "aktywnosc": "Lekki rower 40-60 minut (15-20 km) lub spacer 6-8 km.",
          "cwiczenia": "Plank (3 x 30 sekund),\nWznosy bioder (2 x 15 powtórzeń),\nUnoszenie nóg w bok (2 x 10 na stronę)"
       },
@@ -5977,7 +5977,7 @@
    [
       {
          "dzien": "Poniedziałek (Odpoczynek - Regeneracja)",
-         "cel": "Zasłużony odpoczynek po Turbaczu i jagodowym tygodniu. Śpię ile potrzebuję i nie robię nic na siłę.",
+         "cel": "Zasłużony odpoczynek po Turbaczu i pracowitym tygodniu. Śpię ile potrzebuję i nie robię nic na siłę.",
          "cwiczenia": []
       },
       {
@@ -6193,8 +6193,8 @@
          ]
       },
       {
-         "dzien": "Środa (Jagody + Mini Ćwiczenia)",
-         "cel": "Dzień jagodowy - jeśli znajdę 15 minut wieczorem to robię minimalny pakiet. Jeśli nie - odpuszczam bez wyrzutów sumienia.",
+         "dzien": "Środa (Praca + Mini Ćwiczenia)",
+         "cel": "Dzień pracy - jeśli znajdę 15 minut wieczorem to robię minimalny pakiet. Jeśli nie - odpuszczam bez wyrzutów sumienia.",
          "cwiczenia": [
             "Clamshell z gumą 2x12 na stronę",
             "Plank bokiem 2x35s na stronę",
@@ -6262,7 +6262,7 @@
    [
       {
          "dzien": "Poniedziałek (Regeneracja + Stabilizacja)",
-         "cel": "Odpoczynek po najmocniejszym tygodniu jak dotąd. Delikatna praca nad dolną częścią pleców po jagodach - dead bug i plank to dobrzy sojusznicy.",
+         "cel": "Odpoczynek po najmocniejszym tygodniu jak dotąd. Delikatna praca nad dolną częścią pleców - dead bug i plank to dobrzy sojusznicy.",
          "cwiczenia": [
             "Clamshell z gumą 3x12 na stronę",
             "Most biodrowy jednonóż 3x8 na stronę",
@@ -6364,6 +6364,147 @@
             "Tibialis raise przy ścianie 3x15",
             "Rozciąganie łydki przy ścianie 2x30s na stronę",
             "Rolowanie łydki 4-5 min"
+         ]
+      }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Praca)",
+         "cel": "Zero treningu biegowego - praca fizyczna to wystarczające obciążenie.",
+         "cwiczenia": []
+      },
+      {
+         "dzien": "Wtorek (Praca)",
+         "cel": "Kontynuacja pracy fizycznej.",
+         "cwiczenia": []
+      },
+      {
+         "dzien": "Środa (Dojazd na Małą Fatrę)",
+         "cel": "Wyjazd na Małą Fatrę - dojazd samochodem z przerwą na spacer w Puszczy Niepołomickiej. Nocleg w samochodzie.",
+         "rozgrzewka": "",
+         "bieg": "",
+         "spacer": "7,68 km w 1:34h po Puszczy Niepołomickiej - przerwa w podróży",
+         "cwiczenia": []
+      },
+      {
+         "dzien": "Czwartek (Grań Małej Fatry - Trekking Górski)",
+         "cel": "Główne wyzwanie tygodnia - grań Małej Fatry przez Chleb i Wielki Kriváň. Ogromne przewyższenie, tempo dyktowane przez teren.",
+         "bieg": "20 km w 5:34h, średnie tętno 106bpm, 2854m przewyższenia",
+         "cwiczenia": []
+      },
+      {
+         "dzien": "Piątek (Janosikove Diery + Powrót)",
+         "cel": "Janosikove Diery w spokojniejszym tempie, później powrót samochodem do domu z przerwą na spacer.",
+         "bieg": "8,3 km w 3h, średnie tętno 102bpm, 650m przewyższenia",
+         "spacer": "1,5 km w Puszczy Niepołomickiej na powrocie",
+         "cwiczenia": []
+      },
+      {
+         "dzien": "Sobota (Regeneracja)",
+         "cel": "Pełny odpoczynek po górach i dniach za kierownicą. Nogi zmęczone, słońce dało w kość - dziś tylko odpoczynek.",
+         "cwiczenia": []
+      },
+      {
+         "dzien": "Niedziela (Krótki Test Biegowy - teren)",
+         "cel": "Pierwszy bieg po Małej Fatrze - bardzo spokojny test w zapasowych butach (Kiprun MT3). Sprawdzam jak nogi reagują po górach, nie buduję formy.",
+         "rozgrzewka": "5 min marszu",
+         "bieg": "5-6 km w tempie 6:20-6:40/km - jeśli nogi protestują, kończę wcześniej lub zamieniam na spacer",
+         "chlodzenie": "5 min marszu + rozciąganie łydki 2x25s na stronę",
+         "cwiczenia": [
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x25s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x25s na stronę",
+            "Delikatne rolowanie łydki 3-4 min"
+         ]
+      }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Praca)",
+         "cel": "Zero treningu biegowego - praca fizyczna to wystarczające obciążenie."
+      },
+      {
+         "dzien": "Wtorek (Bieg Tlenowy - teren)",
+         "cel": "Pierwszy normalny bieg tygodnia. Spokojne tempo - nowe buty potrzebują docierania.",
+         "rozgrzewka": "1 km bardzo lekko",
+         "bieg": "10-11 km po terenie w tempie 5:55-6:15/km",
+         "chlodzenie": "5 min marszu + rozciąganie łydki 2x25s na stronę",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Plank bokiem 3x35s na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Stanie na jednej nodze oczy zamknięte 2x25s na stronę"
+         ]
+      },
+      {
+         "dzien": "Środa (Siła Biegowa)",
+         "cel": "Pełny zestaw siłowy. Solidna praca po tygodniu górskim i teście biegowym.",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Most biodrowy jednonóż 3x8 na stronę",
+            "RDL jednonóż 3x8 na stronę",
+            "Przysiad bułgarski 3x8 na stronę",
+            "Wspięcia na palce powolne 3x12 (1s góra, 3s dół)",
+            "Tibialis raise przy ścianie 3x15",
+            "Plank bokiem 3x40s na stronę",
+            "Deska klasyczna 3x45s",
+            "Dead bug 3x10 na stronę",
+            "Stanie na poduszce sensomotorycznej 3x30s na stronę",
+            "Rozciąganie biodra w wykroku 2x35s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x35s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rolowanie łydki 3-4 min"
+         ]
+      },
+      {
+         "dzien": "Czwartek (Bieg Tlenowy - teren)",
+         "cel": "Drugi bieg tygodnia. Trochę dłużej niż wtorek - buduję rytm przed sobotnim eventem.",
+         "rozgrzewka": "1 km bardzo lekko",
+         "bieg": "12-13 km po lesie w tempie 5:50-6:10/km",
+         "chlodzenie": "5 min marszu + rozciąganie łydki 2x25s na stronę",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Plank bokiem 3x35s na stronę",
+            "Dead bug 3x8 na stronę",
+            "Tibialis raise przy ścianie 3x15"
+         ]
+      },
+      {
+         "dzien": "Piątek (Mobilność + Regeneracja)",
+         "cel": "Regeneracja przed eventem. Jutro półmaraton na luzie plus obowiązki organizacyjne - dziś nogi odpoczywają.",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Dead bug 3x10 na stronę",
+            "Plank bokiem 3x40s na stronę",
+            "Deska klasyczna 3x45s",
+            "Krążenia biodra w podporze 2x10 na stronę",
+            "Rozciąganie biodra w wykroku 2x35s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x35s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Rolowanie łydki 4-5 min"
+         ]
+      },
+      {
+         "dzien": "Sobota (Event Biegowy - Półmaraton, na luzie)",
+         "cel": "Główny bieg tygodnia - udział w evencie jako organizator, z możliwością przebiegnięcia półmaratonu. Tempo swobodne, priorytet to obowiązki organizacyjne i przyjemność z biegu.",
+         "rozgrzewka": "1-2 km bardzo lekko",
+         "bieg": "21 km w tempie swobodnym, dostosowanym do obowiązków organizacyjnych - bez presji wyniku",
+         "chlodzenie": "5-10 min marszu",
+         "cwiczenia": [
+            "Rozciąganie łydki przy ścianie 2x30s na stronę",
+            "Rolowanie łydki 4-5 min"
+         ]
+      },
+      {
+         "dzien": "Niedziela (Aktywna Regeneracja)",
+         "cel": "Spokojnie po evencie. Spacer, rolowanie - bez presji i bez zegarka.",
+         "cwiczenia": [
+            "Plank bokiem 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie 2x25s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x30s na stronę",
+            "Tibialis raise przy ścianie 2x15",
+            "Delikatne rolowanie łydki 3-4 min"
          ]
       }
    ]
