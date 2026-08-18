@@ -6381,22 +6381,21 @@
       {
          "dzien": "Środa (Dojazd na Małą Fatrę)",
          "cel": "Wyjazd na Małą Fatrę - dojazd samochodem z przerwą na spacer w Puszczy Niepołomickiej. Nocleg w samochodzie.",
+         "aktywnosc": "Spacer 7-8km po puszczy Niepołomickiej - przerwa w podróży.",
          "rozgrzewka": "",
          "bieg": "",
-         "spacer": "7,68 km w 1:34h po Puszczy Niepołomickiej - przerwa w podróży",
          "cwiczenia": []
       },
       {
          "dzien": "Czwartek (Grań Małej Fatry - Trekking Górski)",
          "cel": "Główne wyzwanie tygodnia - grań Małej Fatry przez Chleb i Wielki Kriváň. Ogromne przewyższenie, tempo dyktowane przez teren.",
-         "bieg": "20 km w 5:34h, średnie tętno 106bpm, 2854m przewyższenia",
+         "aktywnosc": "20 km w 5:34h, 2854m przewyższenia",
          "cwiczenia": []
       },
       {
          "dzien": "Piątek (Janosikove Diery + Powrót)",
          "cel": "Janosikove Diery w spokojniejszym tempie, później powrót samochodem do domu z przerwą na spacer.",
-         "bieg": "8,3 km w 3h, średnie tętno 102bpm, 650m przewyższenia",
-         "spacer": "1,5 km w Puszczy Niepołomickiej na powrocie",
+         "aktywnosc": "8,3 km w 3h, 650m przewyższenia. \n 1,5 km w Puszczy Niepołomickiej na powrocie",
          "cwiczenia": []
       },
       {
