@@ -6506,5 +6506,82 @@
             "Delikatne rolowanie łydki 3-4 min"
          ]
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja - Praca)",
+         "cel": "Nogi dały znać po intensywnym tygodniu - odpuszczam większe aktywności. Praca i lekki rower jako jedyny ruch.",
+         "aktywnosc": "5 km rower - dojazd do pracy",
+         "cwiczenia": []
+      },
+      {
+         "dzien": "Wtorek (Regeneracja - Praca)",
+         "cel": "Kontynuacja pracy. Lekki rower do dojazdu, reszta odpoczynku - ciało nadal się regeneruje.",
+         "aktywnosc": "5 km rower - dojazd do pracy",
+         "cwiczenia": []
+      },
+      {
+         "dzien": "Środa (Praca + Mobilność)",
+         "cel": "Dokończenie pracy. Jeśli zostanie czas i energia - krótka mobilność i rozciąganie po tygodniach bez ćwiczeń.",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Plank bokiem 3x35s na stronę",
+            "Dead bug 3x10 na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Rozciąganie biodra w wykroku 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x25s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x25s na stronę",
+            "Rolowanie łydki 3-4 min"
+         ]
+      },
+      {
+         "dzien": "Czwartek (Krótki Bieg Tlenowy - teren)",
+         "cel": "Pierwszy bieg po tygodniu regeneracji. Krótko i spokojnie - nogi mają być świeże na sobotnie zawody.",
+         "rozgrzewka": "1 km bardzo lekko",
+         "bieg": "7-8 km po terenie w tempie 6:00-6:20/km",
+         "chlodzenie": "5 min marszu + rozciąganie łydki 2x25s na stronę",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Plank bokiem 3x35s na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Stanie na jednej nodze oczy zamknięte 2x25s na stronę"
+         ]
+      },
+      {
+         "dzien": "Piątek (Mobilność + Regeneracja)",
+         "cel": "Ostatni dzień przed zawodami. Tylko delikatna aktywacja i rozciąganie - nogi mają być jutro świeże.",
+         "cwiczenia": [
+            "Clamshell z gumą 2x12 na stronę",
+            "Most biodrowy jednonóż 2x8 na stronę",
+            "Tibialis raise przy ścianie 2x15",
+            "Stanie na jednej nodze oczy zamknięte 2x25s na stronę",
+            "Rozciąganie biodra w wykroku 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x25s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x25s na stronę",
+            "Delikatne rolowanie łydki 3-4 min"
+         ]
+      },
+      {
+         "dzien": "Sobota (Zawody 12 km - Zalew Zemborzycki)",
+         "cel": "Główne wydarzenie tygodnia - zawody na płaskim terenie po ostatnim mocno górskim weekendzie. Nogi powinny docenić brak przewyższeń.",
+         "rozgrzewka": "1-2 km bardzo lekko + dynamiczne rozciąganie przed startem",
+         "bieg": "12 km - tempo zawodnicze, dostosowane do formy i samopoczucia na starcie",
+         "chlodzenie": "5-10 min marszu + rozciąganie łydki 2x25s na stronę",
+         "cwiczenia": [
+            "Rozciąganie łydki przy ścianie 2x30s na stronę",
+            "Rolowanie łydki 4-5 min"
+         ]
+      },
+      {
+         "dzien": "Niedziela (Aktywna Regeneracja)",
+         "cel": "Spokojnie po zawodach. Spacer, rolowanie - bez presji i bez zegarka.",
+         "cwiczenia": [
+            "Plank bokiem 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie 2x25s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x30s na stronę",
+            "Tibialis raise przy ścianie 2x15",
+            "Delikatne rolowanie łydki 3-4 min"
+         ]
+      }
    ]
 ]
