@@ -6583,5 +6583,101 @@
             "Delikatne rolowanie łydki 3-4 min"
          ]
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Rower z żoną + Lekkie Ćwiczenia)",
+         "cel": "Główna aktywność dnia to rower z żoną. Wieczorem tylko lekki zestaw - nogi po 40-50 km na rowerze zasługują na odpoczynek.",
+         "aktywnosc": "40-50 km rower z żoną, tempo rekreacyjne",
+         "cwiczenia": [
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x25s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x25s na stronę",
+            "Rozciąganie biodra w wykroku 2x25s na stronę",
+            "Delikatne rolowanie łydki 3-4 min"
+         ]
+      },
+      {
+         "dzien": "Wtorek (Bieg Tlenowy - teren)",
+         "cel": "Krótki bieg przed napiętym tygodniem pracy. Spokojnie - jutro zaczyna się długi tydzień poza domem.",
+         "rozgrzewka": "1 km bardzo lekko",
+         "bieg": "10-11 km po terenie w tempie 5:50-6:15/km",
+         "chlodzenie": "5 min marszu + rozciąganie łydki 2x25s na stronę",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Plank bokiem 3x35s na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Stanie na jednej nodze oczy zamknięte 2x25s na stronę"
+         ]
+      },
+      {
+         "dzien": "Środa (Praca + Mobilność)",
+         "cel": "Pierwszy dzień intensywnej pracy poza domem. Wieczorem krótka mobilność - nic wymagającego, jeszcze nie wiem jak zmęczy mnie dzień.",
+         "cwiczenia": [
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x25s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x25s na stronę",
+            "Rozciąganie biodra w wykroku 2x25s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x25s na stronę",
+            "Delikatne rolowanie łydki 3-4 min"
+         ]
+      },
+      {
+         "dzien": "Czwartek (Bieg Tlenowy - po pracy)",
+         "cel": "Bieg wieczorem po zakończeniu pracy. Krótko i spokojnie - dzień pracy w nogach.",
+         "rozgrzewka": "1 km bardzo lekko",
+         "bieg": "8-9 km po terenie w tempie 6:00-6:20/km",
+         "chlodzenie": "5 min marszu + rozciąganie łydki 2x25s na stronę",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Plank bokiem 3x35s na stronę",
+            "Tibialis raise przy ścianie 3x15"
+         ]
+      },
+      {
+         "dzien": "Piątek (Praca + Ćwiczenia)",
+         "cel": "Ostatni dzień intensywnej pracy. Wieczorem pełniejszy zestaw ćwiczeń - jutro tylko zajęcia z dziećmi, niedziela to long.",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Most biodrowy jednonóż 3x8 na stronę",
+            "Plank bokiem 3x40s na stronę",
+            "Deska klasyczna 3x45s",
+            "Dead bug 3x10 na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Rozciąganie biodra w wykroku 2x35s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x35s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę",
+            "Rolowanie łydki 4-5 min"
+         ]
+      },
+      {
+         "dzien": "Sobota (Zajęcia z dziećmi + Ćwiczenia)",
+         "cel": "Zajęcia z dziećmi do południa. Po powrocie - ćwiczenia, bez biegania. Nogi odpoczywają przed jutrzejszym longiem.",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "RDL jednonóż 3x8 na stronę",
+            "Przysiad bułgarski 3x8 na stronę",
+            "Plank bokiem 3x40s na stronę",
+            "Dead bug 3x10 na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Stanie na poduszce sensomotorycznej 3x30s na stronę",
+            "Rozciąganie biodra w wykroku 2x35s na stronę",
+            "Rozciąganie łydki przy ścianie 2x30s na stronę",
+            "Rolowanie łydki 4-5 min"
+         ]
+      },
+      {
+         "dzien": "Niedziela (Long Run - teren, wyjazdowo)",
+         "cel": "Główny bieg tygodnia - long z głodem większego kilometrażu. Wyjazdowo, z przyjemnością, bez presji tempa.",
+         "rozgrzewka": "1-2 km bardzo lekko",
+         "bieg": "22-25 km po terenie w tempie 5:50-6:20/km",
+         "chlodzenie": "5-10 min marszu + rozciąganie łydki 2x25s na stronę",
+         "cwiczenia": [
+            "Clamshell z gumą 3x12 na stronę",
+            "Plank bokiem 3x35s na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Rozciąganie łydki przy ścianie 2x30s na stronę",
+            "Rolowanie łydki 4-5 min"
+         ]
+      }
    ]
 ]
