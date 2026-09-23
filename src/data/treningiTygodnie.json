@@ -6793,5 +6793,103 @@
             "Delikatne rolowanie łydki 3-4 min"
          ]
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja - Luz)",
+         "cel": "Dzień bez ustalonego planu - świadoma decyzja żeby nie obciążać kolana bez konkretnych wytycznych. Drobne prace domowe zamiast treningu.",
+         "cwiczenia": []
+      },
+      {
+         "dzien": "Wtorek (Ćwiczenia Profilaktyczne - ITBS)",
+         "cel": "Pierwszy dzień świadomej pracy nad ITBS. Bieganie dziś odpada - skupiam się na ćwiczeniach dla obu nóg.",
+         "cwiczenia": [
+            "Clamshell z gumą 3x15 na stronę",
+            "Odwiedzenie biodra w leżeniu bokiem 3x12 na stronę",
+            "Most biodrowy jednonóż 3x8 na stronę",
+            "Plank bokiem 3x30s na stronę",
+            "Deska klasyczna 3x30s",
+            "Dead bug 3x10 na stronę",
+            "Stanie na jednej nodze oczy zamknięte 3x30s na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x30s na stronę",
+            "Rozciąganie biodra w wykroku 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę",
+            "Rolowanie łydki 4-5 min"
+         ]
+      },
+      {
+         "dzien": "Środa (Ćwiczenia Profilaktyczne - ITBS)",
+         "cel": "Kontynuacja pracy nad ITBS. Zachowawcze podejście - obserwuję jak kolano reaguje na regularne wzmacnianie.",
+         "cwiczenia": [
+            "Clamshell z gumą 3x15 na stronę",
+            "Odwiedzenie biodra w leżeniu bokiem 3x12 na stronę",
+            "RDL jednonóż 3x8 na stronę",
+            "Wspięcia na palce powolne 3x12 (1s góra, 3s dół)",
+            "Tibialis raise przy ścianie 3x15",
+            "Plank bokiem 3x30s na stronę",
+            "Deska klasyczna 3x30s",
+            "Dead bug 3x10 na stronę",
+            "Stanie na poduszce sensomotorycznej 3x30s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x30s na stronę",
+            "Rozciąganie biodra w wykroku 2x30s na stronę",
+            "Rolowanie łydki 4-5 min"
+         ]
+      },
+      {
+         "dzien": "Czwartek (Test Biegowy - teren łagodny)",
+         "cel": "Pierwszy bieg po dniach ćwiczeń profilaktycznych. Krótko, na łagodnym terenie, bez agresywnych zbiegów - test reakcji kolana.",
+         "rozgrzewka": "1 km bardzo lekko",
+         "bieg": "6-7 km po łagodnym terenie w tempie 6:00-6:20/km - unikam stromych i technicznych zbiegów, przy jakimkolwiek sygnale z kolana kończę wcześniej",
+         "chlodzenie": "5 min marszu + rozciąganie pasma IT 2x30s na stronę",
+         "cwiczenia": [
+            "Clamshell z gumą 3x15 na stronę",
+            "Odwiedzenie biodra w leżeniu bokiem 3x12 na stronę",
+            "Tibialis raise przy ścianie 3x15"
+         ]
+      },
+      {
+         "dzien": "Piątek (Ćwiczenia Profilaktyczne - ITBS)",
+         "cel": "Regeneracja i dalsza praca nad ITBS przed weekendem. Bez biegania - dzień czysto ćwiczeniowy.",
+         "cwiczenia": [
+            "Clamshell z gumą 3x15 na stronę",
+            "Odwiedzenie biodra w leżeniu bokiem 3x12 na stronę",
+            "Dead bug 3x10 na stronę",
+            "Plank bokiem 3x30s na stronę",
+            "Deska klasyczna 3x30s",
+            "Krążenia biodra w podporze 2x10 na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x30s na stronę",
+            "Rozciąganie biodra w wykroku 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Rolowanie łydki 4-5 min"
+         ]
+      },
+      {
+         "dzien": "Sobota (Bieg Tlenowy - teren łagodny, warunkowo)",
+         "cel": "Drugi test biegowy tygodnia, jeśli czwartek przeszedł bez sygnałów z kolana. Łagodny teren, bez zbiegów technicznych.",
+         "rozgrzewka": "1 km bardzo lekko",
+         "bieg": "8-9 km po łagodnym terenie w tempie 6:00-6:20/km",
+         "chlodzenie": "5 min marszu + rozciąganie pasma IT 2x30s na stronę",
+         "cwiczenia": [
+            "Clamshell z gumą 3x15 na stronę",
+            "Odwiedzenie biodra w leżeniu bokiem 3x12 na stronę",
+            "Tibialis raise przy ścianie 3x15"
+         ]
+      },
+      {
+         "dzien": "Niedziela (Regeneracja)",
+         "cel": "Zachowawczy tydzień kończy się bez longa - priorytet to pozwolić kolanu w pełni zareagować na tydzień pracy profilaktycznej. Long wraca gdy kolano potwierdzi że jest gotowe.",
+         "cwiczenia": [
+            "Clamshell z gumą 2x15 na stronę",
+            "Odwiedzenie biodra w leżeniu bokiem 2x12 na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie 2x25s na stronę",
+            "Tibialis raise przy ścianie 2x15",
+            "Delikatne rolowanie łydki 3-4 min"
+         ]
+      }
    ]
 ]
