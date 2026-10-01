@@ -6891,5 +6891,83 @@
             "Delikatne rolowanie łydki 3-4 min"
          ]
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Regeneracja - Spacer)",
+         "cel": "Zmęczenie w nogach po pracy fizycznej. Spacer zamiast treningu.",
+         "aktywnosc": "Spacer 5,5 km",
+         "cwiczenia": []
+      },
+      {
+         "dzien": "Wtorek (Bieg Tlenowy - przerwany, teren)",
+         "cel": "Planowany dłuższy bieg skrócony ze względu na sygnały z kolana. Dobra decyzja żeby nie kontynuować mimo planu na więcej.",
+         "bieg": "5 km",
+         "aktywnosc": "Spacer wieczorem 6 km - przerwany przez dyskomfort w kolanie, dodatkowo mocne obciążenie kolana przy pracy fizycznej w domu",
+         "cwiczenia": []
+      },
+      {
+         "dzien": "Środa (Regeneracja - Spacer)",
+         "cel": "Lekki dzień po epizodzie z kolanem. Tylko spacer, zero obciążenia treningowego.",
+         "aktywnosc": "Spacer ok 3 km",
+         "cwiczenia": []
+      },
+      {
+         "dzien": "Czwartek (Ćwiczenia Profilaktyczne - ITBS)",
+         "cel": "Powrót do świadomej pracy nad ITBS przed weekendem pracy fizycznej. Wzmacniam biodro zanim czeka mnie dużo klęczenia.",
+         "cwiczenia": [
+            "Clamshell z gumą 3x15 na stronę",
+            "Odwiedzenie biodra w leżeniu bokiem 3x12 na stronę",
+            "Most biodrowy jednonóż 3x8 na stronę",
+            "Plank bokiem 3x30s na stronę",
+            "Deska klasyczna 3x30s",
+            "Dead bug 3x10 na stronę",
+            "Stanie na jednej nodze oczy zamknięte 3x30s na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x30s na stronę",
+            "Rozciąganie biodra w wykroku 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę",
+            "Rolowanie łydki 4-5 min"
+         ]
+      },
+      {
+         "dzien": "Piątek (Ćwiczenia Profilaktyczne - ITBS)",
+         "cel": "Kontynuacja pracy profilaktycznej. Ostatni dzień przed intensywnym weekendem pracy - biodro ma być jak najsilniejsze.",
+         "cwiczenia": [
+            "Clamshell z gumą 3x15 na stronę",
+            "Odwiedzenie biodra w leżeniu bokiem 3x12 na stronę",
+            "RDL jednonóż 3x8 na stronę",
+            "Wspięcia na palce powolne 3x12 (1s góra, 3s dół)",
+            "Tibialis raise przy ścianie 3x15",
+            "Plank bokiem 3x30s na stronę",
+            "Deska klasyczna 3x30s",
+            "Dead bug 3x10 na stronę",
+            "Stanie na poduszce sensomotorycznej 3x30s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x30s na stronę",
+            "Rozciąganie biodra w wykroku 2x30s na stronę",
+            "Rolowanie łydki 4-5 min"
+         ]
+      },
+      {
+         "dzien": "Sobota (Praca)",
+         "cel": "Intensywny dzień pracy",
+         "cwiczenia": [
+            "Rozciąganie pasma IT (pozycja leżąca) 2x30s na stronę wieczorem",
+            "Rozciąganie łydki przy ścianie 2x30s na stronę"
+         ]
+      },
+      {
+         "dzien": "Niedziela (Regeneracja - bez biegu)",
+         "cel": "Rezygnacja z zawodów na 10 km ze względu na kolano - mądra decyzja. Odpoczynek po weekendzie pracy.",
+         "cwiczenia": [
+            "Clamshell z gumą 2x15 na stronę",
+            "Odwiedzenie biodra w leżeniu bokiem 2x12 na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie 2x30s na stronę",
+            "Tibialis raise przy ścianie 2x15",
+            "Delikatne rolowanie łydki 3-4 min"
+         ]
+      }
    ]
 ]
