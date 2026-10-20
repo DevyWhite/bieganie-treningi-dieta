@@ -7159,5 +7159,104 @@
             "Rolowanie łydki 4 min"
          ]
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Praca - Spacer)",
+         "cel": "Dzień pracy, ćwiczenia odpuszczone po długim dniu. Bez nadrabiania.",
+         "aktywnosc": "Spacer po lesie ok 4 km",
+         "cwiczenia": []
+      },
+      {
+         "dzien": "Wtorek (Bieg na Bieżni)",
+         "cel": "Spokojny bieg na bieżni, płasko i bez zbiegów. Trzymam tempo w zakresie, nie przyspieszam.",
+         "rozgrzewka": "1 km bardzo lekko na bieżni",
+         "bieg": "10 km na bieżni w tempie 5:45-6:15/km, nachylenie 1%",
+         "chlodzenie": "5 min marszu + rozciąganie pasma IT 2x30s na stronę + rozciąganie łydki 2x30s na stronę",
+         "cwiczenia": [
+            "Odwiedzenie biodra w staniu z gumą 2x12 na stronę",
+            "Clamshell z gumą 2x15 na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Stanie na jednej nodze oczy zamknięte 2x30s na stronę"
+         ]
+      },
+      {
+         "dzien": "Środa (Siła Biegowa)",
+         "cel": "Pełny zestaw wzmacniający biodro i stabilizację. Plank bokiem wraca w skróconej wersji, przy ramieniu skracam lub pomijam.",
+         "cwiczenia": [
+            "Odwiedzenie biodra w staniu z gumą 3x12 na stronę",
+            "Clamshell z gumą 3x15 na stronę",
+            "Most biodrowy jednonóż 3x8 na stronę",
+            "RDL jednonóż 3x8 na stronę",
+            "Wspięcia na palce powolne 3x12 (1s góra, 3s dół)",
+            "Tibialis raise przy ścianie 3x15",
+            "Deska klasyczna 3x30s",
+            "Plank bokiem 2x30s na stronę",
+            "Dead bug 3x10 na stronę",
+            "Stanie na poduszce sensomotorycznej 3x30s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x30s na stronę",
+            "Rozciąganie biodra w wykroku 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę",
+            "Rolowanie łydki 4 min"
+         ]
+      },
+      {
+         "dzien": "Czwartek (Bieg na Bieżni)",
+         "cel": "Drugi bieg tygodnia na bieżni, bez zbiegów. Kontroluję tempo, tętno ma być spokojne.",
+         "rozgrzewka": "1 km bardzo lekko na bieżni",
+         "bieg": "10 km na bieżni w tempie 5:45-6:15/km, nachylenie 1%",
+         "chlodzenie": "5 min marszu + rozciąganie pasma IT 2x30s na stronę + rozciąganie łydki 2x30s na stronę",
+         "cwiczenia": [
+            "Odwiedzenie biodra w staniu z gumą 2x12 na stronę",
+            "Clamshell z gumą 2x15 na stronę",
+            "Tibialis raise przy ścianie 3x15",
+            "Stanie na jednej nodze oczy zamknięte 2x30s na stronę"
+         ]
+      },
+      {
+         "dzien": "Piątek (Mobilność + Core)",
+         "cel": "Regeneracja przed weekendem. Core, mobilność i rozciąganie, bez ciężkiej siły.",
+         "cwiczenia": [
+            "Odwiedzenie biodra w staniu z gumą 2x12 na stronę",
+            "Tibialis raise przy ścianie 2x15",
+            "Deska klasyczna 3x30s",
+            "Plank bokiem 2x30s na stronę",
+            "Dead bug 3x10 na stronę",
+            "Krążenia biodra w podporze 2x10 na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x30s na stronę",
+            "Rozciąganie biodra w wykroku 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę",
+            "Rolowanie łydki 4 min"
+         ]
+      },
+      {
+         "dzien": "Sobota (Praca + Lekkie Ćwiczenia)",
+         "cel": "Dzień pracy fizycznej. Robię przerwy i zmieniam pozycję, żeby nie obciążać kolana. Wieczorem krótki zestaw.",
+         "cwiczenia": [
+            "Odwiedzenie biodra w staniu z gumą 2x12 na stronę",
+            "Clamshell z gumą 2x15 na stronę",
+            "Tibialis raise przy ścianie 2x15",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rolowanie łydki 4 min"
+         ]
+      },
+      {
+         "dzien": "Niedziela (Dłuższy Bieg - teren)",
+         "cel": "Dłuższy bieg po łagodnym terenie, drugi test kolana w terenie. Bez stromych i technicznych zbiegów. Jeśli kolano da sygnał lub pogoda nie pozwoli, bieżnia i krócej.",
+         "rozgrzewka": "1 km bardzo lekko",
+         "bieg": "12-14 km po łagodnym terenie w tempie 5:50-6:20/km",
+         "chlodzenie": "5 min marszu + rozciąganie pasma IT 2x30s na stronę + rozciąganie łydki 2x30s na stronę",
+         "cwiczenia": [
+            "Odwiedzenie biodra w staniu z gumą 2x12 na stronę",
+            "Clamshell z gumą 2x15 na stronę",
+            "Tibialis raise przy ścianie 2x15",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę",
+            "Rolowanie łydki 4 min"
+         ]
+      }
    ]
 ]
