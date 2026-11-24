@@ -7530,5 +7530,181 @@
             "Rolowanie łydki 4 min"
          ]
       }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Ćwiczenia - Podstawowy Zestaw)",
+         "cel": "Podstawowy zestaw wieczorem, zrobiony w całości zgodnie z planem.",
+         "cwiczenia": [
+            "Odwiedzenie biodra w staniu z gumą 3x12 na stronę",
+            "Clamshell z gumą 3x15 na stronę",
+            "Most biodrowy jednonóż 3x8 na stronę",
+            "Wspięcia na palce powolne 3x12 (1s góra, 3s dół)",
+            "Tibialis raise przy ścianie 3x15",
+            "Deska klasyczna 3x30s",
+            "Dead bug 3x10 na stronę",
+            "Stanie na jednej nodze oczy zamknięte 3x30s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x30s na stronę",
+            "Rozciąganie biodra w wykroku 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę",
+            "Rolowanie łydki 3 min"
+         ]
+      },
+      {
+         "dzien": "Wtorek (Praca + Krótki Zestaw)",
+         "cel": "Dzień pracy. Wieczorem krótki zestaw w domu, bez zestawu siłowego, bo nogi zmęczone po dniu.",
+         "cwiczenia": [
+            "Odwiedzenie biodra w staniu z gumą 2x12 na stronę",
+            "Clamshell z gumą 2x15 na stronę",
+            "Tibialis raise przy ścianie 2x15",
+            "Dead bug 2x10 na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę"
+         ]
+      },
+      {
+         "dzien": "Środa (Spokojny Bieg - Łagodny Teren)",
+         "cel": "Pierwszy bieg tygodnia po dniach pracy. Tempo spokojne, bez przyspieszania. Przy sygnale z pachwiny lub dwugłowego skracam.",
+         "rozgrzewka": "1 km bardzo lekko",
+         "bieg": "10-12 km po łagodnym terenie w tempie 5:50-6:20/km",
+         "chlodzenie": "5 min marszu + rozciąganie pasma IT 2x30s na stronę + rozciąganie łydki 2x30s na stronę",
+         "cwiczenia": [
+            "Odwiedzenie biodra w staniu z gumą 2x12 na stronę",
+            "Tibialis raise przy ścianie 2x15",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę"
+         ]
+      },
+      {
+         "dzien": "Czwartek (Ćwiczenia - Siła)",
+         "cel": "Zestaw wzmacniający biodro i stabilizację. RDL w lekkiej wersji wraca po sygnale z okolicy dwugłowego. Przysiad bułgarski nadal poza planem. Przy dyskomforcie pomijam RDL.",
+         "cwiczenia": [
+            "Odwiedzenie biodra w staniu z gumą 3x12 na stronę",
+            "Clamshell z gumą 3x15 na stronę",
+            "Most biodrowy jednonóż 3x8 na stronę",
+            "RDL jednonóż 2x8 na stronę",
+            "Wspięcia na palce powolne 3x12 (1s góra, 3s dół)",
+            "Tibialis raise przy ścianie 3x15",
+            "Deska klasyczna 3x30s",
+            "Plank bokiem 2x30s na stronę",
+            "Dead bug 3x10 na stronę",
+            "Stanie na poduszce sensomotorycznej 3x30s na stronę",
+            "Rozciąganie pasma IT (pozycja leżąca) 2x30s na stronę",
+            "Rozciąganie biodra w wykroku 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano proste) 2x30s na stronę",
+            "Rozciąganie łydki przy ścianie (kolano ugięte) 2x30s na stronę",
+            "Rolowanie łydki 4 min"
+         ]
+      },
+      {
+         "dzien": "Piątek (Praca + Dzień Uzupełniający 3 - Mobilność, Powięź, Regeneracja)",
+         "cel": "Bez biegania, po dniu pracy wracam późno. Mobilność i rolowanie pośladka, TFL, czworogłowego i łydki, bez pasma IT. Nacisk lekki, omijam bolesne punkty.",
+         "rozgrzewka": "3 min marszu",
+         "cwiczenia": [
+            "Mobilność stawu skokowego w wykroku przy ścianie 2x10 na stronę (kolano do ściany)",
+            "Fire hydrant z gumą nad kolanami 2x10 na stronę",
+            "Rotacje tułowia w pozycji czworaczej 2x8 na stronę",
+            "Rolowanie rolerem pośladka wielkiego 60s na stronę",
+            "Rolowanie piłką pośladka średniego 60s na stronę",
+            "Rolowanie piłką mięśnia TFL (przód i bok biodra) 30s na stronę",
+            "Rolowanie rolerem czworogłowego 60s na stronę",
+            "Rolowanie rolerem łydki 60s na stronę"
+         ]
+      },
+      {
+         "dzien": "Sobota (Spacer + Praca)",
+         "cel": "Praca i lekki spacer.",
+         "aktywnosc": "Spacer 9 km, ok 200-300 m up",
+         "cwiczenia": [
+            "Hip hike na stepie 2x10 na stronę",
+            "Monster Walk z gumą nad kolanami 2x10 kroków do przodu i do tyłu",
+            "Tibialis raise z gumą 2x15 na stronę",
+            "Rolowanie rolerem czworogłowego 60s na stronę"
+         ]
+      },
+      {
+         "dzien": "Niedziela (Spacer)",
+         "cel": "Bez biegania, dzień regeneracji dla kolana. Spokojny spacer po płaskim terenie.",
+         "aktywnosc": "Spacer 30-60 min po płaskim terenie"
+      }
+   ],
+   [
+      {
+         "dzien": "Poniedziałek (Wyciszenie i Stabilizacja 1)",
+         "cel": "Spokojny początek tygodnia. Pośladek średni, równowaga na jednej nodze i core. Bez ciężarów, bez biegania. Kolano w skali 0-10 ma zostać na 0-2.",
+         "rozgrzewka": "3 min marszu",
+         "cwiczenia": [
+            "Odwodzenie biodra w staniu z gumą na kostkach 2x10 na stronę (przy ścianie, tułów prosto)",
+            "Hip hike na stepie 2x10 na stronę",
+            "Stanie na jednej nodze 3x30s na stronę (miednica prosto, kolano nad 2. palcem)",
+            "Stanie na jednej nodze z dotknięciem palcem w bok 2x8 na stronę",
+            "Dead bug 2x8 na stronę"
+         ]
+      },
+      {
+         "dzien": "Wtorek (Wyciszenie i Stabilizacja 2)",
+         "cel": "Kontynuacja lekkiej pracy. Równowaga przechodzi na poduszkę sensomotoryczną, nacisk na kontrolę miednicy.",
+         "rozgrzewka": "3 min marszu",
+         "cwiczenia": [
+            "Standing fire hydrant z gumą przy ścianie 2x10 na stronę",
+            "Mostek biodrowy z gumą nad kolanami 2x10 (3s w górze)",
+            "Stanie na jednej nodze na poduszce sensomotorycznej 3x30s na stronę",
+            "Stanie na jednej nodze z dotknięciem palcem do przodu, w bok i do tyłu 2x6 na stronę",
+            "Plank na przedramionach 2x30s",
+            "Bird dog z pauzą 2x6 na stronę (pauza 3s)"
+         ]
+      },
+      {
+         "dzien": "Środa (Wyciszenie i Stabilizacja 3)",
+         "cel": "Ostatni dzień bezpiecznego wyciszenia przed testem biegowym. Równowaga z ruchem rąk i lekka antyrotacja.",
+         "rozgrzewka": "3 min marszu",
+         "cwiczenia": [
+            "Marsz boczny z gumą na kostkach 2x10 kroków na stronę",
+            "Hip hike na stepie 2x12 na stronę",
+            "Stanie na jednej nodze na poduszce z ruchem rąk 2x30s na stronę",
+            "Stanie na jednej nodze oczy zamknięte 2x30s na stronę",
+            "Pallof press z gumą 2x8 na stronę",
+            "Bird dog z pauzą 2x6 na stronę (pauza 3s)"
+         ]
+      },
+      {
+         "dzien": "Czwartek (Bieg Testowy - Warunkowo)",
+         "cel": "Pierwszy lekki bieg tylko wtedy, gdy tkliwość zeszła do 0/10 i kolano w poprzednich dniach było spokojne. Płasko, bez zbiegów. Przy jakimkolwiek sygnale z kolana kończę marszem.",
+         "rozgrzewka": "5 min marszu + 1 km bardzo lekko",
+         "bieg": "6-8 km po płaskim terenie w tempie 6:15-6:40/km",
+         "chlodzenie": "5 min marszu",
+         "cwiczenia": [
+            "Hip hike na stepie 2x10 na stronę",
+            "Stanie na jednej nodze na poduszce sensomotorycznej 2x30s na stronę"
+         ]
+      },
+      {
+         "dzien": "Piątek (Drugi Termin Biegu lub Stabilizacja)",
+         "cel": "Jeśli czwartkowy bieg nie odbył się, a tkliwość jest 0/10, bieg testowy dziś. Jeśli czwartek był biegiem, dziś tylko lekka stabilizacja.",
+         "rozgrzewka": "5 min marszu + 1 km bardzo lekko (tylko jeśli bieg dziś)",
+         "bieg": "6-8 km po płaskim terenie w tempie 6:15-6:40/km (tylko jeśli bieg nie odbył się w czwartek)",
+         "chlodzenie": "5 min marszu",
+         "cwiczenia": [
+            "Odwodzenie biodra w staniu z gumą na kostkach 2x10 na stronę",
+            "Stanie na jednej nodze z dotknięciem palcem w bok 2x8 na stronę",
+            "Dead bug 2x8 na stronę"
+         ]
+      },
+      {
+         "dzien": "Sobota (Spacer + Lekka Stabilizacja)",
+         "cel": "Spokojny dzień po teście biegowym. Spacer po płaskim terenie i krótki zestaw.",
+         "aktywnosc": "Spacer 4-6 km po płaskim terenie",
+         "cwiczenia": [
+            "Standing fire hydrant z gumą przy ścianie 2x10 na stronę",
+            "Stanie na jednej nodze na poduszce sensomotorycznej 2x30s na stronę",
+            "Bird dog z pauzą 2x6 na stronę (pauza 3s)"
+         ]
+      },
+      {
+         "dzien": "Niedziela (Odpoczynek)",
+         "cel": "Dzień wolny od treningu. Decyzję o kolejnych biegach podejmuję po raporcie z testu.",
+         "cwiczenia": []
+      }
    ]
 ]
